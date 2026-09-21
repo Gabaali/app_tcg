@@ -33,12 +33,12 @@ ROOT = Path(__file__).resolve().parent
 
 # Base locale de secours pour le développement. En production, les données
 # joueurs sont stockées dans Turso si les secrets TURSO_* sont configurés.
-APP_DB_PATH = ROOT / "onepiece_tcg.sqlite"
+#APP_DB_PATH = ROOT / "onepiece_tcg.sqlite"
 
 # "auto"  : Turso si les deux secrets sont présents, sinon SQLite local.
 # "turso" : exige Turso (recommandé lorsque l'app est publiée).
 # "local" : force l'ancien stockage SQLite local.
-APP_DATABASE_MODE = "auto"
+APP_DATABASE_MODE = "turso"
 TRIVIA_DB_PATH = ROOT / "trivia_questions.sqlite"
 LOL_TRIVIA_DB_PATH = ROOT / "lol_trivia_questions.sqlite"
 
@@ -53,7 +53,7 @@ TRIVIA_LABELS = {
 }
 
 GAME_DB_PATHS = {
-    "onepiece": ROOT / "onepiece_tcg.sqlite",
+    "onepiece": ROOT / "onepiece_cards.sqlite",
     "pokemon": ROOT / "pokemon_tcg.sqlite",
     "riftbound": ROOT / "riftbound_tcg.sqlite",
 }
