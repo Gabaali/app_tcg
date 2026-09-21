@@ -31,14 +31,15 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parent
 
-# Base locale de secours pour le développement. En production, les données
-# joueurs sont stockées dans Turso si les secrets TURSO_* sont configurés.
-APP_DB_PATH = ROOT / "onepiece_tcg.sqlite"
+# Base locale uniquement pour un mode de secours éventuel.
+# En release, APP_DATABASE_MODE="turso" : toutes les données joueurs,
+# économiques, sociales et multijoueur sont stockées dans Turso.
+APP_DB_PATH = ROOT / "app_local.sqlite"
 
 # "auto"  : Turso si les deux secrets sont présents, sinon SQLite local.
 # "turso" : exige Turso (recommandé lorsque l'app est publiée).
 # "local" : force l'ancien stockage SQLite local.
-APP_DATABASE_MODE = "auto"
+APP_DATABASE_MODE = "turso"
 TRIVIA_DB_PATH = ROOT / "trivia_questions.sqlite"
 LOL_TRIVIA_DB_PATH = ROOT / "lol_trivia_questions.sqlite"
 
@@ -53,7 +54,7 @@ TRIVIA_LABELS = {
 }
 
 GAME_DB_PATHS = {
-    "onepiece": ROOT / "onepiece_tcg.sqlite",
+    "onepiece": ROOT / "onepiece_cards.sqlite",
     "pokemon": ROOT / "pokemon_tcg.sqlite",
     "riftbound": ROOT / "riftbound_tcg.sqlite",
 }
@@ -85,7 +86,7 @@ RIFTBOUND_PACKS_PER_BOX = 24
 # Économie du jeu
 # La monnaie est entièrement interne au jeu : aucune conversion en euros.
 STARTING_BALANCE_COINS = 5000
-ALLOW_TEST_TOPUPS = True       # Passe à False pour masquer les outils DEV
+ALLOW_TEST_TOPUPS = False      # Release publique : outils DEV masqués
 
 # Mini-jeu : générateur passif de pièces
 GENERATOR_INTERVAL_SECONDS = 5
@@ -361,52 +362,6 @@ class TursoConnectionAdapter:
 
     def __getattr__(self, name):
         return getattr(self._connection, name)
-
-
-
-def dataframe_from_cursor(cursor):
-    """Convertit explicitement un curseur SQLite/Turso en DataFrame.
-
-    Important : DbRow implémente Mapping pour rester compatible avec
-    row["colonne"] et dict(row). Pandas peut sinon interpréter l'itération
-    d'un DbRow comme la liste des NOMS de colonnes, et remplir le DataFrame
-    avec "quantity", "card_key", etc. au lieu des vraies valeurs.
-    """
-    description = getattr(cursor, "description", None) or ()
-    columns = []
-    for col in description:
-        if isinstance(col, (tuple, list)):
-            columns.append(str(col[0]))
-        else:
-            columns.append(str(getattr(col, "name", col)))
-
-    rows = cursor.fetchall()
-
-    if not columns:
-        return pd.DataFrame()
-
-    data = []
-    for row in rows:
-        if isinstance(row, DbRow):
-            data.append([row[i] for i in range(len(columns))])
-        elif isinstance(row, Mapping):
-            data.append([row.get(col) for col in columns])
-        else:
-            data.append(list(row))
-
-    return pd.DataFrame(data, columns=columns)
-
-
-def read_app_dataframe(query, params=()):
-    """Lecture DataFrame depuis la base mutable de l'application.
-
-    On n'utilise volontairement pas pd.read_sql_query avec l'adaptateur
-    Turso : Pandas ne connaît pas ce wrapper DB-API et peut interpréter
-    DbRow de manière incorrecte.
-    """
-    with connect_app() as conn:
-        cursor = conn.execute(query, params or ())
-        return dataframe_from_cursor(cursor)
 
 
 def _read_secret(name):
@@ -3444,7 +3399,8 @@ def load_user_collection(user_id, game=None, set_code=None):
         query += " AND product_set = ?"
         params.append(set_code)
 
-    return read_app_dataframe(query, params=params)
+    with connect_app() as conn:
+        return pd.read_sql_query(query, conn, params=params)
 
 
 def available_overview(game):
@@ -3550,7 +3506,8 @@ def list_user_decks(user_id, game=None):
         params.append(game)
     query += " GROUP BY d.deck_id ORDER BY d.updated_at DESC, d.deck_id DESC"
 
-    return read_app_dataframe(query, params=params)
+    with connect_app() as conn:
+        return pd.read_sql_query(query, conn, params=params)
 
 
 def get_user_deck(user_id, deck_id):
@@ -3618,22 +3575,24 @@ def delete_deck(user_id, deck_id):
 
 
 def load_deck_cards(deck_id):
-    return read_app_dataframe(
-        """
-        SELECT
-            card_key,
-            quantity,
-            product_set,
-            card_number,
-            name,
-            rarity,
-            variant
-        FROM deck_cards
-        WHERE deck_id = ?
-        ORDER BY product_set, card_number, name
-        """,
-        params=(int(deck_id),),
-    )
+    with connect_app() as conn:
+        return pd.read_sql_query(
+            """
+            SELECT
+                card_key,
+                quantity,
+                product_set,
+                card_number,
+                name,
+                rarity,
+                variant
+            FROM deck_cards
+            WHERE deck_id = ?
+            ORDER BY product_set, card_number, name
+            """,
+            conn,
+            params=(int(deck_id),),
+        )
 
 
 def build_owned_card_catalog(user_id, game):
@@ -7678,11 +7637,7 @@ def booster_page(user_id):
         return
 
     collection = load_user_collection(user_id, game=game, set_code=set_code)
-    copies = (
-        int(pd.to_numeric(collection["quantity"], errors="coerce").fillna(0).sum())
-        if not collection.empty and "quantity" in collection.columns
-        else 0
-    )
+    copies = int(collection["quantity"].sum()) if not collection.empty else 0
 
     price_info = get_booster_price(game, set_code)
     price_coins = int(price_info["price_coins"])
@@ -9011,22 +8966,24 @@ def wallet_page(user_id):
 
         st.divider()
 
-    tx = read_app_dataframe(
-        """
-        SELECT
-            amount_coins,
-            transaction_type,
-            game,
-            set_code,
-            note,
-            created_at
-        FROM wallet_transactions
-        WHERE user_id = ?
-        ORDER BY transaction_id DESC
-        LIMIT 100
-        """,
-        params=(user_id,),
-    )
+    with connect_app() as conn:
+        tx = pd.read_sql_query(
+            """
+            SELECT
+                amount_coins,
+                transaction_type,
+                game,
+                set_code,
+                note,
+                created_at
+            FROM wallet_transactions
+            WHERE user_id = ?
+            ORDER BY transaction_id DESC
+            LIMIT 100
+            """,
+            conn,
+            params=(user_id,),
+        )
 
     if tx.empty:
         st.info("Aucun mouvement sur le portefeuille.")
@@ -9057,6 +9014,9 @@ def wallet_page(user_id):
 
 
 def main():
+    # Les catalogues de cartes/questions sont des fichiers SQLite statiques.
+    # Les comptes, collections, portefeuilles, decks, amis et matchs passent
+    # exclusivement par connect_app(), donc par Turso en mode release.
     onepiece_path = GAME_DB_PATHS["onepiece"]
     if not onepiece_path.is_file():
         st.error(
