@@ -31,14 +31,15 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parent
 
-# Base locale de secours pour le développement. En production, les données
-# joueurs sont stockées dans Turso si les secrets TURSO_* sont configurés.
-APP_DB_PATH = ROOT / "onepiece_tcg.sqlite"
+# Base applicative locale uniquement pour un éventuel mode de secours.
+# En release, APP_DATABASE_MODE='turso' : aucune donnée joueur persistante
+# n'est écrite dans les SQLite statiques du dépôt GitHub.
+APP_DB_PATH = ROOT / "app_local.sqlite"
 
 # "auto"  : Turso si les deux secrets sont présents, sinon SQLite local.
 # "turso" : exige Turso (recommandé lorsque l'app est publiée).
 # "local" : force l'ancien stockage SQLite local.
-APP_DATABASE_MODE = "auto"
+APP_DATABASE_MODE = "turso"
 TRIVIA_DB_PATH = ROOT / "trivia_questions.sqlite"
 LOL_TRIVIA_DB_PATH = ROOT / "lol_trivia_questions.sqlite"
 
@@ -53,7 +54,7 @@ TRIVIA_LABELS = {
 }
 
 GAME_DB_PATHS = {
-    "onepiece": ROOT / "onepiece_tcg.sqlite",
+    "onepiece": ROOT / "onepiece_cards.sqlite",
     "pokemon": ROOT / "pokemon_tcg.sqlite",
     "riftbound": ROOT / "riftbound_tcg.sqlite",
 }
@@ -85,7 +86,7 @@ RIFTBOUND_PACKS_PER_BOX = 24
 # Économie du jeu
 # La monnaie est entièrement interne au jeu : aucune conversion en euros.
 STARTING_BALANCE_COINS = 5000
-ALLOW_TEST_TOPUPS = True       # Passe à False pour masquer les outils DEV
+ALLOW_TEST_TOPUPS = False      # Release publique : outils DEV masqués
 
 # Mini-jeu : générateur passif de pièces
 GENERATOR_INTERVAL_SECONDS = 5
