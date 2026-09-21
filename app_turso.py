@@ -31,15 +31,14 @@ except ImportError:
 
 ROOT = Path(__file__).resolve().parent
 
-# Base locale uniquement pour un mode de secours éventuel.
-# En release, APP_DATABASE_MODE="turso" : toutes les données joueurs,
-# économiques, sociales et multijoueur sont stockées dans Turso.
-APP_DB_PATH = ROOT / "app_local.sqlite"
+# Base locale de secours pour le développement. En production, les données
+# joueurs sont stockées dans Turso si les secrets TURSO_* sont configurés.
+APP_DB_PATH = ROOT / "onepiece_tcg.sqlite"
 
 # "auto"  : Turso si les deux secrets sont présents, sinon SQLite local.
 # "turso" : exige Turso (recommandé lorsque l'app est publiée).
 # "local" : force l'ancien stockage SQLite local.
-APP_DATABASE_MODE = "turso"
+APP_DATABASE_MODE = "auto"
 TRIVIA_DB_PATH = ROOT / "trivia_questions.sqlite"
 LOL_TRIVIA_DB_PATH = ROOT / "lol_trivia_questions.sqlite"
 
@@ -54,7 +53,7 @@ TRIVIA_LABELS = {
 }
 
 GAME_DB_PATHS = {
-    "onepiece": ROOT / "onepiece_cards.sqlite",
+    "onepiece": ROOT / "onepiece_tcg.sqlite",
     "pokemon": ROOT / "pokemon_tcg.sqlite",
     "riftbound": ROOT / "riftbound_tcg.sqlite",
 }
@@ -86,7 +85,7 @@ RIFTBOUND_PACKS_PER_BOX = 24
 # Économie du jeu
 # La monnaie est entièrement interne au jeu : aucune conversion en euros.
 STARTING_BALANCE_COINS = 5000
-ALLOW_TEST_TOPUPS = False      # Release publique : outils DEV masqués
+ALLOW_TEST_TOPUPS = True       # Passe à False pour masquer les outils DEV
 
 # Mini-jeu : générateur passif de pièces
 GENERATOR_INTERVAL_SECONDS = 5
@@ -201,12 +200,20 @@ def connect_db(path):
     return conn
 
 
-class DbRow(Mapping):
-    """Petit équivalent de sqlite3.Row pour le driver Turso distant.
+class DbRow:
+    """Équivalent léger de ``sqlite3.Row`` compatible avec pandas.
 
-    L'application historique utilise à la fois row[0], row["name"] et
-    dict(row). Cette classe conserve ces trois comportements sans obliger à
-    réécrire toutes les requêtes existantes.
+    Point important : ``pandas.read_sql_query`` traite les lignes retournées
+    par ``cursor.fetchall()`` comme des séquences de VALEURS. L'ancienne
+    version héritait de ``Mapping`` et itérait sur les noms de colonnes ;
+    pandas recevait donc ``("quantity", "quantity", ...)`` au lieu des
+    nombres réels. Cela produisait ensuite des chaînes comme
+    ``quantityquantityquantity...`` lors d'un ``sum()``.
+
+    Cette version :
+    - itère sur les valeurs, comme ``sqlite3.Row`` ;
+    - garde ``row[0]`` et ``row["name"]`` ;
+    - expose ``keys()`` afin que ``dict(row)`` continue à fonctionner.
     """
 
     def __init__(self, columns, values):
@@ -220,13 +227,18 @@ class DbRow(Mapping):
         return self._values[self._index[str(key)]]
 
     def __iter__(self):
-        return iter(self._columns)
+        # pandas attend ici les VALEURS de la ligne, pas les noms de colonnes.
+        return iter(self._values)
 
     def __len__(self):
         return len(self._values)
 
+    def keys(self):
+        # Permet toujours ``dict(row)`` via le protocole mapping de dict().
+        return list(self._columns)
+
     def __repr__(self):
-        return repr(dict(self))
+        return repr({key: self[key] for key in self._columns})
 
 
 class TursoCursorAdapter:
@@ -258,12 +270,21 @@ class TursoCursorAdapter:
         return names
 
     def _wrap_row(self, row):
-        if row is None or isinstance(row, Mapping):
+        if row is None or isinstance(row, DbRow):
             return row
+
         columns = self._column_names()
         if not columns:
             return row
-        return DbRow(columns, row)
+
+        # Certains drivers peuvent renvoyer un mapping plutôt qu'un tuple.
+        # On le reconvertit aussi en DbRow pour que pandas reçoive toujours
+        # une séquence ordonnée de valeurs.
+        if isinstance(row, Mapping):
+            values = [row.get(col) for col in columns]
+        else:
+            values = row
+        return DbRow(columns, values)
 
     def execute(self, sql, params=()):
         self._cursor.execute(sql, params or ())
@@ -9014,9 +9035,6 @@ def wallet_page(user_id):
 
 
 def main():
-    # Les catalogues de cartes/questions sont des fichiers SQLite statiques.
-    # Les comptes, collections, portefeuilles, decks, amis et matchs passent
-    # exclusivement par connect_app(), donc par Turso en mode release.
     onepiece_path = GAME_DB_PATHS["onepiece"]
     if not onepiece_path.is_file():
         st.error(
