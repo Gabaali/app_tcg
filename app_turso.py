@@ -492,6 +492,29 @@ def stable_hash(*parts):
 
 
 # ============================================================
+# CACHE DES LECTURES DISTANTES TURSO
+# ============================================================
+
+DYNAMIC_CACHE_TTL_FAST = 3
+DYNAMIC_CACHE_TTL_NORMAL = 10
+DYNAMIC_CACHE_TTL_SLOW = 300
+
+
+def clear_read_caches(*cache_names):
+    """Invalide uniquement les caches nommés après une mutation.
+
+    ``st.cache_data.clear()`` viderait tous les caches de l'application, y
+    compris les bases statiques de cartes. Ici on ne touche qu'aux lectures
+    dynamiques demandées.
+    """
+    for name in cache_names:
+        fn = globals().get(str(name))
+        clear = getattr(fn, "clear", None)
+        if callable(clear):
+            clear()
+
+
+# ============================================================
 # QUESTIONS DE CULTURE GÉNÉRALE
 # ============================================================
 
@@ -1160,6 +1183,7 @@ def send_friend_request(sender_id, username):
             (sender_id, receiver_id, now_iso()),
         )
 
+    clear_read_caches("list_friends")
     return True, f"Demande envoyée à {target['username']}."
 
 
@@ -1201,6 +1225,56 @@ def list_outgoing_friend_requests(user_id):
     return [dict(row) for row in rows]
 
 
+
+def load_friends_page_state(user_id):
+    """Charge demandes reçues, amis et demandes envoyées avec 1 connexion."""
+    user_id = int(user_id)
+    with connect_app() as conn:
+        incoming_rows = conn.execute(
+            """
+            SELECT fr.request_id, fr.sender_id, u.username, fr.created_at
+            FROM friend_requests fr
+            JOIN app_users u ON u.user_id = fr.sender_id
+            WHERE fr.receiver_id = ?
+            ORDER BY fr.created_at DESC
+            """,
+            (user_id,),
+        ).fetchall()
+        friend_rows = conn.execute(
+            """
+            SELECT
+                u.user_id,
+                u.username,
+                f.created_at
+            FROM friendships f
+            JOIN app_users u
+              ON u.user_id = CASE
+                    WHEN f.user1_id = ? THEN f.user2_id
+                    ELSE f.user1_id
+                 END
+            WHERE f.user1_id = ? OR f.user2_id = ?
+            ORDER BY u.username COLLATE NOCASE
+            """,
+            (user_id, user_id, user_id),
+        ).fetchall()
+        outgoing_rows = conn.execute(
+            """
+            SELECT fr.request_id, fr.receiver_id, u.username, fr.created_at
+            FROM friend_requests fr
+            JOIN app_users u ON u.user_id = fr.receiver_id
+            WHERE fr.sender_id = ?
+            ORDER BY fr.created_at DESC
+            """,
+            (user_id,),
+        ).fetchall()
+
+    return (
+        [dict(row) for row in incoming_rows],
+        [dict(row) for row in friend_rows],
+        [dict(row) for row in outgoing_rows],
+    )
+
+
 def accept_friend_request(user_id, request_id):
     """Accepte uniquement une demande réellement adressée à user_id."""
     user_id = int(user_id)
@@ -1235,6 +1309,7 @@ def accept_friend_request(user_id, request_id):
             """,
             (sender_id, user_id, user_id, sender_id),
         )
+    clear_read_caches("list_friends")
     return True, "Demande acceptée."
 
 
@@ -1262,6 +1337,7 @@ def cancel_friend_request(user_id, request_id):
     return cur.rowcount > 0
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_FAST, show_spinner=False, max_entries=512)
 def list_friends(user_id):
     user_id = int(user_id)
     with connect_app() as conn:
@@ -1297,6 +1373,7 @@ def remove_friend(user_id, friend_id):
             """,
             (user1_id, user2_id),
         )
+    clear_read_caches("list_friends")
     return cur.rowcount > 0
 
 
@@ -1315,6 +1392,7 @@ def format_coins(coins, show_eur=False):
     return f"{coins:,}".replace(",", " ") + " 🪙"
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_FAST, show_spinner=False, max_entries=512)
 def get_wallet_balance(user_id):
     with connect_app() as conn:
         row = conn.execute(
@@ -1340,6 +1418,84 @@ def get_wallet_balance(user_id):
             )
             return STARTING_BALANCE_COINS
         return int(row["balance_coins"])
+
+
+
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_FAST, show_spinner=False, max_entries=512)
+def _cached_wallet_generator_state(user_id):
+    """Une seule lecture distante pour portefeuille + générateur."""
+    with connect_app() as conn:
+        row = conn.execute(
+            """
+            SELECT
+                w.balance_coins,
+                g.level,
+                g.coins_per_tick,
+                g.interval_seconds,
+                g.last_tick_at,
+                g.total_generated
+            FROM user_wallets w
+            LEFT JOIN coin_generators g ON g.user_id = w.user_id
+            WHERE w.user_id = ?
+            LIMIT 1
+            """,
+            (int(user_id),),
+        ).fetchone()
+    return dict(row) if row else None
+
+
+def get_wallet_snapshot(user_id):
+    """Retourne le solde effectif sans écrire dans Turso.
+
+    Les ticks écoulés sont calculés en Python. Ils ne sont persistés qu'au
+    moment d'une vraie transaction via ``_settle_generator_locked``.
+    """
+    raw = _cached_wallet_generator_state(int(user_id))
+    if not raw:
+        return {
+            "level": 0,
+            "coins_per_tick": GENERATOR_BASE_RATE,
+            "interval_seconds": GENERATOR_INTERVAL_SECONDS,
+            "total_generated": 0,
+            "stored_balance": STARTING_BALANCE_COINS,
+            "pending_coins": 0,
+            "balance": STARTING_BALANCE_COINS,
+            "seconds_to_next": float(GENERATOR_INTERVAL_SECONDS),
+            "earned_now": 0,
+        }
+
+    now = datetime.now(timezone.utc)
+    level = int(raw.get("level") or 0)
+    rate = max(0, int(raw.get("coins_per_tick") or GENERATOR_BASE_RATE))
+    interval = max(1, int(raw.get("interval_seconds") or GENERATOR_INTERVAL_SECONDS))
+    stored_balance = int(raw.get("balance_coins") or 0)
+    total_generated = int(raw.get("total_generated") or 0)
+
+    last_tick_value = raw.get("last_tick_at")
+    if last_tick_value:
+        last_tick = _parse_utc(last_tick_value)
+        elapsed = max(0.0, (now - last_tick).total_seconds())
+        completed_ticks = int(elapsed // interval)
+        pending = completed_ticks * rate
+        remainder = elapsed % interval
+        seconds_to_next = interval - remainder
+        if seconds_to_next <= 0.001:
+            seconds_to_next = float(interval)
+    else:
+        pending = 0
+        seconds_to_next = float(interval)
+
+    return {
+        "level": level,
+        "coins_per_tick": rate,
+        "interval_seconds": interval,
+        "total_generated": total_generated + pending,
+        "stored_balance": stored_balance,
+        "pending_coins": pending,
+        "balance": stored_balance + pending,
+        "seconds_to_next": float(seconds_to_next),
+        "earned_now": 0,
+    }
 
 
 def add_wallet_coins(user_id, amount_coins, transaction_type="test_topup", note=None):
@@ -1379,6 +1535,7 @@ def add_wallet_coins(user_id, amount_coins, transaction_type="test_topup", note=
             """,
             (user_id, amount_coins, transaction_type, note or "Crédit", now),
         )
+    clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
     return new_balance
 
 
@@ -1397,7 +1554,7 @@ def slot_multiplier(reels):
 
 
 def play_slot_machine(user_id, stake_coins):
-    """Joue un tour et met à jour le portefeuille dans une transaction SQLite."""
+    """Joue un tour et met à jour portefeuille + générateur en une transaction."""
     try:
         stake_coins = int(stake_coins)
     except (TypeError, ValueError):
@@ -1405,29 +1562,27 @@ def play_slot_machine(user_id, stake_coins):
 
     if stake_coins < SLOT_MIN_BET:
         return False, f"Mise minimale : {format_coins(SLOT_MIN_BET)}.", None
-    sync_coin_generator(user_id)
 
     reels = tuple(secrets.choice(SLOT_SYMBOLS) for _ in range(3))
     multiplier = slot_multiplier(reels)
     payout = stake_coins * multiplier
     net = payout - stake_coins
-    now = now_iso()
+    now = datetime.now(timezone.utc)
+    now_text = now.isoformat()
 
     with connect_app() as conn:
         conn.execute("BEGIN IMMEDIATE")
-        wallet = conn.execute(
-            "SELECT balance_coins FROM user_wallets WHERE user_id = ?",
-            (user_id,),
-        ).fetchone()
-        balance = int(wallet["balance_coins"]) if wallet else 0
+        generator_status = _settle_generator_locked(conn, user_id, now)
+        balance = int(generator_status["balance"])
 
         if balance < stake_coins:
+            clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
             return False, "Solde insuffisant.", None
 
         new_balance = balance + net
         conn.execute(
             "UPDATE user_wallets SET balance_coins = ?, updated_at = ? WHERE user_id = ?",
-            (new_balance, now, user_id),
+            (new_balance, now_text, user_id),
         )
         conn.execute(
             """
@@ -1439,7 +1594,7 @@ def play_slot_machine(user_id, stake_coins):
                 user_id,
                 net,
                 f"Machine à sous · mise {stake_coins} · x{multiplier}",
-                now,
+                now_text,
             ),
         )
         cursor = conn.execute(
@@ -1458,11 +1613,12 @@ def play_slot_machine(user_id, stake_coins):
                 multiplier,
                 payout,
                 net,
-                now,
+                now_text,
             ),
         )
         spin_id = int(cursor.lastrowid)
 
+    clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
     return True, "", {
         "spin_id": spin_id,
         "reels": reels,
@@ -1486,9 +1642,10 @@ def _parse_utc(value):
 
 
 def _ensure_generator_locked(conn, user_id, now):
-    """Crée le générateur et le portefeuille si nécessaire.
+    """Crée portefeuille/générateur si nécessaire dans la transaction courante.
 
-    La fonction suppose que ``conn`` est déjà dans la transaction courante.
+    Retourne ``(generator_row, wallet_balance)`` pour éviter une seconde lecture
+    du portefeuille juste après l'initialisation.
     """
     wallet = conn.execute(
         "SELECT balance_coins FROM user_wallets WHERE user_id = ?",
@@ -1496,12 +1653,13 @@ def _ensure_generator_locked(conn, user_id, now):
     ).fetchone()
     if wallet is None:
         now_text = now.isoformat()
+        wallet_balance = STARTING_BALANCE_COINS
         conn.execute(
             """
             INSERT INTO user_wallets (user_id, balance_coins, created_at, updated_at)
             VALUES (?, ?, ?, ?)
             """,
-            (user_id, STARTING_BALANCE_COINS, now_text, now_text),
+            (user_id, wallet_balance, now_text, now_text),
         )
         conn.execute(
             """
@@ -1509,8 +1667,10 @@ def _ensure_generator_locked(conn, user_id, now):
                 user_id, amount_coins, transaction_type, note, created_at
             ) VALUES (?, ?, 'starter', ?, ?)
             """,
-            (user_id, STARTING_BALANCE_COINS, "Solde de départ", now_text),
+            (user_id, wallet_balance, "Solde de départ", now_text),
         )
+    else:
+        wallet_balance = int(wallet["balance_coins"] or 0)
 
     row = conn.execute(
         "SELECT * FROM coin_generators WHERE user_id = ?",
@@ -1537,138 +1697,103 @@ def _ensure_generator_locked(conn, user_id, now):
             "SELECT * FROM coin_generators WHERE user_id = ?",
             (user_id,),
         ).fetchone()
-    return row
+    return row, wallet_balance
+
+
+def _settle_generator_locked(conn, user_id, now=None):
+    """Matérialise les gains passifs dans la transaction déjà ouverte.
+
+    Cette fonction évite d'ouvrir une connexion Turso supplémentaire avant un
+    achat de booster, une partie de machine à sous ou une amélioration.
+    """
+    now = now or datetime.now(timezone.utc)
+    row, balance = _ensure_generator_locked(conn, user_id, now)
+
+    rate = max(0, int(row["coins_per_tick"] or 0))
+    interval = max(1, int(row["interval_seconds"] or 1))
+    last_tick = _parse_utc(row["last_tick_at"])
+    elapsed = max(0.0, (now - last_tick).total_seconds())
+    completed_ticks = int(elapsed // interval)
+    earned = completed_ticks * rate
+    total_generated = int(row["total_generated"] or 0)
+
+    if completed_ticks > 0:
+        new_last_tick = last_tick + timedelta(seconds=completed_ticks * interval)
+        now_text = now.isoformat()
+        conn.execute(
+            """
+            UPDATE user_wallets
+            SET balance_coins = balance_coins + ?, updated_at = ?
+            WHERE user_id = ?
+            """,
+            (earned, now_text, user_id),
+        )
+        conn.execute(
+            """
+            UPDATE coin_generators
+            SET last_tick_at = ?,
+                total_generated = total_generated + ?,
+                updated_at = ?
+            WHERE user_id = ?
+            """,
+            (new_last_tick.isoformat(), earned, now_text, user_id),
+        )
+        balance += earned
+        total_generated += earned
+        last_tick = new_last_tick
+        elapsed = max(0.0, (now - last_tick).total_seconds())
+
+    remainder = elapsed % interval
+    seconds_to_next = interval - remainder
+    if seconds_to_next <= 0.001:
+        seconds_to_next = float(interval)
+
+    return {
+        "level": int(row["level"] or 0),
+        "coins_per_tick": rate,
+        "interval_seconds": interval,
+        "total_generated": total_generated,
+        "balance": int(balance),
+        "seconds_to_next": float(seconds_to_next),
+        "earned_now": int(earned),
+    }
 
 
 def sync_coin_generator(user_id):
-    """Crédite tous les ticks passifs écoulés depuis la dernière synchronisation.
+    """Matérialise les gains passifs uniquement lorsqu'une écriture l'exige.
 
-    Le calcul est fait côté serveur à partir de timestamps SQLite : fermer la page
-    n'arrête donc pas le générateur. Les secondes restantes d'un intervalle sont
-    conservées afin d'éviter toute dérive du timer.
+    Le rendu normal de l'application utilise ``get_wallet_snapshot`` et ne fait
+    donc plus d'UPDATE Turso à chaque rerun Streamlit.
     """
-    now = datetime.now(timezone.utc)
-
     with connect_app() as conn:
         conn.execute("BEGIN IMMEDIATE")
-        row = _ensure_generator_locked(conn, user_id, now)
+        status = _settle_generator_locked(conn, user_id)
 
-        rate = max(0, int(row["coins_per_tick"]))
-        interval = max(1, int(row["interval_seconds"]))
-        last_tick = _parse_utc(row["last_tick_at"])
-        elapsed = max(0.0, (now - last_tick).total_seconds())
-        completed_ticks = int(elapsed // interval)
-        earned = completed_ticks * rate
-
-        if completed_ticks > 0:
-            new_last_tick = last_tick + timedelta(
-                seconds=completed_ticks * interval
-            )
-            conn.execute(
-                """
-                UPDATE user_wallets
-                SET balance_coins = balance_coins + ?, updated_at = ?
-                WHERE user_id = ?
-                """,
-                (earned, now.isoformat(), user_id),
-            )
-            conn.execute(
-                """
-                UPDATE coin_generators
-                SET last_tick_at = ?,
-                    total_generated = total_generated + ?,
-                    updated_at = ?
-                WHERE user_id = ?
-                """,
-                (
-                    new_last_tick.isoformat(),
-                    earned,
-                    now.isoformat(),
-                    user_id,
-                ),
-            )
-            last_tick = new_last_tick
-            elapsed = max(0.0, (now - last_tick).total_seconds())
-
-        refreshed = conn.execute(
-            "SELECT * FROM coin_generators WHERE user_id = ?",
-            (user_id,),
-        ).fetchone()
-        wallet = conn.execute(
-            "SELECT balance_coins FROM user_wallets WHERE user_id = ?",
-            (user_id,),
-        ).fetchone()
-
-        remainder = elapsed % interval
-        seconds_to_next = interval - remainder
-        if seconds_to_next <= 0.001:
-            seconds_to_next = float(interval)
-
-        return {
-            "level": int(refreshed["level"]),
-            "coins_per_tick": int(refreshed["coins_per_tick"]),
-            "interval_seconds": int(refreshed["interval_seconds"]),
-            "total_generated": int(refreshed["total_generated"]),
-            "balance": int(wallet["balance_coins"]),
-            "seconds_to_next": float(seconds_to_next),
-            "earned_now": int(earned),
-        }
+    clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
+    return status
 
 
 def buy_generator_upgrade(user_id):
-    """Achète l'unique amélioration actuelle : 1 -> 5 pièces / 5 s."""
-    # Synchronise d'abord les gains déjà acquis au taux précédent.
-    sync_coin_generator(user_id)
+    """Achète l'amélioration en une seule connexion/transaction Turso."""
     now = datetime.now(timezone.utc)
+    now_text = now.isoformat()
 
     with connect_app() as conn:
         conn.execute("BEGIN IMMEDIATE")
-        row = _ensure_generator_locked(conn, user_id, now)
-        level = int(row["level"])
+        status = _settle_generator_locked(conn, user_id, now)
+        level = int(status["level"])
+        balance = int(status["balance"])
 
         if level >= GENERATOR_MAX_LEVEL:
-            wallet = conn.execute(
-                "SELECT balance_coins FROM user_wallets WHERE user_id = ?",
-                (user_id,),
-            ).fetchone()
-            return (
-                False,
-                "Amélioration déjà achetée.",
-                {
-                    "level": level,
-                    "coins_per_tick": int(row["coins_per_tick"]),
-                    "interval_seconds": int(row["interval_seconds"]),
-                    "total_generated": int(row["total_generated"]),
-                    "balance": int(wallet["balance_coins"]),
-                    "seconds_to_next": float(row["interval_seconds"]),
-                    "earned_now": 0,
-                },
-            )
-
-        wallet = conn.execute(
-            "SELECT balance_coins FROM user_wallets WHERE user_id = ?",
-            (user_id,),
-        ).fetchone()
-        balance = int(wallet["balance_coins"])
+            clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
+            return False, "Amélioration déjà achetée.", status
 
         if balance < GENERATOR_UPGRADE_COST:
             missing = GENERATOR_UPGRADE_COST - balance
-            return (
-                False,
-                f"Il te manque {format_coins(missing)}.",
-                {
-                    "level": level,
-                    "coins_per_tick": int(row["coins_per_tick"]),
-                    "interval_seconds": int(row["interval_seconds"]),
-                    "total_generated": int(row["total_generated"]),
-                    "balance": balance,
-                    "seconds_to_next": float(row["interval_seconds"]),
-                    "earned_now": 0,
-                },
-            )
+            clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
+            return False, f"Il te manque {format_coins(missing)}.", status
 
         new_balance = balance - GENERATOR_UPGRADE_COST
-        now_text = now.isoformat()
         conn.execute(
             """
             UPDATE user_wallets
@@ -1709,7 +1834,17 @@ def buy_generator_upgrade(user_id):
             ),
         )
 
-    return True, "Générateur amélioré !", sync_coin_generator(user_id)
+    clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
+    result = {
+        "level": 1,
+        "coins_per_tick": GENERATOR_UPGRADED_RATE,
+        "interval_seconds": GENERATOR_INTERVAL_SECONDS,
+        "total_generated": int(status["total_generated"]),
+        "balance": new_balance,
+        "seconds_to_next": float(GENERATOR_INTERVAL_SECONDS),
+        "earned_now": int(status.get("earned_now", 0)),
+    }
+    return True, "Générateur amélioré !", result
 
 
 def default_booster_price(game, set_code):
@@ -1722,6 +1857,7 @@ def default_booster_price(game, set_code):
     }
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_SLOW, show_spinner=False, max_entries=512)
 def get_booster_price(game, set_code):
     set_code = str(set_code)
     with connect_app() as conn:
@@ -1772,6 +1908,7 @@ def set_booster_price(game, set_code, price_coins, source_label=None):
             """,
             (game, str(set_code), price_coins, None, now_iso()),
         )
+    clear_read_caches("get_booster_price")
 
 
 # ============================================================
@@ -3339,31 +3476,28 @@ def _save_opening_with_conn(conn, user_id, game, set_code, pack, price_coins=Non
 def save_opening(user_id, game, set_code, pack):
     """Compatibilité : enregistre une ouverture sans transaction monétaire."""
     with connect_app() as conn:
-        return _save_opening_with_conn(conn, user_id, game, set_code, pack)
+        opening_id = _save_opening_with_conn(conn, user_id, game, set_code, pack)
+    clear_read_caches("load_user_collection", "build_owned_card_catalog")
+    return opening_id
 
 
 def purchase_pack_and_save(user_id, game, set_code, pack, price_coins):
-    """Débite le portefeuille et enregistre le booster dans UNE transaction.
+    """Débite et enregistre le booster dans UNE transaction Turso.
 
-    Retourne (success, message, opening_id, new_balance).
-    Le contrôle du solde est refait côté SQLite pour éviter un double clic ou
-    deux onglets qui pourraient faire passer le portefeuille en négatif.
+    Les gains passifs sont matérialisés dans cette même transaction : aucun
+    ``sync_coin_generator`` et donc aucune connexion réseau supplémentaire.
     """
     price_coins = int(price_coins)
-    now = now_iso()
+    now = datetime.now(timezone.utc)
+    now_text = now.isoformat()
 
     with connect_app() as conn:
         conn.execute("BEGIN IMMEDIATE")
+        generator_status = _settle_generator_locked(conn, user_id, now)
+        balance = int(generator_status["balance"])
 
-        wallet = conn.execute(
-            "SELECT balance_coins FROM user_wallets WHERE user_id = ?",
-            (user_id,),
-        ).fetchone()
-        if wallet is None:
-            return False, "Portefeuille introuvable.", None, 0
-
-        balance = int(wallet["balance_coins"])
         if balance < price_coins:
+            clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
             return (
                 False,
                 f"Solde insuffisant : {format_coins(balance)} disponibles, "
@@ -3375,7 +3509,7 @@ def purchase_pack_and_save(user_id, game, set_code, pack, price_coins):
         new_balance = balance - price_coins
         conn.execute(
             "UPDATE user_wallets SET balance_coins = ?, updated_at = ? WHERE user_id = ?",
-            (new_balance, now, user_id),
+            (new_balance, now_text, user_id),
         )
 
         opening_id = _save_opening_with_conn(
@@ -3402,14 +3536,22 @@ def purchase_pack_and_save(user_id, game, set_code, pack, price_coins):
                 str(set_code),
                 opening_id,
                 f"Ouverture booster {GAME_LABELS.get(game, game)} {set_code}",
-                now,
+                now_text,
             ),
         )
 
+    clear_read_caches(
+        "_cached_wallet_generator_state",
+        "get_wallet_balance",
+        "load_wallet_transactions",
+        "load_user_collection",
+        "build_owned_card_catalog",
+    )
     return True, "Booster acheté.", opening_id, new_balance
 
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_NORMAL, show_spinner=False, max_entries=512)
 def load_user_collection(user_id, game=None, set_code=None):
     query = "SELECT * FROM user_collection WHERE user_id = ?"
     params = [user_id]
@@ -3424,6 +3566,7 @@ def load_user_collection(user_id, game=None, set_code=None):
         return pd.read_sql_query(query, conn, params=params)
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_SLOW, show_spinner=False, max_entries=64)
 def available_overview(game):
     if game == "onepiece":
         with connect_game(game) as conn:
@@ -3462,14 +3605,14 @@ def available_overview(game):
         )
 
 
-def collection_overview(user_id, game):
+def collection_overview(user_id, game, collection=None):
+    """Vue de complétion sans relire Turso si la collection est déjà chargée."""
     available = available_overview(game)
-    collection = load_user_collection(user_id, game=game)
+    if collection is None:
+        collection = load_user_collection(user_id, game=game)
 
     if collection.empty:
-        owned = pd.DataFrame(
-            columns=["product_set", "unique_owned", "copies_owned"]
-        )
+        owned = pd.DataFrame(columns=["product_set", "unique_owned", "copies_owned"])
     else:
         owned = (
             collection.groupby("product_set")
@@ -3506,6 +3649,7 @@ def load_cartedex_cards(game, set_code):
 # ============================================================
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_NORMAL, show_spinner=False, max_entries=512)
 def list_user_decks(user_id, game=None):
     query = """
         SELECT
@@ -3531,6 +3675,7 @@ def list_user_decks(user_id, game=None):
         return pd.read_sql_query(query, conn, params=params)
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_NORMAL, show_spinner=False, max_entries=1024)
 def get_user_deck(user_id, deck_id):
     with connect_app() as conn:
         row = conn.execute(
@@ -3567,6 +3712,7 @@ def create_deck(user_id, name, game):
             (int(user_id), name, game, now, now),
         )
         deck_id = int(cursor.lastrowid)
+    clear_read_caches("list_user_decks", "get_user_deck", "load_deck_cards")
     return True, "Deck créé.", deck_id
 
 
@@ -3583,6 +3729,7 @@ def rename_deck(user_id, deck_id, new_name):
             """,
             (new_name, now_iso(), int(deck_id), int(user_id)),
         )
+    clear_read_caches("list_user_decks", "get_user_deck")
     return (cursor.rowcount > 0, "Deck renommé." if cursor.rowcount > 0 else "Deck introuvable.")
 
 
@@ -3592,9 +3739,11 @@ def delete_deck(user_id, deck_id):
             "DELETE FROM decks WHERE deck_id = ? AND user_id = ?",
             (int(deck_id), int(user_id)),
         )
+    clear_read_caches("list_user_decks", "get_user_deck", "load_deck_cards")
     return cursor.rowcount > 0
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_NORMAL, show_spinner=False, max_entries=1024)
 def load_deck_cards(deck_id):
     with connect_app() as conn:
         return pd.read_sql_query(
@@ -3616,6 +3765,7 @@ def load_deck_cards(deck_id):
         )
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_NORMAL, show_spinner=False, max_entries=256)
 def build_owned_card_catalog(user_id, game):
     """Retourne les cartes possédées enrichies avec leur image/source de jeu."""
     collection = load_user_collection(user_id, game=game)
@@ -3759,6 +3909,7 @@ def set_deck_card_quantity(user_id, deck_id, card_key, quantity):
             (now_iso(), int(deck_id)),
         )
 
+    clear_read_caches("list_user_decks", "get_user_deck", "load_deck_cards")
     return True, "Deck mis à jour."
 
 
@@ -3983,9 +4134,11 @@ def send_game_invite(sender_id, receiver_id, sender_deck_id):
             """,
             (sender_id, receiver_id, sender_deck_id, str(deck["game"]), now, now),
         )
+    clear_read_caches("list_incoming_game_invites", "list_outgoing_game_invites", "list_active_matches")
     return True, "Invitation envoyée."
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_FAST, show_spinner=False, max_entries=512)
 def list_incoming_game_invites(user_id):
     with connect_app() as conn:
         rows = conn.execute(
@@ -4009,6 +4162,7 @@ def list_incoming_game_invites(user_id):
     return [dict(row) for row in rows]
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_FAST, show_spinner=False, max_entries=512)
 def list_outgoing_game_invites(user_id):
     with connect_app() as conn:
         rows = conn.execute(
@@ -4041,6 +4195,7 @@ def cancel_game_invite(user_id, invite_id):
             """,
             (now_iso(), int(invite_id), int(user_id)),
         )
+    clear_read_caches("list_incoming_game_invites", "list_outgoing_game_invites")
     return cur.rowcount > 0
 
 
@@ -4054,6 +4209,7 @@ def decline_game_invite(user_id, invite_id):
             """,
             (now_iso(), int(invite_id), int(user_id)),
         )
+    clear_read_caches("list_incoming_game_invites", "list_outgoing_game_invites")
     return cur.rowcount > 0
 
 
@@ -4166,9 +4322,11 @@ def accept_game_invite(user_id, invite_id, receiver_deck_id):
         )
         conn.commit()
 
+    clear_read_caches("list_incoming_game_invites", "list_outgoing_game_invites", "list_active_matches")
     return True, "Partie créée.", match_id
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_FAST, show_spinner=False, max_entries=512)
 def list_active_matches(user_id):
     with connect_app() as conn:
         rows = conn.execute(
@@ -4208,6 +4366,7 @@ def close_multiplayer_match(user_id, match_id):
             """,
             (now_iso(), match_id, user_id, user_id),
         )
+    clear_read_caches("list_active_matches")
     return cur.rowcount > 0
 
 
@@ -4220,42 +4379,43 @@ def _loads_list(value):
 
 
 def load_multiplayer_match_state(user_id, match_id):
+    """Charge une partie active en 2 requêtes au lieu de 4.
+
+    La première requête récupère le match et les deux joueurs/decks en une fois;
+    la seconde récupère le plateau partagé.
+    """
     user_id = int(user_id)
     match_id = int(match_id)
     with connect_app() as conn:
-        match = conn.execute(
+        player_rows = conn.execute(
             """
-            SELECT *
-            FROM multiplayer_matches
-            WHERE match_id = ? AND status = 'active'
-              AND (player1_id = ? OR player2_id = ?)
+            SELECT
+                m.match_id,
+                m.game,
+                m.player1_id,
+                m.player2_id,
+                m.version,
+                mp.user_id AS mp_user_id,
+                mp.deck_id,
+                mp.draw_pile_json,
+                mp.hand_json,
+                mp.discard_json,
+                u.username,
+                d.name AS deck_name
+            FROM multiplayer_matches m
+            JOIN match_players mp ON mp.match_id = m.match_id
+            JOIN app_users u ON u.user_id = mp.user_id
+            JOIN decks d ON d.deck_id = mp.deck_id
+            WHERE m.match_id = ?
+              AND m.status = 'active'
+              AND (m.player1_id = ? OR m.player2_id = ?)
+            ORDER BY mp.user_id
             """,
             (match_id, user_id, user_id),
-        ).fetchone()
-        if not match:
+        ).fetchall()
+        if len(player_rows) < 2:
             return None
 
-        opponent_id = int(match["player2_id"] if int(match["player1_id"]) == user_id else match["player1_id"])
-        me = conn.execute(
-            """
-            SELECT mp.*, u.username, d.name AS deck_name
-            FROM match_players mp
-            JOIN app_users u ON u.user_id = mp.user_id
-            JOIN decks d ON d.deck_id = mp.deck_id
-            WHERE mp.match_id = ? AND mp.user_id = ?
-            """,
-            (match_id, user_id),
-        ).fetchone()
-        opponent = conn.execute(
-            """
-            SELECT mp.*, u.username, d.name AS deck_name
-            FROM match_players mp
-            JOIN app_users u ON u.user_id = mp.user_id
-            JOIN decks d ON d.deck_id = mp.deck_id
-            WHERE mp.match_id = ? AND mp.user_id = ?
-            """,
-            (match_id, opponent_id),
-        ).fetchone()
         board_rows = conn.execute(
             """
             SELECT instance_id, owner_id, card_json, x, y, z_index
@@ -4266,6 +4426,14 @@ def load_multiplayer_match_state(user_id, match_id):
             (match_id,),
         ).fetchall()
 
+    first = player_rows[0]
+    player1_id = int(first["player1_id"])
+    player2_id = int(first["player2_id"])
+    opponent_id = player2_id if player1_id == user_id else player1_id
+
+    by_user = {int(row["mp_user_id"]): row for row in player_rows}
+    me = by_user.get(user_id)
+    opponent = by_user.get(opponent_id)
     if not me or not opponent:
         return None
 
@@ -4298,8 +4466,8 @@ def load_multiplayer_match_state(user_id, match_id):
     return {
         "match_id": match_id,
         "session_id": f"match-{match_id}-user-{user_id}",
-        "game": str(match["game"]),
-        "version": int(match["version"]),
+        "game": str(first["game"]),
+        "version": int(first["version"]),
         "me": {
             "user_id": user_id,
             "username": str(me["username"]),
@@ -6469,7 +6637,7 @@ def _multiplayer_lobby_panel(user_id):
 
 
 if hasattr(st, "fragment"):
-    multiplayer_lobby_panel = st.fragment(run_every="1s")(_multiplayer_lobby_panel)
+    multiplayer_lobby_panel = st.fragment(run_every="3s")(_multiplayer_lobby_panel)
 else:
     multiplayer_lobby_panel = _multiplayer_lobby_panel
 
@@ -6480,10 +6648,8 @@ def play_page(user_id):
     # propre demi-plateau en bas et celui de l'adversaire en haut.
     match_id = st.session_state.get("multiplayer_match_id")
     if match_id:
-        if load_multiplayer_match_state(user_id, match_id) is not None:
-            multiplayer_table_fragment(user_id, int(match_id))
-            return
-        st.session_state.pop("multiplayer_match_id", None)
+        multiplayer_table_fragment(user_id, int(match_id))
+        return
 
     # Le mode local reste disponible comme bac à sable de test.
     local_state = st.session_state.get("local_play")
@@ -7662,7 +7828,7 @@ def booster_page(user_id):
 
     price_info = get_booster_price(game, set_code)
     price_coins = int(price_info["price_coins"])
-    balance = get_wallet_balance(user_id)
+    balance = get_wallet_snapshot(user_id)["balance"]
 
     col1, col2, col3, col4 = st.columns(4)
     with col1:
@@ -7940,7 +8106,8 @@ def cartedex_game_page(user_id, game):
         st.warning(error)
         return
 
-    overview = collection_overview(user_id, game)
+    collection = load_user_collection(user_id, game=game)
+    overview = collection_overview(user_id, game, collection=collection)
     if overview.empty:
         st.info("Aucune extension disponible.")
         return
@@ -7984,10 +8151,14 @@ def cartedex_game_page(user_id, game):
         st.info("Aucune carte dans cette extension.")
         return
 
-    collection = load_user_collection(user_id, game=game, set_code=set_code)
-    quantities = (
-        dict(zip(collection["card_key"], collection["quantity"]))
+    set_collection = (
+        collection[collection["product_set"].astype(str) == str(set_code)].copy()
         if not collection.empty
+        else collection
+    )
+    quantities = (
+        dict(zip(set_collection["card_key"], set_collection["quantity"]))
+        if not set_collection.empty
         else {}
     )
     cards = cards.copy()
@@ -8411,7 +8582,8 @@ def submit_trivia_answer(run_id, user_id, question_id, selected_index=None, answ
 
 
 def _generator_live_panel(user_id):
-    status = sync_coin_generator(user_id)
+    # Lecture projetée uniquement : aucune écriture Turso pendant l'affichage.
+    status = get_wallet_snapshot(user_id)
 
     rate = status["coins_per_tick"]
     interval = status["interval_seconds"]
@@ -8442,8 +8614,6 @@ def _generator_live_panel(user_id):
             else:
                 st.error(message)
             st.rerun()
-    else:
-        pass
 
 
 # Les fragments Streamlit permettent au compteur de se rafraîchir sans
@@ -8479,8 +8649,11 @@ def friends_page(user_id):
             st.success(message)
         else:
             st.warning(message)
+        st.rerun()
 
-    incoming = list_incoming_friend_requests(user_id)
+    # Une seule connexion Turso pour les trois blocs de la page.
+    incoming, friends, outgoing = load_friends_page_state(user_id)
+
     if incoming:
         st.subheader(f"Demandes reçues · {len(incoming)}")
         for request in incoming:
@@ -8495,10 +8668,7 @@ def friends_page(user_id):
                         use_container_width=True,
                         type="primary",
                     ):
-                        ok, message = accept_friend_request(
-                            user_id,
-                            request["request_id"],
-                        )
+                        ok, message = accept_friend_request(user_id, request["request_id"])
                         if ok:
                             st.toast(message)
                         else:
@@ -8513,7 +8683,6 @@ def friends_page(user_id):
                         decline_friend_request(user_id, request["request_id"])
                         st.rerun()
 
-    friends = list_friends(user_id)
     st.subheader(f"Mes amis · {len(friends)}")
     if not friends:
         st.info("Tu n'as pas encore d'ami ajouté.")
@@ -8532,7 +8701,6 @@ def friends_page(user_id):
                         remove_friend(user_id, friend["user_id"])
                         st.rerun()
 
-    outgoing = list_outgoing_friend_requests(user_id)
     if outgoing:
         with st.expander(f"Demandes envoyées · {len(outgoing)}"):
             for request in outgoing:
@@ -8551,7 +8719,7 @@ def friends_page(user_id):
 
 
 def slot_machine_panel(user_id):
-    balance = get_wallet_balance(user_id)
+    balance = get_wallet_snapshot(user_id)["balance"]
     result = st.session_state.get("slot_result")
 
     st.markdown(
@@ -8913,6 +9081,7 @@ def trivia_panel(user_id, quiz_key="general"):
         if not ok:
             st.error(message)
         else:
+            clear_read_caches("_cached_wallet_generator_state", "get_wallet_balance", "load_wallet_transactions")
             st.session_state[feedback_key] = result
             st.rerun()
 
@@ -8943,10 +9112,32 @@ def games_page(user_id):
 # ============================================================
 
 
+@st.cache_data(ttl=DYNAMIC_CACHE_TTL_NORMAL, show_spinner=False, max_entries=512)
+def load_wallet_transactions(user_id, limit=100):
+    with connect_app() as conn:
+        return pd.read_sql_query(
+            """
+            SELECT
+                amount_coins,
+                transaction_type,
+                game,
+                set_code,
+                note,
+                created_at
+            FROM wallet_transactions
+            WHERE user_id = ?
+            ORDER BY transaction_id DESC
+            LIMIT ?
+            """,
+            conn,
+            params=(int(user_id), int(limit)),
+        )
+
+
 def wallet_page(user_id):
     st.header("Portefeuille")
 
-    balance = get_wallet_balance(user_id)
+    balance = get_wallet_snapshot(user_id)["balance"]
     st.metric("Solde actuel", format_coins(balance))
 
     if ALLOW_TEST_TOPUPS:
@@ -8987,24 +9178,7 @@ def wallet_page(user_id):
 
         st.divider()
 
-    with connect_app() as conn:
-        tx = pd.read_sql_query(
-            """
-            SELECT
-                amount_coins,
-                transaction_type,
-                game,
-                set_code,
-                note,
-                created_at
-            FROM wallet_transactions
-            WHERE user_id = ?
-            ORDER BY transaction_id DESC
-            LIMIT 100
-            """,
-            conn,
-            params=(user_id,),
-        )
+    tx = load_wallet_transactions(user_id, limit=100)
 
     if tx.empty:
         st.info("Aucun mouvement sur le portefeuille.")
@@ -9056,10 +9230,8 @@ def main():
     user_id = st.session_state["user_id"]
     username = st.session_state["username"]
 
-    # Crédit automatique des gains passifs écoulés depuis le dernier rerun.
-    sync_coin_generator(user_id)
-
-    balance = get_wallet_balance(user_id)
+    # Lecture seule : aucun UPDATE Turso lors d'un simple rerun/navigation.
+    balance = get_wallet_snapshot(user_id)["balance"]
 
     # Navigation principale en haut de l'application. Le radio horizontal est
     # stylé comme une vraie barre d'onglets afin de conserver une seule page
