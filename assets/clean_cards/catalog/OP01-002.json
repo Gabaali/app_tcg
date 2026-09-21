@@ -1,0 +1,116 @@
+{
+  "card_number": "OP01-002",
+  "name": "Trafalgar Law",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Green"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Heart Pirates"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): If you have 5 Characters, return 1 of your Characters to the owner's hand. Then, play up to 1 Character with a cost of 5 or less from your hand that is a different color than the returned Character.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.519361,
+        "y": 0.168595
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/453505/one-piece-card-game-romance-dawn-trafalgar-law-002",
+        "market_price": "2.71",
+        "low_price": "1.99",
+        "mid_price": "3.50",
+        "high_price": "15.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.673664,
+        "y": 0.383048
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-002/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-002/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454514/one-piece-card-game-romance-dawn-trafalgar-law-002-parallel",
+        "market_price": "443.92",
+        "low_price": "489.90",
+        "mid_price": "491.67",
+        "high_price": "3000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

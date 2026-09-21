@@ -1,0 +1,80 @@
+{
+  "card_number": "OP15-040",
+  "name": "Viola",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Dressrosa",
+    "Donquixote Pirates"
+  ],
+  "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Hagane Tsurugi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-040/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-040/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-040/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-040/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-040/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685384/one-piece-card-game-adventure-on-kamis-island-viola",
+        "market_price": "0.36",
+        "low_price": "0.19",
+        "mid_price": "0.65",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

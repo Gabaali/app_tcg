@@ -1,0 +1,118 @@
+{
+  "card_number": "OP05-019",
+  "name": "Fire Fist",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Revolutionary Army"
+  ],
+  "effect": "[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, if you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+  "trigger": "[Trigger] Activate this card's [Main] effect.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-019/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-019/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528551/one-piece-card-game-awakening-of-the-new-era-fire-fist",
+        "market_price": "0.95",
+        "low_price": "0.29",
+        "mid_price": "1.04",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a2fe4ce8-0907-441d-a9c1-457574254e8e",
+        "slug": "premium-card-collection-best-selection-vol-2",
+        "name": "Premium Card Collection -Best Selection Vol. 2-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-019/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-019/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/587227/one-piece-card-game-one-piece-promotion-cards-fire-fist-premium-card-collection-best-selection-vol-2",
+        "market_price": "7.25",
+        "low_price": "6.18",
+        "mid_price": "9.40",
+        "high_price": "40.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I choose to give −4000 power to a Character and K.O. a different Character with 0 power or less according to this [Main] effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

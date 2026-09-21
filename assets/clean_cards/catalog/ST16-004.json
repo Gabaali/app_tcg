@@ -1,0 +1,189 @@
+{
+  "card_number": "ST16-004",
+  "name": "Shanks",
+  "language": "en",
+  "set": "ST16",
+  "set_name": "Starter Deck - Green Uta",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 9,
+  "power": 11000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "FILM",
+    "The Four Emperors",
+    "Red-Haired Pirates"
+  ],
+  "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Nijihayashi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "601db5a3-a20e-487b-9047-d02abfe0dc89",
+        "slug": "starter-deck-green-uta",
+        "name": "Starter Deck - Green Uta",
+        "set_code": "ST16",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST16-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST16-004/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST16-004/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-004/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581004/one-piece-card-game-starter-deck-16-green-uta-shanks",
+        "market_price": "6.63",
+        "low_price": "1.99",
+        "mid_price": "8.50",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST16-004/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-004/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632508/one-piece-card-game-a-fist-of-divine-speed-shanks-sp",
+        "market_price": "194.12",
+        "low_price": "193.58",
+        "mid_price": "244.99",
+        "high_price": "1499.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST16-004/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-004/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656060/one-piece-card-game-premium-booster-the-best-vol-2-shanks-st16-004-reprint",
+        "market_price": "3.52",
+        "low_price": "0.39",
+        "mid_price": "3.99",
+        "high_price": "24.17"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST16-004/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-004/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653839/one-piece-card-game-premium-booster-the-best-vol-2-shanks-st16-004-alternate-art",
+        "market_price": "58.46",
+        "low_price": "49.31",
+        "mid_price": "61.99",
+        "high_price": "199.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

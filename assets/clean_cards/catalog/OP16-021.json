@@ -1,0 +1,113 @@
+{
+  "card_number": "OP16-021",
+  "name": "Moby Dick",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Stage",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {Whitebeard Pirates} type, look at 3 cards from the top of your deck and add up to 1 card to your hand. Then, place the rest at the bottom of your deck in any order.\n[Activate: Main] You may trash this Stage: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-021/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-021/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696004/one-piece-card-game-the-time-of-battle-moby-dick",
+        "market_price": "0.49",
+        "low_price": "0.13",
+        "mid_price": "0.50",
+        "high_price": "49.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-021/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-021/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696005/one-piece-card-game-the-time-of-battle-moby-dick-alternate-art",
+        "market_price": "17.29",
+        "low_price": "15.00",
+        "mid_price": "20.10",
+        "high_price": "49.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

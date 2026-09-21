@@ -1,0 +1,78 @@
+{
+  "card_number": "OP11-099",
+  "name": "I'm Gonna Be a Navy Officer!!!",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "East Blue",
+    "Navy"
+  ],
+  "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Navy} type card other than [I'm Gonna Be a Navy Officer!!!] and add it to your hand. Then, trash the rest.",
+  "trigger": "[Trigger] Activate this card's [Main] effect.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-099/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-099/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP11-099/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP11-099/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-099/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632475/one-piece-card-game-a-fist-of-divine-speed-im-gonna-be-a-navy-officer",
+        "market_price": "0.30",
+        "low_price": "0.10",
+        "mid_price": "0.29",
+        "high_price": "20.25"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

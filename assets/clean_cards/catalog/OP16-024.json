@@ -1,0 +1,116 @@
+{
+  "card_number": "OP16-024",
+  "name": "Inazuma",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Impel Down",
+    "Revolutionary Army"
+  ],
+  "effect": "When this Character is K.O.'d by your opponent's effect, rest up to 1 of your opponent's Characters.\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "7825724e-4ef6-4684-b241-42dd4a3a8587",
+        "slug": "op16-release-event",
+        "name": "OP16 Release Event",
+        "set_code": null,
+        "released_at": "2026-06-05T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-024/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-024/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696776/one-piece-card-game-the-time-of-battle-release-event-cards-inazuma",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-024/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-024/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696009/one-piece-card-game-the-time-of-battle-inazuma",
+        "market_price": "0.07",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "10.01"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

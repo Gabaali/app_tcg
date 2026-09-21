@@ -1,0 +1,224 @@
+{
+  "card_number": "P-084",
+  "name": "Buggy",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Blue"
+  ],
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Cross Guild"
+  ],
+  "effect": "This Character cannot attack.\nIf your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack.\n[On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "111d0c2f-f109-47f6-8ca7-d514b94944d4",
+        "slug": "starter-deck-blue-buggy",
+        "name": "Starter Deck - Blue Buggy",
+        "set_code": "ST25",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-084/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-084/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634597/one-piece-card-game-starter-deck-25-blue-buggy-buggy-promo-reprint",
+        "market_price": "0.53",
+        "low_price": "0.20",
+        "mid_price": "0.55",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb8900c0-284d-4dd6-b4dc-2b5e1891469b",
+        "slug": "the-world-s-strongest-warriors",
+        "name": "The World’s Strongest Warriors",
+        "set_code": "OP17",
+        "released_at": "2026-08-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-084/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-084/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "73cff9ec-e187-441b-814d-111f1e585b6e",
+        "slug": "op10-release-event",
+        "name": "OP10 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-084/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-084/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/620828/one-piece-card-game-one-piece-promotion-cards-buggy-op10-release-event",
+        "market_price": "0.52",
+        "low_price": "0.18",
+        "mid_price": "0.77",
+        "high_price": "9.19"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8ae65c9b-9fff-47fb-8d10-5778fdaaa6e5",
+        "slug": "op10-release-event-winner",
+        "name": "OP10 Release Event Winner",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-084/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-084/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/620829/one-piece-card-game-one-piece-promotion-cards-buggy-op10-release-event-winner",
+        "market_price": "81.60",
+        "low_price": "67.01",
+        "mid_price": "89.50",
+        "high_price": "200.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "425f4c1a-a49e-41a7-aed3-9a5f01eb1059",
+        "slug": "sp",
+        "name": "SP",
+        "set_code": null,
+        "released_at": "2026-08-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/707315/one-piece-card-game-the-worlds-strongest-warriors-buggy-sp",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,122 @@
+{
+  "card_number": "OP01-003",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Green"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] ➃ (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your {Supernovas} or {Straw Hat Crew} type Character cards with a cost of 5 or less as active. It gains +1000 power during this turn.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.500544,
+        "y": 0.233335
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454515/one-piece-card-game-romance-dawn-monkeydluffy-003",
+        "market_price": "16.61",
+        "low_price": "9.43",
+        "mid_price": "17.33",
+        "high_price": "75.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.506189,
+        "y": 0.400582
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/453506/one-piece-card-game-romance-dawn-monkeydluffy-003-parallel",
+        "market_price": "992.11",
+        "low_price": "1299.99",
+        "mid_price": "1599.50",
+        "high_price": "10000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can the Character attack again if this [Activate: Main] effect sets it as active?",
+      "answer": "Yes, it can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "card_number": "OP15-102",
+  "name": "Gan.Fall",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Sky Island"
+  ],
+  "effect": "If you have a {Sky Island} type Character with 7000 power or more, give this card in your hand −3 cost.\n[On Play] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Hayaken-sarena",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-102/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-102/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-102/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-102/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-102/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685457/one-piece-card-game-adventure-on-kamis-island-ganfall",
+        "market_price": "0.08",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "10.01"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

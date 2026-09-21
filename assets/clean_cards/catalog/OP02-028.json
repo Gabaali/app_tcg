@@ -1,0 +1,151 @@
+{
+  "card_number": "OP02-028",
+  "name": "Usopp",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "FILM",
+    "Straw Hat Crew"
+  ],
+  "effect": null,
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-028/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-028/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486348/one-piece-card-game-paramount-war-usopp",
+        "market_price": "0.11",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f11f18f0-7b8a-4b88-b3b1-bee7a4c61704",
+        "slug": "starter-deck-uta",
+        "name": "Starter Deck - Uta",
+        "set_code": "ST11",
+        "released_at": "2024-02-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-028/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-028/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e954b056-d7e6-4d3c-88b3-fd51abbe1a91",
+        "slug": "op02-release-event",
+        "name": "OP02 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486697/one-piece-card-game-paramount-war-pre-release-cards-usopp",
+        "market_price": "6.06",
+        "low_price": "4.49",
+        "mid_price": "10.32",
+        "high_price": "75.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

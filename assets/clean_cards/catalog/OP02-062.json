@@ -1,0 +1,131 @@
+{
+  "card_number": "OP02-062",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Impel Down",
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn.\n(This card deals 2 damage.)",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-062/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-062/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485238/one-piece-card-game-paramount-war-monkeydluffy-062",
+        "market_price": "1.44",
+        "low_price": "1.00",
+        "mid_price": "2.00",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-062/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-062/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485814/one-piece-card-game-paramount-war-monkeydluffy-062-alternate-art",
+        "market_price": "79.82",
+        "low_price": "48.57",
+        "mid_price": "87.63",
+        "high_price": "187.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect and [When Attacking] effect to return my own Character to my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I play or attack with this Character if I do not have 2 cards in my hand?",
+      "answer": "Yes, you can. However, you cannot activate its [On Play] effect or [When Attacking] effect.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I activate this [On Play] or [When Attacking] effect, trash 2 cards from my hand, and then choose not to return 1 Character to the owner's hand?",
+      "answer": "Yes, you can. \"Return up to 1 Character\" means you can choose 0 Characters. In that case, this Character will still gain [Double Attack] during that turn.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "card_number": "ST14-009",
+  "name": "Franky",
+  "language": "en",
+  "set": "ST14",
+  "set_name": "Starter Deck - 3D2Y",
+  "released_at": "2024-08-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [Opponent's Turn] If you have a Character with a cost of 6 or more, this Character cannot be K.O.'d by your opponent's effects and gains +2000 power.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "63172b8d-24b4-4026-89b6-18132bc108c0",
+        "slug": "starter-deck-3d2y",
+        "name": "Starter Deck - 3D2Y",
+        "set_code": "ST14",
+        "released_at": "2024-08-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-009/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-009/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/548420/one-piece-card-game-starter-deck-14-3d2y-franky",
+        "market_price": "0.14",
+        "low_price": "0.04",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this Character has a cost of 6 or more, does that mean this Character cannot be K.O.'d by my opponent's card effects and gains +2000 power, according to this [Opponent's Turn] effect?",
+      "answer": "Yes, it does.",
+      "updated_on": "2024-08-02"
+    }
+  ]
+}

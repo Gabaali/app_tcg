@@ -1,0 +1,230 @@
+{
+  "card_number": "PRB02-005",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "PRB02",
+  "set_name": "One Piece Card the Best Vol.2",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Your Turn] [On Play] If your Leader is multicolored and your opponent has 7 or less DON!! cards on their field, your opponent rests 1 of their active DON!! cards at the start of their next Main Phase.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653265/one-piece-card-game-premium-booster-the-best-vol-2-monkeydluffy-prb02-005",
+        "market_price": "2.19",
+        "low_price": "1.71",
+        "mid_price": "3.00",
+        "high_price": "99.90"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-005/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-005/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653266/one-piece-card-game-premium-booster-the-best-vol-2-monkeydluffy-prb02-005-alternate-art",
+        "market_price": "25.38",
+        "low_price": "21.69",
+        "mid_price": "27.77",
+        "high_price": "120.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8912b9c2-df69-4ea8-a116-73e59b6896a8",
+        "slug": "red-bull-double-don-winner",
+        "name": "Red Bull Double Don!! Winner",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-005/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-005/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681873/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-red-bull-double-don-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ac972635-093a-4aba-a189-7afe066b1218",
+        "slug": "red-bull-double-don-winner-textured",
+        "name": "Red Bull Double Don!! Winner Textured",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681874/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-red-bull-double-don-winner-textured",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "917eb6c4-735c-47a5-9c51-e5cf886ae0ea",
+        "slug": "red-bull-double-don",
+        "name": "Red Bull Double Don!!",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681872/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-red-bull-double-don",
+        "market_price": "635.10",
+        "low_price": "544.97",
+        "mid_price": "699.00",
+        "high_price": "2000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I played this Character when my opponent had 7 or less DON!! cards and activated its [On Play] effect. Does my opponent still rest 1 of their active DON!! cards if they have 8 or more DON!! cards at the start of their next Main Phase?",
+      "answer": "Yes, they do.",
+      "updated_on": "2025-09-19"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "card_number": "OP13-113",
+  "name": "Lilith",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Egghead",
+    "Scientist"
+  ],
+  "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with a [Trigger] other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": "[Trigger] Activate this card's [On Play] effect.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-113/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-113/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657393/one-piece-card-game-carrying-on-his-will-lilith",
+        "market_price": "0.21",
+        "low_price": "0.05",
+        "mid_price": "0.34",
+        "high_price": "6.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-113/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-113/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657394/one-piece-card-game-carrying-on-his-will-lilith-alternate-art",
+        "market_price": "8.90",
+        "low_price": "8.00",
+        "mid_price": "12.85",
+        "high_price": "420.69"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I play this Character card using its [Trigger] effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

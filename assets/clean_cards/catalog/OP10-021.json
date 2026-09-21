@@ -1,0 +1,113 @@
+{
+  "card_number": "OP10-021",
+  "name": "Punk Hazard",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Stage",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Punk Hazard"
+  ],
+  "effect": "[Activate: Main] You may rest this Stage: If your Leader is [Caesar Clown], give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-021/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-021/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617056/one-piece-card-game-royal-blood-punk-hazard",
+        "market_price": "0.05",
+        "low_price": "0.01",
+        "mid_price": "0.11",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "73cff9ec-e187-441b-814d-111f1e585b6e",
+        "slug": "op10-release-event",
+        "name": "OP10 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/620752/one-piece-card-game-royal-blood-release-event-cards-punk-hazard",
+        "market_price": "0.41",
+        "low_price": "0.32",
+        "mid_price": "1.00",
+        "high_price": "2.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

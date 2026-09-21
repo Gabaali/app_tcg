@@ -1,0 +1,484 @@
+import mimetypes
+import re
+import sqlite3
+import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from pathlib import Path
+
+import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
+
+
+# ============================================================
+# CONFIGURATION
+# ============================================================
+
+DB_PATH = "onepiece_tcg.sqlite"
+
+IMAGE_ROOT = Path("images")
+
+# Reste raisonnable avec le serveur distant.
+MAX_WORKERS = 4
+
+TIMEOUT = 30
+
+
+# ============================================================
+# OUTILS
+# ============================================================
+
+def safe_filename(value):
+    """
+    Retire les caractères interdits sous Windows.
+    """
+
+    value = str(value or "").strip()
+
+    return re.sub(
+        r'[<>:"/\\|?*]',
+        "_",
+        value
+    )
+
+
+def extension_from_content_type(content_type, url):
+    """
+    Détermine l'extension depuis le Content-Type HTTP.
+    """
+
+    content_type = (
+        content_type
+        .split(";")[0]
+        .strip()
+        .lower()
+    )
+
+    known = {
+        "image/jpeg": ".jpg",
+        "image/jpg": ".jpg",
+        "image/png": ".png",
+        "image/webp": ".webp",
+        "image/gif": ".gif",
+        "image/avif": ".avif",
+    }
+
+    if content_type in known:
+        return known[content_type]
+
+    # fallback : extension dans l'URL
+    suffix = Path(
+        url.split("?")[0]
+    ).suffix.lower()
+
+    if suffix in {
+        ".jpg",
+        ".jpeg",
+        ".png",
+        ".webp",
+        ".gif",
+        ".avif"
+    }:
+
+        if suffix == ".jpeg":
+            return ".jpg"
+
+        return suffix
+
+    return ".jpg"
+
+
+def create_session():
+    """
+    Session HTTP avec retry automatique.
+    """
+
+    session = requests.Session()
+
+    retry = Retry(
+        total=3,
+        connect=3,
+        read=3,
+        backoff_factor=0.7,
+        status_forcelist=[
+            429,
+            500,
+            502,
+            503,
+            504
+        ]
+    )
+
+    adapter = HTTPAdapter(
+        max_retries=retry
+    )
+
+    session.mount(
+        "http://",
+        adapter
+    )
+
+    session.mount(
+        "https://",
+        adapter
+    )
+
+    session.headers.update({
+        "User-Agent": (
+            "Mozilla/5.0 "
+            "(Windows NT 10.0; Win64; x64) "
+            "AppleWebKit/537.36 "
+            "Chrome/140 Safari/537.36"
+        )
+    })
+
+    return session
+
+
+# ============================================================
+# TÉLÉCHARGEMENT D'UNE IMAGE
+# ============================================================
+
+def download_image(card):
+    """
+    card =
+    (
+        card_uid,
+        print_id,
+        pack_id,
+        image_url
+    )
+    """
+
+    (
+        card_uid,
+        print_id,
+        pack_id,
+        image_url
+    ) = card
+
+
+    if not image_url:
+        return (
+            card_uid,
+            None,
+            "NO_URL"
+        )
+
+
+    pack_folder = (
+        IMAGE_ROOT
+        / safe_filename(pack_id)
+    )
+
+    pack_folder.mkdir(
+        parents=True,
+        exist_ok=True
+    )
+
+
+    # Cherche si l'image existe déjà,
+    # quelle que soit son extension.
+
+    base_name = safe_filename(
+        print_id
+    )
+
+    existing = list(
+        pack_folder.glob(
+            f"{base_name}.*"
+        )
+    )
+
+    if existing:
+
+        return (
+            card_uid,
+            str(existing[0]),
+            "EXISTS"
+        )
+
+
+    session = create_session()
+
+
+    try:
+
+        response = session.get(
+            image_url,
+            timeout=TIMEOUT,
+            stream=True
+        )
+
+        response.raise_for_status()
+
+
+        content_type = response.headers.get(
+            "Content-Type",
+            ""
+        )
+
+
+        if (
+            content_type
+            and not content_type.lower().startswith(
+                "image/"
+            )
+        ):
+
+            return (
+                card_uid,
+                None,
+                f"NOT_IMAGE:{content_type}"
+            )
+
+
+        extension = extension_from_content_type(
+            content_type,
+            image_url
+        )
+
+
+        destination = (
+            pack_folder
+            / f"{base_name}{extension}"
+        )
+
+
+        # fichier temporaire pour éviter
+        # les images incomplètes
+        temp_file = destination.with_suffix(
+            destination.suffix + ".part"
+        )
+
+
+        with temp_file.open(
+            "wb"
+        ) as f:
+
+            for chunk in response.iter_content(
+                chunk_size=1024 * 64
+            ):
+
+                if chunk:
+                    f.write(chunk)
+
+
+        temp_file.replace(
+            destination
+        )
+
+
+        return (
+            card_uid,
+            str(destination),
+            "DOWNLOADED"
+        )
+
+
+    except Exception as exc:
+
+        return (
+            card_uid,
+            None,
+            f"ERROR:{exc}"
+        )
+
+
+# ============================================================
+# SQLITE
+# ============================================================
+
+conn = sqlite3.connect(
+    DB_PATH
+)
+
+cursor = conn.cursor()
+
+
+# Ajoute local_image_path si elle n'existe pas.
+
+columns = [
+    row[1]
+    for row in cursor.execute(
+        "PRAGMA table_info(cards)"
+    ).fetchall()
+]
+
+
+if "local_image_path" not in columns:
+
+    print(
+        "Ajout de cards.local_image_path..."
+    )
+
+    cursor.execute(
+        """
+        ALTER TABLE cards
+        ADD COLUMN local_image_path TEXT
+        """
+    )
+
+    conn.commit()
+
+
+# ============================================================
+# RÉCUPÉRATION DES CARTES
+# ============================================================
+
+cards = cursor.execute(
+    """
+    SELECT
+        card_uid,
+        print_id,
+        pack_id,
+        image_url
+
+    FROM cards
+
+    WHERE
+        image_url IS NOT NULL
+        AND TRIM(image_url) != ''
+
+    ORDER BY
+        pack_id,
+        print_id
+    """
+).fetchall()
+
+
+print()
+print(
+    f"{len(cards)} cartes avec une URL d'image."
+)
+
+IMAGE_ROOT.mkdir(
+    parents=True,
+    exist_ok=True
+)
+
+
+# ============================================================
+# TÉLÉCHARGEMENTS
+# ============================================================
+
+downloaded = 0
+existing = 0
+errors = 0
+
+
+with ThreadPoolExecutor(
+    max_workers=MAX_WORKERS
+) as executor:
+
+    futures = {
+        executor.submit(
+            download_image,
+            card
+        ): card
+
+        for card in cards
+    }
+
+
+    for index, future in enumerate(
+        as_completed(futures),
+        start=1
+    ):
+
+        card_uid, local_path, status = (
+            future.result()
+        )
+
+
+        if local_path:
+
+            cursor.execute(
+                """
+                UPDATE cards
+
+                SET local_image_path = ?
+
+                WHERE card_uid = ?
+                """,
+                (
+                    local_path,
+                    card_uid
+                )
+            )
+
+
+        if status == "DOWNLOADED":
+
+            downloaded += 1
+
+        elif status == "EXISTS":
+
+            existing += 1
+
+        else:
+
+            errors += 1
+
+            print(
+                f"ERREUR {card_uid}: "
+                f"{status}"
+            )
+
+
+        # Commit régulier
+        if index % 100 == 0:
+
+            conn.commit()
+
+            print(
+                f"{index}/{len(cards)} "
+                f"| téléchargées: {downloaded} "
+                f"| existantes: {existing} "
+                f"| erreurs: {errors}"
+            )
+
+
+conn.commit()
+
+
+# ============================================================
+# RÉSUMÉ
+# ============================================================
+
+print()
+print(
+    "=" * 60
+)
+
+print(
+    "TÉLÉCHARGEMENT TERMINÉ"
+)
+
+print(
+    "=" * 60
+)
+
+print(
+    f"Cartes traitées  : {len(cards)}"
+)
+
+print(
+    f"Téléchargées     : {downloaded}"
+)
+
+print(
+    f"Déjà présentes   : {existing}"
+)
+
+print(
+    f"Erreurs          : {errors}"
+)
+
+print(
+    f"Dossier images   : "
+    f"{IMAGE_ROOT.resolve()}"
+)
+
+
+conn.close()

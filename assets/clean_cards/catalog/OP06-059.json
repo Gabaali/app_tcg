@@ -1,0 +1,185 @@
+{
+  "card_number": "OP06-059",
+  "name": "White Snake",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Blue"
+  ],
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Navy"
+  ],
+  "effect": "[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this turn, and draw 1 card.",
+  "trigger": "[Trigger] Look at 5 cards from the top of your deck and place them at the top or bottom of your deck in any order.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-059/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-059/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP06-059/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP06-059/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-059/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541620/one-piece-card-game-wings-of-the-captain-white-snake",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-059/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-059/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656134/one-piece-card-game-premium-booster-the-best-vol-2-white-snake-reprint",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-059/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-059/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656135/one-piece-card-game-premium-booster-the-best-vol-2-white-snake-pirate-foil",
+        "market_price": "0.23",
+        "low_price": "0.02",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c669e8ee-e7a0-4236-a004-685661b9aaa0",
+        "slug": "op06-release-event",
+        "name": "OP06 Release Event",
+        "set_code": null,
+        "released_at": "2024-03-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541737/one-piece-card-game-wings-of-the-captain-pre-release-cards-white-snake",
+        "market_price": "3.82",
+        "low_price": "3.01",
+        "mid_price": "4.50",
+        "high_price": "14.69"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

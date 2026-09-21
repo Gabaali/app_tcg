@@ -1,0 +1,115 @@
+{
+  "card_number": "OP14-113",
+  "name": "Marguerite",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Amazon Lily"
+  ],
+  "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Amazon Lily} or {Kuja Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order and trash 1 card from your hand.",
+  "trigger": "[Trigger] If your Leader has the {Kuja Pirates} type, play this card.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-113/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-113/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671442/one-piece-card-game-the-azure-seas-seven-marguerite",
+        "market_price": "0.17",
+        "low_price": "0.01",
+        "mid_price": "0.16",
+        "high_price": "4.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ce25b280-f59a-476e-af73-c3609ea30d09",
+        "slug": "op14-release-event",
+        "name": "OP14 Release Event",
+        "set_code": null,
+        "released_at": "2026-01-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671879/one-piece-card-game-the-azure-seas-seven-release-event-cards-marguerite",
+        "market_price": "11.92",
+        "low_price": "10.00",
+        "mid_price": "11.90",
+        "high_price": "39.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

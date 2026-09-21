@@ -1,0 +1,194 @@
+{
+  "card_number": "OP07-107",
+  "name": "Franky",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Egghead",
+    "Straw Hat Crew"
+  ],
+  "effect": null,
+  "trigger": "[Trigger] Draw 1 card. Then, if you have 1 or less Life cards, play this card.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "eiji kaneda",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-107/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-107/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-107/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-107/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-107/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545904/one-piece-card-game-500-years-in-the-future-franky",
+        "market_price": "0.33",
+        "low_price": "0.10",
+        "mid_price": "0.49",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-107/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-107/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545905/one-piece-card-game-500-years-in-the-future-franky-parallel",
+        "market_price": "7.66",
+        "low_price": "6.46",
+        "mid_price": "9.62",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-107/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-107/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-107/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-107/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656214/one-piece-card-game-premium-booster-the-best-vol-2-franky-op07-107-reprint",
+        "market_price": "0.24",
+        "low_price": "0.10",
+        "mid_price": "0.27",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I draw a card according to this [Trigger] effect if I have 2 or more Life cards?",
+      "answer": "Yes, you will draw 1 card according to this [Trigger] effect and trash this card.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

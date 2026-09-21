@@ -1,0 +1,122 @@
+{
+  "card_number": "ST31-004",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST31",
+  "set_name": "Starter Deck - Red Monkey.d.luffy",
+  "released_at": "2026-07-31T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 7,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Straw Hat Crew"
+  ],
+  "effect": "If you have a total of 3 or more given DON!! cards, this Character gains [Rush].\n(This card can attack on the turn in which it is played.)\n[On Play] For every {Straw Hat Crew} type card on your field, give up to 1 of your opponent's Characters −1000 power during this turn.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8acc993b-92c4-4538-bdf2-356b749e8a92",
+        "slug": "starter-deck-red-monkey-d-luffy",
+        "name": "Starter Deck - Red Monkey.d.luffy",
+        "set_code": "ST31",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST31-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST31-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706317/one-piece-card-game-starter-deck-31-red-monkeydluffy-monkeydluffy-st31-004",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb8900c0-284d-4dd6-b4dc-2b5e1891469b",
+        "slug": "the-world-s-strongest-warriors",
+        "name": "The World’s Strongest Warriors",
+        "set_code": "OP17",
+        "released_at": "2026-08-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST31-004/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST31-004/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does the condition \"if you have a total of 3 or more given DON!! cards\" count both the DON!! cards given to this Character and the DON!! cards given to my other Characters and Leader?",
+      "answer": "Yes, it counts both the DON!! cards given to this Character and the ones given to your other Characters and Leader.",
+      "updated_on": "2026-07-17"
+    }
+  ]
+}

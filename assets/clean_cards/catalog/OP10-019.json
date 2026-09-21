@@ -1,0 +1,150 @@
+{
+  "card_number": "OP10-019",
+  "name": "Divine Departure",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "The Four Emperors",
+    "Red-Haired Pirates"
+  ],
+  "effect": "[Main] You may rest 5 of your DON!! cards: K.O. up to 1 of your opponent's Characters with 8000 power or less.\n[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-019/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-019/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617053/one-piece-card-game-royal-blood-divine-departure",
+        "market_price": "0.42",
+        "low_price": "0.15",
+        "mid_price": "0.44",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-019/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-019/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617054/one-piece-card-game-royal-blood-divine-departure-parallel",
+        "market_price": "73.87",
+        "low_price": "66.50",
+        "mid_price": "85.00",
+        "high_price": "299.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656674/one-piece-card-game-learn-together-deck-set-divine-departure-luffy-deck",
+        "market_price": "0.15",
+        "low_price": "0.03",
+        "mid_price": "0.25",
+        "high_price": "1.30"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

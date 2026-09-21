@@ -1,0 +1,79 @@
+{
+  "card_number": "OP17-026",
+  "name": "Fugar",
+  "language": "en",
+  "set": "OP17",
+  "set_name": "The World’s Strongest Warriors",
+  "released_at": "2026-08-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Red-Haired Pirates Allies"
+  ],
+  "effect": "[When Attacking] If your Leader has the {Red-Haired Pirates} type, rest up to 1 of your opponent's Characters with a cost of 2 or less.\n[On K.O.] Draw 1 card.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb8900c0-284d-4dd6-b4dc-2b5e1891469b",
+        "slug": "the-world-s-strongest-warriors",
+        "name": "The World’s Strongest Warriors",
+        "set_code": "OP17",
+        "released_at": "2026-08-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP17-026/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP17-026/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

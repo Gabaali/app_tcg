@@ -1,0 +1,116 @@
+{
+  "card_number": "OP14-042",
+  "name": "Arlong",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 1,
+  "power": 3000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Fish-Man",
+    "The Sun Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {Fish-Man} type, look at 4 cards from the top of your deck; reveal up to 1 card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-042/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-042/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671381/one-piece-card-game-the-azure-seas-seven-arlong",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-042/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-042/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/670597/one-piece-card-game-the-azure-seas-seven-arlong-alternate-art",
+        "market_price": "3.69",
+        "low_price": "2.80",
+        "mid_price": "5.00",
+        "high_price": "42.50"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

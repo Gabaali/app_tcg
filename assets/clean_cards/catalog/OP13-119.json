@@ -1,0 +1,280 @@
+{
+  "card_number": "OP13-119",
+  "name": "Portgas.D.Ace",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Blue"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "If you have 3 or less Life cards, this Character gains [Rush].\n[On Play] Give up to 1 rested DON!! card to your Leader. Then, you may return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand. If you do, your opponent plays up to 1 Character card with a cost of 4 or less from their hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-119/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-119/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657405/one-piece-card-game-carrying-on-his-will-portgasdace-119",
+        "market_price": "1.89",
+        "low_price": "1.00",
+        "mid_price": "3.00",
+        "high_price": "420.69"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-119/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-119/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657408/one-piece-card-game-carrying-on-his-will-portgasdace-119-parallel",
+        "market_price": "19.59",
+        "low_price": "17.62",
+        "mid_price": "24.72",
+        "high_price": "199.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-119/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-119/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657409/one-piece-card-game-carrying-on-his-will-portgasdace-119-wanted-poster",
+        "market_price": "445.10",
+        "low_price": "420.00",
+        "mid_price": "489.61",
+        "high_price": "5499.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-119/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-119/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657407/one-piece-card-game-carrying-on-his-will-portgasdace-119-super-alternate-art",
+        "market_price": "1085.64",
+        "low_price": "1010.00",
+        "mid_price": "1299.95",
+        "high_price": "1550.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "54b18454-f676-45f9-8e20-50596ed037bf",
+        "slug": "treasure-cup-2026",
+        "name": "Treasure Cup 2026",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-119/ja/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-119/ja/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686280/one-piece-card-game-one-piece-promotion-cards-portgasdace-119-treasure-cup-2026",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "08ba49b3-141a-4fb4-92ed-e09527c99449",
+        "slug": "treasure-cup-2026-store",
+        "name": "Treasure Cup 2026 Store",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/682929/one-piece-card-game-one-piece-promotion-cards-portgasdace-119-treasure-cup-2026-store",
+        "market_price": "192.58",
+        "low_price": "185.00",
+        "mid_price": "218.70",
+        "high_price": "499.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I choose to return 1 of my opponent's Characters with a cost of 5 or less to their hand using this [On Play] effect, can my opponent then choose not to play a Character card with a cost of 4 or less from their hand?",
+      "answer": "Yes, they can.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "If I did not choose to return 1 of my opponent's Characters with a cost of 5 or less to their hand using this [On Play] effect, can my opponent still play a Character card with a cost of 4 or less from their hand?",
+      "answer": "No, they cannot. If you do not choose one of your opponent's Characters as the target of \"up to 1 of your opponent's Characters with a cost of 5 or less\" or if the chosen Character does not return to your opponent's hand due to another effect, your opponent cannot play a Character card with a cost of 4 or less from their hand.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "If I did not give 1 rested DON!! card to my Leader and returned 1 of my opponent's Characters with a cost of 5 or less to their hand using this [On Play] effect, can my opponent still play a Character card with a cost of 4 or less from their hand?",
+      "answer": "Yes, they can.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "I play this Character when my opponent's Leader is \"OP12-081 Koala\" then activate its [On Play] effect, leading my opponent to play a Character card with a cost of 4 or less from their hand. In this case, can my opponent activate the effect of their Leader \"OP12-081 Koala\" which says it can be activated \"when your opponent plays a Character with a base cost of 8 or more, or when your opponent plays a Character using a Character's effect\"?",
+      "answer": "No, they cannot. In this case, the player who played a Character using a Character's effect is your opponent whose Leader is \"OP12-081 Koala\".",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

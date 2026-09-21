@@ -1,0 +1,115 @@
+{
+  "card_number": "OP15-086",
+  "name": "Nami",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 8,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, play up to 1 {Straw Hat Crew} type Character with a cost of 7 or less from your trash. The Character played with this effect gains [Rush] during this turn.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-086/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-086/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685438/one-piece-card-game-adventure-on-kamis-island-nami-op15-086",
+        "market_price": "2.70",
+        "low_price": "1.95",
+        "mid_price": "3.47",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-086/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-086/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685439/one-piece-card-game-adventure-on-kamis-island-nami-op15-086-alternate-art",
+        "market_price": "97.14",
+        "low_price": "94.48",
+        "mid_price": "158.95",
+        "high_price": "7777.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

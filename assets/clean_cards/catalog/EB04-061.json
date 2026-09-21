@@ -1,0 +1,182 @@
+{
+  "card_number": "EB04-061",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "EB04",
+  "set_name": "Extra Booster 4",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Egghead",
+    "The Four Emperors",
+    "Straw Hat Crew"
+  ],
+  "effect": "If you have 1 or less Life cards, give this card in your hand −1 cost.\n[On Play] You may trash 1 card from your hand: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
+  "trigger": null,
+  "block": null,
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Matsumoto Akira",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-061/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-061/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB04-061/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB04-061/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-061/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685333/one-piece-card-game-adventure-on-kamis-island-monkeydluffy-eb04-061",
+        "market_price": "7.95",
+        "low_price": "7.49",
+        "mid_price": "10.64",
+        "high_price": "65.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-061/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-061/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685334/one-piece-card-game-adventure-on-kamis-island-monkeydluffy-eb04-061-alternate-art",
+        "market_price": "51.01",
+        "low_price": "40.00",
+        "mid_price": "55.43",
+        "high_price": "150.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb8900c0-284d-4dd6-b4dc-2b5e1891469b",
+        "slug": "the-world-s-strongest-warriors",
+        "name": "The World’s Strongest Warriors",
+        "set_code": "OP17",
+        "released_at": "2026-08-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-061/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-061/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8fcbb066-1cb0-49b5-9a6d-9645e098a033",
+        "slug": "english-version-1st-anniversary-set",
+        "name": "English Version 1st Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-061/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-061/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/675742/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-eb04-061-serial-number",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {},
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

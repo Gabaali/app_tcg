@@ -1,0 +1,121 @@
+{
+  "card_number": "OP01-067",
+  "name": "Crocodile",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 7,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Baroque Works"
+  ],
+  "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)\n[DON!! x1] Give blue Events in your hand −1 cost.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-067/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-067/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/453519/one-piece-card-game-romance-dawn-crocodile-067",
+        "market_price": "0.58",
+        "low_price": "0.30",
+        "mid_price": "0.99",
+        "high_price": "14.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-067/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-067/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454594/one-piece-card-game-romance-dawn-crocodile-067-parallel",
+        "market_price": "11.71",
+        "low_price": "8.16",
+        "mid_price": "18.45",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this [DON!! x1] effect is activated multiple times, do the costs of Event cards become less than 0?",
+      "answer": "No, they do not.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "card_number": "P-077",
+  "name": "Ulti",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Purple"
+  ],
+  "cost": 6,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "[Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and rest it. Then, set up to 1 of your purple Stages as active.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4404e746-f588-4ca0-86f4-04316fa33572",
+        "slug": "event-pack-vol-6",
+        "name": "Event Pack Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-077/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-077/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/619200/one-piece-card-game-one-piece-promotion-cards-ulti-event-pack-vol-6",
+        "market_price": "4.23",
+        "low_price": "1.82",
+        "mid_price": "5.00",
+        "high_price": "28.28"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4404e746-f588-4ca0-86f4-04316fa33572",
+        "slug": "event-pack-vol-6",
+        "name": "Event Pack Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-077/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-077/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649623/one-piece-card-game-one-piece-promotion-cards-ulti-cs-25-26-event-pack",
+        "market_price": "16.79",
+        "low_price": "9.44",
+        "mid_price": "17.47",
+        "high_price": "46.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4404e746-f588-4ca0-86f4-04316fa33572",
+        "slug": "event-pack-vol-6",
+        "name": "Event Pack Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-077/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-077/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649669/one-piece-card-game-one-piece-promotion-cards-ulti-cs-25-26-event-pack-finalist-ver",
+        "market_price": null,
+        "low_price": "398.44",
+        "mid_price": "398.72",
+        "high_price": "399.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,158 @@
+{
+  "card_number": "ST30-012",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST30",
+  "set_name": "Starter Deck - Luffy & Ace",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Impel Down",
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)\n[When Attacking] Rest up to 1 of your opponent's [Blocker] Characters.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-012/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-012/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693396/one-piece-card-game-starter-deck-ex-luffy-and-ace-monkeydluffy",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-012/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-012/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693397/one-piece-card-game-starter-deck-ex-luffy-and-ace-monkeydluffy-parallel",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-012/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-012/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I play this Character at a time when I have 4 active DON!! cards, but my number of active DON!! cards then becomes 0, can this Character still gain [Rush] from its [On Play] effect?",
+      "answer": "No, it cannot.",
+      "updated_on": "2026-05-29"
+    }
+  ]
+}

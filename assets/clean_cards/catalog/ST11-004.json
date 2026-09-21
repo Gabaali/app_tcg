@@ -1,0 +1,192 @@
+{
+  "card_number": "ST11-004",
+  "name": "New Genesis",
+  "language": "en",
+  "set": "ST11",
+  "set_name": "Starter Deck - Uta",
+  "released_at": "2024-02-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Music",
+    "FILM"
+  ],
+  "effect": "[Main] If your Leader is [Uta], look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [New Genesis] and add it to your hand. Then, place the rest at the bottom of your deck in any order and set up to 1 of your DON!! cards as active.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f11f18f0-7b8a-4b88-b3b1-bee7a4c61704",
+        "slug": "starter-deck-uta",
+        "name": "Starter Deck - Uta",
+        "set_code": "ST11",
+        "released_at": "2024-02-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST11-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST11-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/533882/one-piece-card-game-starter-deck-11-uta-new-genesis",
+        "market_price": "0.45",
+        "low_price": "0.25",
+        "mid_price": "0.50",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "601db5a3-a20e-487b-9047-d02abfe0dc89",
+        "slug": "starter-deck-green-uta",
+        "name": "Starter Deck - Green Uta",
+        "set_code": "ST16",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST11-004/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST11-004/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/580999/one-piece-card-game-starter-deck-16-green-uta-new-genesis",
+        "market_price": "0.32",
+        "low_price": "0.21",
+        "mid_price": "0.35",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0229e33e-bcaf-44c2-aaaa-90d7c33cd62d",
+        "slug": "st-11-uta-deck-battle-participation-pack",
+        "name": "ST-11 Uta Deck Battle Participation Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST11-004/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST11-004/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "787e064f-fc50-4f54-9ed3-3600b24d9cf4",
+        "slug": "starter-deck-11-uta-deck-battle",
+        "name": "Starter Deck 11: Uta Deck Battle",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/532108/one-piece-card-game-one-piece-promotion-cards-new-genesis-starter-deck-11-uta-deck-battle",
+        "market_price": "1.70",
+        "low_price": "1.00",
+        "mid_price": "2.24",
+        "high_price": "6.21"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I don't use this [Main] effect to add 1 {FILM} type card other than [New Genesis] to my hand, can I still set 1 of my DON!! cards as active?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-01-19"
+    }
+  ]
+}

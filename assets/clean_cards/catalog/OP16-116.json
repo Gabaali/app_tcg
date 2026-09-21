@@ -1,0 +1,120 @@
+{
+  "card_number": "OP16-116",
+  "name": "Zehahahahaha!",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 8,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Blackbeard Pirates"
+  ],
+  "effect": "[Main] If you have 10 DON!! cards on your field, play up to 1 [Marshall.D.Teach] from your hand. Then, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+  "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-116/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-116/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696099/one-piece-card-game-the-time-of-battle-zehahahahaha",
+        "market_price": "0.14",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "10.03"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-116/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-116/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696100/one-piece-card-game-the-time-of-battle-zehahahahaha-alternate-art",
+        "market_price": "57.90",
+        "low_price": "56.91",
+        "mid_price": "68.99",
+        "high_price": "800.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have 10 DON!! cards on my field but my opponent has 0 Life cards, can I still use this [Main] effect to play up to 1 [Marshall.D.Teach] from my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

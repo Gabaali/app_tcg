@@ -1,0 +1,195 @@
+{
+  "card_number": "ST13-001",
+  "name": "Sabo",
+  "language": "en",
+  "set": "ST13",
+  "set_name": "Starter Deck - The Three Brothers",
+  "released_at": "2024-04-19T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Dressrosa",
+    "Revolutionary Army"
+  ],
+  "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] You may add 1 of your Characters with a cost of 3 or more and 7000 power or more to the top of your Life cards face-up: Up to 1 of your Characters gains +2000 power until the start of your next turn.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.431894,
+        "y": 0.34881
+      },
+      "product": {
+        "id": "74857e5a-8364-405e-9869-6b1ed0314f12",
+        "slug": "starter-deck-the-three-brothers",
+        "name": "Starter Deck - The Three Brothers",
+        "set_code": "ST13",
+        "released_at": "2024-04-19T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST13-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST13-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/543603/one-piece-card-game-ultra-deck-the-three-brothers-sabo-001",
+        "market_price": "2.12",
+        "low_price": "1.80",
+        "mid_price": "2.75",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.435216,
+        "y": 0.358333
+      },
+      "product": {
+        "id": "74857e5a-8364-405e-9869-6b1ed0314f12",
+        "slug": "starter-deck-the-three-brothers",
+        "name": "Starter Deck - The Three Brothers",
+        "set_code": "ST13",
+        "released_at": "2024-04-19T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST13-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST13-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/543622/one-piece-card-game-ultra-deck-the-three-brothers-sabo-001-parallel",
+        "market_price": "19.41",
+        "low_price": "17.93",
+        "mid_price": "20.12",
+        "high_price": "75.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "81f0d3d7-50dc-4f5c-87a2-4a67e5f78c55",
+        "slug": "2nd-anniversary-tournament",
+        "name": "2nd Anniversary Tournament",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/600707/one-piece-card-game-one-piece-promotion-cards-sabo-2nd-anniversary-tournament",
+        "market_price": "38.77",
+        "low_price": "29.99",
+        "mid_price": "39.81",
+        "high_price": "250.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ad2ebe10-0806-434b-aa32-fa46611960c4",
+        "slug": "premium-card-collection-leader-collection",
+        "name": "Premium Card Collection -Leader Collection-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/567114/one-piece-card-game-one-piece-promotion-cards-sabo-premium-card-collection-leader-collection",
+        "market_price": "28.12",
+        "low_price": "21.00",
+        "mid_price": "27.84",
+        "high_price": "64.95"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [Activate: Main] effect to add my Character with a base power of 6000 that has had its power raised to 7000 or more by DON!! cards etc. to the top of my Life cards?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

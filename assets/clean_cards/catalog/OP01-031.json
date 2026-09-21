@@ -1,0 +1,115 @@
+{
+  "card_number": "OP01-031",
+  "name": "Kouzuki Oden",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Land of Wano",
+    "Kouzuki Clan"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] You can trash 1 {Land of Wano} type card from your hand: Set up to 2 of your DON!! cards as active.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.48549,
+        "y": 0.250869
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-031/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-031/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454551/one-piece-card-game-romance-dawn-kouzuki-oden",
+        "market_price": "0.25",
+        "low_price": "0.15",
+        "mid_price": "0.32",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.476081,
+        "y": 0.400582
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-031/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-031/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454552/one-piece-card-game-romance-dawn-kouzuki-oden-parallel",
+        "market_price": "79.42",
+        "low_price": "78.80",
+        "mid_price": "99.99",
+        "high_price": "420.69"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

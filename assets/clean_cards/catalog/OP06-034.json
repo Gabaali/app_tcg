@@ -1,0 +1,114 @@
+{
+  "card_number": "OP06-034",
+  "name": "Hyouzou",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Fish-Man"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] Rest up to 1 of your opponent's Characters with a cost of 4 or less and this Character gains +1000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-034/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-034/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541604/one-piece-card-game-wings-of-the-captain-hyouzou",
+        "market_price": "0.07",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c669e8ee-e7a0-4236-a004-685661b9aaa0",
+        "slug": "op06-release-event",
+        "name": "OP06 Release Event",
+        "set_code": null,
+        "released_at": "2024-03-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541730/one-piece-card-game-wings-of-the-captain-pre-release-cards-hyouzou",
+        "market_price": "0.84",
+        "low_price": "0.84",
+        "mid_price": "0.97",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

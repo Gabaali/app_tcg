@@ -1,0 +1,116 @@
+{
+  "card_number": "OP11-030",
+  "name": "Shirahoshi",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 1,
+  "power": 0,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Merfolk",
+    "Fish-Man Island"
+  ],
+  "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Look at 5 cards from the top of your deck; reveal up to 1 {Neptunian} or {Fish-Man Island} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-030/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-030/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632392/one-piece-card-game-a-fist-of-divine-speed-shirahoshi-030",
+        "market_price": "0.22",
+        "low_price": "0.03",
+        "mid_price": "0.25",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "751b9e7d-4ddb-4beb-b30a-acbe44cdbfa8",
+        "slug": "judge-pack-vol-7",
+        "name": "Judge Pack Vol. 7",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668199/one-piece-card-game-one-piece-promotion-cards-shirahoshi-judge-pack-vol-7",
+        "market_price": "4.64",
+        "low_price": "2.96",
+        "mid_price": "4.66",
+        "high_price": "20.77"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

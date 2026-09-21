@@ -1,0 +1,84 @@
+{
+  "card_number": "ST09-008",
+  "name": "Shimotsuki Ushimaru",
+  "language": "en",
+  "set": "ST09",
+  "set_name": "Starter Deck - Yamato",
+  "released_at": "2023-08-11T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Land of Wano"
+  ],
+  "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 yellow {Land of Wano} type Character card with a cost of 4 or less from your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "66b34943-e12d-4253-ad69-0e99a5dc63c0",
+        "slug": "starter-deck-yamato",
+        "name": "Starter Deck - Yamato",
+        "set_code": "ST09",
+        "released_at": "2023-08-11T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST09-008/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST09-008/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/504455/one-piece-card-game-starter-deck-9-yamato-shimotsuki-ushimaru",
+        "market_price": "0.10",
+        "low_price": "0.03",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If the card added from my Life cards to my hand by this [When Attacking] effect is a \"yellow {Land of Wano} type Character card with a cost of 4 or less\", can I use this effect to play that card?",
+      "answer": "Yes, you can.",
+      "updated_on": "2023-07-28"
+    }
+  ]
+}

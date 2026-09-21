@@ -1,0 +1,87 @@
+{
+  "card_number": "OP17-089",
+  "name": "Jaguar.D.Saul",
+  "language": "en",
+  "set": "OP17",
+  "set_name": "The World’s Strongest Warriors",
+  "released_at": "2026-08-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Giant",
+    "Elbaph",
+    "Former Navy"
+  ],
+  "effect": "This Character gains +12 cost.\n[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Elbaph} type card and add it to your hand. Then, trash the rest.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb8900c0-284d-4dd6-b4dc-2b5e1891469b",
+        "slug": "the-world-s-strongest-warriors",
+        "name": "The World’s Strongest Warriors",
+        "set_code": "OP17",
+        "released_at": "2026-08-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP17-089/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP17-089/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does the effect “This Character gains +12 cost.” also give this card +12 cost while it is in my hand, trash, or deck?",
+      "answer": "No. This effect only gives this Character +12 cost while this card is on the field.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

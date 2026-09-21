@@ -1,0 +1,183 @@
+{
+  "card_number": "OP15-119",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Sky Island",
+    "Straw Hat Crew"
+  ],
+  "effect": "If you have 6 or more DON!! cards on your field, this Character gains [Rush].\nWhen your opponent activates an Event or [Blocker], reveal up to 1 card from the top of your Life cards. This Character gains +1000 power during this turn per 1 cost on the revealed card.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-119/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-119/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685480/one-piece-card-game-adventure-on-kamis-island-monkeydluffy-op15-119",
+        "market_price": "10.47",
+        "low_price": "9.71",
+        "mid_price": "14.61",
+        "high_price": "78.50"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-119/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-119/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685481/one-piece-card-game-adventure-on-kamis-island-monkeydluffy-op15-119-alternate-art",
+        "market_price": "43.07",
+        "low_price": "39.74",
+        "mid_price": "49.67",
+        "high_price": "200.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8fcbb066-1cb0-49b5-9a6d-9645e098a033",
+        "slug": "english-version-1st-anniversary-set",
+        "name": "English Version 1st Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/710742/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-op15-119",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If the top card of my Life cards is already face-up, can I still use this Character's \"When your opponent activates an Event or [Blocker]\" effect to power up my Character?",
+      "answer": "Yes, you can. In this case, declare that you are revealing the face-up Life card, and your Character will get +1000 power per 1 cost on the revealed card.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "If my opponent activates the [On Play] effect of their \"OP15-046 Sabo\", can I use this Character's \"When your opponent activates an Event or [Blocker]\" effect to power up my Character?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "My opponent used the [On Play] effect of their \"EB03- 031 Vinsmoke Reiju\" to activate the [Main] effect of an Event card in their trash. In this case, can I use this Character's \"When your opponent activates an Event or [Blocker]\" effect to power up my Character?",
+      "answer": "No, you cannot. Activating an Event and using a [Main] effect are considered two different things.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "If my opponent activates an Event's [Trigger] effect, can I use this Character's \"When your opponent activates an Event or [Blocker]\" effect to power up my Character?",
+      "answer": "No, you cannot. Activating an Event and using a [Trigger] are considered two different things.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "My opponent activated an Event [Trigger] using one of the following effects: \"[Trigger] Activate this card's [Main] effect.\" or \"[Trigger] Activate this card's [Counter] effect.\" In this case, can I use this Character's \"When your opponent activates an Event or [Blocker]\" effect to power up my Character?",
+      "answer": "No, you cannot. Activating an Event and using a [Trigger] are considered two different things.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "If I have 0 Life cards, can I still use this Character's \"When your opponent activates an Event or [Blocker]\" effect to power up my Character?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

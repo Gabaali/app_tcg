@@ -1,0 +1,337 @@
+{
+  "card_number": "ST21-003",
+  "name": "Sanji",
+  "language": "en",
+  "set": "ST21",
+  "set_name": "Starter Deck - GEAR5",
+  "released_at": "2025-03-14T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 2,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] Select up to 1 of your {Straw Hat Crew} type Characters with 6000 power or more. If the selected Character attacks during this turn, your opponent cannot activate [Blocker].",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "06421026-ff8e-422d-b224-2037853f88ea",
+        "slug": "starter-deck-gear5",
+        "name": "Starter Deck - GEAR5",
+        "set_code": "ST21",
+        "released_at": "2025-03-14T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/615568/one-piece-card-game-starter-deck-ex-gear-5-sanji",
+        "market_price": "2.61",
+        "low_price": "1.95",
+        "mid_price": "4.00",
+        "high_price": "6.66"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "06421026-ff8e-422d-b224-2037853f88ea",
+        "slug": "starter-deck-gear5",
+        "name": "Starter Deck - GEAR5",
+        "set_code": "ST21",
+        "released_at": "2025-03-14T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/615569/one-piece-card-game-starter-deck-ex-gear-5-sanji-parallel",
+        "market_price": "10.51",
+        "low_price": "9.52",
+        "mid_price": "13.61",
+        "high_price": "80.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-003/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-003/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/655997/one-piece-card-game-premium-booster-the-best-vol-2-sanji-st21-003-reprint",
+        "market_price": "0.56",
+        "low_price": "0.05",
+        "mid_price": "0.50",
+        "high_price": "3.11"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-003/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-003/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656657/one-piece-card-game-learn-together-deck-set-sanji-st21-003-luffy-deck",
+        "market_price": "0.30",
+        "low_price": "0.05",
+        "mid_price": "0.27",
+        "high_price": "2.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-003/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-003/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656000/one-piece-card-game-premium-booster-the-best-vol-2-sanji-st21-003-pirate-foil",
+        "market_price": "0.94",
+        "low_price": "0.25",
+        "mid_price": "0.98",
+        "high_price": "5.99"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1d2bcb99-3f82-4b46-ba76-6121dfee253d",
+        "slug": "best-selection-vol-6",
+        "name": "Best Selection Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-003/en/stock/7/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-003/en/stock/7/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "57d1f126-0349-4330-a1b6-971a84138e3b",
+        "slug": "premium-card-collection-best-selection-vol-6",
+        "name": "Premium Card Collection -Best Selection Vol. 6-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/694886/one-piece-card-game-one-piece-promotion-cards-sanji-premium-card-collection-best-selection-vol-6",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f9b714d7-04fa-4489-972d-9974596db7aa",
+        "slug": "welcome-pack-2026-vol-1",
+        "name": "Welcome Pack 2026 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693117/one-piece-card-game-one-piece-promotion-cards-sanji-welcome-pack-2026-vol1",
+        "market_price": "2.31",
+        "low_price": "1.91",
+        "mid_price": "2.57",
+        "high_price": "13.74"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "After the Character selected by this [On Play] effect finishes attacking, if another Character or Leader attacks during the same turn, can my opponent activate [Blocker]?",
+      "answer": "Yes, they can.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

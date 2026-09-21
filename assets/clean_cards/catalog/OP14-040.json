@@ -1,0 +1,123 @@
+{
+  "card_number": "OP14-040",
+  "name": "Jinbe",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Fish-Man",
+    "The Seven Warlords of the Sea",
+    "The Sun Pirates"
+  ],
+  "effect": "[Activate: Main] You may trash 1 card from your hand: Give up to 2 rested DON!! cards to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Chiharu Akakura",
+      "crop_focus": {
+        "x": 0.531407,
+        "y": 0.255498
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-040/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-040/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP14-040/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP14-040/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-040/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668568/one-piece-card-game-the-azure-seas-seven-jinbe-op14-040",
+        "market_price": "0.15",
+        "low_price": "0.01",
+        "mid_price": "0.18",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.624585,
+        "y": 0.286905
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-040/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-040/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668569/one-piece-card-game-the-azure-seas-seven-jinbe-op14-040-alternate-art",
+        "market_price": "10.69",
+        "low_price": "9.95",
+        "mid_price": "14.08",
+        "high_price": "55.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When I have 4 rested DON!! cards and 2 or more cards in my hand, can I activate this card's [Activate: Main] effect twice?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-06-26"
+    }
+  ]
+}

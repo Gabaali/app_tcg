@@ -1,0 +1,85 @@
+{
+  "card_number": "ST33-004",
+  "name": "Borsalino",
+  "language": "en",
+  "set": "ST33",
+  "set_name": "Starter Deck - Blue Kuzan",
+  "released_at": "2026-07-31T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 6,
+  "power": 6000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "During the turn in which a card in your hand is trashed by an effect, give this card in your hand −3 cost.\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "11252aff-74e2-4d7d-9ab3-30972560e6bf",
+        "slug": "starter-deck-blue-kuzan",
+        "name": "Starter Deck - Blue Kuzan",
+        "set_code": "ST33",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST33-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST33-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706335/one-piece-card-game-starter-deck-33-blue-kuzan-borsalino",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If a card in my hand is trashed by my opponent's effect, will this card in my hand be given −3 cost during that turn?",
+      "answer": "Yes, it will be given −3 cost.",
+      "updated_on": "2026-07-17"
+    }
+  ]
+}

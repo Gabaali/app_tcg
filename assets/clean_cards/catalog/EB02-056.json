@@ -1,0 +1,116 @@
+{
+  "card_number": "EB02-056",
+  "name": "Vegapunk",
+  "language": "en",
+  "set": "EB02",
+  "set_name": "Anime 25th Collection",
+  "released_at": "2025-05-09T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 5,
+  "power": 0,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Scientist",
+    "Egghead"
+  ],
+  "effect": "[Blocker]\n[On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
+  "trigger": "[Trigger] Draw 1 card.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-056/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-056/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629159/one-piece-card-game-extra-booster-anime-25th-collection-vegapunk",
+        "market_price": "1.63",
+        "low_price": "1.00",
+        "mid_price": "3.00",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-056/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-056/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629160/one-piece-card-game-extra-booster-anime-25th-collection-vegapunk-alternate-art",
+        "market_price": "17.01",
+        "low_price": "15.31",
+        "mid_price": "19.94",
+        "high_price": "226.50"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

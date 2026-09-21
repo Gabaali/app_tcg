@@ -1,0 +1,358 @@
+{
+  "card_number": "OP09-093",
+  "name": "Marshall.D.Teach",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Blackbeard Pirates"
+  ],
+  "effect": "[Blocker]\n[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-093/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-093/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597034/one-piece-card-game-emperors-in-the-new-world-marshalldteach-093",
+        "market_price": "1.70",
+        "low_price": "1.25",
+        "mid_price": "2.99",
+        "high_price": "99.90"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-093/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-093/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597036/one-piece-card-game-emperors-in-the-new-world-marshalldteach-093-alternate-art",
+        "market_price": "29.55",
+        "low_price": "20.00",
+        "mid_price": "31.00",
+        "high_price": "49.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-093/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-093/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597037/one-piece-card-game-emperors-in-the-new-world-marshalldteach-093-wanted-poster",
+        "market_price": "256.77",
+        "low_price": "243.99",
+        "mid_price": "279.99",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-093/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-093/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597035/one-piece-card-game-emperors-in-the-new-world-marshalldteach-093-manga",
+        "market_price": "1999.99",
+        "low_price": "2000.99",
+        "mid_price": "11000.50",
+        "high_price": "20000.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Gold SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-093/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-093/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646573/one-piece-card-game-legacy-of-the-master-marshalldteach-sp-gold",
+        "market_price": "1894.05",
+        "low_price": "1396.16",
+        "mid_price": "1600.00",
+        "high_price": "4899.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Silver SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-093/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-093/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646572/one-piece-card-game-legacy-of-the-master-marshalldteach-sp-silver",
+        "market_price": "1194.98",
+        "low_price": "975.00",
+        "mid_price": "1349.98",
+        "high_price": "2000.00"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-093/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-093/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656089/one-piece-card-game-premium-booster-the-best-vol-2-marshalldteach-op09-093-reprint",
+        "market_price": "1.12",
+        "low_price": "0.70",
+        "mid_price": "1.41",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-093/ja/stock/7/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-093/ja/stock/7/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635478/one-piece-card-game-one-piece-promotion-cards-marshalldteach-093-english-version-2nd-anniversary-set",
+        "market_price": "80.16",
+        "low_price": "74.00",
+        "mid_price": "83.73",
+        "high_price": "299.95"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I negate the effect \"Under the rules of this game, you may have any number of this card in your deck.\" using this card's effect?",
+      "answer": "Yes, you can. However, even if your opponent has 5 or more cards in their deck that are the same as the card that had its effect negated, it will have no effect on the match.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "I used this card's effect to negate the effect of my opponent's Leader for one turn when my opponent's Leader was \"OP03- 040 Nami\". What happens if my opponent's deck is reduced to 0 during that turn?",
+      "answer": "In this case, your opponent will lose the game.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "If a Character that had its effect negated by this card's effect is K.O.'d, can that Character's [On K.O.] effect be activated?",
+      "answer": "No, it cannot.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "If the card I choose for this card's effect is also receiving effects from another card, will this card's effect negate those effects as well?",
+      "answer": "No, it will not.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "How long will the Character chosen as the target for this [Activate: Main] effect be unable to attack?",
+      "answer": "It will be unable to attack until the end of your opponent's next turn.",
+      "updated_on": "2024-11-29"
+    }
+  ]
+}

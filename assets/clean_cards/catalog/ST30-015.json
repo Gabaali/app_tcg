@@ -1,0 +1,119 @@
+{
+  "card_number": "ST30-015",
+  "name": "The Name of This Era Is \"Whitebeard\"!!",
+  "language": "en",
+  "set": "ST30",
+  "set_name": "Starter Deck - Luffy & Ace",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "[Counter] If you have 2 or more Characters with 6000 base power, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+  "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-015/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-015/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/695442/one-piece-card-game-starter-deck-ex-luffy-and-ace-the-name-of-this-era-is-whitebeard",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-015/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-015/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/695443/one-piece-card-game-starter-deck-ex-luffy-and-ace-the-name-of-this-era-is-whitebeard-parallel",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does \"Characters with 6000 base power\" also include Characters with 5000 base power or less?",
+      "answer": "No, they must be Characters card with exactly 6000 base power.",
+      "updated_on": "2026-05-29"
+    }
+  ]
+}

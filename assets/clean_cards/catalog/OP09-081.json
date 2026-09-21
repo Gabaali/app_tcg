@@ -1,0 +1,219 @@
+{
+  "card_number": "OP09-081",
+  "name": "Marshall.D.Teach",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Blackbeard Pirates"
+  ],
+  "effect": "Your [On Play] effects are negated.\n[Activate: Main] You may trash 1 card from your hand: Your opponent's [On Play] effects are negated until the end of your opponent's next turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE General Animation Director: Tu Yongce",
+      "crop_focus": {
+        "x": 0.499243,
+        "y": 0.193377
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-081/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-081/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP09-081/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP09-081/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-081/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597021/one-piece-card-game-emperors-in-the-new-world-marshalldteach-081",
+        "market_price": "0.15",
+        "low_price": "0.04",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.453488,
+        "y": 0.230952
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-081/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-081/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597022/one-piece-card-game-emperors-in-the-new-world-marshalldteach-081-parallel",
+        "market_price": "24.14",
+        "low_price": "19.00",
+        "mid_price": "27.00",
+        "high_price": "120.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.443522,
+        "y": 0.194048
+      },
+      "product": {
+        "id": "b05d19ca-6976-4e52-8bbb-589e77db9b75",
+        "slug": "starter-deck-black-marshall-d-teach",
+        "name": "Starter Deck - Black Marshall.d.teach",
+        "set_code": "ST27",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-081/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-081/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632819/one-piece-card-game-starter-deck-27-black-marshalldteach-marshalldteach-op09-081",
+        "market_price": "0.94",
+        "low_price": "0.49",
+        "mid_price": "1.07",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-081/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-081/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635472/one-piece-card-game-one-piece-promotion-cards-marshalldteach-english-version-2nd-anniversary-set",
+        "market_price": "77.80",
+        "low_price": "67.64",
+        "mid_price": "91.50",
+        "high_price": "399.95"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "My opponent took damage during the same turn in which I used this [Activate: Main] effect, and their Life card was \"OP08- 106 Nami\". What happens to the \"[Trigger] Activate this card's [On Play] effect.\" on \"OP08-106 Nami\" in this case?",
+      "answer": "In this case, your opponent can choose to activate the [Trigger] effect on \"OP08-106 Nami\", but because [On Play] effects are negated, nothing will happen and [OP08-106 Nami] will be trashed.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "Can I use cards with [On Play] effects in a deck with this Leader?",
+      "answer": "Yes, you can include cards with [On Play] effects in the same deck as this Leader. However, all [On Play] effects will be negated due to this Leader's effect.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "If my opponent plays a Character with an [On Play]/[When Attacking] effect on the turn after I used this [Activate: Main] effect, will my opponent be able to activate that Character's [On Play]/[When Attacking] effect?",
+      "answer": "No, they will not.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "If my opponent attacks with a Character with an [On Play]/[When Attacking] effect on the turn after I used this [Activate: Main] effect, will my opponent be able to activate that Character's [On Play]/[When Attacking] effect?",
+      "answer": "Yes, they will.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "I used this [Activate: Main] effect when my opponent's Leader was \"PRB01-001 Sanji\", and my opponent played a Character with an [On Play] effect the next turn. Can my opponent use the [Activate: Main] effect on \"PRB01-001 Sanji\" on that Character?",
+      "answer": "No, they cannot.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "While [On Play] effects are being negated by this card, are my Characters with only [On Play] effects treated as Characters with no base effects?",
+      "answer": "No, they are not.",
+      "updated_on": "2024-11-29"
+    }
+  ]
+}

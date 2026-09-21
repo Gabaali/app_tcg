@@ -1,0 +1,80 @@
+{
+  "card_number": "OP15-085",
+  "name": "Tony Tony.Chopper",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 2,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal",
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] Trash 3 cards from the top of your deck.\n[Activate: Main] You may trash this Character: If your Leader has the {Straw Hat Crew} type, add up to 1 {Straw Hat Crew} type Character card other than [Tony Tony.Chopper] from your trash to your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "sacanahen",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-085/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-085/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-085/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-085/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-085/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685437/one-piece-card-game-adventure-on-kamis-island-tony-tonychopper-op15-085",
+        "market_price": "0.48",
+        "low_price": "0.21",
+        "mid_price": "0.64",
+        "high_price": "90.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

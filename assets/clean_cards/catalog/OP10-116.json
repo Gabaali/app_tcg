@@ -1,0 +1,89 @@
+{
+  "card_number": "OP10-116",
+  "name": "Damned Punk",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Supernovas",
+    "Kid Pirates"
+  ],
+  "effect": "[Main] Look at up to 1 card from the top of your or your opponent's Life cards and place it at the top or bottom of the Life cards. Then, K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-116/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-116/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617167/one-piece-card-game-royal-blood-damned-punk",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.23",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Using this [Main] effect, if there are no Life cards to look at, can I still K.O. up to 1 of your opponent's Characters with a cost of 5 or less?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "Using this [Main] effect, can I look at a card that is face-up in my or my opponent's Life cards, and still K.O. up to 1 of my opponent's Characters with a cost of 5 or less?",
+      "answer": "Yes, you can. In this case, after looking at the face-up card, it will remain face-up once you place it at the top or bottom of the Life cards.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

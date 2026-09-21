@@ -1,0 +1,132 @@
+{
+  "card_number": "PRB02-004",
+  "name": "Jewelry Bonney",
+  "language": "en",
+  "set": "PRB02",
+  "set_name": "One Piece Card the Best Vol.2",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Bonney Pirates"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Your Opponent's Attack] [Once Per Turn] Set up to 1 of your DON!! cards as active.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653263/one-piece-card-game-premium-booster-the-best-vol-2-jewelry-bonney-prb02-004",
+        "market_price": "1.10",
+        "low_price": "0.49",
+        "mid_price": "1.78",
+        "high_price": "19.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-004/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-004/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653264/one-piece-card-game-premium-booster-the-best-vol-2-jewelry-bonney-prb02-004-alternate-art",
+        "market_price": "11.80",
+        "low_price": "10.49",
+        "mid_price": "14.58",
+        "high_price": "420.69"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I was attacked by my opponent's Character, and used this Character's [On Your Opponent's Attack] effect to set 1 of my DON!! cards to active. Can I then use the [On Your Opponent's Attack] effect of my Leader \"OP07-019 Jewelry Bonney\" to rest that DON!! card during the same attack?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-09-19"
+    },
+    {
+      "question": "If I'm attacked by my opponent when I only have active DON!! cards in my cost area, can I choose not to use this [On Your Opponent's Attack] effect, use an Event or other card to rest 1 of my DON!! cards during that attack, and then use this effect the next time my opponent attacks?",
+      "answer": "No, you cannot. [On Your Opponent's Attack] effects will always activate when your opponent attacks, and even if you do not set 1 of your DON!! cards as active, you cannot activate it again for the rest of the turn.",
+      "updated_on": "2025-09-19"
+    },
+    {
+      "question": "If my opponent's Character attacks and its [When Attacking] effect removes this Character from the field, can I still activate this Character's [On Your Opponent's Attack] effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-09-19"
+    }
+  ]
+}

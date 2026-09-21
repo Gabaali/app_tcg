@@ -1,0 +1,120 @@
+{
+  "card_number": "OP01-091",
+  "name": "King",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "[Your Turn] If you have 10 DON!! cards on your field, give all of your opponent's Characters −1000 power.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.513289,
+        "y": 0.146429
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-091/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-091/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454622/one-piece-card-game-romance-dawn-king-091",
+        "market_price": "0.31",
+        "low_price": "0.10",
+        "mid_price": "0.33",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.508306,
+        "y": 0.286905
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-091/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-091/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454623/one-piece-card-game-romance-dawn-king-091-parallel",
+        "market_price": "90.57",
+        "low_price": "81.60",
+        "mid_price": "90.57",
+        "high_price": "399.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does \"If you have 10 DON!! cards on your field\" mean 10 DON!! cards including any given to my Leader or Characters?",
+      "answer": "Yes. All DON!! cards in your Leader area, Character area, Stage area, and cost area are counted.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

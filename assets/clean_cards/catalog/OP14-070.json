@@ -1,0 +1,121 @@
+{
+  "card_number": "OP14-070",
+  "name": "Buffalo",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Purple"
+  ],
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Donquixote Pirates"
+  ],
+  "effect": "When this Character becomes rested by your opponent's Character's effect, you may return 1 DON!! card from your field to your DON!! deck. If you do, set this Character as active.\n[Blocker]",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "HISASHI HUJIWARA",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-070/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-070/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP14-070/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP14-070/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-070/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671405/one-piece-card-game-the-azure-seas-seven-buffalo",
+        "market_price": "0.04",
+        "low_price": "0.01",
+        "mid_price": "0.10",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ce25b280-f59a-476e-af73-c3609ea30d09",
+        "slug": "op14-release-event",
+        "name": "OP14 Release Event",
+        "set_code": null,
+        "released_at": "2026-01-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671832/one-piece-card-game-the-azure-seas-seven-release-event-cards-buffalo",
+        "market_price": "0.90",
+        "low_price": "0.70",
+        "mid_price": "0.95",
+        "high_price": "2.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When this Character activates [Blocker], can I use this Character's effect to return 1 DON!! card on my field to my DON!! deck and set this Character as active?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-06-26"
+    }
+  ]
+}

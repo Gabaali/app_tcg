@@ -1,0 +1,116 @@
+{
+  "card_number": "PRB02-009",
+  "name": "Mr.3(Galdino)",
+  "language": "en",
+  "set": "PRB02",
+  "set_name": "One Piece Card the Best Vol.2",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Cross Guild",
+    "Former Baroque Works"
+  ],
+  "effect": "This effect can be activated when this Character is rested by your opponent's effect. You may trash this Character and draw 2 cards.\n[Blocker]",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-009/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-009/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653397/one-piece-card-game-premium-booster-the-best-vol-2-mr3galdino-prb02-009",
+        "market_price": "0.54",
+        "low_price": "0.30",
+        "mid_price": "0.70",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-009/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-009/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653398/one-piece-card-game-premium-booster-the-best-vol-2-mr3galdino-prb02-009-alternate-art",
+        "market_price": "7.99",
+        "low_price": "5.49",
+        "mid_price": "9.97",
+        "high_price": "35.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

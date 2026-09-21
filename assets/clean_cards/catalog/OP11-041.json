@@ -1,0 +1,240 @@
+{
+  "card_number": "OP11-041",
+  "name": "Nami",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Your Turn] [Once Per Turn] This effect can be activated when a card is removed from your or your opponent's Life cards. If you have 7 or less cards in your hand, draw 1 card.\n[DON!! x1] [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: This Leader gains +2000 power during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.355482,
+        "y": 0.255952
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-041/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-041/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632405/one-piece-card-game-a-fist-of-divine-speed-nami-041",
+        "market_price": "0.18",
+        "low_price": "0.05",
+        "mid_price": "0.24",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.509967,
+        "y": 0.327381
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-041/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-041/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632406/one-piece-card-game-a-fist-of-divine-speed-nami-041-alternate-art",
+        "market_price": "77.21",
+        "low_price": "75.01",
+        "mid_price": "89.04",
+        "high_price": "350.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.405316,
+        "y": 0.289286
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-041/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-041/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656678/one-piece-card-game-learn-together-deck-set-nami-op11-041-nami-deck",
+        "market_price": "9.78",
+        "low_price": "6.59",
+        "mid_price": "11.00",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.478405,
+        "y": 0.287753
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-041/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-041/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ac43bde9-6dc9-4ee1-8486-83acca9d057b",
+        "slug": "whole-cake-island-arc",
+        "name": "Whole Cake Island Arc",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/675637/one-piece-card-game-one-piece-promotion-cards-nami-whole-cake-island-arc",
+        "market_price": "837.70",
+        "low_price": "1197.95",
+        "mid_price": "1499.00",
+        "high_price": "6969.69"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I also activate this [Your Turn] effect when a card is removed from my Life cards?",
+      "answer": "Yes, you can. This effect can be activated regardless of whether the card is removed from your Life cards or your opponent's Life cards.",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "During my turn, I used the [On Play] effect of \"OP06- 106 Kouzuki Hiyori\" to add a card from my Life cards to my hand, then add a card from my hand to my Life cards. Can I activate this Leader's [Your Turn] effect at this time?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "During my turn, I used the [On Play] effect of \"EB01- 052 Viola\" to look at all of my opponent's Life cards and place them back in their Life area in any order. Can I activate this Leader's [Your Turn] effect at this time?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-05-23"
+    }
+  ]
+}

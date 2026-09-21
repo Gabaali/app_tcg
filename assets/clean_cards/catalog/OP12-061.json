@@ -1,0 +1,138 @@
+{
+  "card_number": "OP12-061",
+  "name": "Donquixote Rosinante",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Purple",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy",
+    "Donquixote Pirates"
+  ],
+  "effect": "[Once Per Turn] If your [Trafalgar Law] would be K.O.'d, you may add 1 card from the top of your Life cards to your hand instead.\n[Activate: Main] [Once Per Turn] DON!! −1: The next time you play [Trafalgar Law] with a cost of 4 or more from your hand during this turn, the cost will be reduced by 2.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.395349,
+        "y": 0.215476
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-061/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-061/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643798/one-piece-card-game-legacy-of-the-master-donquixote-rosinante-061",
+        "market_price": "0.17",
+        "low_price": "0.02",
+        "mid_price": "0.18",
+        "high_price": "2.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.637874,
+        "y": 0.261905
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-061/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-061/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643799/one-piece-card-game-legacy-of-the-master-donquixote-rosinante-061-alternate-art",
+        "market_price": "42.88",
+        "low_price": "37.00",
+        "mid_price": "44.88",
+        "high_price": "125.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this card's first effect to \"add 1 card from the top of my Life cards to my hand\" when I have no Life cards remaining?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "After activating this [Activate: Main] effect, I played a Character from my hand that was not [Trafalgar Law]. Will the next [Trafalgar Law] with a cost of 4 or more that I play from my hand still have its cost reduced by 2?",
+      "answer": "Yes, it will.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "After activating this [Activate: Main] effect, I played a [Trafalgar Law] with a cost of 3 or less from my hand. Will the next [Trafalgar Law] with a cost of 4 or more that I play from my hand still have its cost reduced by 2?",
+      "answer": "Yes, it will.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "After activating this [Activate: Main] effect, I used the effect of another card to play [Trafalgar Law] with a cost of 4 or more from my hand without paying the cost. Will the next [Trafalgar Law] with a cost of 4 or more that I play from my hand still have its cost reduced by 2?",
+      "answer": "Yes, it will.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

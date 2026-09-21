@@ -1,0 +1,224 @@
+{
+  "card_number": "OP06-067",
+  "name": "Vinsmoke Yonji",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Purple"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "The Vinsmoke Family",
+    "GERMA 66"
+  ],
+  "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power.\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-067/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-067/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541071/one-piece-card-game-wings-of-the-captain-vinsmoke-yonji-067",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-067/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-067/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-067/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-067/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/587235/one-piece-card-game-premium-booster-the-best-vinsmoke-yonji-op06-067-jolly-roger-foil",
+        "market_price": "0.24",
+        "low_price": "0.10",
+        "mid_price": "0.25",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-067/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-067/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593555/one-piece-card-game-premium-booster-the-best-vinsmoke-yonji-op06-067-full-art",
+        "market_price": "2.88",
+        "low_price": "1.99",
+        "mid_price": "3.78",
+        "high_price": "15.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-067/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-067/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/587236/one-piece-card-game-premium-booster-the-best-vinsmoke-yonji-op06-067-alternate-art",
+        "market_price": "5.37",
+        "low_price": "4.00",
+        "mid_price": "5.48",
+        "high_price": "27.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,85 @@
+{
+  "card_number": "OP09-101",
+  "name": "Kuzan",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[On Play] Place 1 of your opponent's Characters with a cost of 3 or less at the top or bottom of your opponent's Life cards face-up: Your opponent trashes 1 card from their hand.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-101/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-101/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597045/one-piece-card-game-emperors-in-the-new-world-kuzan",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "7.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I still activate this [On Play] effect even if it is not possible to place 1 of my opponent's Characters with a cost of 3 or less in their Life cards?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-11-29"
+    }
+  ]
+}

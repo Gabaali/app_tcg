@@ -1,0 +1,113 @@
+{
+  "card_number": "OP13-099",
+  "name": "The Empty Throne",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Stage",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 7,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Mary Geoise"
+  ],
+  "effect": "[Your Turn] If you have 19 or more cards in your trash, your Leader gains +1000 power.\n[Activate: Main] You may rest this card and 3 of your DON!! cards: Play up to 1 black {Five Elders} type Character card with a cost equal to or less than the number of DON!! cards on your field from your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-099/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-099/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657376/one-piece-card-game-carrying-on-his-will-the-empty-throne",
+        "market_price": "0.06",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "20.04"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "922d2baa-04f8-4395-88de-00af294dd8a8",
+        "slug": "op13-release-event",
+        "name": "OP13 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/661410/one-piece-card-game-carrying-on-his-will-3rd-anniversary-tournament-cards-the-empty-throne",
+        "market_price": "2.61",
+        "low_price": "1.80",
+        "mid_price": "3.00",
+        "high_price": "29.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

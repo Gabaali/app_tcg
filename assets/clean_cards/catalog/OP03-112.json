@@ -1,0 +1,481 @@
+{
+  "card_number": "OP03-112",
+  "name": "Charlotte Pudding",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or {Big Mom Pirates} type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-112/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-112/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/500085/one-piece-card-game-pillars-of-strength-charlotte-pudding",
+        "market_price": "0.25",
+        "low_price": "0.15",
+        "mid_price": "0.31",
+        "high_price": "35.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-112/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-112/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/500086/one-piece-card-game-pillars-of-strength-charlotte-pudding-alternate-art",
+        "market_price": "14.40",
+        "low_price": "13.00",
+        "mid_price": "20.70",
+        "high_price": "420.69"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-112/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-112/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558020/one-piece-card-game-two-legends-charlotte-pudding-sp",
+        "market_price": "97.13",
+        "low_price": "90.00",
+        "mid_price": "102.78",
+        "high_price": "300.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a2526a93-4cba-45d0-820a-428bacbd275c",
+        "slug": "starter-deck-yellow-charlotte-katakuri",
+        "name": "Starter Deck - Yellow Charlotte Katakuri",
+        "set_code": "ST20",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-112/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-112/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581055/one-piece-card-game-starter-deck-20-yellow-charlotte-katakuri-charlotte-pudding-op03-112",
+        "market_price": "0.16",
+        "low_price": "0.02",
+        "mid_price": "0.22",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "638bdd9f-5e87-4534-879e-385ddd36560b",
+        "slug": "regional-2024-wave2",
+        "name": "Regional 2024 Wave2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-112/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-112/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "638bdd9f-5e87-4534-879e-385ddd36560b",
+        "slug": "regional-2024-wave2",
+        "name": "Regional 2024 Wave2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-112/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-112/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "638bdd9f-5e87-4534-879e-385ddd36560b",
+        "slug": "regional-2024-wave2",
+        "name": "Regional 2024 Wave2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-112/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-112/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "98de4980-afda-4429-aed5-42e82aece262",
+        "slug": "judge-pack-vol-2",
+        "name": "Judge Pack Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/514063/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-judge-pack-vol-2",
+        "market_price": "7.78",
+        "low_price": "8.75",
+        "mid_price": "26.49",
+        "high_price": "54.98"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5cb40d27-7f26-4830-b28f-8c9d2e8ad076",
+        "slug": "tournament-pack-2024-oct-dec-2",
+        "name": "Tournament Pack 2024 Oct.-Dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/583735/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-tournament-pack-2024-oct-dec",
+        "market_price": "0.31",
+        "low_price": "0.12",
+        "mid_price": "0.36",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c3c341f6-dde8-4e93-ac99-75069e562034",
+        "slug": "cs-25-26-celebration-pack-2",
+        "name": "CS 25-26 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649634/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-112-cs-25-26-celebration-pack",
+        "market_price": "73.36",
+        "low_price": "199.99",
+        "mid_price": "249.99",
+        "high_price": "250.00"
+      }
+    },
+    {
+      "index": 10,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a08bada6-e981-469d-8fa8-171a3c479d49",
+        "slug": "winner-pack-2024-oct-dec",
+        "name": "Winner Pack 2024 Oct.-Dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/583736/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-winner-pack-2024-oct-dec",
+        "market_price": "7.87",
+        "low_price": "6.29",
+        "mid_price": "8.99",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 11,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "31b1de63-6961-4d0f-94c2-db31f8787a81",
+        "slug": "championship-2024",
+        "name": "Championship 2024",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/561184/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-championship-2024",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to add a [Sanji] without the {Big Mom Pirates} type to my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

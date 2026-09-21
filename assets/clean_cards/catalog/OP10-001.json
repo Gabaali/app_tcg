@@ -1,0 +1,117 @@
+{
+  "card_number": "OP10-001",
+  "name": "Smoker",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Green"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Punk Hazard",
+    "Navy"
+  ],
+  "effect": "[Opponent's Turn] All of your {Navy} or {Punk Hazard} type Characters gain +1000 power.\n[Activate: Main] [Once Per Turn] If you have a Character with 7000 power or more, set up to 2 of your DON!! cards as active.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.423588,
+        "y": 0.128571
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617030/one-piece-card-game-royal-blood-smoker-001",
+        "market_price": "0.22",
+        "low_price": "0.04",
+        "mid_price": "0.22",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.518272,
+        "y": 0.259524
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617031/one-piece-card-game-royal-blood-smoker-001-parallel",
+        "market_price": "17.23",
+        "low_price": "15.56",
+        "mid_price": "19.99",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

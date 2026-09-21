@@ -1,0 +1,410 @@
+{
+  "card_number": "OP02-035",
+  "name": "Trafalgar Law",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Green"
+  ],
+  "cost": 2,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "FILM",
+    "Supernovas",
+    "Heart Pirates"
+  ],
+  "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may return this Character to the owner's hand: Play up to 1 Character with a cost of 3 from your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-035/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-035/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486355/one-piece-card-game-paramount-war-trafalgar-law",
+        "market_price": "0.14",
+        "low_price": "0.02",
+        "mid_price": "0.18",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f11f18f0-7b8a-4b88-b3b1-bee7a4c61704",
+        "slug": "starter-deck-uta",
+        "name": "Starter Deck - Uta",
+        "set_code": "ST11",
+        "released_at": "2024-02-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-035/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-035/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fcdd3767-afd9-473a-9da5-8dc5ff66c4ca",
+        "slug": "included-in-online-regional-participation-pack-vol-1",
+        "name": "Included in Online Regional Participation Pack Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-035/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-035/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "843f4f82-d2ab-4b1b-adc0-3c8abfeb5eba",
+        "slug": "online-regional-2023",
+        "name": "Online Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/482220/one-piece-card-game-one-piece-promotion-cards-trafalgar-law-online-regional-2023-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "14cc9770-487f-491d-9a18-c5c23ad4ebb7",
+        "slug": "offline-regional-2023",
+        "name": "Offline Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483177/one-piece-card-game-one-piece-promotion-cards-trafalgar-law-offline-regional-2023-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "843f4f82-d2ab-4b1b-adc0-3c8abfeb5eba",
+        "slug": "online-regional-2023",
+        "name": "Online Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/482218/one-piece-card-game-one-piece-promotion-cards-trafalgar-law-online-regional-2023-participant",
+        "market_price": "36.95",
+        "low_price": "39.98",
+        "mid_price": "39.99",
+        "high_price": "69.69"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "843f4f82-d2ab-4b1b-adc0-3c8abfeb5eba",
+        "slug": "online-regional-2023",
+        "name": "Online Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/482219/one-piece-card-game-one-piece-promotion-cards-trafalgar-law-online-regional-2023-finalist",
+        "market_price": "210.32",
+        "low_price": "243.77",
+        "mid_price": "280.28",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "14cc9770-487f-491d-9a18-c5c23ad4ebb7",
+        "slug": "offline-regional-2023",
+        "name": "Offline Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483174/one-piece-card-game-one-piece-promotion-cards-trafalgar-law-offline-regional-2023-participant",
+        "market_price": "20.43",
+        "low_price": "10.00",
+        "mid_price": "44.50",
+        "high_price": "75.00"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "14cc9770-487f-491d-9a18-c5c23ad4ebb7",
+        "slug": "offline-regional-2023",
+        "name": "Offline Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483176/one-piece-card-game-one-piece-promotion-cards-trafalgar-law-offline-regional-2023-finalist",
+        "market_price": "65.56",
+        "low_price": "19.00",
+        "mid_price": "494.00",
+        "high_price": "499.98"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e954b056-d7e6-4d3c-88b3-fd51abbe1a91",
+        "slug": "op02-release-event",
+        "name": "OP02 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486694/one-piece-card-game-paramount-war-pre-release-cards-trafalgar-law",
+        "market_price": "19.75",
+        "low_price": "41.00",
+        "mid_price": "45.14",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [Activate: Main] effect to play a Character with a cost of 2 or less?",
+      "answer": "No, you cannot. You can only play a Character with a cost of exactly 3.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

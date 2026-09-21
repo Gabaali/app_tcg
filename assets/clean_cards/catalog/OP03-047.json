@@ -1,0 +1,125 @@
+{
+  "card_number": "OP03-047",
+  "name": "Zeff",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "East Blue"
+  ],
+  "effect": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.\n[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand, and you may trash 2 cards from the top of your deck.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-047/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-047/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/499283/one-piece-card-game-pillars-of-strength-zeff",
+        "market_price": "0.25",
+        "low_price": "0.10",
+        "mid_price": "0.35",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-047/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-047/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/499287/one-piece-card-game-pillars-of-strength-zeff-alternate-art",
+        "market_price": "6.90",
+        "low_price": "5.20",
+        "mid_price": "7.84",
+        "high_price": "45.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to return 1 Character with a cost of 3 or less to the owner's hand and choose not to trash 2 cards from the top of my deck?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Does this \"When this Character's attack deals damage to your opponent's Life\" effect activate before a [Trigger] resulting from that damage?",
+      "answer": "First, your opponent checks their Life in accordance with the damage dealt, and then this \"When this Character's attack deals damage to your opponent's Life\" effect activates. After that, if the checked Life card has a [Trigger], your opponent can choose to activate it.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

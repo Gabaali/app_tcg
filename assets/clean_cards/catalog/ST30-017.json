@@ -1,0 +1,119 @@
+{
+  "card_number": "ST30-017",
+  "name": "And You Get Yourself in Big Trouble!!",
+  "language": "en",
+  "set": "ST30",
+  "set_name": "Starter Deck - Luffy & Ace",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 6000 power and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": "[Trigger] Activate this card's [Main] effect.",
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-017/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-017/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/695446/one-piece-card-game-starter-deck-ex-luffy-and-ace-and-you-get-yourself-in-big-trouble",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-017/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-017/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/695447/one-piece-card-game-starter-deck-ex-luffy-and-ace-and-you-get-yourself-in-big-trouble-parallel",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does \"Character card with 6000 power\" also include Characters with 5000 power or less?",
+      "answer": "No, it must be a Character card with exactly 6000 power.",
+      "updated_on": "2026-05-29"
+    }
+  ]
+}

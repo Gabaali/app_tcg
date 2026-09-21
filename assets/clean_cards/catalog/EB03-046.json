@@ -1,0 +1,79 @@
+{
+  "card_number": "EB03-046",
+  "name": "Miss Doublefinger(Zala)",
+  "language": "en",
+  "set": "EB03",
+  "set_name": "One Piece Heroines Edition",
+  "released_at": "2026-02-20T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Baroque Works"
+  ],
+  "effect": "[On Play] If there is a Character with a cost of 0 or with a cost of 8 or more, draw 1 card.\n[On K.O.] Trash 2 cards from the top of your deck.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Koushi Rokushiro",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8eb0b2be-9cfb-416b-b615-4fb49342a8b5",
+        "slug": "one-piece-heroines-edition",
+        "name": "One Piece Heroines Edition",
+        "set_code": "EB03",
+        "released_at": "2026-02-20T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB03-046/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-046/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB03-046/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB03-046/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-046/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672797/one-piece-card-game-extra-booster-one-piece-heroines-edition-miss-doublefingerzala",
+        "market_price": "0.07",
+        "low_price": "0.01",
+        "mid_price": "0.12",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

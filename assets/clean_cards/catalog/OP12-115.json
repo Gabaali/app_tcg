@@ -1,0 +1,114 @@
+{
+  "card_number": "OP12-115",
+  "name": "I Love You!!",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Navy",
+    "Donquixote Pirates"
+  ],
+  "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 [Trafalgar Law] from your trash to your hand.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-115/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-115/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-115/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-115/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-115/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643862/one-piece-card-game-legacy-of-the-master-i-love-you",
+        "market_price": "0.22",
+        "low_price": "0.05",
+        "mid_price": "0.24",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d65c9dd8-7de7-4eaa-8705-9b8e8ee16798",
+        "slug": "op12-release-event",
+        "name": "OP12 Release Event",
+        "set_code": null,
+        "released_at": "2025-08-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649326/one-piece-card-game-legacy-of-the-master-release-event-cards-i-love-you",
+        "market_price": "17.40",
+        "low_price": "17.40",
+        "mid_price": "24.71",
+        "high_price": "99.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

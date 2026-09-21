@@ -1,0 +1,152 @@
+{
+  "card_number": "OP09-055",
+  "name": "Mr.1(Daz.Bonez)",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Cross Guild",
+    "Former Baroque Works"
+  ],
+  "effect": null,
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-055/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-055/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596990/one-piece-card-game-emperors-in-the-new-world-mr1dazbonez",
+        "market_price": "0.08",
+        "low_price": "0.01",
+        "mid_price": "0.13",
+        "high_price": "3.77"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "111d0c2f-f109-47f6-8ca7-d514b94944d4",
+        "slug": "starter-deck-blue-buggy",
+        "name": "Starter Deck - Blue Buggy",
+        "set_code": "ST25",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-055/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-055/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634301/one-piece-card-game-starter-deck-25-blue-buggy-mr1dazbonez-reprint",
+        "market_price": "0.04",
+        "low_price": "0.01",
+        "mid_price": "0.10",
+        "high_price": "18.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/600733/one-piece-card-game-emperors-in-the-new-world-2nd-anniversary-tournament-cards-mr1dazbonez",
+        "market_price": "0.55",
+        "low_price": "0.39",
+        "mid_price": "0.62",
+        "high_price": "2.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

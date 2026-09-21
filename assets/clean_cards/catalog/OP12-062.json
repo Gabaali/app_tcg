@@ -1,0 +1,224 @@
+{
+  "card_number": "OP12-062",
+  "name": "Vinsmoke Sora",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Purple"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Kingdom of GERMA",
+    "The Vinsmoke Family"
+  ],
+  "effect": "[On Play] If your Leader is [Sanji] and the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it. Then, draw 1 card.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Koushi Rokushiro",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-062/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-062/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-062/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-062/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-062/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643800/one-piece-card-game-legacy-of-the-master-vinsmoke-sora",
+        "market_price": "0.11",
+        "low_price": "0.01",
+        "mid_price": "0.16",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "74778710-aab6-4c2e-bc01-a157d6afbbff",
+        "slug": "tournament-pack-2026-vol-1",
+        "name": "Tournament Pack 2026 Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-062/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-062/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "74778710-aab6-4c2e-bc01-a157d6afbbff",
+        "slug": "tournament-pack-2026-vol-1",
+        "name": "Tournament Pack 2026 Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-062/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-062/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": "kicori",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d3a1373d-ea6e-4b1e-a29b-7ad3da22f696",
+        "slug": "winner-pack-2026-vol-1",
+        "name": "Winner Pack 2026 Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-062/en/scans/2/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-062/en/scans/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-062/en/scans/2/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668187/one-piece-card-game-one-piece-promotion-cards-vinsmoke-sora-winner-pack-2026-vol-1",
+        "market_price": "3.32",
+        "low_price": "2.69",
+        "mid_price": "4.50",
+        "high_price": "20.87"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": "kicori",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "74778710-aab6-4c2e-bc01-a157d6afbbff",
+        "slug": "tournament-pack-2026-vol-1",
+        "name": "Tournament Pack 2026 Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-062/en/scans/3/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-062/en/scans/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-062/en/scans/3/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668165/one-piece-card-game-one-piece-promotion-cards-vinsmoke-sora-tournament-pack-2026-vol-1",
+        "market_price": "0.14",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

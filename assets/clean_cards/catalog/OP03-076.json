@@ -1,0 +1,125 @@
+{
+  "card_number": "OP03-076",
+  "name": "Rob Lucci",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "CP9"
+  ],
+  "effect": "[Your Turn] [Once Per Turn] You may trash 2 cards from your hand: When your opponent's Character is K.O.'d, set this Leader as active.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.300664,
+        "y": 0.221429
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-076/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-076/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/498485/one-piece-card-game-pillars-of-strength-rob-lucci-076",
+        "market_price": "0.19",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "9.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.699336,
+        "y": 0.265476
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-076/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-076/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/498486/one-piece-card-game-pillars-of-strength-rob-lucci-076-alternate-art",
+        "market_price": "32.69",
+        "low_price": "26.29",
+        "mid_price": "35.99",
+        "high_price": "149.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "During my turn in which I have not yet activated this [Your Turn] effect, when my opponent's Character was K.O.'d, I did not trash 2 cards from my hand and chose not to activate this [Your Turn] [Once Per Turn] effect. During that turn, can I activate this effect the next time my opponent's Character is K.O.'d?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "When do I pay this \"trash 2 cards from your hand\" cost?",
+      "answer": "Trash 2 cards from your hand when your opponent's Character is K.O.'d.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

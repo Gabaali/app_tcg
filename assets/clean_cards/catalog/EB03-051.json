@@ -1,0 +1,90 @@
+{
+  "card_number": "EB03-051",
+  "name": "Charlotte Smoothie",
+  "language": "en",
+  "set": "EB03",
+  "set_name": "One Piece Heroines Edition",
+  "released_at": "2026-02-20T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 3,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[On Play] If you have a face-up Life card, K.O. up to 1 of your opponent's Characters with a cost of 2 or less. Then, turn all of your Life cards face-down.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "HISASHI HUJIWARA",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8eb0b2be-9cfb-416b-b615-4fb49342a8b5",
+        "slug": "one-piece-heroines-edition",
+        "name": "One Piece Heroines Edition",
+        "set_code": "EB03",
+        "released_at": "2026-02-20T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB03-051/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-051/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB03-051/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB03-051/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-051/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672802/one-piece-card-game-extra-booster-one-piece-heroines-edition-charlotte-smoothie",
+        "market_price": "0.07",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "1.65"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I have a face-up Life card and my opponent has a Character with a cost of 2 or less. If I choose not to K.O. my opponent's Character with a cost of 2 or less with this [On Play] effect, do I still turn all of my Life cards face-down?",
+      "answer": "In this case, you would still turn all of your Life cards face-down.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "If I have a face-up Life card, and my opponent does not have a Character with a cost of 2 or less, do I still turn all of my Life cards face-down with this [On Play] effect?",
+      "answer": "In this case, you would still turn all of your Life cards face-down.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "card_number": "OP17-015",
+  "name": "Marco",
+  "language": "en",
+  "set": "OP17",
+  "set_name": "The World’s Strongest Warriors",
+  "released_at": "2026-08-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Red"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this Character instead.\n[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: Play this Character card from your trash.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb8900c0-284d-4dd6-b4dc-2b5e1891469b",
+        "slug": "the-world-s-strongest-warriors",
+        "name": "The World’s Strongest Warriors",
+        "set_code": "OP17",
+        "released_at": "2026-08-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP17-015/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP17-015/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this Character and another one of my Characters, Character A, would be K.O.'d at the same time by an opponent's effect, can I use this Character's effect to K.O. this Character instead?",
+      "answer": "Yes, you can. In this case, only this Character is K.O.'d, and Character A remains on the field.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "If this Character would be returned to my hand or placed at the bottom of my deck by an opponent's effect, can I K.O. this Character instead?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

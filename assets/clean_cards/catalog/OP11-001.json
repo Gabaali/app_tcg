@@ -1,0 +1,133 @@
+{
+  "card_number": "OP11-001",
+  "name": "Koby",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Navy",
+    "SWORD"
+  ],
+  "effect": "Your {SWORD} type Characters can attack Characters on the turn in which they are played.\n[Once Per Turn] If your {Navy} type Character with 7000 base power or less would be removed from the field by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.312292,
+        "y": 0.22381
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632355/one-piece-card-game-a-fist-of-divine-speed-koby-001",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.17",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.541528,
+        "y": 0.347619
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632356/one-piece-card-game-a-fist-of-divine-speed-koby-001-alternate-art",
+        "market_price": "30.08",
+        "low_price": "28.50",
+        "mid_price": "32.12",
+        "high_price": "75.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If 2 of my {Navy} type Characters with 7000 base power or less would be removed from the field by the [On Play] effect of my opponent's \"OP01-094 Kaido\", can I use this Leader's [Once Per Turn] effect to prevent both Characters from being K.O.'d? If so, do I place 3 cards or 6 cards from my trash at the bottom of my deck?",
+      "answer": "Yes, you can. The amount of cards you place at the bottom of your deck from your trash will be 3 regardless of how many Characters would be removed from your field.",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "If I have 2 or less cards in my trash and my {Navy} type Character with 7000 base power or less would be removed from the field, can I use this Leader's [Once Per Turn] effect to prevent my Characters from being removed from the field?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "2 of my {Navy} type Characters with 7000 base power or less, [Character A] and [Character B], were K.O.'d at the same time when I had 2 cards in my trash. In this case, can I first trash [Character A], then use this Leader's [Once Per Turn] effect to prevent [Character B] from being removed from the field?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-05-23"
+    }
+  ]
+}

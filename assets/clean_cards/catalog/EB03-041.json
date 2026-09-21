@@ -1,0 +1,116 @@
+{
+  "card_number": "EB03-041",
+  "name": "Kujyaku",
+  "language": "en",
+  "set": "EB03",
+  "set_name": "One Piece Heroines Edition",
+  "released_at": "2026-02-20T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy",
+    "SWORD"
+  ],
+  "effect": "[Opponent's Turn] All of your {SWORD} type Characters with a cost of 6 or less gain +2000 power.\n[On Play] You may trash 1 {Navy} type card from your hand: Draw 2 cards.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "sho",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8eb0b2be-9cfb-416b-b615-4fb49342a8b5",
+        "slug": "one-piece-heroines-edition",
+        "name": "One Piece Heroines Edition",
+        "set_code": "EB03",
+        "released_at": "2026-02-20T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB03-041/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-041/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB03-041/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB03-041/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-041/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672789/one-piece-card-game-extra-booster-one-piece-heroines-edition-kujyaku",
+        "market_price": "0.27",
+        "low_price": "0.05",
+        "mid_price": "0.30",
+        "high_price": "6.25"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8eb0b2be-9cfb-416b-b615-4fb49342a8b5",
+        "slug": "one-piece-heroines-edition",
+        "name": "One Piece Heroines Edition",
+        "set_code": "EB03",
+        "released_at": "2026-02-20T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB03-041/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-041/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672790/one-piece-card-game-extra-booster-one-piece-heroines-edition-kujyaku-alternate-art",
+        "market_price": "7.17",
+        "low_price": "6.89",
+        "mid_price": "11.00",
+        "high_price": "104.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

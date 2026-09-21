@@ -1,0 +1,123 @@
+{
+  "card_number": "OP11-022",
+  "name": "Shirahoshi",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Merfolk",
+    "Fish-Man Island"
+  ],
+  "effect": "This Leader cannot attack.\n[Activate: Main] [Once Per Turn] You may rest 1 of your DON!! cards and turn 1 card from the top of your Life cards face-up: Play up to 1 {Neptunian} type Character card or [Megalo] with a cost equal to or less than the number of DON!! cards on your field from your hand.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.524917,
+        "y": 0.395238
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-022/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-022/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632382/one-piece-card-game-a-fist-of-divine-speed-shirahoshi-022",
+        "market_price": "0.19",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.548173,
+        "y": 0.305952
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-022/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-022/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632383/one-piece-card-game-a-fist-of-divine-speed-shirahoshi-022-alternate-art",
+        "market_price": "22.04",
+        "low_price": "19.50",
+        "mid_price": "25.00",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I activate this [Activate: Main] effect if my topmost Life card is already face-up?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-05-23"
+    }
+  ]
+}

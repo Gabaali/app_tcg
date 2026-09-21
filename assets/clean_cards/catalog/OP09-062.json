@@ -1,0 +1,116 @@
+{
+  "card_number": "OP09-062",
+  "name": "Nico Robin",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Purple",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)\n[When Attacking] You may trash 1 card with a [Trigger] from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.425249,
+        "y": 0.142857
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-062/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-062/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596998/one-piece-card-game-emperors-in-the-new-world-nico-robin-062",
+        "market_price": "0.26",
+        "low_price": "0.09",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.51495,
+        "y": 0.369048
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-062/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-062/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596999/one-piece-card-game-emperors-in-the-new-world-nico-robin-062-parallel",
+        "market_price": "65.23",
+        "low_price": "58.87",
+        "mid_price": "74.99",
+        "high_price": "149.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,116 @@
+{
+  "card_number": "OP03-077",
+  "name": "Charlotte Linlin",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Big Mom Pirates"
+  ],
+  "effect": "[DON!! x2] [When Attacking] ② (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.514625,
+        "y": 0.181354
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-077/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-077/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP03-077/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP03-077/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-077/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/498481/one-piece-card-game-pillars-of-strength-charlotte-linlin-077",
+        "market_price": "0.18",
+        "low_price": "0.02",
+        "mid_price": "0.25",
+        "high_price": "2.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.539867,
+        "y": 0.17381
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-077/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-077/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/498482/one-piece-card-game-pillars-of-strength-charlotte-linlin-077-alternate-art",
+        "market_price": "28.63",
+        "low_price": "28.00",
+        "mid_price": "33.99",
+        "high_price": "149.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,118 @@
+{
+  "card_number": "OP08-019",
+  "name": "Munch-Munch Mutation",
+  "language": "en",
+  "set": "OP08",
+  "set_name": "Two Legends",
+  "released_at": "2024-09-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Red"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Drum Kingdom"
+  ],
+  "effect": "[Main]/[Counter] Give up to 1 of your opponent's Characters −3000 power during this turn. Then, up to 1 of your Characters gains +3000 power during this turn.",
+  "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-019/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-019/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP08-019/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP08-019/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-019/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558043/one-piece-card-game-two-legends-munch-munch-mutation",
+        "market_price": "0.07",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "aa862993-b819-4d3a-af17-432d4fb7def0",
+        "slug": "op08-release-event",
+        "name": "OP08 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/576456/one-piece-card-game-two-legends-pre-release-cards-munch-munch-mutation",
+        "market_price": "0.62",
+        "low_price": "0.25",
+        "mid_price": "1.50",
+        "high_price": "7.73"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [Main]/[Counter] effect to give one of my Characters +3000 power even if my opponent has no Characters on their field?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-08-30"
+    }
+  ]
+}

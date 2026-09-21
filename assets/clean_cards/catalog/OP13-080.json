@@ -1,0 +1,152 @@
+{
+  "card_number": "OP13-080",
+  "name": "St. Ethanbaron V. Nusjuro",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 6,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Celestial Dragons",
+    "Five Elders"
+  ],
+  "effect": "If you have 7 or more cards in your trash, this Character cannot be removed from the field by your opponent's effects and gains [Rush].\n[When Attacking] If you have 10 or more cards in your trash, give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-080/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-080/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657346/one-piece-card-game-carrying-on-his-will-st-ethanbaron-v-nusjuro",
+        "market_price": "0.23",
+        "low_price": "0.10",
+        "mid_price": "0.30",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-080/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-080/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657347/one-piece-card-game-carrying-on-his-will-st-ethanbaron-v-nusjuro-alternate-art",
+        "market_price": "18.54",
+        "low_price": "16.73",
+        "mid_price": "20.51",
+        "high_price": "89.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "God Pack",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-080/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-080/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657348/one-piece-card-game-carrying-on-his-will-st-ethanbaron-v-nusjuro-parallel",
+        "market_price": "417.67",
+        "low_price": "364.99",
+        "mid_price": "409.48",
+        "high_price": "550.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

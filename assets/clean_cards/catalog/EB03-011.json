@@ -1,0 +1,77 @@
+{
+  "card_number": "EB03-011",
+  "name": "But If We Ever See Each Other Again... Will You Call Me Your Shipmate?!!",
+  "language": "en",
+  "set": "EB03",
+  "set_name": "One Piece Heroines Edition",
+  "released_at": "2026-02-20T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Alabasta"
+  ],
+  "effect": "[Counter] If your Leader is [Nefeltari Vivi], up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+  "trigger": "[Trigger] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8eb0b2be-9cfb-416b-b615-4fb49342a8b5",
+        "slug": "one-piece-heroines-edition",
+        "name": "One Piece Heroines Edition",
+        "set_code": "EB03",
+        "released_at": "2026-02-20T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB03-011/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-011/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB03-011/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB03-011/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-011/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672752/one-piece-card-game-extra-booster-one-piece-heroines-edition-but-if-we-ever-see-each-other-again-will-you-call-me-your-shipmate",
+        "market_price": "0.06",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

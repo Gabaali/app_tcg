@@ -1,0 +1,403 @@
+{
+  "card_number": "OP09-011",
+  "name": "Hongo",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Red"
+  ],
+  "cost": 3,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Red-Haired Pirates"
+  ],
+  "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-011/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-011/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596935/one-piece-card-game-emperors-in-the-new-world-hongo",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.17",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0e44f7b2-0bd8-43af-95be-c190607bbec2",
+        "slug": "starter-deck-red-shanks",
+        "name": "Starter Deck - Red Shanks",
+        "set_code": "ST23",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-011/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-011/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634272/one-piece-card-game-starter-deck-23-red-shanks-hongo-reprint",
+        "market_price": "0.08",
+        "low_price": "0.01",
+        "mid_price": "0.19",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "tatsuya",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-011/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-011/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP09-011/en/scans/2/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP09-011/en/scans/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-011/en/scans/2/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-011/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-011/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-011/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-011/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c3c341f6-dde8-4e93-ac99-75069e562034",
+        "slug": "cs-25-26-celebration-pack-2",
+        "name": "CS 25-26 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649646/one-piece-card-game-one-piece-promotion-cards-hongo-cs-25-26-celebration-pack",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "258ada45-7714-41b2-ba9c-3d0889491677",
+        "slug": "tournament-pack-2025-vol-2",
+        "name": "Tournament Pack 2025 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/622594/one-piece-card-game-one-piece-promotion-cards-hongo-tournament-pack-2025-vol-2",
+        "market_price": "0.16",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "da716bcd-e5b9-4b20-bb30-ad077910e5d0",
+        "slug": "judge-pack-vol-5",
+        "name": "Judge Pack Vol. 5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/619211/one-piece-card-game-one-piece-promotion-cards-hongo-judge-pack-vol-5",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8c4d3bb5-102a-4f8f-be24-628a373984f5",
+        "slug": "winner-pack-2025-vol-2",
+        "name": "Winner Pack 2025 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/622595/one-piece-card-game-one-piece-promotion-cards-hongo-winner-pack-2025-vol-2",
+        "market_price": "7.26",
+        "low_price": "4.99",
+        "mid_price": "7.58",
+        "high_price": "30.00"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/600760/one-piece-card-game-emperors-in-the-new-world-2nd-anniversary-tournament-cards-hongo",
+        "market_price": "1.01",
+        "low_price": "0.91",
+        "mid_price": "1.20",
+        "high_price": "6.52"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

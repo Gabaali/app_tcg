@@ -1,0 +1,163 @@
+{
+  "card_number": "OP07-026",
+  "name": "Jewelry Bonney",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Bonney Pirates"
+  ],
+  "effect": "[On Play] Up to 1 of your opponent's rested Character or DON!! cards will not become active in your opponent's next Refresh Phase.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-026/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-026/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545808/one-piece-card-game-500-years-in-the-future-jewelry-bonney-026",
+        "market_price": "1.83",
+        "low_price": "0.73",
+        "mid_price": "2.12",
+        "high_price": "27.80"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-026/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-026/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545809/one-piece-card-game-500-years-in-the-future-jewelry-bonney-026-parallel",
+        "market_price": "25.45",
+        "low_price": "22.68",
+        "mid_price": "29.99",
+        "high_price": "49.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-026/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-026/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656182/one-piece-card-game-premium-booster-the-best-vol-2-jewelry-bonney-op07-026-reprint",
+        "market_price": "0.88",
+        "low_price": "0.25",
+        "mid_price": "0.99",
+        "high_price": "10.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I choose 1 of my opponent's active DON!! cards according to this [On Play] effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "Can I choose 1 DON!! card currently given to my opponent's Character according to this [On Play] effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

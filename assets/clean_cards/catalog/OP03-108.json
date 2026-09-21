@@ -1,0 +1,193 @@
+{
+  "card_number": "OP03-108",
+  "name": "Charlotte Cracker",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character gains [Double Attack] and +1000 power.\n(This card deals 2 damage.)",
+  "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-108/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-108/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/500077/one-piece-card-game-pillars-of-strength-charlotte-cracker",
+        "market_price": "0.30",
+        "low_price": "0.05",
+        "mid_price": "0.50",
+        "high_price": "20.31"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-108/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-108/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/500079/one-piece-card-game-pillars-of-strength-charlotte-cracker-alternate-art",
+        "market_price": "3.40",
+        "low_price": "3.00",
+        "mid_price": "4.46",
+        "high_price": "124.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-108/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-108/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/594333/one-piece-card-game-premium-booster-the-best-charlotte-cracker-reprint",
+        "market_price": "0.33",
+        "low_price": "0.08",
+        "mid_price": "0.49",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-108/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-108/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586594/one-piece-card-game-premium-booster-the-best-charlotte-cracker-alternate-art",
+        "market_price": "2.68",
+        "low_price": "2.50",
+        "mid_price": "3.96",
+        "high_price": "23.57"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I had 1 less Life card than my opponent when this Character gained [Double Attack] due to this [DON!! x1] effect and dealt 2 damage to my opponent's Leader. At this time, after my opponent checks their first Life card according to the first of the two damage dealt and the number of Life cards becomes the same, what happens to the next damage?",
+      "answer": "In this case, after your opponent checks their first Life card, the [Double Attack] and +1000 power are lost. However, because the Leader has already taken 2 damage, the next damage is processed.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

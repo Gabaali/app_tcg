@@ -1,0 +1,389 @@
+{
+  "card_number": "OP12-020",
+  "name": "Roronoa Zoro",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Midori Matsuda",
+      "crop_focus": {
+        "x": 0.667055,
+        "y": 0.112219
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-020/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-020/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-020/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-020/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-020/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643747/one-piece-card-game-legacy-of-the-master-roronoa-zoro-020",
+        "market_price": "0.18",
+        "low_price": "0.03",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.36711,
+        "y": 0.371429
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-020/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-020/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643748/one-piece-card-game-legacy-of-the-master-roronoa-zoro-020-alternate-art",
+        "market_price": "64.62",
+        "low_price": "54.01",
+        "mid_price": "75.00",
+        "high_price": "300.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.32392,
+        "y": 0.353571
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-020/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-020/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.453488,
+        "y": 0.42381
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-020/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-020/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5be11361-a9ae-49a2-bde8-004d41f6acc2",
+        "slug": "starter-deck-green-roronoa-zoro",
+        "name": "Starter Deck - Green Roronoa Zoro",
+        "set_code": "ST32",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-020/en/stock/8/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-020/en/stock/8/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706319/one-piece-card-game-starter-deck-32-green-roronoa-zoro-roronoa-zoro-op12-020",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.551495,
+        "y": 0.204762
+      },
+      "product": {
+        "id": "987d25b4-26c7-42f7-ac42-6c60b0d96328",
+        "slug": "treasure-cup-november-2025",
+        "name": "Treasure Cup November 2025~",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-020/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-020/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656631/one-piece-card-game-learn-together-deck-set-roronoa-zoro-op12-020-zoro-deck",
+        "market_price": "7.93",
+        "low_price": "6.53",
+        "mid_price": "9.86",
+        "high_price": "23.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8fcbb066-1cb0-49b5-9a6d-9645e098a033",
+        "slug": "english-version-1st-anniversary-set",
+        "name": "English Version 1st Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/675743/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-op12-020-serial-number",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89f4c52f-ec50-44cc-a888-69d59c3ae99c",
+        "slug": "serial-numbered",
+        "name": "Serial Numbered",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657119/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-serial-numbered",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eaa0fa1f-a4cc-40bf-8978-cf5c03e02823",
+        "slug": "official-playmat-limited-edition-vol-4",
+        "name": "Official Playmat Limited Edition Vol.4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657221/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-op12-020-official-playmat-limited-edition-vol4",
+        "market_price": "512.28",
+        "low_price": "550.00",
+        "mid_price": "699.66",
+        "high_price": "1999.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When I used this card to attack my opponent's Leader, my opponent activated the [Blocker] of one of their Characters, and I battled against that Character. Can I use this [Activate: Main] effect to set this card to active after the battle?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "When I used this card to attack one of my opponent's Characters, my opponent activated the [Blocker] of their Leader \"OP05-022 Donquixote Rosinante\", and I battled against [Donquixote Rosinante]. Can I use this [Activate: Main] effect to set this card to active after the battle?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "I attacked my opponent's Character with this card while 2 DON!! cards were given to it, then battled against that Character. After the battle, can I give 1 more DON!! card to this card to fulfill the [DON!! x3] condition, then use its [Activate: Main] effect to set it to active?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "While battling this Character, my opponent's Character was removed from the field by an effect during either the Attack Step, Block Step, or Counter Step. In this case, can I still activate this Character's effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

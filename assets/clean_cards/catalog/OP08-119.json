@@ -1,0 +1,117 @@
+{
+  "card_number": "OP08-119",
+  "name": "Kaido & Linlin",
+  "language": "en",
+  "set": "OP08",
+  "set_name": "Two Legends",
+  "released_at": "2024-09-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Purple"
+  ],
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike",
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Animal Kingdom Pirates",
+    "Big Mom Pirates"
+  ],
+  "effect": "[When Attacking] DON!! −10: K.O. all Characters other than this Character. Then, add up to 1 card from the top of your deck to the top of your Life cards and trash up to 1 card from the top of your opponent's Life cards.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-119/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-119/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558163/one-piece-card-game-two-legends-kaido-and-linlin",
+        "market_price": "4.62",
+        "low_price": "3.64",
+        "mid_price": "7.00",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-119/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-119/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558164/one-piece-card-game-two-legends-kaido-and-linlin-parallel",
+        "market_price": "14.03",
+        "low_price": "9.49",
+        "mid_price": "18.90",
+        "high_price": "54.95"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

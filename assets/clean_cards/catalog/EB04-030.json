@@ -1,0 +1,80 @@
+{
+  "card_number": "EB04-030",
+  "name": "Kaido",
+  "language": "en",
+  "set": "EB04",
+  "set_name": "Extra Booster 4",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Purple"
+  ],
+  "cost": 7,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.\n[On Play] DON!! −2: If your Leader has the {Animal Kingdom Pirates} type, this Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-030/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-030/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666539/one-piece-card-game-the-azure-seas-seven-kaido",
+        "market_price": "0.21",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "15.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

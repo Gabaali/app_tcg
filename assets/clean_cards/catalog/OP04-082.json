@@ -1,0 +1,120 @@
+{
+  "card_number": "OP04-082",
+  "name": "Kyros",
+  "language": "en",
+  "set": "OP04",
+  "set_name": "Kingdoms of Intrigue",
+  "released_at": "2023-09-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Dressrosa"
+  ],
+  "effect": "If this Character would be K.O.'d, you may rest your Leader or 1 [Corrida Coliseum] instead.\n[On Play] If your Leader is [Rebecca], K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 1 card from the top of your deck.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-082/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-082/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/514436/one-piece-card-game-kingdoms-of-intrigue-kyros",
+        "market_price": "0.14",
+        "low_price": "0.02",
+        "mid_price": "0.20",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-082/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-082/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/514437/one-piece-card-game-kingdoms-of-intrigue-kyros-alternate-art",
+        "market_price": "2.01",
+        "low_price": "1.50",
+        "mid_price": "2.99",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I activate this [On Play] effect and choose not to trash a card from my deck?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "card_number": "ST13-002",
+  "name": "Portgas.D.Ace",
+  "language": "en",
+  "set": "ST13",
+  "set_name": "Starter Deck - The Three Brothers",
+  "released_at": "2024-04-19T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "[DON!! x2] [Activate: Main] [Once Per Turn] Look at 5 cards from the top of your deck and add up to 1 Character card with a cost of 5 to the top of your Life cards face-up. Then, place the rest at the bottom of your deck in any order.\n[End of Your Turn] Trash all your face-up Life cards.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.443522,
+        "y": 0.205952
+      },
+      "product": {
+        "id": "74857e5a-8364-405e-9869-6b1ed0314f12",
+        "slug": "starter-deck-the-three-brothers",
+        "name": "Starter Deck - The Three Brothers",
+        "set_code": "ST13",
+        "released_at": "2024-04-19T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST13-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST13-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/543604/one-piece-card-game-ultra-deck-the-three-brothers-portgasdace-002",
+        "market_price": "2.27",
+        "low_price": "1.98",
+        "mid_price": "3.00",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.450166,
+        "y": 0.208333
+      },
+      "product": {
+        "id": "74857e5a-8364-405e-9869-6b1ed0314f12",
+        "slug": "starter-deck-the-three-brothers",
+        "name": "Starter Deck - The Three Brothers",
+        "set_code": "ST13",
+        "released_at": "2024-04-19T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST13-002/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST13-002/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/543623/one-piece-card-game-ultra-deck-the-three-brothers-portgasdace-002-parallel",
+        "market_price": "23.33",
+        "low_price": "21.00",
+        "mid_price": "24.99",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "81f0d3d7-50dc-4f5c-87a2-4a67e5f78c55",
+        "slug": "2nd-anniversary-tournament",
+        "name": "2nd Anniversary Tournament",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/600709/one-piece-card-game-one-piece-promotion-cards-portgasdace-2nd-anniversary-tournament",
+        "market_price": "50.67",
+        "low_price": "42.95",
+        "mid_price": "47.50",
+        "high_price": "250.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ad2ebe10-0806-434b-aa32-fa46611960c4",
+        "slug": "premium-card-collection-leader-collection",
+        "name": "Premium Card Collection -Leader Collection-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/566953/one-piece-card-game-one-piece-promotion-cards-portgasdace-premium-card-collection-leader-collection",
+        "market_price": "65.01",
+        "low_price": "46.34",
+        "mid_price": "55.00",
+        "high_price": "205.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does this [End of Your Turn] effect require me to trash cards that have been placed face-up in my Life area by an effect etc. other than this [Activate: Main] effect?",
+      "answer": "Yes, you must trash them.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

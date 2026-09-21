@@ -1,0 +1,185 @@
+{
+  "card_number": "EB04-028",
+  "name": "Ice Time",
+  "language": "en",
+  "set": "EB04",
+  "set_name": "Extra Booster 4",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Navy"
+  ],
+  "effect": "[Main] You may trash 1 card from your hand: If your Leader has the {Navy} type, up to 2 of your opponent's Characters with 10000 power or less cannot attack until the end of your opponent's next End Phase.",
+  "trigger": "[Trigger] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-028/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-028/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671339/one-piece-card-game-the-azure-seas-seven-ice-time",
+        "market_price": "0.22",
+        "low_price": "0.01",
+        "mid_price": "0.26",
+        "high_price": "6.14"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "11252aff-74e2-4d7d-9ab3-30972560e6bf",
+        "slug": "starter-deck-blue-kuzan",
+        "name": "Starter Deck - Blue Kuzan",
+        "set_code": "ST33",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-028/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-028/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706328/one-piece-card-game-starter-deck-33-blue-kuzan-ice-time",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1d2bcb99-3f82-4b46-ba76-6121dfee253d",
+        "slug": "best-selection-vol-6",
+        "name": "Best Selection Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-028/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-028/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "57d1f126-0349-4330-a1b6-971a84138e3b",
+        "slug": "premium-card-collection-best-selection-vol-6",
+        "name": "Premium Card Collection -Best Selection Vol. 6-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-028/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-028/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/694875/one-piece-card-game-one-piece-promotion-cards-ice-time-premium-card-collection-best-selection-vol-6",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

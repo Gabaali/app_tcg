@@ -1,0 +1,83 @@
+{
+  "card_number": "EB01-029",
+  "name": "Sorry. I'm a Goner.",
+  "language": "en",
+  "set": "EB01",
+  "set_name": "Memorial Collection",
+  "released_at": "2024-05-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "East Blue",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Counter] Reveal 1 card from the top of your deck. If the revealed card has a cost of 4 or more, return up to 1 of your Characters to the owner's hand. Then, place the revealed card at the bottom of your deck.",
+  "trigger": "[Trigger] Return up to 1 Character with a cost of 8 or less to the owner's hand.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-029/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-029/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544560/one-piece-card-game-extra-booster-memorial-collection-sorry-im-a-goner",
+        "market_price": "0.11",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If the cost of the card revealed according to this [Counter] effect is 3 or less, what happens to the revealed card?",
+      "answer": "The revealed card is returned face-down to the top of your deck.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "card_number": "ST21-014",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST21",
+  "set_name": "Starter Deck - GEAR5",
+  "released_at": "2025-03-14T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Rush] (This card can attack on the turn in which it is played.)\n[When Attacking] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "06421026-ff8e-422d-b224-2037853f88ea",
+        "slug": "starter-deck-gear5",
+        "name": "Starter Deck - GEAR5",
+        "set_code": "ST21",
+        "released_at": "2025-03-14T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-014/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-014/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/615590/one-piece-card-game-starter-deck-ex-gear-5-monkeydluffy-014",
+        "market_price": "8.11",
+        "low_price": "6.50",
+        "mid_price": "9.45",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "06421026-ff8e-422d-b224-2037853f88ea",
+        "slug": "starter-deck-gear5",
+        "name": "Starter Deck - GEAR5",
+        "set_code": "ST21",
+        "released_at": "2025-03-14T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-014/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-014/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/615591/one-piece-card-game-starter-deck-ex-gear-5-monkeydluffy-014-parallel",
+        "market_price": "28.50",
+        "low_price": "28.29",
+        "mid_price": "36.00",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8c7f2494-e766-4c06-9068-80f33a0f77fc",
+        "slug": "3rd-anniversary-treasure-campaign-pack",
+        "name": "3rd Anniversary Treasure Campaign Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-014/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-014/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/661704/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-st21-014-3rd-anniversary-treasure-campaign-pack",
+        "market_price": "1644.31",
+        "low_price": "2099.95",
+        "mid_price": "2350.00",
+        "high_price": "4499.97"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656673/one-piece-card-game-learn-together-deck-set-monkeydluffy-st21-014-luffy-deck",
+        "market_price": "7.47",
+        "low_price": "1.40",
+        "mid_price": "7.95",
+        "high_price": "16.59"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

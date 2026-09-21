@@ -1,0 +1,151 @@
+{
+  "card_number": "OP16-063",
+  "name": "Kuzan",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Purple"
+  ],
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Admiral",
+    "Navy"
+  ],
+  "effect": "[On Play] Add up to 2 DON!! cards from your DON!! deck and rest them.\n[Activate: Main] [Once Per Turn] DON!! −1: Up to 1 of your opponent's Characters cannot activate [Blocker] during this turn.",
+  "trigger": null,
+  "block": null,
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-063/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-063/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696050/one-piece-card-game-the-time-of-battle-kuzan",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "4.20"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-063/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-063/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696051/one-piece-card-game-the-time-of-battle-kuzan-alternate-art",
+        "market_price": "3.82",
+        "low_price": "2.74",
+        "mid_price": "5.30",
+        "high_price": "46.38"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-063/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-063/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696052/one-piece-card-game-the-time-of-battle-kuzan-manga",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {},
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this card's [Activate: Main] effect to choose an opponent's Character that doesn't have [Blocker]?",
+      "answer": "Yes, you can. In this case, if the chosen Character gains [Blocker] during that turn, it still won't be able to activate [Blocker] during that turn.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

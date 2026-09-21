@@ -1,0 +1,79 @@
+{
+  "card_number": "ST09-004",
+  "name": "Kaido",
+  "language": "en",
+  "set": "ST09",
+  "set_name": "Starter Deck - Yamato",
+  "released_at": "2023-08-11T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Ryuda",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "66b34943-e12d-4253-ad69-0e99a5dc63c0",
+        "slug": "starter-deck-yamato",
+        "name": "Starter Deck - Yamato",
+        "set_code": "ST09",
+        "released_at": "2023-08-11T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST09-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST09-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST09-004/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST09-004/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST09-004/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/504465/one-piece-card-game-starter-deck-9-yamato-kaido",
+        "market_price": "0.13",
+        "low_price": "0.05",
+        "mid_price": "0.23",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

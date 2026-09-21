@@ -1,0 +1,198 @@
+{
+  "card_number": "OP01-001",
+  "name": "Roronoa Zoro",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [Your Turn] All of your Characters gain +1000 power.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.500544,
+        "y": 0.140271
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454512/one-piece-card-game-romance-dawn-roronoa-zoro-001",
+        "market_price": "4.86",
+        "low_price": "3.50",
+        "mid_price": "5.10",
+        "high_price": "34.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.49678,
+        "y": 0.465322
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454513/one-piece-card-game-romance-dawn-roronoa-zoro-001-parallel",
+        "market_price": "595.68",
+        "low_price": "780.00",
+        "mid_price": "800.00",
+        "high_price": "10000.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-001/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-001/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a0f9a57e-c9a0-40b9-9e00-6136a62ffef8",
+        "slug": "25th-edition",
+        "name": "25th Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-001/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-001/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485262/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-op01-001-alternate-art",
+        "market_price": "141.39",
+        "low_price": "112.97",
+        "mid_price": "169.99",
+        "high_price": "1000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I give this Leader 2 DON!! cards, will this [Your Turn] effect grant all of my Characters +2000 power?",
+      "answer": "No, it will not.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I played a Character onto my field after giving this Leader 1 DON!! card. Will this Character also gain +1000 power according to this [Your Turn] effect?",
+      "answer": "Yes, it will.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

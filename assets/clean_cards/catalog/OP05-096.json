@@ -1,0 +1,112 @@
+{
+  "card_number": "OP05-096",
+  "name": "I Bid 500 Million!!",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Black"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Celestial Dragons"
+  ],
+  "effect": "[Main] Choose one:\n• K.O. up to 1 of your opponent's Characters with a cost of 1 or less.\n• Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand.\n• Place up to 1 of your opponent's Characters with a cost of 1 or less at the top or bottom of their Life cards face-up.\nThen, if you have a {Celestial Dragons} type Character, draw 1 card.",
+  "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, or return it to the owner's hand.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-096/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-096/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528658/one-piece-card-game-awakening-of-the-new-era-i-bid-500-million",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.18",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cbdbf387-ebf5-4514-b1eb-6e2010f6e263",
+        "slug": "op05-release-event",
+        "name": "OP05 Release Event",
+        "set_code": null,
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/530949/one-piece-card-game-awakening-of-the-new-era-1st-anniversary-tournament-cards-i-bid-500-million",
+        "market_price": "16.11",
+        "low_price": "14.16",
+        "mid_price": "18.84",
+        "high_price": "42.69"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

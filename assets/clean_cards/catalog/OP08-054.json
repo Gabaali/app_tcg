@@ -1,0 +1,112 @@
+{
+  "card_number": "OP08-054",
+  "name": "You Can't Take Our King This Early in the Game.",
+  "language": "en",
+  "set": "OP08",
+  "set_name": "Two Legends",
+  "released_at": "2024-09-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, reveal 1 card from the top of your deck and play up to 1 Character card with a type including \"Whitebeard Pirates\" and a cost of 3 or less. Then, place the rest at the top or bottom of your deck.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-054/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-054/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP08-054/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP08-054/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-054/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558083/one-piece-card-game-two-legends-you-cant-take-our-king-this-early-in-the-game",
+        "market_price": "0.06",
+        "low_price": "0.01",
+        "mid_price": "0.12",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "aa862993-b819-4d3a-af17-432d4fb7def0",
+        "slug": "op08-release-event",
+        "name": "OP08 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP08-054/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP08-054/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-054/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/575935/one-piece-card-game-two-legends-pre-release-cards-you-cant-take-our-king-this-early-in-the-game",
+        "market_price": "0.41",
+        "low_price": "0.19",
+        "mid_price": "0.44",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

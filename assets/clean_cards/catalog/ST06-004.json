@@ -1,0 +1,90 @@
+{
+  "card_number": "ST06-004",
+  "name": "Smoker",
+  "language": "en",
+  "set": "ST06",
+  "set_name": "Starter Deck - Absolute Justice",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "This Character cannot be K.O.'d by effects.\n[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].\n(This card deals 2 damage.)",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80fe6f0e-65ab-461e-8edf-93b0448c6c81",
+        "slug": "starter-deck-absolute-justice",
+        "name": "Starter Deck - Absolute Justice",
+        "set_code": "ST06",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST06-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST06-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485250/one-piece-card-game-starter-deck-6-absolute-justice-smoker",
+        "market_price": "1.26",
+        "low_price": "0.75",
+        "mid_price": "2.00",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "its [DON!! x1] effect and is attacking. During this battle, the Character with a cost of 0 was removed from the field by an Event's [Counter] effect. How much damage will this Character deal?",
+      "answer": "field before the Damage Step, this Character loses [Double Attack] and deals 1 damage to the Leader.",
+      "updated_on": "2023-03-03"
+    },
+    {
+      "question": "Will this Character be K.O.'d by the [On Play] effect of [OP01-094 Kaido]? Can I use this [Activate: Main] effect to rest this",
+      "answer": "No, it will not. No, you cannot. All instructions specified",
+      "updated_on": "2023-03-03"
+    }
+  ]
+}

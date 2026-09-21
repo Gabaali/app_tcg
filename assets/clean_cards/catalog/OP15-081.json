@@ -1,0 +1,115 @@
+{
+  "card_number": "OP15-081",
+  "name": "Sanji",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, trash 5 cards from the top of your deck.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Naruse Uroko",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-081/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-081/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-081/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-081/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-081/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685433/one-piece-card-game-adventure-on-kamis-island-sanji-op15-081",
+        "market_price": "0.16",
+        "low_price": "0.01",
+        "mid_price": "0.23",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1f050e2b-4dcc-40c8-90f7-f82799d8c4c7",
+        "slug": "op15-release-event",
+        "name": "OP15 Release Event",
+        "set_code": null,
+        "released_at": "2026-03-27T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686446/one-piece-card-game-adventure-on-kamis-island-release-event-cards-sanji-op15-081",
+        "market_price": "7.94",
+        "low_price": "8.13",
+        "mid_price": "17.35",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

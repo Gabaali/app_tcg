@@ -1,0 +1,152 @@
+{
+  "card_number": "OP06-001",
+  "name": "Uta",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "FILM"
+  ],
+  "effect": "[When Attacking] You may trash 1 {FILM} type card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn. Then, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.656146,
+        "y": 0.360714
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539287/one-piece-card-game-wings-of-the-captain-uta",
+        "market_price": "0.19",
+        "low_price": "0.05",
+        "mid_price": "0.21",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.468439,
+        "y": 0.344048
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539285/one-piece-card-game-wings-of-the-captain-uta-alternate-art",
+        "market_price": "34.90",
+        "low_price": "33.01",
+        "mid_price": "39.83",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.742525,
+        "y": 0.359524
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-001/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-001/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629173/one-piece-card-game-extra-booster-anime-25th-collection-uta-sp",
+        "market_price": "899.66",
+        "low_price": "2788.89",
+        "mid_price": "2788.92",
+        "high_price": "6769.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

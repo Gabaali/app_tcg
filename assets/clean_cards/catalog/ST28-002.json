@@ -1,0 +1,80 @@
+{
+  "card_number": "ST28-002",
+  "name": "Izo",
+  "language": "en",
+  "set": "ST28",
+  "set_name": "Starter Deck - Green/yellow Yamato",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "Land of Wano",
+    "Former Whitebeard Pirates"
+  ],
+  "effect": "[DON!! x2] This Character gains [Blocker].\n[On Play] Your {Land of Wano} type Leader gains [Banish] during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Morechand",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5fc4a779-1784-40a0-b76c-5a763b0d62cc",
+        "slug": "starter-deck-green-yellow-yamato",
+        "name": "Starter Deck - Green/yellow Yamato",
+        "set_code": "ST28",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST28-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST28-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST28-002/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST28-002/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST28-002/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635313/one-piece-card-game-starter-deck-28-green-yellow-yamato-izo",
+        "market_price": "0.17",
+        "low_price": "0.07",
+        "mid_price": "0.24",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

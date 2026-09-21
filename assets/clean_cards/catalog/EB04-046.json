@@ -1,0 +1,116 @@
+{
+  "card_number": "EB04-046",
+  "name": "Doll",
+  "language": "en",
+  "set": "EB04",
+  "set_name": "Extra Booster 4",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Egghead",
+    "Navy"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[Opponent's Turn] All of your {Navy} type Characters gain +2 cost.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Yasushi Yamaguchi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-046/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-046/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB04-046/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB04-046/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-046/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685315/one-piece-card-game-adventure-on-kamis-island-doll",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ff28cd73-48ca-457e-9389-2ebc0342e69f",
+        "slug": "eb04-release-event",
+        "name": "EB04 Release Event",
+        "set_code": null,
+        "released_at": "2026-03-27T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686349/one-piece-card-game-adventure-on-kamis-island-release-event-cards-doll",
+        "market_price": "3.59",
+        "low_price": "3.18",
+        "mid_price": "5.00",
+        "high_price": "9.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

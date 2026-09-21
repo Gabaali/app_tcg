@@ -1,0 +1,76 @@
+{
+  "card_number": "EB01-050",
+  "name": "...I Want to Live!!",
+  "language": "en",
+  "set": "EB01",
+  "set_name": "Memorial Collection",
+  "released_at": "2024-05-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Counter] If you have 30 or more cards in your trash, add up to 1 card from the top of your deck to the top of your Life cards.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.413621,
+        "y": 0.27619
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-050/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-050/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544587/one-piece-card-game-extra-booster-memorial-collection-i-want-to-live",
+        "market_price": "0.20",
+        "low_price": "0.07",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

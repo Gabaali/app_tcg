@@ -1,0 +1,112 @@
+{
+  "card_number": "OP04-116",
+  "name": "Diable Jambe Joue Shot",
+  "language": "en",
+  "set": "OP04",
+  "set_name": "Kingdoms of Intrigue",
+  "released_at": "2023-09-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "The Vinsmoke Family"
+  ],
+  "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you and your opponent have a total of 4 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger": "[Trigger] Draw 1 card.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-116/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-116/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516824/one-piece-card-game-kingdoms-of-intrigue-diable-jambe-joue-shot",
+        "market_price": "0.05",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "7d487e6d-4ddd-438d-a2c0-fb06f6f16a51",
+        "slug": "op04-release-event",
+        "name": "OP04 Release Event",
+        "set_code": null,
+        "released_at": "2023-09-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516908/one-piece-card-game-kingdoms-of-intrigue-pre-release-cards-diable-jambe-joue-shot",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

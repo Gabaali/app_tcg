@@ -1,0 +1,79 @@
+{
+  "card_number": "ST31-001",
+  "name": "Sanji",
+  "language": "en",
+  "set": "ST31",
+  "set_name": "Starter Deck - Red Monkey.d.luffy",
+  "released_at": "2026-07-31T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 5,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x2] This Character gains [Rush].\n(This card can attack on the turn in which it is played.)\n[On Play] Draw 1 card and play up to 1 {Straw Hat Crew} type Character card with a cost of 5 or less other than [Sanji] from your hand.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8acc993b-92c4-4538-bdf2-356b749e8a92",
+        "slug": "starter-deck-red-monkey-d-luffy",
+        "name": "Starter Deck - Red Monkey.d.luffy",
+        "set_code": "ST31",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST31-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST31-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706314/one-piece-card-game-starter-deck-31-red-monkeydluffy-sanji",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

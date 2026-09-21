@@ -1,0 +1,113 @@
+{
+  "card_number": "OP11-061",
+  "name": "Gum-Gum Jet Culverin",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Blue"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Main] Place up to 1 of your opponent's Characters with a base cost of 4 or less at the bottom of the owner's deck.",
+  "trigger": "[Trigger] Place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-061/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-061/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632429/one-piece-card-game-a-fist-of-divine-speed-gum-gum-jet-culverin",
+        "market_price": "0.16",
+        "low_price": "0.06",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4847d8f8-456c-4b25-bdd9-efc8e1e80812",
+        "slug": "op11-release-event",
+        "name": "OP11 Release Event",
+        "set_code": null,
+        "released_at": "2025-05-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634484/one-piece-card-game-a-fist-of-divine-speed-release-event-cards-gum-gum-jet-culverin",
+        "market_price": "5.20",
+        "low_price": "3.99",
+        "mid_price": "7.99",
+        "high_price": "11.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

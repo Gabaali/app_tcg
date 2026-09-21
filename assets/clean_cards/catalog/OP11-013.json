@@ -1,0 +1,132 @@
+{
+  "card_number": "OP11-013",
+  "name": "Prince Grus",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy",
+    "SWORD"
+  ],
+  "effect": "[When Attacking] All of your opponent's Characters with 2000 power or less cannot activate [Blocker] during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-013/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-013/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632371/one-piece-card-game-a-fist-of-divine-speed-prince-grus",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "7.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": "Haru Miyajima",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "751b9e7d-4ddb-4beb-b30a-acbe44cdbfa8",
+        "slug": "judge-pack-vol-7",
+        "name": "Judge Pack Vol. 7",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP11-013/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP11-013/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-013/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668195/one-piece-card-game-one-piece-promotion-cards-prince-grus-judge-pack-vol-7",
+        "market_price": "1.33",
+        "low_price": "0.75",
+        "mid_price": "1.42",
+        "high_price": "20.84"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I activated this [When Attacking] effect, and afterwards my opponent played a Character with 2000 power or less in the same turn. Will that Character be able to activate [Blocker] during that turn?",
+      "answer": "Yes, it will.",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "My opponent's Character had 3000 power or more when I activated this [When Attacking] effect, but its power subsequently dropped to 2000 or less. Will it still be able to activate [Blocker] during that turn?",
+      "answer": "Yes, in this case it will be able to activate [Blocker].",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "My opponent's Character had 2000 power or less when I activated this [When Attacking] effect, but its power subsequently rose to 3000 or more. Will it still be able to activate [Blocker] during that turn?",
+      "answer": "No, in this case it will be unable to activate [Blocker].",
+      "updated_on": "2025-05-23"
+    }
+  ]
+}

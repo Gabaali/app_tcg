@@ -1,0 +1,181 @@
+{
+  "card_number": "OP03-001",
+  "name": "Portgas.D.Ace",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "When this Leader attacks or is attacked, you may trash any number of Event or Stage cards from your hand. This Leader gains +1000 power during this battle for every card trashed.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.528239,
+        "y": 0.233333
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/497932/one-piece-card-game-pillars-of-strength-portgasdace",
+        "market_price": "0.47",
+        "low_price": "0.10",
+        "mid_price": "0.50",
+        "high_price": "20.37"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.420266,
+        "y": 0.195238
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/497934/one-piece-card-game-pillars-of-strength-portgasdace-alternate-art",
+        "market_price": "80.94",
+        "low_price": "79.99",
+        "mid_price": "99.98",
+        "high_price": "200.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.531561,
+        "y": 0.284524
+      },
+      "product": {
+        "id": "6c951614-72a3-4f74-b5c7-2a5ff8c65074",
+        "slug": "ace-sabo-luffy",
+        "name": "Ace/sabo/luffy",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-001/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-001/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/504483/one-piece-card-game-one-piece-promotion-cards-portgasdace-special-goods-set-ace-sabo-luffy",
+        "market_price": "36.14",
+        "low_price": "36.14",
+        "mid_price": "57.50",
+        "high_price": "150.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does my Leader's \"When this Leader attacks\" effect activate before my opponent's [Blocker] or Counter activate?",
+      "answer": "Yes, it activates before your opponent's [Blocker] or Counter activate.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Does my Leader's \"When this Leader...is attacked\" effect activate before my Counter activates?",
+      "answer": "Yes, it activates before your Counter activates.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Does my Leader's \"When this Leader...is attacked\" effect activate before my opponent's [When Attacking] effects or \"When...attacks\" effects activate?",
+      "answer": "No. Your opponent's [When Attacking] effects or \"When...attacks\" effects activate first.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Does my Leader's \"When this Leader...is attacked\" effect activate before my [Blocker] activates?",
+      "answer": "No, it activates after your [Blocker] activates. However, if you activate your Character's [Blocker], that Character will become the target of the attack, so you will be unable to activate this Leader's \"When this Leader...is attacked\" effect.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "After I activate a Counter during my Counter Step, can I activate my Leader's \"When this Leader...is attacked\" effect to increase its power?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If my Character is attacked, can I activate this Leader's \"When this Leader...is attacked\" effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

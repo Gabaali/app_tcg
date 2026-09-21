@@ -1,0 +1,127 @@
+{
+  "card_number": "OP16-003",
+  "name": "Edward.Newgate",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 8,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Whitebeard Pirates"
+  ],
+  "effect": "[Your Turn] Your Leader gains [Double Attack] and +2000 power.\n[On Play] You may reveal 2 Character cards with 8000 power from your hand: Give up to 1 of your opponent's Characters −6000 power during this turn.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693824/one-piece-card-game-the-time-of-battle-edwardnewgate",
+        "market_price": "1.91",
+        "low_price": "0.55",
+        "mid_price": "2.44",
+        "high_price": "21.92"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693822/one-piece-card-game-the-time-of-battle-edwardnewgate-alternate-art",
+        "market_price": "26.95",
+        "low_price": "23.50",
+        "mid_price": "28.95",
+        "high_price": "88.26"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does \"Character cards with 8000 power\" also include Character cards with 7000 power or less or Character cards with 9000 power or more?",
+      "answer": "No, they must be Character cards with exactly 8000 power.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "If I play this card while my Leader already has [Double Attack], what happens to this Card's [Your Turn] effect?",
+      "answer": "In this case, your Leader keeps its [Double Attack] and gains +2000 power during your turn.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

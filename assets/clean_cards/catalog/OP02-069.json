@@ -1,0 +1,129 @@
+{
+  "card_number": "OP02-069",
+  "name": "DEATH WINK",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Impel Down",
+    "Revolutionary Army"
+  ],
+  "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, draw cards so that you have 2 cards in your hand.",
+  "trigger": "[Trigger] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-069/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-069/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486407/one-piece-card-game-paramount-war-death-wink",
+        "market_price": "0.07",
+        "low_price": "0.02",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e954b056-d7e6-4d3c-88b3-fd51abbe1a91",
+        "slug": "op02-release-event",
+        "name": "OP02 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486638/one-piece-card-game-paramount-war-pre-release-cards-death-wink",
+        "market_price": "7.14",
+        "low_price": "6.98",
+        "mid_price": "7.55",
+        "high_price": "14.98"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I had 2 cards in my hand, including this card, and activated the [Counter] effect of this card in my hand. At this time, can I draw 1 card so that I have 2 cards in my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If I have 3 or more cards in my hand, do I need to trash some of them in order to have 2 cards in my hand for this [Counter] effect?",
+      "answer": "No, you do not.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I use this [Trigger] effect to return my own Character to my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "card_number": "OP02-001",
+  "name": "Edward.Newgate",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red"
+  ],
+  "cost": null,
+  "power": 6000,
+  "counter": null,
+  "life": 6,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Whitebeard Pirates"
+  ],
+  "effect": "[End of Your Turn] Add 1 card from the top of your Life cards to your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.425324,
+        "y": 0.277541
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/482424/one-piece-card-game-paramount-war-edwardnewgate-001",
+        "market_price": "0.33",
+        "low_price": "0.14",
+        "mid_price": "0.37",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.50325,
+        "y": 0.38976
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-001/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-001/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483470/one-piece-card-game-paramount-war-edwardnewgate-001-alternate-art",
+        "market_price": "102.19",
+        "low_price": "92.23",
+        "mid_price": "117.49",
+        "high_price": "220.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.506645,
+        "y": 0.238095
+      },
+      "product": {
+        "id": "749b2666-be5d-4ecc-86cd-6b90dd879472",
+        "slug": "starter-deck-red-edward-newgate",
+        "name": "Starter Deck - Red Edward.newgate",
+        "set_code": "ST15",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/580976/one-piece-card-game-starter-deck-15-red-edwardnewgate-edwardnewgate-op02-001",
+        "market_price": "1.36",
+        "low_price": "1.10",
+        "mid_price": "2.00",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e5b7931c-64a3-466e-b35e-91cf5f2a01b3",
+        "slug": "special-goods-set-former-four-emperors",
+        "name": "Special Goods Set -Former Four Emperors-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-001/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-001/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/546699/one-piece-card-game-one-piece-promotion-cards-edwardnewgate-special-goods-set-former-four-emperors",
+        "market_price": "41.48",
+        "low_price": "38.75",
+        "mid_price": "51.75",
+        "high_price": "89.95"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "What happens according to the [End of Your Turn] effect if I have no Life cards?",
+      "answer": "Nothing will happen, and this [End of Your Turn] effect will not cause you to lose the game.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

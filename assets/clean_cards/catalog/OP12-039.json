@@ -1,0 +1,185 @@
+{
+  "card_number": "OP12-039",
+  "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Main] Set your [Roronoa Zoro] Leader as active.",
+  "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-039/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-039/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643771/one-piece-card-game-legacy-of-the-master-luffy-is-the-man-who-will-become-the-king-of-pirates",
+        "market_price": "0.25",
+        "low_price": "0.04",
+        "mid_price": "0.29",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-039/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-039/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656651/one-piece-card-game-learn-together-deck-set-luffy-is-the-man-who-will-become-the-king-of-pirates-zoro-deck",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "1.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5be11361-a9ae-49a2-bde8-004d41f6acc2",
+        "slug": "starter-deck-green-roronoa-zoro",
+        "name": "Starter Deck - Green Roronoa Zoro",
+        "set_code": "ST32",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-039/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-039/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706322/one-piece-card-game-starter-deck-32-green-roronoa-zoro-luffy-is-the-man-who-will-become-the-king-of-pirates",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "267b7190-f9ac-4b75-b21d-da5051afa5ad",
+        "slug": "japanese-3rd-anniversary-set",
+        "name": "Japanese 3rd Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-039/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-039/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681982/one-piece-card-game-one-piece-promotion-cards-luffy-is-the-man-who-will-become-the-king-of-pirates-japanese-version-3rd-anniversary-set",
+        "market_price": "406.67",
+        "low_price": "304.99",
+        "mid_price": "385.46",
+        "high_price": "525.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

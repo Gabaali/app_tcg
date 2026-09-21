@@ -1,0 +1,234 @@
+{
+  "card_number": "OP05-007",
+  "name": "Sabo",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Revolutionary Army"
+  ],
+  "effect": "[On Play] K.O. up to 2 of your opponent's Characters with a total power of 4000 or less.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-007/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-007/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527009/one-piece-card-game-awakening-of-the-new-era-sabo-007",
+        "market_price": "0.36",
+        "low_price": "0.10",
+        "mid_price": "0.49",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-007/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-007/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527659/one-piece-card-game-awakening-of-the-new-era-sabo-007-alternate-art",
+        "market_price": "3.41",
+        "low_price": "3.00",
+        "mid_price": "4.75",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-007/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-007/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/594352/one-piece-card-game-premium-booster-the-best-sabo-op05-007-reprint",
+        "market_price": "0.30",
+        "low_price": "0.08",
+        "mid_price": "0.43",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-007/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-007/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586190/one-piece-card-game-premium-booster-the-best-sabo-op05-007-alternate-art",
+        "market_price": "16.89",
+        "low_price": "13.27",
+        "mid_price": "19.99",
+        "high_price": "99.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8f2e4285-2c85-483a-bd5e-592e488af816",
+        "slug": "illustration-box-vol-5",
+        "name": "Illustration Box Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-007/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-007/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671734/one-piece-card-game-one-piece-promotion-cards-sabo-illustration-box-vol5",
+        "market_price": "0.74",
+        "low_price": "0.30",
+        "mid_price": "1.00",
+        "high_price": "48.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to K.O. 1 Character with 4000 power?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I use this [On Play] effect to K.O. a Character with − 2000 power and a Character with 6000 power?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

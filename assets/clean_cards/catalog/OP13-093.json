@@ -1,0 +1,115 @@
+{
+  "card_number": "OP13-093",
+  "name": "Morgans",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Journalist"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Draw 2 cards and trash 2 cards from your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-093/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-093/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657370/one-piece-card-game-carrying-on-his-will-morgans",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "922d2baa-04f8-4395-88de-00af294dd8a8",
+        "slug": "op13-release-event",
+        "name": "OP13 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/661406/one-piece-card-game-carrying-on-his-will-3rd-anniversary-tournament-cards-morgans",
+        "market_price": "1.83",
+        "low_price": "0.99",
+        "mid_price": "1.73",
+        "high_price": "2.10"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

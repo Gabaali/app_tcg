@@ -1,0 +1,76 @@
+{
+  "card_number": "ST10-015",
+  "name": "Gum-Gum Giant Sumo Slap",
+  "language": "en",
+  "set": "ST10",
+  "set_name": "Starter Deck - The Three Captains",
+  "released_at": "2023-11-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle, and K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1d1cc7a7-d6df-43c5-98c5-f9c62a31a971",
+        "slug": "starter-deck-the-three-captains",
+        "name": "Starter Deck - The Three Captains",
+        "set_code": "ST10",
+        "released_at": "2023-11-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST10-015/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST10-015/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525059/one-piece-card-game-ultra-deck-the-three-captains-gum-gum-giant-sumo-slap",
+        "market_price": "2.56",
+        "low_price": "2.04",
+        "mid_price": "3.20",
+        "high_price": "15.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

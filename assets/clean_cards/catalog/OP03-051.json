@@ -1,0 +1,85 @@
+{
+  "card_number": "OP03-051",
+  "name": "Bell-mère",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "East Blue",
+    "Former Navy"
+  ],
+  "effect": "[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck.\n[On K.O.] You may trash 3 cards from the top of your deck.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-051/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-051/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/499980/one-piece-card-game-pillars-of-strength-bell-mere",
+        "market_price": "0.29",
+        "low_price": "0.05",
+        "mid_price": "0.30",
+        "high_price": "40.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does this \"When this Character's attack deals damage to your opponent's Life\" effect activate before a [Trigger] resulting from that damage?",
+      "answer": "First, your opponent checks their Life in accordance with the damage dealt, and then this \"When this Character's attack deals damage to your opponent's Life\" effect activates. After that, if the checked Life card has a [Trigger], your opponent can choose to activate it.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

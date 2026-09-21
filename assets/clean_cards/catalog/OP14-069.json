@@ -1,0 +1,122 @@
+{
+  "card_number": "OP14-069",
+  "name": "Donquixote Doflamingo",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Purple"
+  ],
+  "cost": 10,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Donquixote Pirates"
+  ],
+  "effect": "[On Play] DON!! −3: Choose one:\n• If your Leader has the {Donquixote Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 8 or less.\n• Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-069/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-069/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668638/one-piece-card-game-the-azure-seas-seven-donquixote-doflamingo-op14-069",
+        "market_price": "0.82",
+        "low_price": "0.10",
+        "mid_price": "1.11",
+        "high_price": "99.90"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-069/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-069/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668639/one-piece-card-game-the-azure-seas-seven-donquixote-doflamingo-op14-069-alternate-art",
+        "market_price": "9.70",
+        "low_price": "8.00",
+        "mid_price": "12.25",
+        "high_price": "60.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If my Leader does not have the {Donquixote Pirates} type and I returned 3 of my DON!! cards from my field to my DON!! deck using this card's [On Play] effect, can I still activate the \"Up to 3 of your opponent's Characters with a cost of 7 or less cannot be rested until the end of your opponent's next End Phase.\" effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-06-26"
+    }
+  ]
+}

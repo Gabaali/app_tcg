@@ -1,0 +1,158 @@
+{
+  "card_number": "OP08-058",
+  "name": "Charlotte Pudding",
+  "language": "en",
+  "set": "OP08",
+  "set_name": "Two Legends",
+  "released_at": "2024-09-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Purple",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.609635,
+        "y": 0.27381
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-058/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-058/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558088/one-piece-card-game-two-legends-charlotte-pudding-058",
+        "market_price": "0.15",
+        "low_price": "0.02",
+        "mid_price": "0.18",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.563123,
+        "y": 0.330952
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-058/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-058/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558089/one-piece-card-game-two-legends-charlotte-pudding-058-parallel",
+        "market_price": "40.97",
+        "low_price": "40.52",
+        "mid_price": "55.00",
+        "high_price": "420.69"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.616279,
+        "y": 0.282143
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-058/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-058/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629189/one-piece-card-game-extra-booster-anime-25th-collection-charlotte-pudding-sp",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If 1 or more of the 2 cards taken from the top of my Life cards are already turned face-up, can I still use this [When Attacking] effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-08-30"
+    }
+  ]
+}

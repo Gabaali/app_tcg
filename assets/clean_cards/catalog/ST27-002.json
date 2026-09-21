@@ -1,0 +1,85 @@
+{
+  "card_number": "ST27-002",
+  "name": "Catarina Devon",
+  "language": "en",
+  "set": "ST27",
+  "set_name": "Starter Deck - Black Marshall.d.teach",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": 1000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Blackbeard Pirates"
+  ],
+  "effect": "[Activate: Main] You may trash this Character: If your Leader has the {Blackbeard Pirates} type, give up to 1 of your opponent's Characters −1 cost during this turn.\n[On K.O.] Draw 1 card.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "b05d19ca-6976-4e52-8bbb-589e77db9b75",
+        "slug": "starter-deck-black-marshall-d-teach",
+        "name": "Starter Deck - Black Marshall.d.teach",
+        "set_code": "ST27",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST27-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST27-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/633180/one-piece-card-game-starter-deck-27-black-marshalldteach-catarina-devon",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.19",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "After using this [Activate: Main] effect to trash this Character, can I use this [On K.O.] effect to draw 1 card?",
+      "answer": "No, you cannot. Trashing this Character using this [Activate: Main] effect is not considered a K.O.",
+      "updated_on": "2025-05-30"
+    }
+  ]
+}

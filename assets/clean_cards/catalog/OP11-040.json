@@ -1,0 +1,137 @@
+{
+  "card_number": "OP11-040",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 6000,
+  "counter": null,
+  "life": 3,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "This effect can be activated at the start of your turn. If you have 8 or more DON!! cards on your field, look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "ONE PIECE Katsumi",
+      "crop_focus": {
+        "x": 0.490852,
+        "y": 0.176344
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-040/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-040/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP11-040/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP11-040/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-040/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632403/one-piece-card-game-a-fist-of-divine-speed-monkeydluffy-040",
+        "market_price": "0.20",
+        "low_price": "0.05",
+        "mid_price": "0.21",
+        "high_price": "5.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.536545,
+        "y": 0.319048
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-040/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-040/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632404/one-piece-card-game-a-fist-of-divine-speed-monkeydluffy-040-alternate-art",
+        "market_price": "62.45",
+        "low_price": "60.38",
+        "mid_price": "74.92",
+        "high_price": "200.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "pair",
+      "banned_at": "2025-08-30T00:00:00.000Z",
+      "paired_with": [
+        "OP08-069",
+        "OP11-067"
+      ]
+    },
+    "Extra Regulation": {
+      "status": "pair",
+      "banned_at": "2025-08-30T00:00:00.000Z",
+      "paired_with": [
+        "OP08-069",
+        "OP11-067"
+      ]
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Do I activate this effect before or after drawing a card at the start of my turn?",
+      "answer": "You activate this effect before drawing a card. The effect is activated at the beginning of your Refresh Phase which is resolved as follows: \"Effects that activate at the start of your turn → All given DON!! cards are returned to your cost area → All rested cards become active → Draw Phase\".",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "Can I activate this effect when I have 7 or less DON!! cards on my field?",
+      "answer": "You can, but nothing will happen as you do not meet the effect's condition of \"If you have 8 or more DON!! cards on your field\".",
+      "updated_on": "2025-05-23"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "card_number": "OP12-017",
+  "name": "Color of Observation Haki",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Red"
+  ],
+  "cost": 0,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Former Roger Pirates"
+  ],
+  "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Look at 4 cards from the top of your deck; reveal up to 1 red Event or up to 1 Character card with a cost of 3 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-017/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-017/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-017/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-017/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-017/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643744/one-piece-card-game-legacy-of-the-master-color-of-observation-haki",
+        "market_price": "0.08",
+        "low_price": "0.02",
+        "mid_price": "0.15",
+        "high_price": "8.08"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d65c9dd8-7de7-4eaa-8705-9b8e8ee16798",
+        "slug": "op12-release-event",
+        "name": "OP12 Release Event",
+        "set_code": null,
+        "released_at": "2025-08-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649300/one-piece-card-game-legacy-of-the-master-release-event-cards-color-of-observation-haki",
+        "market_price": "6.23",
+        "low_price": "3.72",
+        "mid_price": "6.89",
+        "high_price": "15.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I activate this [Main] effect if I have no active DON!! cards?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "Can I activate this [Main] effect if I don't have [Silvers Rayleigh] on my field?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "Can I use this [Main] effect to give a DON!! card to my [Silvers Rayleigh] Character?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "Can I use this [Main] effect to add 1 non-red Character card with a cost of 3 or more to my hand?",
+      "answer": "No, you cannot. This effect allows you to add either a \"red Event\" or a \"red Character card with a cost of 3 or more\" to your hand.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

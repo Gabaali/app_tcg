@@ -1,0 +1,260 @@
+{
+  "card_number": "OP10-107",
+  "name": "Jewelry Bonney",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Bonney Pirates"
+  ],
+  "effect": "[Blocker]\n[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 {Supernovas} type Character card with a cost of 5 from your hand to the top of your Life cards face-up.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-107/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-107/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617156/one-piece-card-game-royal-blood-jewelry-bonney",
+        "market_price": "0.13",
+        "low_price": "0.04",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0da16783-a043-4efb-b99b-3ef8d727219e",
+        "slug": "cs-25-26-top-player-pack-2",
+        "name": "Cs 25-26 Top Player Pack 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-107/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-107/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0da16783-a043-4efb-b99b-3ef8d727219e",
+        "slug": "cs-25-26-top-player-pack-2",
+        "name": "Cs 25-26 Top Player Pack 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-107/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-107/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668430/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-cs-25-26-top-player-pack-vol-2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0da16783-a043-4efb-b99b-3ef8d727219e",
+        "slug": "cs-25-26-top-player-pack-2",
+        "name": "Cs 25-26 Top Player Pack 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-107/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-107/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/620809/one-piece-card-game-royal-blood-release-event-cards-jewelry-bonney",
+        "market_price": "11.15",
+        "low_price": "8.75",
+        "mid_price": "11.56",
+        "high_price": "998.90"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": "kicori",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "751b9e7d-4ddb-4beb-b30a-acbe44cdbfa8",
+        "slug": "judge-pack-vol-7",
+        "name": "Judge Pack Vol. 7",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP10-107/en/scans/4/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP10-107/en/scans/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-107/en/scans/4/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668194/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-judge-pack-vol-7",
+        "market_price": "5.39",
+        "low_price": "3.40",
+        "mid_price": "5.69",
+        "high_price": "25.77"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c78f36d2-2406-4a94-bab1-d694aa34d5a5",
+        "slug": "cs-25-26-finalist-card-set-2",
+        "name": "CS 25-26 Finalist Card Set 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668431/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-cs-25-26-finalist-card-set-2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

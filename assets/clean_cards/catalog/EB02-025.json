@@ -1,0 +1,80 @@
+{
+  "card_number": "EB02-025",
+  "name": "Donquixote Rosinante",
+  "language": "en",
+  "set": "EB02",
+  "set_name": "Anime 25th Collection",
+  "released_at": "2025-05-09T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 2,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy",
+    "Donquixote Pirates"
+  ],
+  "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Donquixote Rosinante], look at 5 cards from the top of your deck; play up to 1 Character card with a cost of 2 or less rested. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-025/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-025/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629120/one-piece-card-game-extra-booster-anime-25th-collection-donquixote-rosinante",
+        "market_price": "0.25",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

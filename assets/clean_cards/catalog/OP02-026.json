@@ -1,0 +1,131 @@
+{
+  "card_number": "OP02-026",
+  "name": "Sanji",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green",
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.386149,
+        "y": 0.195381
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-026/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-026/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486346/one-piece-card-game-paramount-war-sanji",
+        "market_price": "0.35",
+        "low_price": "0.20",
+        "mid_price": "0.39",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.273992,
+        "y": 0.329643
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-026/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-026/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483628/one-piece-card-game-paramount-war-sanji-alternate-art",
+        "market_price": "144.98",
+        "low_price": "140.60",
+        "mid_price": "174.94",
+        "high_price": "399.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I had 3 Characters and played a Character with no base effect from my hand. At this time, can use this [Once Per Turn] effect to set 2 of my DON!! cards as active?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I had 0 Character cards and played a Character with no base effect from my hand. At this time, can I choose not to activate this [Once Per Turn] effect?",
+      "answer": "No, you must activate this effect whenever possible.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "During my opponent's turn, I had 2 Character cards and played a Character with no base effect from my hand. At this time, can I use this [Once Per Turn] effect to set 2 of my DON!! cards as active?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

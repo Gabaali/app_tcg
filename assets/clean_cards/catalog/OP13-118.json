@@ -1,0 +1,303 @@
+{
+  "card_number": "OP13-118",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Green"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Fish-Man Island",
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Double Attack]\n[On Play] If your Leader is multicolored, set up to 4 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-118/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-118/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657400/one-piece-card-game-carrying-on-his-will-monkeydluffy-118",
+        "market_price": "29.04",
+        "low_price": "28.01",
+        "mid_price": "32.00",
+        "high_price": "420.69"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-118/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-118/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657403/one-piece-card-game-carrying-on-his-will-monkeydluffy-118-parallel",
+        "market_price": "102.87",
+        "low_price": "94.91",
+        "mid_price": "107.03",
+        "high_price": "1000.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-118/ja/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-118/ja/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-118/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-118/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657404/one-piece-card-game-carrying-on-his-will-monkeydluffy-118-wanted-poster",
+        "market_price": "338.76",
+        "low_price": "329.01",
+        "mid_price": "341.62",
+        "high_price": "1500.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-118/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-118/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657402/one-piece-card-game-carrying-on-his-will-monkeydluffy-118-super-alternate-art",
+        "market_price": "2116.43",
+        "low_price": "2799.99",
+        "mid_price": "3649.50",
+        "high_price": "6500.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-118/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-118/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657401/one-piece-card-game-carrying-on-his-will-monkeydluffy-118-red-super-alternate-art",
+        "market_price": null,
+        "low_price": "99999.00",
+        "mid_price": "99999.00",
+        "high_price": "99999.00"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "be6e2718-d7a1-446c-ac4e-156408fe3a75",
+        "slug": "treasure-cup-march-2026",
+        "name": "Treasure Cup March 2026",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686279/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-treasure-cup-march-2026",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If my Leader is mono-green, can I play a Character card with a base cost of 5 or more during the same turn I activated this [On Play] effect?",
+      "answer": "Yes, you can. However, in this case, you are also unable to set 4 of your DON!! cards as active.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

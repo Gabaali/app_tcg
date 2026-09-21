@@ -1,0 +1,230 @@
+{
+  "card_number": "OP07-031",
+  "name": "Bartolomeo",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Barto Club"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": "NIJIMAARC",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-031/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-031/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-031/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-031/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-031/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545815/one-piece-card-game-500-years-in-the-future-bartolomeo",
+        "market_price": "0.08",
+        "low_price": "0.02",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": "NIJIMAARC",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8860a806-61e2-494b-ade8-547d21ab6f45",
+        "slug": "starter-deck-green-jewelry-bonney",
+        "name": "Starter Deck - Green Jewelry Bonney",
+        "set_code": "ST24",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-031/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-031/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-031/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-031/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-031/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634603/one-piece-card-game-starter-deck-24-green-jewelry-bonney-bartolomeo-reprint",
+        "market_price": "0.08",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-031/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-031/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656191/one-piece-card-game-premium-booster-the-best-vol-2-bartolomeo-reprint",
+        "market_price": "0.04",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-031/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-031/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656194/one-piece-card-game-premium-booster-the-best-vol-2-bartolomeo-pirate-foil",
+        "market_price": "0.22",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1826e7a-88cd-468b-bdcd-0ab614a6b250",
+        "slug": "op07-release-event",
+        "name": "OP07 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/552106/one-piece-card-game-500-years-in-the-future-pre-release-cards-bartolomeo",
+        "market_price": "5.15",
+        "low_price": "4.54",
+        "mid_price": "5.54",
+        "high_price": "19.75"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "During my turn, if I activate an effect such as \"[Activate: Main] Rest this Character:\" and rest my Character, can I activate this Character's [Your Turn] effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

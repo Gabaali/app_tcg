@@ -1,0 +1,230 @@
+{
+  "card_number": "EB02-010",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "EB02",
+  "set_name": "Anime 25th Collection",
+  "released_at": "2025-05-09T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] DON!! −2: If the only Characters on your field are {Straw Hat Crew} type Characters, set up to 2 of your DON!! cards as active. Then, this Leader gains +1000 power until the end of your opponent's next turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.451619,
+        "y": 0.323702
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-010/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-010/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629100/one-piece-card-game-extra-booster-anime-25th-collection-monkeydluffy-010",
+        "market_price": "0.40",
+        "low_price": "0.10",
+        "mid_price": "0.48",
+        "high_price": "20.39"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.389521,
+        "y": 0.198268
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-010/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-010/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629101/one-piece-card-game-extra-booster-anime-25th-collection-monkeydluffy-010-alternate-art",
+        "market_price": "1004.57",
+        "low_price": "950.00",
+        "mid_price": "1956.97",
+        "high_price": "7500.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.741407,
+        "y": 0.373606
+      },
+      "product": {
+        "id": "3a356046-c076-4f9f-84e5-f8954ba7bafd",
+        "slug": "dodgers-one-piece-night",
+        "name": "Dodgers One Piece Night",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-010/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-010/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/641620/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-010-dodgers-x-one-piece",
+        "market_price": "1370.98",
+        "low_price": "1995.28",
+        "mid_price": "2456.10",
+        "high_price": "16999.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.463455,
+        "y": 0.40119
+      },
+      "product": {
+        "id": "5db9842c-0600-449f-95ed-ecfaf62a0ed1",
+        "slug": "official-playmat-limited-edition-vol-5",
+        "name": "Official Playmat Limited Edition Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-010/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-010/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649772/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-sound-loader-luffy-edition-2025",
+        "market_price": "39.41",
+        "low_price": "31.69",
+        "mid_price": "40.54",
+        "high_price": "80.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5db9842c-0600-449f-95ed-ecfaf62a0ed1",
+        "slug": "official-playmat-limited-edition-vol-5",
+        "name": "Official Playmat Limited Edition Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/694713/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-official-playmat-limited-edition-vol5",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "What does this [Activate: Main] effect do if I have 0 Characters on my field?",
+      "answer": "In this case, after you choose to return 2 DON!! cards to your DON!! deck with this [Activate: Main] effect, nothing will happen.",
+      "updated_on": "2025-04-25"
+    }
+  ]
+}

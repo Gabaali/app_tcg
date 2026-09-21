@@ -1,0 +1,117 @@
+{
+  "card_number": "EB04-001",
+  "name": "Jewelry Bonney",
+  "language": "en",
+  "set": "EB04",
+  "set_name": "Extra Booster 4",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Egghead",
+    "Bonney Pirates"
+  ],
+  "effect": "[Opponent's Turn] If you have 1 or less Life cards, this Leader gains +2000 power.\n[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, if you have 2 or more Life cards, you may add 1 card from the top of your Life cards to your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Sunohara",
+      "crop_focus": {
+        "x": 0.442262,
+        "y": 0.223894
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB04-001/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB04-001/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-001/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685295/one-piece-card-game-adventure-on-kamis-island-jewelry-bonney-eb04-001",
+        "market_price": "0.19",
+        "low_price": "0.03",
+        "mid_price": "0.23",
+        "high_price": "10.05"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "otton",
+      "crop_focus": {
+        "x": 0.466727,
+        "y": 0.34798
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB04-001/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB04-001/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-001/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685296/one-piece-card-game-adventure-on-kamis-island-jewelry-bonney-eb04-001-alternate-art",
+        "market_price": "34.68",
+        "low_price": "31.00",
+        "mid_price": "41.15",
+        "high_price": "127.94"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

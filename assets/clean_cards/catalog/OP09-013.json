@@ -1,0 +1,187 @@
+{
+  "card_number": "OP09-013",
+  "name": "Yasopp",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "Red-Haired Pirates"
+  ],
+  "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.\n[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-013/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-013/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596937/one-piece-card-game-emperors-in-the-new-world-yasopp",
+        "market_price": "0.19",
+        "low_price": "0.01",
+        "mid_price": "0.24",
+        "high_price": "30.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0e44f7b2-0bd8-43af-95be-c190607bbec2",
+        "slug": "starter-deck-red-shanks",
+        "name": "Starter Deck - Red Shanks",
+        "set_code": "ST23",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-013/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-013/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634276/one-piece-card-game-starter-deck-23-red-shanks-yasopp-reprint",
+        "market_price": "0.11",
+        "low_price": "0.01",
+        "mid_price": "0.17",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-013/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-013/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646563/one-piece-card-game-legacy-of-the-master-yasopp-sp",
+        "market_price": "53.76",
+        "low_price": "46.99",
+        "mid_price": "55.05",
+        "high_price": "199.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "b8049f84-0127-40a5-b236-2e6d112fc5a4",
+        "slug": "championship-25-26-offline-regionals-season-2",
+        "name": "Championship 25-26 Offline Regionals Season 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-013/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-013/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646741/one-piece-card-game-one-piece-promotion-cards-yasopp-championship-25-26-offline-regionals-season-2",
+        "market_price": "218.96",
+        "low_price": "260.00",
+        "mid_price": "335.00",
+        "high_price": "2000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

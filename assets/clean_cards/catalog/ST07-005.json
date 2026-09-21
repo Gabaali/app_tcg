@@ -1,0 +1,115 @@
+{
+  "card_number": "ST07-005",
+  "name": "Charlotte Daifuku",
+  "language": "en",
+  "set": "ST07",
+  "set_name": "Starter Deck - Big Mom Pirates",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e0c4a683-ff73-473f-9889-f62f2eedf5d4",
+        "slug": "starter-deck-big-mom-pirates",
+        "name": "Starter Deck - Big Mom Pirates",
+        "set_code": "ST07",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/500134/one-piece-card-game-starter-deck-7-big-mom-pirates-charlotte-daifuku",
+        "market_price": "0.11",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "225.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a2526a93-4cba-45d0-820a-428bacbd275c",
+        "slug": "starter-deck-yellow-charlotte-katakuri",
+        "name": "Starter Deck - Yellow Charlotte Katakuri",
+        "set_code": "ST20",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-005/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-005/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581059/one-piece-card-game-starter-deck-20-yellow-charlotte-katakuri-charlotte-daifuku",
+        "market_price": "0.08",
+        "low_price": "0.02",
+        "mid_price": "0.15",
+        "high_price": "4.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

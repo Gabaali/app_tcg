@@ -1,0 +1,368 @@
+{
+  "card_number": "OP01-033",
+  "name": "Izo",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": 3000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "Land of Wano",
+    "Former Whitebeard Pirates"
+  ],
+  "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-033/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-033/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454554/one-piece-card-game-romance-dawn-izo",
+        "market_price": "0.25",
+        "low_price": "0.17",
+        "mid_price": "0.33",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-033/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-033/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-033/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-033/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586589/one-piece-card-game-premium-booster-the-best-izo-op01-033-jolly-roger-foil",
+        "market_price": "0.42",
+        "low_price": "0.14",
+        "mid_price": "0.49",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-033/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-033/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593284/one-piece-card-game-premium-booster-the-best-izo-op01-033-full-art",
+        "market_price": "1.88",
+        "low_price": "1.75",
+        "mid_price": "2.99",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-033/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-033/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593285/one-piece-card-game-premium-booster-the-best-izo-op01-033-alternate-art",
+        "market_price": "5.43",
+        "low_price": "4.59",
+        "mid_price": "6.00",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "01f52ce2-0431-4108-9528-03209c59d812",
+        "slug": "tournament-pack-vol-2",
+        "name": "Tournament Pack Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-033/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-033/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483155/one-piece-card-game-one-piece-promotion-cards-izo-tournament-pack-vol-2",
+        "market_price": "0.55",
+        "low_price": "0.25",
+        "mid_price": "0.75",
+        "high_price": "7.88"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "511c8dcb-c637-4f2e-8437-d37702b676b3",
+        "slug": "bandai-card-games-fest-23-24-edition",
+        "name": "Bandai Card Games Fest. 23-24 Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-033/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-033/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/564252/one-piece-card-game-one-piece-promotion-cards-izo-premium-card-collection-bandai-card-games-fest-23-24-edition",
+        "market_price": "1.26",
+        "low_price": "0.99",
+        "mid_price": "2.47",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d6527d5f-aa78-4d89-bf4e-b721a1497f91",
+        "slug": "tournament-pack-vol-2-2",
+        "name": "Tournament Pack Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483156/one-piece-card-game-one-piece-promotion-cards-izo-tournament-pack-vol-2-winner",
+        "market_price": "5.28",
+        "low_price": "4.32",
+        "mid_price": "5.67",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cb421112-71b5-4abd-8c36-0f1e4fd2ff35",
+        "slug": "cs-2023-celebration-pack",
+        "name": "CS 2023 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525307/one-piece-card-game-one-piece-promotion-cards-izo-cs-2023-celebration-pack",
+        "market_price": "7.02",
+        "low_price": "6.49",
+        "mid_price": "8.78",
+        "high_price": "44.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

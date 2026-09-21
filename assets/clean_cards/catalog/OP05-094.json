@@ -1,0 +1,77 @@
+{
+  "card_number": "OP05-094",
+  "name": "Haute Couture Patch★Work",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "The Tontattas",
+    "Dressrosa"
+  ],
+  "effect": "[Main] Give up to 1 of your opponent's Characters −3 cost during this turn. Then, up to 1 of your opponent's Characters with a cost of 0 will not become active in the next Refresh Phase.",
+  "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-094/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-094/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528656/one-piece-card-game-awakening-of-the-new-era-haute-couture-patch-work",
+        "market_price": "0.64",
+        "low_price": "0.11",
+        "mid_price": "1.25",
+        "high_price": "999.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

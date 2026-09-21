@@ -1,0 +1,185 @@
+{
+  "card_number": "OP05-021",
+  "name": "Revolutionary Army HQ",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Stage",
+  "rarity": "UC",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Revolutionary Army"
+  ],
+  "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-021/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-021/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528555/one-piece-card-game-awakening-of-the-new-era-revolutionary-army-hq",
+        "market_price": "0.22",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-021/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-021/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656058/one-piece-card-game-premium-booster-the-best-vol-2-revolutionary-army-hq-reprint",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.18",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-021/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-021/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656059/one-piece-card-game-premium-booster-the-best-vol-2-revolutionary-army-hq-pirate-foil",
+        "market_price": "0.45",
+        "low_price": "0.25",
+        "mid_price": "0.50",
+        "high_price": "4.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cbdbf387-ebf5-4514-b1eb-6e2010f6e263",
+        "slug": "op05-release-event",
+        "name": "OP05 Release Event",
+        "set_code": null,
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/530900/one-piece-card-game-awakening-of-the-new-era-1st-anniversary-tournament-cards-revolutionary-army-hq",
+        "market_price": "16.87",
+        "low_price": "16.45",
+        "mid_price": "20.48",
+        "high_price": "39.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

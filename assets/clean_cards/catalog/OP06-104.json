@@ -1,0 +1,152 @@
+{
+  "card_number": "OP06-104",
+  "name": "Kikunojo",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Land of Wano",
+    "The Akazaya Nine"
+  ],
+  "effect": "[On K.O.] If your opponent has 3 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+  "trigger": "[Trigger] If your opponent has 3 or less Life cards, play this card.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-104/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-104/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539503/one-piece-card-game-wings-of-the-captain-kikunojo",
+        "market_price": "1.31",
+        "low_price": "0.89",
+        "mid_price": "1.90",
+        "high_price": "45.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": "BISAI",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5fc4a779-1784-40a0-b76c-5a763b0d62cc",
+        "slug": "starter-deck-green-yellow-yamato",
+        "name": "Starter Deck - Green/yellow Yamato",
+        "set_code": "ST28",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-104/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-104/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP06-104/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP06-104/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-104/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635305/one-piece-card-game-starter-deck-28-green-yellow-yamato-kikunojo-reprint",
+        "market_price": "0.91",
+        "low_price": "0.75",
+        "mid_price": "1.10",
+        "high_price": "6.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a2fe4ce8-0907-441d-a9c1-457574254e8e",
+        "slug": "premium-card-collection-best-selection-vol-2",
+        "name": "Premium Card Collection -Best Selection Vol. 2-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-104/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-104/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/587226/one-piece-card-game-one-piece-promotion-cards-kikunojo-premium-card-collection-best-selection-vol-2",
+        "market_price": "21.42",
+        "low_price": "20.24",
+        "mid_price": "24.25",
+        "high_price": "59.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

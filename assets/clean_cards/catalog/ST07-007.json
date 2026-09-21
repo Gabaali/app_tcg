@@ -1,0 +1,223 @@
+{
+  "card_number": "ST07-007",
+  "name": "Charlotte Brulee",
+  "language": "en",
+  "set": "ST07",
+  "set_name": "Starter Deck - Big Mom Pirates",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 3,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": "[Trigger] Play this card.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e0c4a683-ff73-473f-9889-f62f2eedf5d4",
+        "slug": "starter-deck-big-mom-pirates",
+        "name": "Starter Deck - Big Mom Pirates",
+        "set_code": "ST07",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-007/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-007/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/500139/one-piece-card-game-starter-deck-7-big-mom-pirates-charlotte-brulee",
+        "market_price": "0.24",
+        "low_price": "0.10",
+        "mid_price": "0.28",
+        "high_price": "14.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-007/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-007/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-007/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-007/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593676/one-piece-card-game-premium-booster-the-best-charlotte-brulee-jolly-roger-foil",
+        "market_price": "0.34",
+        "low_price": "0.05",
+        "mid_price": "0.40",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-007/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-007/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593677/one-piece-card-game-premium-booster-the-best-charlotte-brulee-full-art",
+        "market_price": "5.81",
+        "low_price": "3.98",
+        "mid_price": "6.24",
+        "high_price": "22.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "3ede1658-0ef2-4150-911c-62a52170f03e",
+        "slug": "store-championship-participation-pack",
+        "name": "Store Championship Participation Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-007/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-007/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/503021/one-piece-card-game-one-piece-promotion-cards-charlotte-brulee-store-championship-2023-participation-pack-vol1",
+        "market_price": "3.20",
+        "low_price": "2.49",
+        "mid_price": "5.00",
+        "high_price": "69.94"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

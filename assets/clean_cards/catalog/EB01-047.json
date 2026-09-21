@@ -1,0 +1,84 @@
+{
+  "card_number": "EB01-047",
+  "name": "Laboon",
+  "language": "en",
+  "set": "EB01",
+  "set_name": "Memorial Collection",
+  "released_at": "2024-05-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 2,
+  "power": 4000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal"
+  ],
+  "effect": "[Once Per Turn] When a Character is K.O.'d, draw 1 card and trash 1 card from your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.440199,
+        "y": 0.453571
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-047/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-047/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544582/one-piece-card-game-extra-booster-memorial-collection-laboon-047",
+        "market_price": "0.20",
+        "low_price": "0.01",
+        "mid_price": "0.21",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If only this 1 Character is K.O.'d, can I activate this Character's \"When a Character is K.O.'d\" effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

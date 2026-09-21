@@ -1,0 +1,188 @@
+{
+  "card_number": "OP10-033",
+  "name": "Nami",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 2,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "ODYSSEY",
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] If you have 2 or more rested {ODYSSEY} type Characters, up to 1 of your opponent's rested DON!! cards will not become active in your opponent's next Refresh Phase.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Hagane Tsurugi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-033/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-033/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617071/one-piece-card-game-royal-blood-nami-033",
+        "market_price": "0.27",
+        "low_price": "0.14",
+        "mid_price": "0.27",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Koushi Rokushiro",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fe0cc470-2361-41e9-bb6d-2a72fbd2c87a",
+        "slug": "cs-25-26-top-player-pack",
+        "name": "Cs 25-26 Top Player Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-033/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-033/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649674/one-piece-card-game-one-piece-promotion-cards-nami-cs-25-26-top-player-pack",
+        "market_price": null,
+        "low_price": "2799.00",
+        "mid_price": "2799.00",
+        "high_price": "2799.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Koushi Rokushiro",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fe0cc470-2361-41e9-bb6d-2a72fbd2c87a",
+        "slug": "cs-25-26-top-player-pack",
+        "name": "Cs 25-26 Top Player Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-033/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-033/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649658/one-piece-card-game-one-piece-promotion-cards-nami-cs-25-26-finalist-card-set-1",
+        "market_price": null,
+        "low_price": "2999.99",
+        "mid_price": "4000.00",
+        "high_price": "5000.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "73cff9ec-e187-441b-814d-111f1e585b6e",
+        "slug": "op10-release-event",
+        "name": "OP10 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/620759/one-piece-card-game-royal-blood-release-event-cards-nami-033",
+        "market_price": "50.17",
+        "low_price": "220.00",
+        "mid_price": "247.50",
+        "high_price": "400.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

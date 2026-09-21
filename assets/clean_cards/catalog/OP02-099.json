@@ -1,0 +1,259 @@
+{
+  "card_number": "OP02-099",
+  "name": "Sakazuki",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-099/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-099/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485242/one-piece-card-game-paramount-war-sakazuki",
+        "market_price": "0.38",
+        "low_price": "0.20",
+        "mid_price": "0.50",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-099/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-099/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485255/one-piece-card-game-paramount-war-sakazuki-alternate-art",
+        "market_price": "6.99",
+        "low_price": "5.00",
+        "mid_price": "9.99",
+        "high_price": "75.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-099/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-099/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516557/one-piece-card-game-kingdoms-of-intrigue-sakazuki-sp",
+        "market_price": "75.40",
+        "low_price": "86.98",
+        "mid_price": "99.51",
+        "high_price": "200.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-099/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-099/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/594321/one-piece-card-game-premium-booster-the-best-sakazuki-reprint",
+        "market_price": "0.32",
+        "low_price": "0.10",
+        "mid_price": "0.45",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-099/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-099/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586715/one-piece-card-game-premium-booster-the-best-sakazuki-alternate-art",
+        "market_price": "5.24",
+        "low_price": "3.80",
+        "mid_price": "7.07",
+        "high_price": "29.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5da3f15c-9d50-4ecc-95ac-ab21e372ce6c",
+        "slug": "championship-2023",
+        "name": "Championship 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-099/ja/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-099/ja/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/509467/one-piece-card-game-one-piece-promotion-cards-sakazuki-championship-2023",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

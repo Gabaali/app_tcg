@@ -1,0 +1,117 @@
+{
+  "card_number": "OP12-106",
+  "name": "Trafalgar Law",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Dressrosa",
+    "Supernovas",
+    "Heart Pirates"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d65c9dd8-7de7-4eaa-8705-9b8e8ee16798",
+        "slug": "op12-release-event",
+        "name": "OP12 Release Event",
+        "set_code": null,
+        "released_at": "2025-08-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-106/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-106/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649323/one-piece-card-game-legacy-of-the-master-release-event-cards-trafalgar-law-106",
+        "market_price": "7.48",
+        "low_price": "11.11",
+        "mid_price": "25.98",
+        "high_price": "29.99"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-106/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-106/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643852/one-piece-card-game-legacy-of-the-master-trafalgar-law-106",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

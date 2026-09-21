@@ -1,0 +1,127 @@
+{
+  "card_number": "OP15-098",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Sky Island",
+    "Straw Hat Crew"
+  ],
+  "effect": "If your {Sky Island} type Character with 6000 base power or more would be removed from the field by your opponent, you may add 1 card from the top of your Life cards to your hand instead.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Midori Matsuda",
+      "crop_focus": {
+        "x": 0.86004,
+        "y": 0.361705
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-098/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-098/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-098/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-098/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-098/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685452/one-piece-card-game-adventure-on-kamis-island-monkeydluffy-op15-098",
+        "market_price": "0.16",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.57309,
+        "y": 0.358333
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-098/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-098/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685453/one-piece-card-game-adventure-on-kamis-island-monkeydluffy-op15-098-alternate-art",
+        "market_price": "79.14",
+        "low_price": "64.00",
+        "mid_price": "87.99",
+        "high_price": "500.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If two of my {Sky Island} type Characters with 6000 base power or more would be simultaneously removed from the field by my opponent's effect, can I choose to add 1 card from the top of my Life cards to my hand instead?",
+      "answer": "Yes, you can. In this case, you may keep both of the targeted {Sky Island} type Characters with 6000 base power or more on the field by adding 1 card from the top of your Life cards to your hand.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "If I have 0 Life cards and one of my {Sky Island} type Characters with 6000 base power or more would be removed from the field by my opponent, can I still choose to keep that Character on the field?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

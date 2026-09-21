@@ -1,0 +1,88 @@
+{
+  "card_number": "EB01-028",
+  "name": "Gum-Gum Champion Rifle",
+  "language": "en",
+  "set": "EB01",
+  "set_name": "Memorial Collection",
+  "released_at": "2024-05-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Impel Down",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Counter] If your Leader has the {Impel Down} type, up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, your opponent returns 1 of their active Characters to the owner's hand.",
+  "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the bottom of the owner's deck.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-028/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-028/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544559/one-piece-card-game-extra-booster-memorial-collection-gum-gum-champion-rifle",
+        "market_price": "3.13",
+        "low_price": "2.95",
+        "mid_price": "4.87",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Which player chooses which Character to return to the owner's hand according to this [Counter] effect?",
+      "answer": "The opponent of the player who activated this [Counter] effect chooses.",
+      "updated_on": "2024-04-19"
+    },
+    {
+      "question": "If my Leader does not have the {Impel Down} type, can I still use this [Counter] effect to have my opponent return 1 of their active Characters to the owner's hand?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

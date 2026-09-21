@@ -1,0 +1,265 @@
+{
+  "card_number": "OP05-091",
+  "name": "Rebecca",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 4,
+  "power": null,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Dressrosa"
+  ],
+  "effect": "[Blocker]\n[On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "POKImari",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-091/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-091/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP05-091/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP05-091/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-091/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528165/one-piece-card-game-awakening-of-the-new-era-rebecca",
+        "market_price": "2.36",
+        "low_price": "1.85",
+        "mid_price": "4.13",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-091/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-091/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528166/one-piece-card-game-awakening-of-the-new-era-rebecca-alternate-art",
+        "market_price": "16.92",
+        "low_price": "15.74",
+        "mid_price": "25.00",
+        "high_price": "80.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": "Bashikou",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-091/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-091/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP05-091/en/scans/2/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP05-091/en/scans/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-091/en/scans/2/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541670/one-piece-card-game-wings-of-the-captain-rebecca-sp",
+        "market_price": "148.61",
+        "low_price": "140.00",
+        "mid_price": "156.23",
+        "high_price": "300.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-091/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-091/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656099/one-piece-card-game-premium-booster-the-best-vol-2-rebecca-reprint",
+        "market_price": "1.19",
+        "low_price": "0.20",
+        "mid_price": "1.59",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-091/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-091/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/654571/one-piece-card-game-premium-booster-the-best-vol-2-rebecca-sp",
+        "market_price": "137.07",
+        "low_price": "150.00",
+        "mid_price": "161.32",
+        "high_price": "600.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "08588401-25c2-47da-81a4-66f53775718c",
+        "slug": "regionals-wave-3",
+        "name": "Regionals Wave 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-091/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-091/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/584366/one-piece-card-game-one-piece-promotion-cards-rebecca-october-championship-2024-online-regional",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I add a black card with a cost of 3 to my hand and then play that card rested according to this [On Play] effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

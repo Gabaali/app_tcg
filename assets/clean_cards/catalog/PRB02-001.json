@@ -1,0 +1,122 @@
+{
+  "card_number": "PRB02-001",
+  "name": "Koby",
+  "language": "en",
+  "set": "PRB02",
+  "set_name": "One Piece Card the Best Vol.2",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Navy",
+    "SWORD"
+  ],
+  "effect": "[Opponent's Turn] If your Leader has the {Navy} type, this Character gains +1000 power.\n[When Attacking] K.O. up to 1 of your opponent's Characters with 3000 base power or less. Then, if you have 6 or less cards in your hand, draw 1 card.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653428/one-piece-card-game-premium-booster-the-best-vol-2-koby",
+        "market_price": "12.74",
+        "low_price": "11.75",
+        "mid_price": "14.87",
+        "high_price": "20.77"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653429/one-piece-card-game-premium-booster-the-best-vol-2-koby-alternate-art",
+        "market_price": "42.76",
+        "low_price": "39.89",
+        "mid_price": "42.76",
+        "high_price": "63.47"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "While I have 6 or less cards in my hand, if I do not K.O. my opponent's Character with 3000 base power or less with this [When Attacking] effect, can I still draw 1 card?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-09-19"
+    }
+  ]
+}

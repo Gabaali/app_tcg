@@ -1,0 +1,87 @@
+{
+  "card_number": "ST06-015",
+  "name": "Great Eruption",
+  "language": "en",
+  "set": "ST06",
+  "set_name": "Starter Deck - Absolute Justice",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Navy"
+  ],
+  "effect": "[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger": "[Trigger] Your opponent chooses 1 card from their hand and trashes it.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80fe6f0e-65ab-461e-8edf-93b0448c6c81",
+        "slug": "starter-deck-absolute-justice",
+        "name": "Starter Deck - Absolute Justice",
+        "set_code": "ST06",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST06-015/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST06-015/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485254/one-piece-card-game-starter-deck-6-absolute-justice-great-eruption",
+        "market_price": "3.95",
+        "low_price": "2.00",
+        "mid_price": "4.73",
+        "high_price": "27.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I activate this [Trigger] effect if my opponent has no cards in their hand?",
+      "answer": "Yes, you can. However, nothing will happen according to the effect.",
+      "updated_on": "2023-03-03"
+    },
+    {
+      "question": "Can I select the target to give −2 cost after drawing a card according to this [Main] effect?",
+      "answer": "Yes. Effects are processed in order, starting from the first effect written on the card.",
+      "updated_on": "2023-03-03"
+    }
+  ]
+}

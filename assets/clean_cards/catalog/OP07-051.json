@@ -1,0 +1,260 @@
+{
+  "card_number": "OP07-051",
+  "name": "Boa Hancock",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 6,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Kuja Pirates"
+  ],
+  "effect": "[On Play] Up to 1 of your opponent's Characters other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn. Then, place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-051/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-051/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545839/one-piece-card-game-500-years-in-the-future-boa-hancock-051",
+        "market_price": "5.68",
+        "low_price": "4.48",
+        "mid_price": "7.60",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Akira Kano",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-051/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-051/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-051/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-051/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-051/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545840/one-piece-card-game-500-years-in-the-future-boa-hancock-051-parallel",
+        "market_price": "49.01",
+        "low_price": "46.99",
+        "mid_price": "55.06",
+        "high_price": "350.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-051/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-051/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545841/one-piece-card-game-500-years-in-the-future-boa-hancock-051-parallel-manga",
+        "market_price": "2168.35",
+        "low_price": "2575.00",
+        "mid_price": "2649.61",
+        "high_price": "3000.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-051/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-051/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596917/one-piece-card-game-emperors-in-the-new-world-boa-hancock-sp",
+        "market_price": "814.47",
+        "low_price": "895.00",
+        "mid_price": "905.62",
+        "high_price": "1500.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Hashimoto Q",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d4f6ef69-d6d1-47df-9210-a4997f12ac98",
+        "slug": "seven-warlords-of-the-sea-binder-set",
+        "name": "Seven Warlords of the Sea Binder Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-051/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-051/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-051/en/scans/4/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-051/en/scans/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-051/en/scans/4/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/648100/one-piece-card-game-one-piece-promotion-cards-boa-hancock-seven-warlords-of-the-sea-binder-set",
+        "market_price": "110.14",
+        "low_price": "100.00",
+        "mid_price": "110.99",
+        "high_price": "450.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d4f6ef69-d6d1-47df-9210-a4997f12ac98",
+        "slug": "seven-warlords-of-the-sea-binder-set",
+        "name": "Seven Warlords of the Sea Binder Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-051/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-051/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/648101/one-piece-card-game-one-piece-promotion-cards-boa-hancock-seven-warlords-of-the-sea-binder-set-alternate-art",
+        "market_price": "142.78",
+        "low_price": "124.99",
+        "mid_price": "144.50",
+        "high_price": "500.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

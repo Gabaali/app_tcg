@@ -1,0 +1,188 @@
+{
+  "card_number": "OP12-026",
+  "name": "Kuina",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "East Blue",
+    "Frost Moon Village"
+  ],
+  "effect": "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a base cost of 4 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "COGA",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-026/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-026/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-026/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-026/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-026/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643754/one-piece-card-game-legacy-of-the-master-kuina",
+        "market_price": "0.21",
+        "low_price": "0.12",
+        "mid_price": "0.25",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5be11361-a9ae-49a2-bde8-004d41f6acc2",
+        "slug": "starter-deck-green-roronoa-zoro",
+        "name": "Starter Deck - Green Roronoa Zoro",
+        "set_code": "ST32",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-026/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-026/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "096777d6-6629-4a0c-bee4-5ae70a91926d",
+        "slug": "best-selection-vol-5",
+        "name": "Best Selection Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-026/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-026/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657828/one-piece-card-game-one-piece-promotion-cards-kuina-premium-card-collection-best-selection-vol-5",
+        "market_price": "5.76",
+        "low_price": "4.95",
+        "mid_price": "6.99",
+        "high_price": "39.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d65c9dd8-7de7-4eaa-8705-9b8e8ee16798",
+        "slug": "op12-release-event",
+        "name": "OP12 Release Event",
+        "set_code": null,
+        "released_at": "2025-08-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649303/one-piece-card-game-legacy-of-the-master-release-event-cards-kuina",
+        "market_price": "5.57",
+        "low_price": "4.41",
+        "mid_price": "6.77",
+        "high_price": "15.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,143 @@
+{
+  "card_number": "OP12-041",
+  "name": "Sanji",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "The Vinsmoke Family",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] DON!! −1: Activate up to 1 {Straw Hat Crew} type Event with a base cost of 3 or less from your hand.\n[When Attacking] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Keiichi Ichikawa",
+      "crop_focus": {
+        "x": 0.523016,
+        "y": 0.185361
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-041/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-041/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-041/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-041/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-041/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643774/one-piece-card-game-legacy-of-the-master-sanji-041",
+        "market_price": "0.17",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.784053,
+        "y": 0.25
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-041/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-041/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643775/one-piece-card-game-legacy-of-the-master-sanji-041-alternate-art",
+        "market_price": "22.35",
+        "low_price": "20.95",
+        "mid_price": "24.99",
+        "high_price": "150.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Is the Event activated as part of this [Activate: Main] effect trashed?",
+      "answer": "Yes, it is.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "Do I pay a cost when activating an Event using this [Activate: Main] effect?",
+      "answer": "You do not pay the cost shown in the upper left of the card, but you must pay any activation cost written in the effect text, such as \"DON!! −2\".",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "When using this [Activate: Main] effect to activate \"OP09-077 Gum-Gum Lightning\", do I still have to return 2 DON!! cards from my field to my DON!! deck?",
+      "answer": "Yes, you do.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "When using this [Activate: Main] effect to activate an Event, can I activate the \"When you activate an Event\" effect of \"OP04-053 Page One\"?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "Can I use this [Activate: Main] effect to activate the [Counter] or [Trigger] effects of Events?",
+      "answer": "No, you cannot. You can use this effect to activate the [Main] effects of Events with [Main] effects.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

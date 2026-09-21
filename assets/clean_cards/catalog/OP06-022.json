@@ -1,0 +1,224 @@
+{
+  "card_number": "OP06-022",
+  "name": "Yamato",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Land of Wano"
+  ],
+  "effect": "[Double Attack] (This card deals 2 damage.)\n[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.488372,
+        "y": 0.267857
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-022/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-022/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539489/one-piece-card-game-wings-of-the-captain-yamato",
+        "market_price": "0.20",
+        "low_price": "0.07",
+        "mid_price": "0.24",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.509967,
+        "y": 0.364286
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-022/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-022/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539490/one-piece-card-game-wings-of-the-captain-yamato-alternate-art",
+        "market_price": "72.33",
+        "low_price": "65.00",
+        "mid_price": "79.50",
+        "high_price": "450.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-022/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-022/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.458472,
+        "y": 0.222619
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-022/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-022/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629176/one-piece-card-game-extra-booster-anime-25th-collection-yamato-sp",
+        "market_price": "1020.29",
+        "low_price": "1293.00",
+        "mid_price": "1650.00",
+        "high_price": "9999.99"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "DAI-XT.",
+      "crop_focus": {
+        "x": 0.552383,
+        "y": 0.224438
+      },
+      "product": {
+        "id": "5fc4a779-1784-40a0-b76c-5a763b0d62cc",
+        "slug": "starter-deck-green-yellow-yamato",
+        "name": "Starter Deck - Green/yellow Yamato",
+        "set_code": "ST28",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-022/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-022/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP06-022/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP06-022/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-022/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634623/one-piece-card-game-starter-deck-28-green-yellow-yamato-yamato-op06-022",
+        "market_price": "1.97",
+        "low_price": "1.35",
+        "mid_price": "2.45",
+        "high_price": "10.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

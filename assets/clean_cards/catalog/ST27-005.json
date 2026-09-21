@@ -1,0 +1,163 @@
+{
+  "card_number": "ST27-005",
+  "name": "Marshall.D.Teach",
+  "language": "en",
+  "set": "ST27",
+  "set_name": "Starter Deck - Black Marshall.d.teach",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Blackbeard Pirates"
+  ],
+  "effect": "[Activate: Main] You may rest this Character: K.O. up to 1 Character with a cost of 3 or less.\n[On K.O.] Add up to 1 black card from your trash to your hand.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "b05d19ca-6976-4e52-8bbb-589e77db9b75",
+        "slug": "starter-deck-black-marshall-d-teach",
+        "name": "Starter Deck - Black Marshall.d.teach",
+        "set_code": "ST27",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST27-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST27-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/633093/one-piece-card-game-starter-deck-27-black-marshalldteach-marshalldteach-st27-005",
+        "market_price": "0.62",
+        "low_price": "0.45",
+        "mid_price": "0.99",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb8900c0-284d-4dd6-b4dc-2b5e1891469b",
+        "slug": "the-world-s-strongest-warriors",
+        "name": "The World’s Strongest Warriors",
+        "set_code": "OP17",
+        "released_at": "2026-08-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST27-005/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST27-005/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "425f4c1a-a49e-41a7-aed3-9a5f01eb1059",
+        "slug": "sp",
+        "name": "SP",
+        "set_code": null,
+        "released_at": "2026-08-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST27-005/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST27-005/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/707128/one-piece-card-game-the-worlds-strongest-warriors-marshalldteach-sp",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When this Character is K.O.'d, can I use this [On K.O.] effect to add this card itself to my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-05-30"
+    },
+    {
+      "question": "Can I use this [Activate: Main] effect to K.O. one of my own Characters with a cost of 3 or less?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-05-30"
+    }
+  ]
+}

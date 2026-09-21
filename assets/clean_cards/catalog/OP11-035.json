@@ -1,0 +1,117 @@
+{
+  "card_number": "OP11-035",
+  "name": "Fisher Tiger",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Green"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Fish-Man",
+    "Fish-Man Island",
+    "The Sun Pirates"
+  ],
+  "effect": "When this Character is K.O.'d by your opponent's effect, you may rest 1 of your DON!! cards. If you do, play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 4 or less from your hand.\n[On Play] Rest up to 1 of your opponent's Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "eiji kaneda",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-035/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-035/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP11-035/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP11-035/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-035/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632398/one-piece-card-game-a-fist-of-divine-speed-fisher-tiger",
+        "market_price": "0.05",
+        "low_price": "0.01",
+        "mid_price": "0.13",
+        "high_price": "8.05"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4847d8f8-456c-4b25-bdd9-efc8e1e80812",
+        "slug": "op11-release-event",
+        "name": "OP11 Release Event",
+        "set_code": null,
+        "released_at": "2025-05-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634468/one-piece-card-game-a-fist-of-divine-speed-release-event-cards-fisher-tiger",
+        "market_price": "0.47",
+        "low_price": "0.25",
+        "mid_price": "0.50",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

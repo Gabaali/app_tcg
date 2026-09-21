@@ -1,0 +1,133 @@
+{
+  "card_number": "OP14-001",
+  "name": "Trafalgar Law",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Supernovas",
+    "Heart Pirates"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] Select 2 of your {Supernovas} or {Heart Pirates} type Characters. Swap the base power of the selected Characters with each other during this turn.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Kaito Tomioka",
+      "crop_focus": {
+        "x": 0.272695,
+        "y": 0.268524
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP14-001/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP14-001/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-001/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666518/one-piece-card-game-the-azure-seas-seven-trafalgar-law-op14-001",
+        "market_price": "0.16",
+        "low_price": "0.01",
+        "mid_price": "0.17",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.509967,
+        "y": 0.321429
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666519/one-piece-card-game-the-azure-seas-seven-trafalgar-law-op14-001-alternate-art",
+        "market_price": "18.75",
+        "low_price": "18.40",
+        "mid_price": "21.99",
+        "high_price": "149.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [Activate: Main] effect to swap the base power of my character with that of an opponent's Character, or to swap the base powers of two of my opponent's Characters?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-06-26"
+    },
+    {
+      "question": "If one of the Characters I've selected with this [Activate: Main] effect would be removed from the field, does the power of the Character that remains on the field revert to its original value?",
+      "answer": "No. That Character's power does not revert to its original value and maintains the swapped value until the end of that turn.",
+      "updated_on": "2026-06-26"
+    },
+    {
+      "question": "After using the [Once Per Turn] effect of my \"PRB02- 002 Trafalgar Law\", I then use this [Activate: Main] effect to swap the power of \"PRB02-002 Trafalgar Law\" with that of \"OP14-013 Monkey.D.Luffy\". In this situation, what would the power of \"PRB02-002 Trafalgar Law\" become?",
+      "answer": "The base power of \"PRB02-002 Trafalgar Law\" would become 0, and since the effect from \"PRB02-002 Trafalgar Law\" is giving −2000 power, the card's power would be −2000.",
+      "updated_on": "2026-06-26"
+    }
+  ]
+}

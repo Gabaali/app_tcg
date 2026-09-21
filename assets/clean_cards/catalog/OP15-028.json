@@ -1,0 +1,127 @@
+{
+  "card_number": "OP15-028",
+  "name": "Meowban Brothers",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "East Blue",
+    "Black Cat Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {East Blue} type, give up to 1 DON!! card from your opponent's cost area to 1 of your opponent's Characters.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Tanaka Kenichi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-028/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-028/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-028/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-028/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-028/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685370/one-piece-card-game-adventure-on-kamis-island-meowban-brothers",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "1.57"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1f050e2b-4dcc-40c8-90f7-f82799d8c4c7",
+        "slug": "op15-release-event",
+        "name": "OP15 Release Event",
+        "set_code": null,
+        "released_at": "2026-03-27T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686428/one-piece-card-game-adventure-on-kamis-island-release-event-cards-meowban-brothers",
+        "market_price": "2.72",
+        "low_price": "1.00",
+        "mid_price": "3.95",
+        "high_price": "5.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this card's [On Play] effect to give one of my opponent's active DON!! cards to one of their Characters?",
+      "answer": "Yes, you can. You can give up to 1 DON!! card from your opponent's cost area regardless of whether it is active or rested.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "When using this card's [On Play] effect to give one of my opponent's DON!! cards to one of their Characters, which player decides which DON!! card is given?",
+      "answer": "The player who activated the effect chooses a rested DON!! card from their opponent's cost area.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

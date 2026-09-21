@@ -1,0 +1,221 @@
+{
+  "card_number": "OP04-096",
+  "name": "Corrida Coliseum",
+  "language": "en",
+  "set": "OP04",
+  "set_name": "Kingdoms of Intrigue",
+  "released_at": "2023-09-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Stage",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Dressrosa"
+  ],
+  "effect": "If your Leader has the {Dressrosa} type, your {Dressrosa} type Characters can attack Characters on the turn in which they are played.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-096/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-096/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516807/one-piece-card-game-kingdoms-of-intrigue-corrida-coliseum",
+        "market_price": "0.14",
+        "low_price": "0.01",
+        "mid_price": "0.24",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-096/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-096/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656044/one-piece-card-game-premium-booster-the-best-vol-2-corrida-coliseum-reprint",
+        "market_price": "0.06",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-096/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-096/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656048/one-piece-card-game-premium-booster-the-best-vol-2-corrida-coliseum-pirate-foil",
+        "market_price": "0.19",
+        "low_price": "0.04",
+        "mid_price": "0.24",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1b83b84a-d9bf-448b-ba32-2cbc261feddd",
+        "slug": "judge-pack-vol-6",
+        "name": "Judge Pack Vol. 6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-096/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-096/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/641221/one-piece-card-game-one-piece-promotion-cards-corrida-coliseum-judge-pack-vol-6",
+        "market_price": "1.64",
+        "low_price": "0.99",
+        "mid_price": "4.50",
+        "high_price": "7.75"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "7d487e6d-4ddd-438d-a2c0-fb06f6f16a51",
+        "slug": "op04-release-event",
+        "name": "OP04 Release Event",
+        "set_code": null,
+        "released_at": "2023-09-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516894/one-piece-card-game-kingdoms-of-intrigue-pre-release-cards-corrida-coliseum",
+        "market_price": "2.81",
+        "low_price": "2.25",
+        "mid_price": "3.50",
+        "high_price": "30.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

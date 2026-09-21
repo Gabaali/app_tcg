@@ -1,0 +1,158 @@
+{
+  "card_number": "OP13-108",
+  "name": "Jewelry Bonney",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 9,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Egghead",
+    "Bonney Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {Egghead} type, this Character gains [Rush] during this turn. Then, your opponent adds 1 card from the top of their Life cards to their hand.",
+  "trigger": "[Trigger] If you have 1 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-108/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-108/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657386/one-piece-card-game-carrying-on-his-will-jewelry-bonney-108",
+        "market_price": "1.59",
+        "low_price": "0.58",
+        "mid_price": "3.00",
+        "high_price": "30.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-108/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-108/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657387/one-piece-card-game-carrying-on-his-will-jewelry-bonney-108-alternate-art",
+        "market_price": "16.16",
+        "low_price": "14.51",
+        "mid_price": "20.00",
+        "high_price": "420.69"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4600baae-b700-4cae-b2fc-61a97a554c2f",
+        "slug": "treasure-cup-may-2026",
+        "name": "Treasure Cup May 2026",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-108/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-108/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/692134/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-treasure-cup-may-2026",
+        "market_price": "2048.73",
+        "low_price": "3000.00",
+        "mid_price": "3000.00",
+        "high_price": "3000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When activating this [On Play] effect, if my Leader doesn't have the {Egghead} type, will my opponent still add 1 card from the top of their Life cards to their hand?",
+      "answer": "No. In this case, your opponent does not add the top card of their Life cards to their hand.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

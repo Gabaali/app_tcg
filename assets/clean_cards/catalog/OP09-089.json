@@ -1,0 +1,338 @@
+{
+  "card_number": "OP09-089",
+  "name": "Stronger",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Animal",
+    "Blackbeard Pirates"
+  ],
+  "effect": "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader has the {Blackbeard Pirates} type, draw 1 card. Then, give up to 1 of your opponent's Characters –2 cost during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-089/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-089/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597030/one-piece-card-game-emperors-in-the-new-world-stronger",
+        "market_price": "0.12",
+        "low_price": "0.05",
+        "mid_price": "0.20",
+        "high_price": "6.99"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "b05d19ca-6976-4e52-8bbb-589e77db9b75",
+        "slug": "starter-deck-black-marshall-d-teach",
+        "name": "Starter Deck - Black Marshall.d.teach",
+        "set_code": "ST27",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-089/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-089/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634322/one-piece-card-game-starter-deck-27-black-marshalldteach-stronger-reprint",
+        "market_price": "0.08",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0da16783-a043-4efb-b99b-3ef8d727219e",
+        "slug": "cs-25-26-top-player-pack-2",
+        "name": "Cs 25-26 Top Player Pack 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-089/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-089/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668427/one-piece-card-game-one-piece-promotion-cards-stronger-cs-25-26-top-player-pack-vol-2",
+        "market_price": null,
+        "low_price": "3000.00",
+        "mid_price": "3000.00",
+        "high_price": "3000.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0da16783-a043-4efb-b99b-3ef8d727219e",
+        "slug": "cs-25-26-top-player-pack-2",
+        "name": "Cs 25-26 Top Player Pack 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-089/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-089/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0da16783-a043-4efb-b99b-3ef8d727219e",
+        "slug": "cs-25-26-top-player-pack-2",
+        "name": "Cs 25-26 Top Player Pack 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-089/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-089/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668427/one-piece-card-game-one-piece-promotion-cards-stronger-cs-25-26-top-player-pack-vol-2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "11476ced-a165-4271-8026-3f8864cd4011",
+        "slug": "cs-25-26-winner-card-set-2",
+        "name": "CS 25-26 Winner Card Set 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668429/one-piece-card-game-one-piece-promotion-cards-stronger-cs-25-26-winner-card-set-2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c78f36d2-2406-4a94-bab1-d694aa34d5a5",
+        "slug": "cs-25-26-finalist-card-set-2",
+        "name": "CS 25-26 Finalist Card Set 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668428/one-piece-card-game-one-piece-promotion-cards-stronger-cs-25-26-finalist-card-set-2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/600783/one-piece-card-game-emperors-in-the-new-world-2nd-anniversary-tournament-cards-stronger",
+        "market_price": "2.88",
+        "low_price": "1.50",
+        "mid_price": "3.14",
+        "high_price": "17.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "After drawing 1 card with this [Activate: Main] effect, can I look at the card before choosing which of my opponent's Characters to give -2 cost to?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-11-29"
+    }
+  ]
+}

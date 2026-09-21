@@ -1,0 +1,157 @@
+{
+  "card_number": "P-007",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Red"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by ＜Strike＞ attribute Leaders or Characters.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dedfcd4e-925f-4be6-88d1-b5d447c7ce4f",
+        "slug": "tournament-pack-vol-1",
+        "name": "Tournament Pack Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-007/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-007/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/455801/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-p-007-tournament-pack-vol-1",
+        "market_price": "18.18",
+        "low_price": "14.00",
+        "mid_price": "19.00",
+        "high_price": "199.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "65efe268-e88a-41ae-a1c2-da232c7f7baf",
+        "slug": "winner-pack-vol-1",
+        "name": "Winner Pack Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/457019/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-p-007-winner-pack-vol-1",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cb421112-71b5-4abd-8c36-0f1e4fd2ff35",
+        "slug": "cs-2023-celebration-pack",
+        "name": "CS 2023 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525315/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-007-cs-2023-celebration-pack",
+        "market_price": "181.70",
+        "low_price": "294.98",
+        "mid_price": "374.50",
+        "high_price": "699.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can this Character be K.O.'d in battle by Characters without the <Strike> attribute?",
+      "answer": "Yes, it can. This effect only means that this Character cannot be K.O.'d in battle by Leaders with the <Strike> attribute or Characters with the <Strike> attribute.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

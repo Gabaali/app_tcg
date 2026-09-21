@@ -1,0 +1,460 @@
+{
+  "card_number": "OP01-016",
+  "name": "Nami",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454534/one-piece-card-game-romance-dawn-nami",
+        "market_price": "3.64",
+        "low_price": "2.00",
+        "mid_price": "4.39",
+        "high_price": "30.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454536/one-piece-card-game-romance-dawn-nami-parallel",
+        "market_price": "412.29",
+        "low_price": "499.00",
+        "mid_price": "560.98",
+        "high_price": "5000.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1d1cc7a7-d6df-43c5-98c5-f9c62a31a971",
+        "slug": "starter-deck-the-three-captains",
+        "name": "Starter Deck - The Three Captains",
+        "set_code": "ST10",
+        "released_at": "2023-11-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527619/one-piece-card-game-one-piece-promotion-cards-nami-op01-016-ultra-deck-the-three-captains",
+        "market_price": "5.17",
+        "low_price": "4.49",
+        "mid_price": "6.13",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527035/one-piece-card-game-awakening-of-the-new-era-nami-sp",
+        "market_price": "553.94",
+        "low_price": "450.00",
+        "mid_price": "619.99",
+        "high_price": "1500.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/587966/one-piece-card-game-premium-booster-the-best-nami-op01-016-manga",
+        "market_price": "2057.76",
+        "low_price": "2199.99",
+        "mid_price": "2600.00",
+        "high_price": "20000.00"
+      }
+    },
+    {
+      "index": 10,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8acc993b-92c4-4538-bdf2-356b749e8a92",
+        "slug": "starter-deck-red-monkey-d-luffy",
+        "name": "Starter Deck - Red Monkey.d.luffy",
+        "set_code": "ST31",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/10/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/10/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706310/one-piece-card-game-starter-deck-31-red-monkeydluffy-nami",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a0f9a57e-c9a0-40b9-9e00-6136a62ffef8",
+        "slug": "25th-edition",
+        "name": "25th Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656656/one-piece-card-game-learn-together-deck-set-nami-op01-016-luffy-deck",
+        "market_price": "0.55",
+        "low_price": "0.28",
+        "mid_price": "0.60",
+        "high_price": "2.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a0f9a57e-c9a0-40b9-9e00-6136a62ffef8",
+        "slug": "25th-edition",
+        "name": "25th Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485265/one-piece-card-game-one-piece-promotion-cards-nami-op01-016-alternate-art",
+        "market_price": "91.09",
+        "low_price": "85.29",
+        "mid_price": "103.76",
+        "high_price": "1000.00"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a0f9a57e-c9a0-40b9-9e00-6136a62ffef8",
+        "slug": "25th-edition",
+        "name": "25th Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-016/en/stock/7/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-016/en/stock/7/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "952ee7cb-037b-4511-b7a3-b9ee0012fd5e",
+        "slug": "gift-collection-2023",
+        "name": "Gift Collection 2023",
+        "set_code": "GC01",
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/523775/one-piece-card-game-one-piece-promotion-cards-nami-gift-collection-2023",
+        "market_price": "114.57",
+        "low_price": "105.00",
+        "mid_price": "124.99",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8fcbb066-1cb0-49b5-9a6d-9645e098a033",
+        "slug": "english-version-1st-anniversary-set",
+        "name": "English Version 1st Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/557286/one-piece-card-game-one-piece-promotion-cards-nami-english-version-1st-anniversary-set",
+        "market_price": "578.04",
+        "low_price": "549.99",
+        "mid_price": "579.99",
+        "high_price": "1795.95"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to add a non-red {Straw Hat Crew} type card that is not [Nami] to my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "What happens if there are no cards that I can add to my hand according to this [On Play] effect?",
+      "answer": "You place all the cards you looked at from the top of your deck at the bottom of your deck in any order.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "What happens according to this [On Play] effect if I have 4 or less cards in my deck?",
+      "answer": "You will be able to look at all of the 4 or less cards in your deck. While looking at your deck, the number of cards in your deck will not be considered 0.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I use this [On Play] effect to add a [Nami] such as ST01-007 to my hand?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

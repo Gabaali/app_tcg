@@ -1,0 +1,78 @@
+{
+  "card_number": "ST06-001",
+  "name": "Sakazuki",
+  "language": "en",
+  "set": "ST06",
+  "set_name": "Starter Deck - Absolute Justice",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.593023,
+        "y": 0.334524
+      },
+      "product": {
+        "id": "80fe6f0e-65ab-461e-8edf-93b0448c6c81",
+        "slug": "starter-deck-absolute-justice",
+        "name": "Starter Deck - Absolute Justice",
+        "set_code": "ST06",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST06-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST06-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485247/one-piece-card-game-starter-deck-6-absolute-justice-sakazuki",
+        "market_price": "1.58",
+        "low_price": "1.40",
+        "mid_price": "2.00",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

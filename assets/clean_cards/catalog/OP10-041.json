@@ -1,0 +1,85 @@
+{
+  "card_number": "OP10-041",
+  "name": "Radio Knife",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Dressrosa",
+    "Supernovas",
+    "Heart Pirates"
+  ],
+  "effect": "[Main] Rest up to 1 of your opponent's Characters with a cost of 6 or less. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+  "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-041/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-041/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617080/one-piece-card-game-royal-blood-radio-knife",
+        "market_price": "0.21",
+        "low_price": "0.01",
+        "mid_price": "0.22",
+        "high_price": "29.75"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [Main] effect to rest 1 of my opponent's Characters with a cost of 5 or less, then K.O. that same Character?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

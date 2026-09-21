@@ -1,0 +1,130 @@
+{
+  "card_number": "ST30-001",
+  "name": "Luffy & Ace",
+  "language": "en",
+  "set": "ST30",
+  "set_name": "Starter Deck - Luffy & Ace",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Green"
+  ],
+  "cost": null,
+  "power": 6000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike",
+    "Special"
+  ],
+  "types": [
+    "Impel Down",
+    "Whitebeard Pirates",
+    "Straw Hat Crew"
+  ],
+  "effect": "If you have a Character with 7000 base power or more, give this Leader −2000 power.\n[Opponent's Turn] All of your [Portgas.D.Ace] and [Monkey.D.Luffy] cards gain +3000 power.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.184385,
+        "y": 0.219048
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693256/one-piece-card-game-starter-deck-ex-luffy-and-ace-luffy-and-ace",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.182724,
+        "y": 0.22619
+      },
+      "product": {
+        "id": "0919eb31-4842-4285-a27b-7eece522ec21",
+        "slug": "starter-deck-luffy-ace",
+        "name": "Starter Deck - Luffy & Ace",
+        "set_code": "ST30",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST30-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST30-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693257/one-piece-card-game-starter-deck-ex-luffy-and-ace-luffy-and-ace-parallel",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have 0 Character cards, does it mean this Leader gets −2000 power?",
+      "answer": "No, it doesn't.",
+      "updated_on": "2026-05-29"
+    },
+    {
+      "question": "Can I use this [Opponent's Turn] effect to give this Leader +3000 power?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-05-29"
+    }
+  ]
+}

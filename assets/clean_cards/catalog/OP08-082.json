@@ -1,0 +1,85 @@
+{
+  "card_number": "OP08-082",
+  "name": "Sasaki",
+  "language": "en",
+  "set": "OP08",
+  "set_name": "Two Legends",
+  "released_at": "2024-09-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": 1000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "[Activate: Main] Rest 1 of your DON!! cards and you may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Hokuyuu",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-082/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-082/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP08-082/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP08-082/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-082/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558118/one-piece-card-game-two-legends-sasaki",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.19",
+        "high_price": "8.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Is the \"Rest 1 of your DON!! cards\" part in this [Activate: Main] effect equivalent to the \"➀ (You may rest the specified number of DON!! cards in your cost area.)\" effect of other cards?",
+      "answer": "Yes, both refer to activation costs that can be paid by resting one of the active DON!! cards in your cost area.",
+      "updated_on": "2024-08-30"
+    }
+  ]
+}

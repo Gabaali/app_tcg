@@ -1,0 +1,511 @@
+{
+  "card_number": "OP09-106",
+  "name": "Nico Olvia",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Ohara"
+  ],
+  "effect": "[On Play] Up to 1 of your [Nico Robin] Leader gains +3000 power during this turn.",
+  "trigger": "[Trigger] If your Leader is [Nico Robin], draw 3 cards and trash 2 cards from your hand.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-106/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-106/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597051/one-piece-card-game-emperors-in-the-new-world-nico-olvia",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.82"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-106/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-106/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/619197/one-piece-card-game-one-piece-promotion-cards-nico-olvia-offline-regional-participation-pack-2025-vol1",
+        "market_price": "35.67",
+        "low_price": "69.98",
+        "mid_price": "74.99",
+        "high_price": "79.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-106/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-106/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-106/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-106/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-106/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-106/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-106/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-106/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-106/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-106/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fa4065b7-479f-4ac4-be97-da346467dc3d",
+        "slug": "online-regional-participation-pack-2025-vol-1",
+        "name": "Online Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666570/one-piece-card-game-one-piece-promotion-cards-nico-olvia-online-regional-participation-pack-2025-vol1",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ce312134-7608-469d-85cc-a7e90154f084",
+        "slug": "offline-regional-finalist-card-set-2025-vol-1",
+        "name": "Offline Regional Finalist Card Set 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/623621/one-piece-card-game-one-piece-promotion-cards-nico-olvia-offline-regional-finalist-card-set-2025-vol1",
+        "market_price": "133.91",
+        "low_price": "120.00",
+        "mid_price": "144.67",
+        "high_price": "350.00"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "66bb6db5-c5a6-43cb-94b8-f0271685c048",
+        "slug": "offline-regional-champion-card-set-2025-vol-1",
+        "name": "Offline Regional Champion Card Set 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681246/one-piece-card-game-one-piece-promotion-cards-nico-olvia-offline-regional-champion-card-set-2025-vol1",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 10,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cb7d04b5-1f01-459a-b0dd-51ccbc326195",
+        "slug": "online-regional-finalist-card-set-2025-vol-1",
+        "name": "Online Regional Finalist Card Set 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681245/one-piece-card-game-one-piece-promotion-cards-nico-olvia-online-regional-finalist-card-set-2025-vol1",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 11,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a618a4c7-de56-41f8-89fc-5ef3c06a782b",
+        "slug": "online-regional-champion-card-set-2025-vol-1",
+        "name": "Online Regional Champion Card Set 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/623631/one-piece-card-game-one-piece-promotion-cards-nico-olvia-online-regional-champion-card-set-2025-vol1",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 12,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/600752/one-piece-card-game-emperors-in-the-new-world-2nd-anniversary-tournament-cards-nico-olvia",
+        "market_price": "2.69",
+        "low_price": "1.25",
+        "mid_price": "4.34",
+        "high_price": "9.27"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,92 @@
+{
+  "card_number": "OP12-099",
+  "name": "Kalgara",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Jaya",
+    "Sky Island",
+    "Shandian Warrior"
+  ],
+  "effect": "[Your Turn] When a card is removed from your or your opponent's Life cards, draw 1 card. Then, you cannot draw cards using your own effects during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "tasaka",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-099/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-099/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-099/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-099/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-099/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643844/one-piece-card-game-legacy-of-the-master-kalgara",
+        "market_price": "0.16",
+        "low_price": "0.02",
+        "mid_price": "0.24",
+        "high_price": "8.16"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does this [Your Turn] effect activate when a card is removed from my Life cards, or when a card is removed from my opponent's Life cards?",
+      "answer": "This effect activates when a card is removed from either your or your opponent's Life cards.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "If a card is removed from my or my opponent's Life cards while I have 2 of this card on my field, can I use this [Your Turn] effect twice to draw a total of 2 cards?",
+      "answer": "No, you cannot. After drawing 1 card using the first card's effect, you will be unable to draw cards using your own effects for the rest of the turn. As such, nothing will happen when you use the second card's effect, and you will not draw a card.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

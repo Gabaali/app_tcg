@@ -1,0 +1,224 @@
+{
+  "card_number": "P-083",
+  "name": "Shanks",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Red"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Red-Haired Pirates"
+  ],
+  "effect": "[DON!! x1] [When Attacking] You may trash 1 Character card from your hand: Give up to 1 of your opponent's Characters −1000 power during this turn. Then, draw 1 card.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-083/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-083/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656237/one-piece-card-game-premium-booster-the-best-vol-2-shanks-p-083-reprint",
+        "market_price": "0.42",
+        "low_price": "0.20",
+        "mid_price": "0.43",
+        "high_price": "55.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-083/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-083/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656238/one-piece-card-game-premium-booster-the-best-vol-2-shanks-p-083-pirate-foil",
+        "market_price": "0.31",
+        "low_price": "0.10",
+        "mid_price": "0.35",
+        "high_price": "6.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4404e746-f588-4ca0-86f4-04316fa33572",
+        "slug": "event-pack-vol-6",
+        "name": "Event Pack Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-083/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-083/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/619202/one-piece-card-game-one-piece-promotion-cards-shanks-event-pack-vol-6",
+        "market_price": "4.01",
+        "low_price": "4.40",
+        "mid_price": "19.99",
+        "high_price": "57.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4404e746-f588-4ca0-86f4-04316fa33572",
+        "slug": "event-pack-vol-6",
+        "name": "Event Pack Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-083/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-083/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649625/one-piece-card-game-one-piece-promotion-cards-shanks-cs-25-26-event-pack",
+        "market_price": "109.70",
+        "low_price": "91.99",
+        "mid_price": "94.99",
+        "high_price": "110.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4404e746-f588-4ca0-86f4-04316fa33572",
+        "slug": "event-pack-vol-6",
+        "name": "Event Pack Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-083/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-083/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/659595/one-piece-card-game-one-piece-promotion-cards-shanks-cs-25-26-event-pack-finalist-ver",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

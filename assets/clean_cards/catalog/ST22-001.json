@@ -1,0 +1,116 @@
+{
+  "card_number": "ST22-001",
+  "name": "Ace & Newgate",
+  "language": "en",
+  "set": "ST22",
+  "set_name": "Starter Deck - Ace & Newgate",
+  "released_at": "2025-09-05T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Whitebeard Pirates"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] You may reveal 1 card with a type including \"Whitebeard Pirates\" from your hand: Draw 1 card and place the revealed card at the top of your deck.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.571429,
+        "y": 0.304762
+      },
+      "product": {
+        "id": "ae94ca61-7839-4c89-832d-3cfdc8f74839",
+        "slug": "starter-deck-ace-newgate",
+        "name": "Starter Deck - Ace & Newgate",
+        "set_code": "ST22",
+        "released_at": "2025-09-05T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST22-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST22-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/647683/one-piece-card-game-starter-deck-22-ace-and-newgate-ace-and-newgate",
+        "market_price": "2.71",
+        "low_price": "2.00",
+        "mid_price": "3.00",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.57309,
+        "y": 0.289286
+      },
+      "product": {
+        "id": "ae94ca61-7839-4c89-832d-3cfdc8f74839",
+        "slug": "starter-deck-ace-newgate",
+        "name": "Starter Deck - Ace & Newgate",
+        "set_code": "ST22",
+        "released_at": "2025-09-05T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST22-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST22-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/647684/one-piece-card-game-starter-deck-22-ace-and-newgate-ace-and-newgate-parallel",
+        "market_price": "23.21",
+        "low_price": "21.47",
+        "mid_price": "25.00",
+        "high_price": "250.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

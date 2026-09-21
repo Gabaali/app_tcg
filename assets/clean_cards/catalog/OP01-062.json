@@ -1,0 +1,137 @@
+{
+  "card_number": "OP01-062",
+  "name": "Crocodile",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Baroque Works"
+  ],
+  "effect": "[DON!! x1] When you activate an Event, you may draw 1 card if you have 4 or less cards in your hand and haven't drawn a card using this Leader's effect during this turn.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.513289,
+        "y": 0.077381
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-062/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-062/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454588/one-piece-card-game-romance-dawn-crocodile-062",
+        "market_price": "0.31",
+        "low_price": "0.15",
+        "mid_price": "0.35",
+        "high_price": "69.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.295681,
+        "y": 0.35119
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-062/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-062/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454589/one-piece-card-game-romance-dawn-crocodile-062-parallel",
+        "market_price": "138.96",
+        "low_price": "124.99",
+        "mid_price": "142.29",
+        "high_price": "399.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I activated an Event when I had 6 cards in my hand, and then activated another Event when I had 5 cards in my hand. I now have 4 cards in my hand. At this time, can I draw a card according to this [DON!! x1] effect?",
+      "answer": "Yes. You can draw 1 card because you have not yet drawn a card with this effect during this turn.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I activated \"ST04-014 Lead Performer \"Disaster\"\" when I had 5 cards in my hand, reducing my hand to 4 cards. That Event's effect then increased my hand to 5 cards. At this time, can I draw a card according to this [DON!! x1] effect?",
+      "answer": "No. You cannot draw a card because you have 5 or more cards in your hand after activating the Event.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I draw a card according to this [DON!! x1] effect if I activate the [Trigger] effect of one of my Events?",
+      "answer": "No, you cannot. Activating a [Trigger] is not the same as activating an Event.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "At what time does the effect which states \"when you activates an Event\" activate?",
+      "answer": "After the Event has been activated and its effect has been resolved.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

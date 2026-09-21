@@ -1,0 +1,80 @@
+{
+  "card_number": "P-155",
+  "name": "Trafalgar Law",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Heart Pirates"
+  ],
+  "effect": "[When Attacking] You may trash 1 card with a [Trigger] from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+  "trigger": "[Trigger] If your opponent has 3 or less Life cards, play this card.",
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f66f212c-7ab3-46e8-bb0f-f806b283392c",
+        "slug": "pirates-party-2026-vol-2",
+        "name": "Pirates Party 2026 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-155/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-155/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

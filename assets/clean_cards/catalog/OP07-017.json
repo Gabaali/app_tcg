@@ -1,0 +1,191 @@
+{
+  "card_number": "OP07-017",
+  "name": "Dragon Breath",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Red"
+  ],
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Revolutionary Army"
+  ],
+  "effect": "[Main] K.O. up to 1 of your opponent's Characters with 3000 power or less and up to 1 of your opponent's Stages with a cost of 1 or less.",
+  "trigger": "[Trigger] Activate this card's [Main] effect.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-017/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-017/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-017/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-017/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-017/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545797/one-piece-card-game-500-years-in-the-future-dragon-breath",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-017/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-017/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656174/one-piece-card-game-premium-booster-the-best-vol-2-dragon-breath-reprint",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-017/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-017/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656175/one-piece-card-game-premium-booster-the-best-vol-2-dragon-breath-pirate-foil",
+        "market_price": "0.19",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1826e7a-88cd-468b-bdcd-0ab614a6b250",
+        "slug": "op07-release-event",
+        "name": "OP07 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/552104/one-piece-card-game-500-years-in-the-future-pre-release-cards-dragon-breath",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [Main] effect to K.O. my opponent's Character with 3000 power or less even if my opponent has no Stage with a cost of 1 or less on their field?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

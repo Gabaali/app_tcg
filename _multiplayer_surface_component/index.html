@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<style>
+:root { color-scheme:dark; --board-card-w:126px; --hand-card-w:170px; }
+* { box-sizing:border-box; }
+html,body { margin:0; width:100%; height:100%; overflow:hidden; background:#050607; }
+body { font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; color:#fff; user-select:none; }
+button { font:inherit; }
+#game {
+  position:fixed; inset:0; overflow:hidden;
+  background:
+    radial-gradient(circle at 50% 50%, rgba(60,78,92,.20), rgba(10,12,14,.12) 34%, transparent 67%),
+    linear-gradient(180deg,#0a0d10 0%,#050607 48%,#07090b 52%,#020303 100%);
+}
+#game::after {
+  content:""; position:absolute; inset:0; pointer-events:none; z-index:3;
+  background:radial-gradient(ellipse at center, transparent 45%, rgba(0,0,0,.55) 100%);
+}
+.half-board { position:absolute; left:0; right:0; height:50%; overflow:visible; z-index:10; }
+#opponent-board { top:0; }
+#my-board { bottom:0; }
+.center-line {
+  position:absolute; left:3%; right:3%; top:50%; height:1px; z-index:20; pointer-events:none;
+  background:linear-gradient(90deg,transparent,rgba(255,255,255,.20) 12%,rgba(255,255,255,.34) 50%,rgba(255,255,255,.20) 88%,transparent);
+  box-shadow:0 0 22px rgba(160,220,255,.10);
+}
+.center-line::after {
+  content:"ZONE ADVERSE   •   TA ZONE";
+  position:absolute; left:50%; top:0; transform:translate(-50%,-50%);
+  padding:3px 12px; border-radius:999px; background:#050607;
+  color:rgba(255,255,255,.26); font-size:10px; letter-spacing:.14em; white-space:nowrap;
+}
+.player-label {
+  position:absolute; z-index:50000; left:22px; display:flex; gap:10px; align-items:center;
+  color:rgba(255,255,255,.74); pointer-events:none;
+}
+#opponentLabel { top:18px; }
+#myLabel { bottom:22px; }
+.player-name { font-weight:800; font-size:14px; color:#fff; }
+.player-meta { font-size:11px; color:rgba(255,255,255,.48); }
+.exit-button {
+  position:absolute; right:22px; top:18px; z-index:60000; width:42px; height:42px; border-radius:50%;
+  border:1px solid rgba(255,255,255,.16); background:rgba(10,10,12,.68); color:#ddd; cursor:pointer; font-size:21px;
+}
+.exit-button:hover { background:rgba(255,255,255,.10); color:#fff; }
+.draw-wrap { position:absolute; right:26px; bottom:27px; z-index:60000; }
+.draw-button {
+  min-width:154px; height:52px; padding:0 23px; border-radius:999px; border:1px solid rgba(255,255,255,.24);
+  background:rgba(15,18,21,.90); color:white; cursor:pointer; box-shadow:0 14px 42px rgba(0,0,0,.60);
+  backdrop-filter:blur(12px); transition:transform .16s ease,border-color .16s ease;
+}
+.draw-button:hover:not(:disabled) { transform:translateY(-2px) scale(1.025); border-color:rgba(255,255,255,.55); }
+.draw-button:disabled { opacity:.35; cursor:default; }
+.draw-count { display:block; margin-top:2px; font-size:11px; color:rgba(255,255,255,.52); }
+.board-card {
+  position:absolute; width:var(--board-card-w); aspect-ratio:5/7; border-radius:9px; overflow:visible;
+  filter:drop-shadow(0 10px 17px rgba(0,0,0,.62)); transform:translate(-50%,-50%); z-index:100;
+}
+.board-card.mine { cursor:grab; touch-action:none; }
+.board-card.mine.dragging { cursor:grabbing; z-index:50000!important; }
+.board-card:hover { z-index:45000!important; }
+.board-card .card-shell {
+  width:100%; height:100%; border-radius:9px; overflow:hidden; background:#181b1e;
+  box-shadow:0 0 0 1px rgba(255,255,255,.11);
+  transition:transform .18s cubic-bezier(.2,.8,.2,1),box-shadow .18s ease,filter .18s ease;
+  transform-origin:50% 50%;
+}
+.board-card.mine:hover .card-shell { transform:scale(1.65); box-shadow:0 0 0 1px rgba(255,255,255,.36),0 25px 50px rgba(0,0,0,.72); }
+.board-card.opponent .card-shell { transform:rotate(180deg); }
+.board-card.opponent:hover .card-shell { transform:rotate(180deg) scale(1.65); box-shadow:0 0 0 1px rgba(255,255,255,.36),0 25px 50px rgba(0,0,0,.72); }
+.board-card.mine.dragging .card-shell { transform:scale(1.04)!important; }
+.board-card img,.hand-card img { width:100%; height:100%; display:block; object-fit:contain; pointer-events:none; }
+.missing { width:100%; height:100%; display:flex; align-items:center; justify-content:center; padding:8px; text-align:center; background:#222; color:#aaa; border-radius:9px; }
+.board-actions { position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); display:none; gap:7px; z-index:60000; }
+.board-card.mine.selected .board-actions { display:flex; }
+.board-action {
+  min-width:42px; height:36px; padding:0 11px; border-radius:999px; border:1px solid rgba(255,255,255,.25);
+  background:rgba(0,0,0,.88); color:white; cursor:pointer; box-shadow:0 6px 20px rgba(0,0,0,.55);
+}
+#hand-zone {
+  position:absolute; left:50%; bottom:48px; width:min(1180px,calc(100vw - 330px)); height:300px;
+  transform:translateX(-50%); z-index:30000; pointer-events:none; overflow:visible;
+}
+.hand-card {
+  --x:0px; --y:0px; --r:0deg; position:absolute; left:50%; bottom:0; width:var(--hand-card-w); aspect-ratio:5/7;
+  border-radius:11px; transform-origin:50% 100%; pointer-events:auto; cursor:pointer;
+  transform:translateX(calc(-50% + var(--x))) translateY(var(--y)) rotate(var(--r));
+  transition:transform .18s cubic-bezier(.2,.8,.2,1),filter .18s ease; filter:drop-shadow(0 11px 19px rgba(0,0,0,.76));
+}
+.hand-card .card-shell { position:absolute; inset:0; border-radius:11px; overflow:hidden; background:#17191d; box-shadow:0 0 0 1px rgba(255,255,255,.12); }
+.hand-card:hover { transform:translateX(calc(-50% + var(--x))) translateY(-88px) rotate(0deg) scale(1.42); z-index:52000!important; }
+.hand-card.selected { transform:translateX(calc(-50% + var(--x))) translateY(-116px) rotate(0deg) scale(1.24); z-index:51000!important; }
+.hand-card.selected:hover { transform:translateX(calc(-50% + var(--x))) translateY(-126px) rotate(0deg) scale(1.36); }
+.hand-actions { position:absolute; left:50%; bottom:calc(100% + 12px); transform:translateX(-50%); display:none; gap:8px; white-space:nowrap; z-index:60000; }
+.hand-card.selected .hand-actions { display:flex; }
+.hand-action { min-width:88px; height:39px; padding:0 15px; border-radius:999px; border:1px solid rgba(255,255,255,.26); background:rgba(12,13,16,.94); color:#fff; font-weight:750; cursor:pointer; box-shadow:0 8px 28px rgba(0,0,0,.60); }
+.hand-action.primary { background:#fff; color:#050505; border-color:#fff; }
+.opponent-hand {
+  position:absolute; top:17px; left:50%; transform:translateX(-50%); height:84px; z-index:25000; pointer-events:none;
+}
+.opponent-back {
+  position:absolute; left:50%; top:0; width:52px; aspect-ratio:5/7; border-radius:5px;
+  background:linear-gradient(145deg,#252a31,#090b0d); border:1px solid rgba(255,255,255,.14); box-shadow:0 5px 11px rgba(0,0,0,.48);
+  transform-origin:50% 0%;
+}
+.empty-hand { position:absolute; left:50%; bottom:42px; transform:translateX(-50%); color:rgba(255,255,255,.23); font-size:12px; }
+@media (max-width:900px) {
+  :root { --board-card-w:105px; --hand-card-w:142px; }
+  #hand-zone { width:calc(100vw - 220px); bottom:34px; height:250px; }
+  .draw-wrap { right:14px; bottom:18px; }
+  .draw-button { min-width:124px; height:46px; padding:0 15px; }
+  .board-card.mine:hover .card-shell { transform:scale(1.48); }
+  .board-card.opponent:hover .card-shell { transform:rotate(180deg) scale(1.48); }
+}
+</style>
+</head>
+<body>
+<div id="game">
+  <div id="opponent-board" class="half-board"></div>
+  <div id="my-board" class="half-board"></div>
+  <div class="center-line"></div>
+  <div id="opponentLabel" class="player-label"></div>
+  <div id="myLabel" class="player-label"></div>
+  <div id="opponentHand" class="opponent-hand"></div>
+  <div id="hand-zone"></div>
+  <div class="draw-wrap"><button id="draw" class="draw-button">Piocher<span id="drawCount" class="draw-count"></span></button></div>
+  <button id="exit" class="exit-button" title="Quitter la table">×</button>
+</div>
+<script>
+(() => {
+  let cfg=null, selectedHand=null, selectedBoard=null, zCounter=100, dragging=false, pendingCfg=null;
+  const send=(type,data={})=>window.parent.postMessage({isStreamlitMessage:true,type,...data},"*");
+  const ready=()=>{ send("streamlit:componentReady",{apiVersion:1}); send("streamlit:setFrameHeight",{height:Math.max(720,window.innerHeight)}); };
+  const setValue=value=>send("streamlit:setComponentValue",{value});
+  function action(name, instanceId=null, extra={}) {
+    setValue({event_id:Date.now().toString(36)+Math.random().toString(36).slice(2), action:name, instance_id:instanceId, session_id:cfg?.session_id, match_id:cfg?.match_id, ...extra});
+  }
+  const esc=v=>String(v??"").replace(/[&<>"']/g,ch=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+  function art(card) { return card.image ? `<img draggable="false" src="${esc(card.image)}" alt="${esc(card.name||'Carte')}">` : `<div class="missing">${esc(card.name||'Carte')}</div>`; }
+  const clamp=(v,a,b)=>Math.max(a,Math.min(b,v));
+
+  function makeBoardCard(item, mine) {
+    const el=document.createElement('div');
+    el.className=`board-card ${mine?'mine':'opponent'}`;
+    el.dataset.id=item.instance_id;
+    const x=clamp(Number(item.x??.5),.03,.97);
+    const y=clamp(Number(item.y??.5),.06,.94);
+    el.style.left=`${mine ? x*100 : (1-x)*100}%`;
+    el.style.top=`${mine ? y*100 : (1-y)*100}%`;
+    el.style.zIndex=Number(item.z||1);
+    zCounter=Math.max(zCounter,Number(item.z||1));
+    el.innerHTML=`<div class="card-shell">${art(item)}</div>${mine?`<div class="board-actions"><button class="board-action" data-act="hand" title="Reprendre en main">↩</button><button class="board-action" data-act="discard" title="Défausser">🗑</button></div>`:''}`;
+    if (mine && selectedBoard===item.instance_id) el.classList.add('selected');
+    if (!mine) return el;
+
+    let drag=null,moved=false;
+    el.addEventListener('pointerdown',ev=>{
+      if(ev.target.closest('button')) return;
+      ev.preventDefault(); moved=false; dragging=true; zCounter+=1; el.style.zIndex=zCounter; el.classList.add('dragging');
+      const br=document.getElementById('my-board').getBoundingClientRect();
+      drag={br,sx:ev.clientX,sy:ev.clientY}; el.setPointerCapture(ev.pointerId);
+    });
+    el.addEventListener('pointermove',ev=>{
+      if(!drag) return;
+      if(Math.abs(ev.clientX-drag.sx)+Math.abs(ev.clientY-drag.sy)>5) moved=true;
+      const x=clamp((ev.clientX-drag.br.left)/drag.br.width,.04,.96);
+      const y=clamp((ev.clientY-drag.br.top)/drag.br.height,.08,.92);
+      el.style.left=`${x*100}%`; el.style.top=`${y*100}%`;
+    });
+    function finish(){
+      if(!drag) return; const wasMoved=moved; drag=null; dragging=false; el.classList.remove('dragging');
+      if(wasMoved){
+        const x=clamp(parseFloat(el.style.left)/100,0,1), y=clamp(parseFloat(el.style.top)/100,0,1);
+        action('move_board',item.instance_id,{x,y,z:parseInt(el.style.zIndex||'1',10)});
+      } else {
+        selectedBoard=selectedBoard===item.instance_id?null:item.instance_id; selectedHand=null; renderBoards(); renderHand();
+      }
+      if(pendingCfg){ const next=pendingCfg; pendingCfg=null; render(next); }
+    }
+    el.addEventListener('pointerup',finish); el.addEventListener('pointercancel',finish);
+    el.querySelector('[data-act="hand"]').addEventListener('click',ev=>{ev.stopPropagation();action('board_to_hand',item.instance_id);});
+    el.querySelector('[data-act="discard"]').addEventListener('click',ev=>{ev.stopPropagation();action('board_to_discard',item.instance_id);});
+    return el;
+  }
+
+  function renderBoards(){
+    const mine=document.getElementById('my-board'), opp=document.getElementById('opponent-board'); mine.innerHTML=''; opp.innerHTML='';
+    (cfg.my_board||[]).forEach(item=>mine.appendChild(makeBoardCard(item,true)));
+    (cfg.opponent_board||[]).forEach(item=>opp.appendChild(makeBoardCard(item,false)));
+  }
+
+  function layoutHand(){
+    const cards=[...document.querySelectorAll('.hand-card')], n=cards.length; if(!n)return;
+    const center=(n-1)/2, available=Math.min(window.innerWidth*.67,1030), step=n>1?Math.min(114,available/Math.max(1,n-1)):0, maxAngle=Math.min(17,3.1*center);
+    cards.forEach((el,i)=>{const rel=i-center,norm=center?rel/center:0; el.style.setProperty('--x',`${rel*step}px`); el.style.setProperty('--y',`${Math.abs(norm)*17}px`); el.style.setProperty('--r',`${norm*maxAngle}deg`); el.style.zIndex=1000+i;});
+  }
+
+  function renderHand(){
+    const hand=document.getElementById('hand-zone'); hand.innerHTML=''; const cards=cfg.hand||[];
+    if(selectedHand && !cards.some(x=>x.instance_id===selectedHand)) selectedHand=null;
+    if(!cards.length){hand.innerHTML='<div class="empty-hand">Main vide</div>';return;}
+    cards.forEach(item=>{
+      const el=document.createElement('div'); el.className='hand-card'; el.dataset.id=item.instance_id; if(selectedHand===item.instance_id)el.classList.add('selected');
+      el.innerHTML=`<div class="card-shell">${art(item)}</div><div class="hand-actions"><button class="hand-action primary" data-act="board">Poser</button><button class="hand-action" data-act="discard">Défausser</button></div>`;
+      hand.appendChild(el);
+      el.addEventListener('click',ev=>{if(ev.target.closest('button'))return;selectedHand=selectedHand===item.instance_id?null:item.instance_id;selectedBoard=null;renderHand();renderBoards();});
+      el.querySelector('[data-act="board"]').addEventListener('click',ev=>{ev.stopPropagation();action('hand_to_board',item.instance_id);});
+      el.querySelector('[data-act="discard"]').addEventListener('click',ev=>{ev.stopPropagation();action('hand_to_discard',item.instance_id);});
+    }); requestAnimationFrame(layoutHand);
+  }
+
+  function renderOpponentHand(){
+    const host=document.getElementById('opponentHand'); host.innerHTML=''; const n=Math.min(14,Number(cfg.opponent_hand_count||0));
+    for(let i=0;i<n;i++){const el=document.createElement('div');el.className='opponent-back';const rel=i-(n-1)/2;el.style.transform=`translateX(calc(-50% + ${rel*18}px)) rotate(${rel*2.2}deg)`;el.style.zIndex=100+i;host.appendChild(el);}
+  }
+
+  function render(nextCfg){
+    if(dragging){pendingCfg=nextCfg;return;} cfg=nextCfg||{};
+    const handIds=new Set((cfg.hand||[]).map(x=>x.instance_id)); if(selectedHand&&!handIds.has(selectedHand))selectedHand=null;
+    const boardIds=new Set((cfg.my_board||[]).map(x=>x.instance_id)); if(selectedBoard&&!boardIds.has(selectedBoard))selectedBoard=null;
+    document.getElementById('draw').disabled=!cfg.can_draw;
+    document.getElementById('drawCount').textContent=`${cfg.draw_count||0} carte(s)`;
+    document.getElementById('myLabel').innerHTML=`<div><div class="player-name">${esc(cfg.me_name||'Toi')}</div><div class="player-meta">${esc(cfg.me_deck||'')} · Défausse ${cfg.discard_count||0}</div></div>`;
+    document.getElementById('opponentLabel').innerHTML=`<div><div class="player-name">${esc(cfg.opponent_name||'Adversaire')}</div><div class="player-meta">${cfg.opponent_draw_count||0} pioche · ${cfg.opponent_hand_count||0} main · ${cfg.opponent_discard_count||0} défausse</div></div>`;
+    renderBoards();renderHand();renderOpponentHand();send("streamlit:setFrameHeight",{height:Math.max(720,window.innerHeight)});
+  }
+
+  document.getElementById('draw').addEventListener('click',()=>action('draw'));
+  document.getElementById('exit').addEventListener('click',()=>action('exit'));
+  document.getElementById('game').addEventListener('click',ev=>{
+    if(ev.target.id!=='game'&&!ev.target.classList.contains('half-board'))return;
+    if(selectedHand||selectedBoard){selectedHand=null;selectedBoard=null;renderHand();renderBoards();}
+  });
+  window.addEventListener('resize',()=>{layoutHand();send("streamlit:setFrameHeight",{height:Math.max(720,window.innerHeight)});},{passive:true});
+  window.addEventListener('message',ev=>{if(ev.data&&ev.data.type==='streamlit:render')render(ev.data.args?.payload||{});});
+  ready();
+})();
+</script>
+</body>
+</html>

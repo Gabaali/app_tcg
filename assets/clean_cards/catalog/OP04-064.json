@@ -1,0 +1,161 @@
+{
+  "card_number": "OP04-064",
+  "name": "Ms. All Sunday",
+  "language": "en",
+  "set": "OP04",
+  "set_name": "Kingdoms of Intrigue",
+  "released_at": "2023-09-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Purple"
+  ],
+  "cost": 5,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Baroque Works"
+  ],
+  "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card.",
+  "trigger": "[Trigger] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-064/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-064/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/514245/one-piece-card-game-kingdoms-of-intrigue-ms-all-sunday",
+        "market_price": "2.51",
+        "low_price": "1.75",
+        "mid_price": "3.00",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-064/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-064/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/514246/one-piece-card-game-kingdoms-of-intrigue-ms-all-sunday-alternate-art",
+        "market_price": "55.72",
+        "low_price": "35.00",
+        "mid_price": "49.99",
+        "high_price": "91.96"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-064/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-064/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541668/one-piece-card-game-wings-of-the-captain-ms-all-sunday-sp",
+        "market_price": "324.36",
+        "low_price": "270.00",
+        "mid_price": "323.43",
+        "high_price": "1050.69"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "My Leader is [OP04-058 Crocodile] and I have 6 DON!! cards on my field when I activate this Character's [Trigger], return 2 DON!! cards from my field to my DON!! deck, and play this Character with 4 DON!! cards on my field. At this time, can I use this Character's [On Play] effect to draw 1 card?",
+      "answer": "Yes, you can. Your Leader's [Opponent's Turn] effect will have activated first, so you will have added 1 DON!! card, meaning you have 5 DON!! cards. Then, you will add 1 more DON!! card with this Character's [On Play] effect, so you will be able to draw 1 card.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I use this [Trigger] effect to return DON!! cards to my DON!! deck without playing this Character?",
+      "answer": "No, you cannot. In this case, you must play this Character.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

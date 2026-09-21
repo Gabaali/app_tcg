@@ -1,0 +1,116 @@
+{
+  "card_number": "OP16-095",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 2,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Land of Wano",
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] Up to 1 of your black {Land of Wano} type Characters gains [Unblockable] during this turn.\n(This card cannot be blocked.)",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-095/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-095/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696078/one-piece-card-game-the-time-of-battle-monkeydluffy-095",
+        "market_price": "0.20",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ee0cceb2-3d03-4701-8644-632f7498c7c8",
+        "slug": "round-1-promo",
+        "name": "Round 1 Promo",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/707248/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-round-1-promo",
+        "market_price": "206.09",
+        "low_price": "240.00",
+        "mid_price": "625.15",
+        "high_price": "2000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

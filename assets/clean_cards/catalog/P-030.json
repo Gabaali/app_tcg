@@ -1,0 +1,267 @@
+{
+  "card_number": "P-030",
+  "name": "Jinbe",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Fish-Man",
+    "The Seven Warlords of the Sea",
+    "The Sun Pirates"
+  ],
+  "effect": "[On K.O.] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80cce277-2d8e-44a2-afe3-d1991034140c",
+        "slug": "starter-deck-blue-donquixote-doflamingo",
+        "name": "Starter Deck - Blue Donquixote Doflamingo",
+        "set_code": "ST17",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-030/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-030/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581011/one-piece-card-game-starter-deck-17-blue-donquixote-doflamingo-jinbe",
+        "market_price": "0.31",
+        "low_price": "0.12",
+        "mid_price": "0.33",
+        "high_price": "9.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1eb71860-51a2-4b75-a089-832ddd7350b4",
+        "slug": "included-in-event-pack-vol-1",
+        "name": "Included in Event Pack Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-030/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-030/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/455823/one-piece-card-game-one-piece-promotion-cards-jinbe-event-pack-vol-1",
+        "market_price": "1.81",
+        "low_price": "0.88",
+        "mid_price": "2.11",
+        "high_price": "59.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d4f6ef69-d6d1-47df-9210-a4997f12ac98",
+        "slug": "seven-warlords-of-the-sea-binder-set",
+        "name": "Seven Warlords of the Sea Binder Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-030/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-030/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/648103/one-piece-card-game-one-piece-promotion-cards-jinbe-seven-warlords-of-the-sea-binder-set",
+        "market_price": "4.95",
+        "low_price": "4.75",
+        "mid_price": "5.47",
+        "high_price": "45.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d4f6ef69-d6d1-47df-9210-a4997f12ac98",
+        "slug": "seven-warlords-of-the-sea-binder-set",
+        "name": "Seven Warlords of the Sea Binder Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-030/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-030/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539555/one-piece-card-game-one-piece-promotion-cards-jinbe-cs-2023-event-pack-finalist-ver",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1849dde6-a590-488f-9d7a-fa0ab3be6836",
+        "slug": "cs-2023-event-pack",
+        "name": "CS 2023 Event Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525301/one-piece-card-game-one-piece-promotion-cards-jinbe-cs-2023-event-pack",
+        "market_price": "22.02",
+        "low_price": "40.95",
+        "mid_price": "46.62",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "190689d6-013d-4e31-bc97-3e36ebefb2f7",
+        "slug": "premium-card-collection-bandai-card-games-fest-23-24-edition",
+        "name": "Premium Card Collection -BANDAI CARD GAMES Fest. 23-24 Edition-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/564255/one-piece-card-game-one-piece-promotion-cards-jinbe-premium-card-collection-bandai-card-games-fest-23-24-edition",
+        "market_price": "4.82",
+        "low_price": "4.48",
+        "mid_price": "5.25",
+        "high_price": "24.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On K.O.] effect to place my Character at the bottom of my deck?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "card_number": "P-047",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Leader",
+  "rarity": "P",
+  "color": [
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [When Attacking] Draw 1 card if you have 3 or less cards in your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.435216,
+        "y": 0.334524
+      },
+      "product": {
+        "id": "229ec05e-b503-4ffc-802a-1fecba567a16",
+        "slug": "sealed-battle-2023-vol-1",
+        "name": "Sealed Battle 2023 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-047/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-047/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/518694/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-047-sealed-battle-kit-vol-1",
+        "market_price": "111.65",
+        "low_price": "71.05",
+        "mid_price": "112.82",
+        "high_price": "950.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.430233,
+        "y": 0.190476
+      },
+      "product": {
+        "id": "63fb0391-fc0e-4b2f-a702-0e0ecf6326eb",
+        "slug": "live-action-edition",
+        "name": "Live Action Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-047/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-047/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/546710/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-047-premium-card-collection-live-action-edition",
+        "market_price": "31.15",
+        "low_price": "28.88",
+        "mid_price": "39.54",
+        "high_price": "499.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

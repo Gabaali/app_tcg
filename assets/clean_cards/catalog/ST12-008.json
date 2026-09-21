@@ -1,0 +1,150 @@
+{
+  "card_number": "ST12-008",
+  "name": "Roronoa Zoro",
+  "language": "en",
+  "set": "ST12",
+  "set_name": "Starter Deck - Zoro and Sanji",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Anderson",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "97da0843-729f-40ce-9c5f-077c8176a3d2",
+        "slug": "starter-deck-zoro-and-sanji",
+        "name": "Starter Deck - Zoro and Sanji",
+        "set_code": "ST12",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST12-008/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST12-008/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST12-008/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST12-008/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST12-008/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539152/one-piece-card-game-starter-deck-12-zoro-and-sanji-roronoa-zoro",
+        "market_price": "0.77",
+        "low_price": "0.50",
+        "mid_price": "0.98",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c835128a-f3e2-432a-b3d8-49454508d8d8",
+        "slug": "treasure-cup-august-september",
+        "name": "Treasure Cup August – September",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST12-008/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST12-008/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/664049/one-piece-card-game-learn-together-deck-set-roronoa-zoro-st12-008",
+        "market_price": "0.13",
+        "low_price": "0.05",
+        "mid_price": "0.16",
+        "high_price": "0.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "219d4274-4f86-4639-9a57-39e47ffc7731",
+        "slug": "treasure-cup-2024",
+        "name": "Treasure Cup 2024",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/564531/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-treasure-cup-2024",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

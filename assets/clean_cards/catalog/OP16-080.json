@@ -1,0 +1,123 @@
+{
+  "card_number": "OP16-080",
+  "name": "Marshall.D.Teach",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Blackbeard Pirates"
+  ],
+  "effect": "[Opponent's Turn] All of your Characters gain +1 cost.\n[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Change the target of that attack to this Leader or to one of your {Blackbeard Pirates} type Character cards.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.472393,
+        "y": 0.210835
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-080/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-080/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/694627/one-piece-card-game-the-time-of-battle-marshalldteach-080",
+        "market_price": "0.24",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "42.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.481728,
+        "y": 0.209524
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-080/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-080/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/694628/one-piece-card-game-the-time-of-battle-marshalldteach-080-alternate-art",
+        "market_price": "17.21",
+        "low_price": "16.01",
+        "mid_price": "20.59",
+        "high_price": "170.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Imagine my Leader is this card, and my opponent's Leader is \"OP12-020 Roronoa Zoro\". My opponent uses their Leader to attack one of my Characters, and I use this [On Your Opponent's Attack] effect to change their target to my Leader. Can my opponent use the [Activate: Main] effect of their \"OP12-020 Roronoa Zoro\" to set \"OP12-020 Roronoa Zoro\" as active?",
+      "answer": "No, they cannot.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

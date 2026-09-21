@@ -1,0 +1,97 @@
+{
+  "card_number": "ST10-001",
+  "name": "Trafalgar Law",
+  "language": "en",
+  "set": "ST10",
+  "set_name": "Starter Deck - The Three Captains",
+  "released_at": "2023-11-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Heart Pirates"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Place up to 1 of your opponent's Characters with 3000 power or less at the bottom of the owner's deck, and play up to 1 Character card with a cost of 4 or less from your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.5,
+        "y": 0.241667
+      },
+      "product": {
+        "id": "1d1cc7a7-d6df-43c5-98c5-f9c62a31a971",
+        "slug": "starter-deck-the-three-captains",
+        "name": "Starter Deck - The Three Captains",
+        "set_code": "ST10",
+        "released_at": "2023-11-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST10-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST10-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525044/one-piece-card-game-ultra-deck-the-three-captains-trafalgar-law-001",
+        "market_price": "3.51",
+        "low_price": "3.25",
+        "mid_price": "4.47",
+        "high_price": "45.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "banned",
+      "banned_at": "2024-09-06T00:00:00.000Z"
+    },
+    "Extra Regulation": {
+      "status": "banned",
+      "banned_at": "2024-09-06T00:00:00.000Z"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I still use this [Activate: Main] effect to play up to 1 Character card with a cost of 4 or less from my hand if my opponent has no Characters with 3000 power or less?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I use this [Activate: Main] effect to place up to 1 of my opponent's Characters with 3000 power or less at the bottom of the owner's deck without playing 1 Character card with a cost of 4 or less from my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I have no \"Monkey.D.Luffy\" on my field when I use this Leader's [Activate: Main] effect to select my opponent's \"OP05-100 Enel\" with 3000 power or less, and play a \"Monkey.D.Luffy\" with a cost of 4 or less from my hand. Can my opponent use the [Once Per Turn] effect of \"OP05-100 Enel\" to trash 1 card from the top of their Life cards instead of placing this \"Enel\" at the bottom of their deck?",
+      "answer": "Yes, they can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

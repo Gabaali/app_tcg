@@ -1,0 +1,90 @@
+{
+  "card_number": "ST10-002",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST10",
+  "set_name": "Starter Deck - The Three Captains",
+  "released_at": "2023-11-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 6000,
+  "counter": null,
+  "life": 3,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] If you have 0 DON!! cards on your field or 8 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.466777,
+        "y": 0.222619
+      },
+      "product": {
+        "id": "1d1cc7a7-d6df-43c5-98c5-f9c62a31a971",
+        "slug": "starter-deck-the-three-captains",
+        "name": "Starter Deck - The Three Captains",
+        "set_code": "ST10",
+        "released_at": "2023-11-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST10-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST10-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525045/one-piece-card-game-ultra-deck-the-three-captains-monkeydluffy-002",
+        "market_price": "14.04",
+        "low_price": "7.00",
+        "mid_price": "15.00",
+        "high_price": "149.95"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If it is the start of the game and I have no DON!! cards on my field, can I use this [Activate: Main] effect to add up to 1 DON!! card from my DON!! deck and set it as active?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "What does \"you have 0 DON!! cards on your field\" mean?",
+      "answer": "It means you have no DON!! cards either in your cost area or on your field.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

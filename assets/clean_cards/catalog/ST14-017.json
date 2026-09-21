@@ -1,0 +1,155 @@
+{
+  "card_number": "ST14-017",
+  "name": "Thousand Sunny",
+  "language": "en",
+  "set": "ST14",
+  "set_name": "Starter Deck - 3D2Y",
+  "released_at": "2024-08-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Stage",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "All of your black {Straw Hat Crew} type Characters gain +1 cost.\n[On Play] If your Leader has the {Straw Hat Crew} type, draw 1 card.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "63172b8d-24b4-4026-89b6-18132bc108c0",
+        "slug": "starter-deck-3d2y",
+        "name": "Starter Deck - 3D2Y",
+        "set_code": "ST14",
+        "released_at": "2024-08-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-017/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-017/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/548428/one-piece-card-game-starter-deck-14-3d2y-thousand-sunny",
+        "market_price": "0.34",
+        "low_price": "0.08",
+        "mid_price": "0.35",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-017/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-017/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656093/one-piece-card-game-premium-booster-the-best-vol-2-thousand-sunny-reprint",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-017/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-017/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656251/one-piece-card-game-premium-booster-the-best-vol-2-thousand-sunny-pirate-foil",
+        "market_price": "0.39",
+        "low_price": "0.01",
+        "mid_price": "0.40",
+        "high_price": "4.75"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does this effect give +1 cost to Character cards in my hand or trash?",
+      "answer": "No, it does not. This effect only gives +1 cost to black {Straw Hat Crew} type Characters on your field.",
+      "updated_on": "2024-08-02"
+    }
+  ]
+}

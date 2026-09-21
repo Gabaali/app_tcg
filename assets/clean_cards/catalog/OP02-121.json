@@ -1,0 +1,203 @@
+{
+  "card_number": "OP02-121",
+  "name": "Kuzan",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Black"
+  ],
+  "cost": 10,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Former Navy"
+  ],
+  "effect": "[Your Turn] Give all of your opponent's Characters −5 cost.\n[On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Nijihayashi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-121/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-121/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP02-121/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP02-121/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-121/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485397/one-piece-card-game-paramount-war-kuzan-121",
+        "market_price": "2.48",
+        "low_price": "1.80",
+        "mid_price": "3.99",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-121/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-121/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485456/one-piece-card-game-paramount-war-kuzan-121-alternate-art",
+        "market_price": "11.77",
+        "low_price": "10.61",
+        "mid_price": "14.02",
+        "high_price": "169.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-121/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-121/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/594326/one-piece-card-game-premium-booster-the-best-kuzan-op02-121-reprint",
+        "market_price": "1.79",
+        "low_price": "1.40",
+        "mid_price": "2.72",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-121/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-121/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593303/one-piece-card-game-premium-booster-the-best-kuzan-op02-121-alternate-art",
+        "market_price": "15.93",
+        "low_price": "13.70",
+        "mid_price": "16.81",
+        "high_price": "59.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Will this [Your Turn] effect give −5 cost to Character cards in my opponent's trash or hand?",
+      "answer": "No, it will not. When \"Character\" is written in card text, it refers only to Characters on the field.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "My opponent's Character with a cost of 6 was reduced to a cost of 1 due to this [Your Turn] effect. Its cost was then further reduced to 0 according to the −2 cost effect of [OP02-106 Tsuru]. If this Character is then removed from the field, what will the cost of my opponent's Character be?",
+      "answer": "In that case, the cost will become 4.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I use this [On Play] effect to choose a Character with a cost that has been reduced to 0 according to this [Your Turn] effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

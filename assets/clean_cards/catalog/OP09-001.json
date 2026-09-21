@@ -1,0 +1,235 @@
+{
+  "card_number": "OP09-001",
+  "name": "Shanks",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Red-Haired Pirates"
+  ],
+  "effect": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.445183,
+        "y": 0.297619
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596919/one-piece-card-game-emperors-in-the-new-world-shanks-001",
+        "market_price": "0.18",
+        "low_price": "0.05",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.611296,
+        "y": 0.359524
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-001/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-001/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596920/one-piece-card-game-emperors-in-the-new-world-shanks-001-parallel",
+        "market_price": "51.47",
+        "low_price": "39.69",
+        "mid_price": "55.00",
+        "high_price": "155.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.433555,
+        "y": 0.196429
+      },
+      "product": {
+        "id": "0e44f7b2-0bd8-43af-95be-c190607bbec2",
+        "slug": "starter-deck-red-shanks",
+        "name": "Starter Deck - Red Shanks",
+        "set_code": "ST23",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/633760/one-piece-card-game-starter-deck-23-red-shanks-shanks-reprint",
+        "market_price": "1.23",
+        "low_price": "0.20",
+        "mid_price": "1.49",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fac09fe4-f798-4ec6-9771-8a911d206074",
+        "slug": "2025-psa-magazine-promo",
+        "name": "2025 PSA Magazine Promo",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-001/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-001/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643883/one-piece-card-game-one-piece-promotion-cards-shanks-2025-psa-magazine-promo",
+        "market_price": "154.10",
+        "low_price": "120.00",
+        "mid_price": "159.61",
+        "high_price": "299.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635471/one-piece-card-game-one-piece-promotion-cards-shanks-english-version-2nd-anniversary-set",
+        "market_price": "142.31",
+        "low_price": "129.99",
+        "mid_price": "150.00",
+        "high_price": "399.95"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "During my opponent's turn, can I choose not to activate this [Once Per Turn] effect when my opponent first attacks, and instead activate it the next time they attack?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "Can I activate this \"when your opponent attacks\" effect regardless of whether my opponent is attacking with their Leader or attacking with a Character?",
+      "answer": "Yes, you can. Provided it's only once per turn, you can activate this effect regardless of whether your opponent is attacking with their Leader or attacking with a Character.",
+      "updated_on": "2024-11-29"
+    }
+  ]
+}

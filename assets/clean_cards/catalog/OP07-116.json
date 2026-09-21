@@ -1,0 +1,150 @@
+{
+  "card_number": "OP07-116",
+  "name": "Blaze Slice",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Land of Wano",
+    "The Akazaya Nine"
+  ],
+  "effect": "[Main]/[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this turn. Then, if your opponent has 2 or less Life cards, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-116/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-116/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-116/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-116/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-116/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545916/one-piece-card-game-500-years-in-the-future-blaze-slice",
+        "market_price": "0.22",
+        "low_price": "0.05",
+        "mid_price": "0.28",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5fc4a779-1784-40a0-b76c-5a763b0d62cc",
+        "slug": "starter-deck-green-yellow-yamato",
+        "name": "Starter Deck - Green/yellow Yamato",
+        "set_code": "ST28",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-116/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-116/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-116/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-116/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-116/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635309/one-piece-card-game-starter-deck-28-green-yellow-yamato-blaze-slice-reprint",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "096777d6-6629-4a0c-bee4-5ae70a91926d",
+        "slug": "best-selection-vol-5",
+        "name": "Best Selection Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-116/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-116/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657832/one-piece-card-game-one-piece-promotion-cards-blaze-slice-premium-card-collection-best-selection-vol-5",
+        "market_price": "2.65",
+        "low_price": "1.41",
+        "mid_price": "3.11",
+        "high_price": "49.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

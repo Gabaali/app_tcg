@@ -1,0 +1,79 @@
+{
+  "card_number": "ST25-002",
+  "name": "Cabaji",
+  "language": "en",
+  "set": "ST25",
+  "set_name": "Starter Deck - Blue Buggy",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 1000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Cross Guild"
+  ],
+  "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.\n(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[Opponent's Turn] This Character gains +5000 power.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "111d0c2f-f109-47f6-8ca7-d514b94944d4",
+        "slug": "starter-deck-blue-buggy",
+        "name": "Starter Deck - Blue Buggy",
+        "set_code": "ST25",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST25-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST25-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634307/one-piece-card-game-starter-deck-25-blue-buggy-cabaji",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

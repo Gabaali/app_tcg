@@ -1,0 +1,331 @@
+{
+  "card_number": "OP05-036",
+  "name": "Monet",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Donquixote Pirates"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Block] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-036/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-036/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528581/one-piece-card-game-awakening-of-the-new-era-monet",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-036/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-036/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656063/one-piece-card-game-premium-booster-the-best-vol-2-monet-reprint",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-036/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-036/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656065/one-piece-card-game-premium-booster-the-best-vol-2-monet-pirate-foil",
+        "market_price": "0.23",
+        "low_price": "0.02",
+        "mid_price": "0.25",
+        "high_price": "5.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1ed26e37-93e0-4d00-96fe-663e147c181a",
+        "slug": "event-pack-vol-3",
+        "name": "Event Pack Vol.3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-036/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-036/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539174/one-piece-card-game-one-piece-promotion-cards-monet-event-pack-vol-3",
+        "market_price": "2.20",
+        "low_price": "1.86",
+        "mid_price": "2.86",
+        "high_price": "39.99"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cbdbf387-ebf5-4514-b1eb-6e2010f6e263",
+        "slug": "op05-release-event",
+        "name": "OP05 Release Event",
+        "set_code": null,
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/530910/one-piece-card-game-awakening-of-the-new-era-1st-anniversary-tournament-cards-monet",
+        "market_price": "10.00",
+        "low_price": "17.09",
+        "mid_price": "19.97",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "716820fa-f95d-4b54-b788-6d8617beace4",
+        "slug": "cs-2024-event-pack",
+        "name": "CS 2024 Event Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/579982/one-piece-card-game-one-piece-promotion-cards-monet-cs-2024-event-pack",
+        "market_price": "11.70",
+        "low_price": "12.00",
+        "mid_price": "14.99",
+        "high_price": "35.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "95b2bb32-1084-4f9b-9379-515d8d6250c6",
+        "slug": "cs-2024-event-pack-finalist",
+        "name": "CS 2024 Event Pack Finalist",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/580033/one-piece-card-game-one-piece-promotion-cards-monet-cs-2024-event-pack-finalist",
+        "market_price": null,
+        "low_price": "600.00",
+        "mid_price": "600.00",
+        "high_price": "600.00"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "95b2bb32-1084-4f9b-9379-515d8d6250c6",
+        "slug": "cs-2024-event-pack-finalist",
+        "name": "CS 2024 Event Pack Finalist",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/580033/one-piece-card-game-one-piece-promotion-cards-monet-cs-2024-event-pack-finalist",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

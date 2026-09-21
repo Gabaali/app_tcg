@@ -1,0 +1,156 @@
+{
+  "card_number": "ST21-017",
+  "name": "Gum-Gum Mole Pistol",
+  "language": "en",
+  "set": "ST21",
+  "set_name": "Starter Deck - GEAR5",
+  "released_at": "2025-03-14T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 4,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "The Four Emperors",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Main] Give up to 1 of your opponent's Characters −5000 power during this turn. Then, if you have a Character with 6000 power or more, K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+  "trigger": "[Trigger] Activate this card's [Main] effect.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "06421026-ff8e-422d-b224-2037853f88ea",
+        "slug": "starter-deck-gear5",
+        "name": "Starter Deck - GEAR5",
+        "set_code": "ST21",
+        "released_at": "2025-03-14T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-017/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-017/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/615595/one-piece-card-game-starter-deck-ex-gear-5-gum-gum-mole-pistol",
+        "market_price": "2.64",
+        "low_price": "0.91",
+        "mid_price": "5.31",
+        "high_price": "70.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "096777d6-6629-4a0c-bee4-5ae70a91926d",
+        "slug": "best-selection-vol-5",
+        "name": "Best Selection Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-017/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-017/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657484/one-piece-card-game-one-piece-promotion-cards-gum-gum-mole-pistol-premium-card-collection-best-selection-vol-5",
+        "market_price": "14.08",
+        "low_price": "13.00",
+        "mid_price": "16.19",
+        "high_price": "60.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656677/one-piece-card-game-learn-together-deck-set-gum-gum-mole-pistol-luffy-deck",
+        "market_price": "0.64",
+        "low_price": "0.39",
+        "mid_price": "1.05",
+        "high_price": "4.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When activating this [Main] effect, can I choose to give −5000 power to one Character, and then choose to K.O. a different Character with 2000 power or less?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

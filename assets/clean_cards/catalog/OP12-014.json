@@ -1,0 +1,163 @@
+{
+  "card_number": "OP12-014",
+  "name": "Boa Hancock",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 2,
+  "power": 3000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Kuja Pirates"
+  ],
+  "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Monkey.D.Luffy] or red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[Activate: Main] You may trash this Character: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Sunohara",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-014/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-014/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-014/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-014/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-014/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643739/one-piece-card-game-legacy-of-the-master-boa-hancock",
+        "market_price": "0.55",
+        "low_price": "0.10",
+        "mid_price": "0.99",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-014/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-014/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643740/one-piece-card-game-legacy-of-the-master-boa-hancock-alternate-art",
+        "market_price": "26.74",
+        "low_price": "20.00",
+        "mid_price": "28.08",
+        "high_price": "59.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-014/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-014/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685011/one-piece-card-game-adventure-on-kamis-island-boa-hancock-sp",
+        "market_price": "550.30",
+        "low_price": "420.00",
+        "mid_price": "525.00",
+        "high_price": "900.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to add a non-red [Monkey.D.Luffy] to my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "If I use this [Activate: Main] effect while this Character has DON!! cards given to it, can I choose the same DON!! cards given to this Character as the DON!! cards to be given using this effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

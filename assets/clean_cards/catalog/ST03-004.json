@@ -1,0 +1,266 @@
+{
+  "card_number": "ST03-004",
+  "name": "Gecko Moria",
+  "language": "en",
+  "set": "ST03",
+  "set_name": "Starter Deck - The Seven Warlords of the Sea",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Thriller Bark Pirates"
+  ],
+  "effect": "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8d69dec3-3bfc-43c1-b05e-fd3090ee1c79",
+        "slug": "starter-deck-the-seven-warlords-of-the-sea",
+        "name": "Starter Deck - The Seven Warlords of the Sea",
+        "set_code": "ST03",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288270/one-piece-card-game-starter-deck-3-the-seven-warlords-of-the-sea-gecko-moria",
+        "market_price": "0.15",
+        "low_price": "0.03",
+        "mid_price": "0.24",
+        "high_price": "11.50"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-004/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-004/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558166/one-piece-card-game-two-legends-gecko-moria-sp",
+        "market_price": "48.05",
+        "low_price": "42.96",
+        "mid_price": "49.56",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80cce277-2d8e-44a2-afe3-d1991034140c",
+        "slug": "starter-deck-blue-donquixote-doflamingo",
+        "name": "Starter Deck - Blue Donquixote Doflamingo",
+        "set_code": "ST17",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-004/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-004/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "touge369",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d4f6ef69-d6d1-47df-9210-a4997f12ac98",
+        "slug": "seven-warlords-of-the-sea-binder-set",
+        "name": "Seven Warlords of the Sea Binder Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-004/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-004/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST03-004/en/scans/3/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST03-004/en/scans/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-004/en/scans/3/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/648104/one-piece-card-game-one-piece-promotion-cards-gecko-moria-seven-warlords-of-the-sea-binder-set",
+        "market_price": "6.83",
+        "low_price": "5.85",
+        "mid_price": "7.18",
+        "high_price": "35.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "3ede1658-0ef2-4150-911c-62a52170f03e",
+        "slug": "store-championship-participation-pack",
+        "name": "Store Championship Participation Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-004/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-004/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/503022/one-piece-card-game-one-piece-promotion-cards-gecko-moria-store-championship-2023-participation-pack-vol1",
+        "market_price": "4.69",
+        "low_price": "3.49",
+        "mid_price": "6.25",
+        "high_price": "200.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "540bde0c-8c19-421b-bb1b-78c729c45bd7",
+        "slug": "st03-release-event",
+        "name": "ST03 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/422032/one-piece-card-game-super-pre-release-starter-deck-3-the-seven-warlords-of-the-sea-gecko-moria",
+        "market_price": "0.96",
+        "low_price": "0.96",
+        "mid_price": "2.45",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I add a card with the name [Gecko Moria] to my hand so long as it isn't \"ST03-004 Gecko Moria\"?",
+      "answer": "No, you cannot. This effect does not allow you to add any cards with the name [Gecko Moria] to your hand.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

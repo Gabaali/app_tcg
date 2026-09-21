@@ -1,0 +1,157 @@
+{
+  "card_number": "OP15-039",
+  "name": "Rebecca",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Dressrosa"
+  ],
+  "effect": "This Leader cannot attack.\n[Activate: Main] You may rest this Leader and return 1 of your {Dressrosa} type Characters to the owner's hand: Play up to 1 {Dressrosa} type Character card with a cost of 3 from your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Kohei Mikoshi",
+      "crop_focus": {
+        "x": 0.556579,
+        "y": 0.21542
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-039/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-039/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-039/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-039/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-039/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685382/one-piece-card-game-adventure-on-kamis-island-rebecca-op15-039",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.17",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "otton",
+      "crop_focus": {
+        "x": 0.507633,
+        "y": 0.18436
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-039/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-039/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-039/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-039/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-039/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685383/one-piece-card-game-adventure-on-kamis-island-rebecca-op15-039-alternate-art",
+        "market_price": "16.49",
+        "low_price": "13.99",
+        "mid_price": "18.52",
+        "high_price": "49.97"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-039/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-039/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this card's [Activate: Main] effect to return a {Dressrosa} type Character card with a cost of 3 to my hand, and then immediately play that card again afterwards?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

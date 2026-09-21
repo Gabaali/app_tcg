@@ -1,0 +1,131 @@
+{
+  "card_number": "OP02-051",
+  "name": "Emporio.Ivankov",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 7,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Impel Down",
+    "Revolutionary Army"
+  ],
+  "effect": "[On Play] Draw card(s) so that you have 3 cards in your hand and then play up to 1 blue {Impel Down} type Character card with a cost of 6 or less from your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-051/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-051/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486390/one-piece-card-game-paramount-war-emporioivankov-051",
+        "market_price": "0.56",
+        "low_price": "0.20",
+        "mid_price": "0.94",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-051/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-051/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485812/one-piece-card-game-paramount-war-emporioivankov-051-alternate-art",
+        "market_price": "6.01",
+        "low_price": "5.00",
+        "mid_price": "7.00",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to play a Character card if I have 3 or more cards in my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If I have 4 or more cards in my hand, do I need to trash some of them in order to have 3 cards in my hand for this [On Play] effect?",
+      "answer": "No, you do not.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If I have 2 or less cards in my hand, can I choose not to draw card(s) according to this [On Play] effect?",
+      "answer": "No, you cannot. You must draw cards until you have 3 cards whenever possible.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

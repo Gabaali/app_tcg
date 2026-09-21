@@ -1,0 +1,85 @@
+{
+  "card_number": "OP09-104",
+  "name": "Sabo",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 7,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Revolutionary Army"
+  ],
+  "effect": "[On Play] Add up to 1 {Revolutionary Army} type Character card from your hand to the top of your Life cards face-up. Then, if you have 2 or more Life cards, add 1 card from the top or bottom of your Life cards to your hand.",
+  "trigger": "[Trigger] If your Leader is multicolored, draw 2 cards.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-104/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-104/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597049/one-piece-card-game-emperors-in-the-new-world-sabo-104",
+        "market_price": "0.26",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "9.98"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When activating this [On Play] effect, if I do not add a {Revolutionary Army} type Character card from my hand to my Life cards, do I still add 1 card from the top or bottom of my Life cards to my hand if I have 2 or more Life cards?",
+      "answer": "Yes, you do.",
+      "updated_on": "2024-11-29"
+    }
+  ]
+}

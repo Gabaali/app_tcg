@@ -1,0 +1,82 @@
+{
+  "card_number": "ST06-017",
+  "name": "Navy HQ",
+  "language": "en",
+  "set": "ST06",
+  "set_name": "Starter Deck - Absolute Justice",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Stage",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Navy"
+  ],
+  "effect": "[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.\n[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80fe6f0e-65ab-461e-8edf-93b0448c6c81",
+        "slug": "starter-deck-absolute-justice",
+        "name": "Starter Deck - Absolute Justice",
+        "set_code": "ST06",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST06-017/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST06-017/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST06-017/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST06-017/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST06-017/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486331/one-piece-card-game-starter-deck-6-absolute-justice-navy-hq",
+        "market_price": "0.98",
+        "low_price": "0.25",
+        "mid_price": "1.65",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use these [On Play] and [Activate: Main] effects to reduce the costs of different Characters?",
+      "answer": "Yes, you can.",
+      "updated_on": "2023-03-03"
+    }
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "card_number": "OP15-060",
+  "name": "Enel",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Purple"
+  ],
+  "cost": 6,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Sky Island"
+  ],
+  "effect": "If you have 6 or less DON!! cards on your field, this Character cannot be removed from the field by your opponent's effects and gains +2000 power.\n[Activate: Main] DON!! −1: This Character gains [Blocker] until the end of your opponent's next End Phase. Then, trash 1 card from your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE nishinoshima",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-060/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-060/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-060/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-060/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-060/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685408/one-piece-card-game-adventure-on-kamis-island-enel-op15-060",
+        "market_price": "0.35",
+        "low_price": "0.05",
+        "mid_price": "0.50",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-060/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-060/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685409/one-piece-card-game-adventure-on-kamis-island-enel-op15-060-alternate-art",
+        "market_price": "4.64",
+        "low_price": "3.65",
+        "mid_price": "5.92",
+        "high_price": "60.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4600baae-b700-4cae-b2fc-61a97a554c2f",
+        "slug": "treasure-cup-may-2026",
+        "name": "Treasure Cup May 2026",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-060/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-060/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/692135/one-piece-card-game-one-piece-promotion-cards-enel-treasure-cup-may-2026",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this card's [Activate: Main] effect to gain [Blocker] even if I have no cards in my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

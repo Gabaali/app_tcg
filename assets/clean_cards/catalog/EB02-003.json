@@ -1,0 +1,117 @@
+{
+  "card_number": "EB02-003",
+  "name": "Tony Tony.Chopper",
+  "language": "en",
+  "set": "EB02",
+  "set_name": "Anime 25th Collection",
+  "released_at": "2025-05-09T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 3,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal",
+    "Drum Kingdom",
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.\n[On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629091/one-piece-card-game-extra-booster-anime-25th-collection-tony-tonychopper",
+        "market_price": "0.93",
+        "low_price": "0.37",
+        "mid_price": "0.98",
+        "high_price": "11.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629092/one-piece-card-game-extra-booster-anime-25th-collection-tony-tonychopper-alternate-art",
+        "market_price": "65.96",
+        "low_price": "45.49",
+        "mid_price": "62.00",
+        "high_price": "140.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

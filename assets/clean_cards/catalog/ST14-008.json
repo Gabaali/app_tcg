@@ -1,0 +1,78 @@
+{
+  "card_number": "ST14-008",
+  "name": "Haredas",
+  "language": "en",
+  "set": "ST14",
+  "set_name": "Starter Deck - 3D2Y",
+  "released_at": "2024-08-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": 0,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Sky Island"
+  ],
+  "effect": "[Activate: Main] You may rest this Character: Up to 1 of your black {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn. Then, if you have a Character with a cost of 8 or more, draw 1 card and trash 1 card from your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "63172b8d-24b4-4026-89b6-18132bc108c0",
+        "slug": "starter-deck-3d2y",
+        "name": "Starter Deck - 3D2Y",
+        "set_code": "ST14",
+        "released_at": "2024-08-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-008/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-008/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/548419/one-piece-card-game-starter-deck-14-3d2y-haredas",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.18",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,121 @@
+{
+  "card_number": "OP13-017",
+  "name": "Monkey.D.Dragon",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Revolutionary Army"
+  ],
+  "effect": "[Once Per Turn] If your {Revolutionary Army} type Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "S-KINOKO",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-017/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-017/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP13-017/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP13-017/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-017/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657272/one-piece-card-game-carrying-on-his-will-monkeyddragon",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.19",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cd530b21-d19a-45e7-b25c-522e583ac2ba",
+        "slug": "starter-deck-red-black-sabo",
+        "name": "Starter Deck - Red/black Sabo",
+        "set_code": "ST35",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-017/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-017/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706348/one-piece-card-game-starter-deck-35-red-black-sabo-monkeyddragon",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this Character has 2000 power or less, can I still use this [Once Per Turn] effect to give this Character −2000 power instead?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

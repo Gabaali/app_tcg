@@ -1,0 +1,188 @@
+{
+  "card_number": "ST21-001",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST21",
+  "set_name": "Starter Deck - GEAR5",
+  "released_at": "2025-03-14T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 2 rested DON!! cards to 1 of your Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.601329,
+        "y": 0.271429
+      },
+      "product": {
+        "id": "06421026-ff8e-422d-b224-2037853f88ea",
+        "slug": "starter-deck-gear5",
+        "name": "Starter Deck - GEAR5",
+        "set_code": "ST21",
+        "released_at": "2025-03-14T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/615564/one-piece-card-game-starter-deck-ex-gear-5-monkeydluffy-001",
+        "market_price": "8.90",
+        "low_price": "4.50",
+        "mid_price": "10.97",
+        "high_price": "29.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.609635,
+        "y": 0.272619
+      },
+      "product": {
+        "id": "06421026-ff8e-422d-b224-2037853f88ea",
+        "slug": "starter-deck-gear5",
+        "name": "Starter Deck - GEAR5",
+        "set_code": "ST21",
+        "released_at": "2025-03-14T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/615565/one-piece-card-game-starter-deck-ex-gear-5-monkeydluffy-001-parallel",
+        "market_price": "126.37",
+        "low_price": "100.00",
+        "mid_price": "129.49",
+        "high_price": "350.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.290698,
+        "y": 0.433333
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-001/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-001/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656655/one-piece-card-game-learn-together-deck-set-monkeydluffy-st21-001-luffy-deck",
+        "market_price": "15.94",
+        "low_price": "13.67",
+        "mid_price": "19.35",
+        "high_price": "171.18"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8acc993b-92c4-4538-bdf2-356b749e8a92",
+        "slug": "starter-deck-red-monkey-d-luffy",
+        "name": "Starter Deck - Red Monkey.d.luffy",
+        "set_code": "ST31",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST21-001/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST21-001/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706313/one-piece-card-game-starter-deck-31-red-monkeydluffy-monkeydluffy-st21-001",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,126 @@
+{
+  "card_number": "OP16-014",
+  "name": "Marco",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 6,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this Character instead.\n[On K.O.] You may trash 1 Character card with 8000 power from your hand: Play this Character card from your trash.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-014/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-014/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693827/one-piece-card-game-the-time-of-battle-marco",
+        "market_price": "0.18",
+        "low_price": "0.01",
+        "mid_price": "0.24",
+        "high_price": "3.20"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-014/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-014/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693826/one-piece-card-game-the-time-of-battle-marco-alternate-art",
+        "market_price": "9.47",
+        "low_price": "8.00",
+        "mid_price": "12.07",
+        "high_price": "31.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does \"Character card with 8000 power\" also include Character cards with 7000 power or less or Character cards with 9000 power or more?",
+      "answer": "No, it must be a Character card with exactly 8000 power.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "When this Character and one of my other Characters would be removed from the field at the same time, can I use the \"If one of your Characters would be removed from the field by your opponent's effect, you may K.O. this Character instead\" effect to only K.O. this Character instead?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "card_number": "OP12-108",
+  "name": "Donquixote Rosinante",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy",
+    "Donquixote Pirates"
+  ],
+  "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Trafalgar Law] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Naruse Uroko",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-108/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-108/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-108/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-108/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-108/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643854/one-piece-card-game-legacy-of-the-master-donquixote-rosinante-108",
+        "market_price": "0.17",
+        "low_price": "0.06",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-108/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-108/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643855/one-piece-card-game-legacy-of-the-master-donquixote-rosinante-108-alternate-art",
+        "market_price": "7.81",
+        "low_price": "6.35",
+        "mid_price": "8.25",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "TR",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-108/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-108/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/670876/one-piece-card-game-the-azure-seas-seven-donquixote-rosinante-op12-108",
+        "market_price": "40.53",
+        "low_price": "36.99",
+        "mid_price": "42.56",
+        "high_price": "150.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c0aec9a4-81e0-469b-ae70-842f65a4364b",
+        "slug": "illustration-box-vol-6",
+        "name": "Illustration Box Vol.6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-108/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-108/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671741/one-piece-card-game-one-piece-promotion-cards-donquixote-rosinante-illustration-box-vol6",
+        "market_price": "0.89",
+        "low_price": "0.30",
+        "mid_price": "1.31",
+        "high_price": "98.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

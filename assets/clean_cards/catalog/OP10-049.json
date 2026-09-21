@@ -1,0 +1,158 @@
+{
+  "card_number": "OP10-049",
+  "name": "Sabo",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Dressrosa",
+    "Revolutionary Army"
+  ],
+  "effect": "If your Character with a base cost of 7 or less other than [Sabo] would be removed from the field by your opponent's effect, you may return this Character to the owner's hand instead.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-049/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-049/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617091/one-piece-card-game-royal-blood-sabo",
+        "market_price": "0.27",
+        "low_price": "0.10",
+        "mid_price": "0.33",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c26a1b2b-7743-477b-9f00-2d47ff41db46",
+        "slug": "best-selection-vol-4",
+        "name": "Best Selection Vol.4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-049/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-049/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649692/one-piece-card-game-one-piece-promotion-cards-sabo-premium-card-collection-best-selection-vol-4",
+        "market_price": "5.35",
+        "low_price": "4.88",
+        "mid_price": "5.99",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8c7f2494-e766-4c06-9068-80f33a0f77fc",
+        "slug": "3rd-anniversary-treasure-campaign-pack",
+        "name": "3rd Anniversary Treasure Campaign Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-049/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-049/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/661702/one-piece-card-game-one-piece-promotion-cards-sabo-op10-049-3rd-anniversary-treasure-campaign-pack",
+        "market_price": "1.33",
+        "low_price": "0.68",
+        "mid_price": "1.70",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this Character and another of my Characters with a base cost of 7 or less are K.O.'d at the same time by my opponent's effect, can I use this effect to return this Character to my hand instead?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

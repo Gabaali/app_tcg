@@ -1,0 +1,403 @@
+{
+  "card_number": "OP07-053",
+  "name": "Portgas.D.Ace",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Hagane Tsurugi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-053/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-053/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-053/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-053/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-053/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545843/one-piece-card-game-500-years-in-the-future-portgasdace-053",
+        "market_price": "0.20",
+        "low_price": "0.04",
+        "mid_price": "0.25",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dec7a1ad-c806-4adb-b4b3-81ab529e42c3",
+        "slug": "tournament-pack-2024-oct-dec",
+        "name": "Tournament Pack 2024 Oct.-dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-053/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-053/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/583740/one-piece-card-game-one-piece-promotion-cards-portgasdace-tournament-pack-2024-oct-dec",
+        "market_price": "0.38",
+        "low_price": "0.18",
+        "mid_price": "0.46",
+        "high_price": "3.04"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dec7a1ad-c806-4adb-b4b3-81ab529e42c3",
+        "slug": "tournament-pack-2024-oct-dec",
+        "name": "Tournament Pack 2024 Oct.-dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-053/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-053/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dec7a1ad-c806-4adb-b4b3-81ab529e42c3",
+        "slug": "tournament-pack-2024-oct-dec",
+        "name": "Tournament Pack 2024 Oct.-dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-053/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-053/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dec7a1ad-c806-4adb-b4b3-81ab529e42c3",
+        "slug": "tournament-pack-2024-oct-dec",
+        "name": "Tournament Pack 2024 Oct.-dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-053/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-053/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 11,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a4bb54aa-070d-4500-8ea1-924ecbd9360d",
+        "slug": "3rd-anniversary-tournament-3-brothers-pack",
+        "name": "3rd Anniversary Tournament 3 Brothers Pack",
+        "set_code": null,
+        "released_at": "2025-10-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/661881/one-piece-card-game-carrying-on-his-will-3rd-anniversary-tournament-cards-portgasdace-op07-053-3rd-anniversary-tournament-3-brothers-pack",
+        "market_price": "5.92",
+        "low_price": "4.76",
+        "mid_price": "6.50",
+        "high_price": "16.99"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": "Hagane Tsurugi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8c7f2494-e766-4c06-9068-80f33a0f77fc",
+        "slug": "3rd-anniversary-treasure-campaign-pack",
+        "name": "3rd Anniversary Treasure Campaign Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-053/en/scans/7/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-053/en/scans/7/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-053/en/scans/7/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/661701/one-piece-card-game-one-piece-promotion-cards-portgasdace-op07-053-3rd-anniversary-treasure-campaign-pack",
+        "market_price": "1.33",
+        "low_price": "0.93",
+        "mid_price": "1.75",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a08bada6-e981-469d-8fa8-171a3c479d49",
+        "slug": "winner-pack-2024-oct-dec",
+        "name": "Winner Pack 2024 Oct.-Dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/583739/one-piece-card-game-one-piece-promotion-cards-portgasdace-winner-pack-2024-oct-dec",
+        "market_price": "15.22",
+        "low_price": "13.25",
+        "mid_price": "17.89",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c3c341f6-dde8-4e93-ac99-75069e562034",
+        "slug": "cs-25-26-celebration-pack-2",
+        "name": "CS 25-26 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649642/one-piece-card-game-one-piece-promotion-cards-portgasdace-cs-25-26-celebration-pack",
+        "market_price": "106.19",
+        "low_price": "164.96",
+        "mid_price": "189.99",
+        "high_price": "200.00"
+      }
+    },
+    {
+      "index": 10,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0b6352ac-87a0-434a-860e-aa1e39f81527",
+        "slug": "3rd-anniversary-winner",
+        "name": "3rd Anniversary Winner",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657799/one-piece-card-game-one-piece-promotion-cards-portgasdace-op07-053-3rd-anniversary-winner",
+        "market_price": "100.66",
+        "low_price": "89.47",
+        "mid_price": "100.33",
+        "high_price": "325.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

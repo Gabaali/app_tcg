@@ -1,0 +1,122 @@
+{
+  "card_number": "OP15-071",
+  "name": "Holly",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Purple"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal",
+    "Sky Island"
+  ],
+  "effect": "All of your [Ohm] cards and this Character gain [Double Attack].\n(This card deals 2 damage.)\n[Opponent's Turn] All of your [Ohm] cards' base power and this Character's base power become 6000.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Moopic",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-071/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-071/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-071/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-071/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-071/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685421/one-piece-card-game-adventure-on-kamis-island-holly",
+        "market_price": "0.11",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1f050e2b-4dcc-40c8-90f7-f82799d8c4c7",
+        "slug": "op15-release-event",
+        "name": "OP15 Release Event",
+        "set_code": null,
+        "released_at": "2026-03-27T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686403/one-piece-card-game-adventure-on-kamis-island-release-event-cards-holly",
+        "market_price": "2.67",
+        "low_price": "1.98",
+        "mid_price": "4.05",
+        "high_price": "49.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If my Leader has an effect that reads \"is treated as a card with all card names, types, and attributes,\" does this effect mean my Leader gains [Double Attack] and its base power becomes 6000?",
+      "answer": "Yes, its base power will become 6000.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

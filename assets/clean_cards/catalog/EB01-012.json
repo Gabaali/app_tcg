@@ -1,0 +1,230 @@
+{
+  "card_number": "EB01-012",
+  "name": "Cavendish",
+  "language": "en",
+  "set": "EB01",
+  "set_name": "Memorial Collection",
+  "released_at": "2024-05-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Beautiful Pirates"
+  ],
+  "effect": "[On Play]/[When Attacking] If your Leader has the {Supernovas} type and you have no other [Cavendish] Characters, set up to 2 of your DON!! cards as active.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.39701,
+        "y": 0.333333
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-012/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-012/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544538/one-piece-card-game-extra-booster-memorial-collection-cavendish",
+        "market_price": "3.11",
+        "low_price": "2.00",
+        "mid_price": "4.63",
+        "high_price": "52.50"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.473422,
+        "y": 0.247619
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-012/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-012/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544539/one-piece-card-game-extra-booster-memorial-collection-cavendish-alternate-art",
+        "market_price": "21.16",
+        "low_price": "17.38",
+        "mid_price": "28.43",
+        "high_price": "120.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.391745,
+        "y": 0.352688
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-012/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-012/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/655981/one-piece-card-game-premium-booster-the-best-vol-2-cavendish-eb01-012-reprint",
+        "market_price": "1.06",
+        "low_price": "0.80",
+        "mid_price": "2.00",
+        "high_price": "18.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.471761,
+        "y": 0.328963
+      },
+      "product": {
+        "id": "992e49d7-1301-4380-8acd-1eeb507497e5",
+        "slug": "treasure-cup-november-december",
+        "name": "Treasure Cup November-december",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-012/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-012/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656644/one-piece-card-game-learn-together-deck-set-cavendish-zoro-deck",
+        "market_price": "0.86",
+        "low_price": "0.20",
+        "mid_price": "1.30",
+        "high_price": "18.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "219d4274-4f86-4639-9a57-39e47ffc7731",
+        "slug": "treasure-cup-2024",
+        "name": "Treasure Cup 2024",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/590988/one-piece-card-game-one-piece-promotion-cards-cavendish-treasure-cup-2024",
+        "market_price": null,
+        "low_price": "1399.99",
+        "mid_price": "1549.98",
+        "high_price": "1699.97"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I do not have an \"EB01-012 Cavendish\" on my field, but I do have 1 \"OP01-008 Cavendish\", and I play an \"EB01- 012 Cavendish\", can I use this [On Play] effect to set 2 of my DON!! cards as active?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

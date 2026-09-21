@@ -1,0 +1,127 @@
+{
+  "card_number": "OP16-041",
+  "name": "Buggy",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Impel Down",
+    "Buggy Pirates"
+  ],
+  "effect": "[DON!! x1] [Once Per Turn] This effect can be activated when your {Impel Down} type Character card is removed from the field. Play up to 1 [Prisoner of Impel Down] card from your hand.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.468432,
+        "y": 0.30073
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-041/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-041/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696027/one-piece-card-game-the-time-of-battle-buggy-041",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.48505,
+        "y": 0.310714
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-041/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-041/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696028/one-piece-card-game-the-time-of-battle-buggy-041-alternate-art",
+        "market_price": "15.15",
+        "low_price": "13.50",
+        "mid_price": "18.18",
+        "high_price": "83.34"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Imagine I have 1 DON!! attached to this Leader and 5 Characters on my field. Then, in order to play a new Character card, I trash one of my Characters with the {Impel Down} type to play it. Can I still use this card's effect to play 1 [Prisoner of Impel Down] card from my hand?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "Imagine I have 1 DON!! attached to this Leader, and one of my {Impel Down} type Character cards is returned to my hand due to the effect of \"OP07-056 Slave Arrow\" or another effect. Can I use this Leader's effect to play 1 [Prisoner of Impel Down] from my hand?",
+      "answer": "Yes, you can. You can activate this card's effect even if an {Impel Down} type Character was removed from the field due to your own effect.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

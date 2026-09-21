@@ -1,0 +1,127 @@
+{
+  "card_number": "OP15-022",
+  "name": "Brook",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green",
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "Under the rules of this game, you do not lose when your deck has 0 cards. You lose at the end of the turn in which your deck becomes 0 cards.\n[Activate: Main] [Once Per Turn] Trash 4 cards from the top of your deck. Then, if your deck has 0 cards, set up to 1 of your Characters as active.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Mehdi Aouichaoui",
+      "crop_focus": {
+        "x": 0.502039,
+        "y": 0.208406
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-022/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-022/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-022/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-022/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-022/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685362/one-piece-card-game-adventure-on-kamis-island-brook-op15-022",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.16",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.51495,
+        "y": 0.329762
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-022/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-022/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685363/one-piece-card-game-adventure-on-kamis-island-brook-op15-022-alternate-art",
+        "market_price": "60.87",
+        "low_price": "58.00",
+        "mid_price": "65.22",
+        "high_price": "300.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When using this Leader, if the number of cards in my deck becomes 0 during a turn, but another effect then adds 1 or more cards to my deck, do I still lose at the end of this turn?",
+      "answer": "Yes, you do.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "Can I activate this [Activate: Main] effect if I only have 3 or less cards in my deck?",
+      "answer": "Yes, you can. In this case, you can set up to 1 of your Characters as active after trashing all 3 or less remaining cards in your deck.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "card_number": "OP10-099",
+  "name": "Eustass\"Captain\"Kid",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Kid Pirates"
+  ],
+  "effect": "[End of Your Turn] You may turn 1 card from the top of your Life cards face-up: Set up to 1 of your {Supernovas} type Characters with a cost of 3 to 8 as active. That Character gains [Blocker] until the end of your opponent's next turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.453488,
+        "y": 0.189286
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-099/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-099/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617147/one-piece-card-game-royal-blood-eustasscaptainkid-099",
+        "market_price": "0.14",
+        "low_price": "0.01",
+        "mid_price": "0.18",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.604651,
+        "y": 0.4
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-099/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-099/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617148/one-piece-card-game-royal-blood-eustasscaptainkid-099-parallel",
+        "market_price": "38.27",
+        "low_price": "37.00",
+        "mid_price": "42.62",
+        "high_price": "149.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5a3cb14b-0258-4535-9bb3-48cbfa3112c9",
+        "slug": "starter-deck-yellow-eustass-captain-kid",
+        "name": "Starter Deck - Yellow Eustass\"captain\"kid",
+        "set_code": "ST36",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-099/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-099/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706356/one-piece-card-game-starter-deck-36-yellow-eustass”captain”kid-eustasscaptainkid-op10-099",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Using this [End of Your Turn] effect, can one of my active {Supernovas} type Characters with a cost of 3 to 8 gain [Blocker]?",
+      "answer": "Yes. A Character that is already set as active can still gain [Blocker] from this effect.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

@@ -1,0 +1,331 @@
+{
+  "card_number": "ST04-005",
+  "name": "Queen",
+  "language": "en",
+  "set": "ST04",
+  "set_name": "Starter Deck - Animal Kingdom Pirates",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Purple"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb0fcdb8-75ed-4243-bd1c-7fb61c8c0ca3",
+        "slug": "starter-deck-animal-kingdom-pirates",
+        "name": "Starter Deck - Animal Kingdom Pirates",
+        "set_code": "ST04",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288278/one-piece-card-game-starter-deck-4-animal-kingdom-pirates-queen",
+        "market_price": "0.20",
+        "low_price": "0.07",
+        "mid_price": "0.25",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-005/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-005/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558167/one-piece-card-game-two-legends-queen-sp",
+        "market_price": "42.23",
+        "low_price": "40.98",
+        "mid_price": "47.25",
+        "high_price": "175.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-005/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-005/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-005/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-005/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593587/one-piece-card-game-premium-booster-the-best-queen-jolly-roger-foil",
+        "market_price": "0.34",
+        "low_price": "0.03",
+        "mid_price": "0.40",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-005/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-005/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593588/one-piece-card-game-premium-booster-the-best-queen-full-art",
+        "market_price": "5.96",
+        "low_price": "4.00",
+        "mid_price": "6.85",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "add8e69b-7ee4-4d6f-8714-e5c4b55349e4",
+        "slug": "treasure-cup",
+        "name": "Treasure Cup",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-005/ja/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-005/ja/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/515354/one-piece-card-game-one-piece-promotion-cards-queen-treasure-cup",
+        "market_price": "700.24",
+        "low_price": "700.24",
+        "mid_price": "700.24",
+        "high_price": "700.24"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "98de4980-afda-4429-aed5-42e82aece262",
+        "slug": "judge-pack-vol-2",
+        "name": "Judge Pack Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/514066/one-piece-card-game-one-piece-promotion-cards-queen-judge-pack-vol-2",
+        "market_price": "2.25",
+        "low_price": "2.20",
+        "mid_price": "5.00",
+        "high_price": "26.99"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a4942c8c-73d3-44b2-9695-fd43f621ff2d",
+        "slug": "st04-release-event",
+        "name": "ST04 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/423955/one-piece-card-game-super-pre-release-starter-deck-4-animal-kingdom-pirates-queen",
+        "market_price": "1.63",
+        "low_price": "1.39",
+        "mid_price": "1.88",
+        "high_price": "75.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

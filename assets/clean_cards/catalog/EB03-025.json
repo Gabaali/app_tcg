@@ -1,0 +1,121 @@
+{
+  "card_number": "EB03-025",
+  "name": "Hina",
+  "language": "en",
+  "set": "EB03",
+  "set_name": "One Piece Heroines Edition",
+  "released_at": "2026-02-20T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[On Play] You may trash 1 card from your hand: Return up to 1 Character with 6000 base power to the owner's hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "phima",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8eb0b2be-9cfb-416b-b615-4fb49342a8b5",
+        "slug": "one-piece-heroines-edition",
+        "name": "One Piece Heroines Edition",
+        "set_code": "EB03",
+        "released_at": "2026-02-20T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB03-025/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-025/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB03-025/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB03-025/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-025/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672769/one-piece-card-game-extra-booster-one-piece-heroines-edition-hina",
+        "market_price": "0.19",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "6.65"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8eb0b2be-9cfb-416b-b615-4fb49342a8b5",
+        "slug": "one-piece-heroines-edition",
+        "name": "One Piece Heroines Edition",
+        "set_code": "EB03",
+        "released_at": "2026-02-20T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB03-025/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-025/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672770/one-piece-card-game-extra-booster-one-piece-heroines-edition-hina-alternate-art",
+        "market_price": "3.68",
+        "low_price": "2.90",
+        "mid_price": "4.69",
+        "high_price": "99.90"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to return a Character with less than 6000 base power to the owner's hand?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

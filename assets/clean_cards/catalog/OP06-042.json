@@ -1,0 +1,164 @@
+{
+  "card_number": "OP06-042",
+  "name": "Vinsmoke Reiju",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Vinsmoke Family",
+    "GERMA 66"
+  ],
+  "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, draw 1 card.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.546512,
+        "y": 0.171429
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-042/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-042/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541006/one-piece-card-game-wings-of-the-captain-vinsmoke-reiju-042",
+        "market_price": "0.19",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.513289,
+        "y": 0.255952
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-042/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-042/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541007/one-piece-card-game-wings-of-the-captain-vinsmoke-reiju-042-alternate-art",
+        "market_price": "34.46",
+        "low_price": "31.10",
+        "mid_price": "38.91",
+        "high_price": "145.91"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.536545,
+        "y": 0.161905
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-042/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-042/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629177/one-piece-card-game-extra-booster-anime-25th-collection-vinsmoke-reiju-sp",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I activate this [Your Turn] effect when one of my DON!! cards is returned to my DON!! deck by my opponent's card effect during my turn?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-19"
+    },
+    {
+      "question": "I had 5 cards in my hand when I activated the [Activate: Main] effect of \"OP06-068 Vinsmoke Reiju\" on my field, and returned 1 DON!! card from my field to my DON!! deck and played \"OP06-069 Vinsmoke Reiju\" from my trash. In this case, after drawing 2 cards according to the [On Play] effect of \"OP06-069 Vinsmoke Reiju\", can I draw 1 card according to this Leader's [Your Turn] effect to bring the number of cards in my hand to 8?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

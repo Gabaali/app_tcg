@@ -1,0 +1,199 @@
+{
+  "card_number": "OP10-030",
+  "name": "Smoker",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Punk Hazard",
+    "Navy"
+  ],
+  "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)\n[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Hagane Tsurugi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-030/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-030/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP10-030/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP10-030/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-030/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617066/one-piece-card-game-royal-blood-smoker-030",
+        "market_price": "5.17",
+        "low_price": "3.99",
+        "mid_price": "6.00",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-030/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-030/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617067/one-piece-card-game-royal-blood-smoker-030-parallel",
+        "market_price": "26.47",
+        "low_price": "25.39",
+        "mid_price": "30.00",
+        "high_price": "79.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-030/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-030/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657449/one-piece-card-game-carrying-on-his-will-smoker-op10-030-sp",
+        "market_price": "92.70",
+        "low_price": "93.28",
+        "mid_price": "115.48",
+        "high_price": "250.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656645/one-piece-card-game-learn-together-deck-set-smoker-zoro-deck",
+        "market_price": "1.76",
+        "low_price": "0.30",
+        "mid_price": "2.50",
+        "high_price": "5.50"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "After using this [Activate: Main] effect, can I use the effect on the Leader card \"OP10-001 Smoker\" to set 2 of my DON!! cards as active on the same turn?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "After using this [Activate: Main] effect, can I use the effect on \"OP07-021 Urouge\" to set 1 of my DON!! cards as active at the end of the turn?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

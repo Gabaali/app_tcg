@@ -1,0 +1,128 @@
+{
+  "card_number": "OP14-041",
+  "name": "Boa Hancock",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Kuja Pirates"
+  ],
+  "effect": "[Opponent's Turn] When you play a Character, draw 1 card.\n[DON!! x1] [Once Per Turn] When one of your {Amazon Lily} or {Kuja Pirates} type Characters with 5000 base power or more is K.O.'d, add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.372093,
+        "y": 0.197619
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-041/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-041/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668333/one-piece-card-game-the-azure-seas-seven-boa-hancock-op14-041",
+        "market_price": "0.20",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "20.26"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.536545,
+        "y": 0.269048
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-041/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-041/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668335/one-piece-card-game-the-azure-seas-seven-boa-hancock-op14-041-alternate-art",
+        "market_price": "98.52",
+        "low_price": "94.75",
+        "mid_price": "109.99",
+        "high_price": "425.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When I play a Character during my opponent's turn, can I choose not to draw a card with this [Opponent's Turn] effect?",
+      "answer": "No, you cannot. You must draw 1 card in this case.",
+      "updated_on": "2026-06-26"
+    },
+    {
+      "question": "If an effect allows me to play 2 or more of my Characters at the same time during my opponent's turn, how many cards will I be able to draw using this Leader's [Opponent's Turn] effect?",
+      "answer": "In this case, the effect will be activated for each Character played simultaneously. For example, if you use the [Trigger] effect of \"OP16-105 Gecko Moria\" to play 3 Characters at once, you draw 3 cards in total.",
+      "updated_on": "2026-06-26"
+    }
+  ]
+}

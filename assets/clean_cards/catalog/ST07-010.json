@@ -1,0 +1,132 @@
+{
+  "card_number": "ST07-010",
+  "name": "Charlotte Linlin",
+  "language": "en",
+  "set": "ST07",
+  "set_name": "Starter Deck - Big Mom Pirates",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Big Mom Pirates"
+  ],
+  "effect": "[On Play] Your opponent chooses one:\n- Trash 1 card from the top of your opponent's Life cards.\n- Add 1 card from the top of your deck to the top of your Life cards.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e0c4a683-ff73-473f-9889-f62f2eedf5d4",
+        "slug": "starter-deck-big-mom-pirates",
+        "name": "Starter Deck - Big Mom Pirates",
+        "set_code": "ST07",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-010/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-010/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/500145/one-piece-card-game-starter-deck-7-big-mom-pirates-charlotte-linlin-010",
+        "market_price": "1.58",
+        "low_price": "1.20",
+        "mid_price": "2.45",
+        "high_price": "36.48"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "add8e69b-7ee4-4d6f-8714-e5c4b55349e4",
+        "slug": "treasure-cup",
+        "name": "Treasure Cup",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-010/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-010/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/561185/one-piece-card-game-one-piece-promotion-cards-charlotte-linlin-treasure-cup",
+        "market_price": null,
+        "low_price": "1500.00",
+        "mid_price": "1500.00",
+        "high_price": "1500.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I activate this [On Play] effect and my opponent chooses \"• Trash 1 card from the top of your opponent's Life cards.\", which player's Life card is trashed?",
+      "answer": "The card at the top of the Life cards of the player who did not activate this [On Play] effect is trashed.",
+      "updated_on": "2023-06-09"
+    },
+    {
+      "question": "If I activate this [On Play] effect and my opponent chooses \"• Add 1 card from the top of your deck to the top of your Life cards.\", which player adds a card to their Life cards?",
+      "answer": "The card at the top of the deck of the player who activated this [On Play] effect is added to the top of that player's Life cards.",
+      "updated_on": "2023-06-09"
+    },
+    {
+      "question": "I activated this [On Play] effect when my opponent had 0 Life cards. Can my opponent choose \"• Trash 1 card from the top of your opponent's Life cards.\"?",
+      "answer": "Yes, they can. In this case, nothing will happen because there is no Life card that can be trashed.",
+      "updated_on": "2023-06-09"
+    }
+  ]
+}

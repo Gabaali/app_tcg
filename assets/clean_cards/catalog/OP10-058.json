@@ -1,0 +1,131 @@
+{
+  "card_number": "OP10-058",
+  "name": "Rebecca",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 7,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Dressrosa"
+  ],
+  "effect": "[On Play] If there is a Character with a cost of 8 or more, draw 1 card. Then, reveal up to 2 {Dressrosa} type Character cards with a cost of 7 or less other than [Rebecca] from your hand. Play 1 of the revealed cards and play the other card rested if it has a cost of 4 or less.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-058/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-058/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617100/one-piece-card-game-royal-blood-rebecca",
+        "market_price": "0.62",
+        "low_price": "0.20",
+        "mid_price": "0.99",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-058/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-058/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617101/one-piece-card-game-royal-blood-rebecca-parallel",
+        "market_price": "12.70",
+        "low_price": "11.25",
+        "mid_price": "13.99",
+        "high_price": "68.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I use this [On Play] effect to reveal only 1 {Dressrosa} type Character card with a cost of 4, will that Character be played rested?",
+      "answer": "No, it will be played set as active.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "I used this [On Play] effect to play [Character A] as active and [Character B] rested. Can I choose the order in which to activate [Character A] and [Character B]'s [On Play] effects?",
+      "answer": "Yes, the player who played this Character can activate the effects in any order they choose.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "I played this Character, causing my number of Characters to become 4 including this Character, then used this [On Play] effect to play [Character A] as active; I then trashed [Character A] and played [Character B] rested. Can I still activate the [On Play] effect of [Character A]?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

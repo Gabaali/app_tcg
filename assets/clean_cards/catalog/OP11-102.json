@@ -1,0 +1,137 @@
+{
+  "card_number": "OP11-102",
+  "name": "Camie",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": 1000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Merfolk",
+    "Fish-Man Island"
+  ],
+  "effect": "[Your Turn] [Once Per Turn] This effect can be activated when your opponent activates an Event or [Trigger]. If your opponent has 2 or more Life cards, trash 1 card from the top of each of your and your opponent's Life cards.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-102/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-102/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632479/one-piece-card-game-a-fist-of-divine-speed-camie",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4847d8f8-456c-4b25-bdd9-efc8e1e80812",
+        "slug": "op11-release-event",
+        "name": "OP11 Release Event",
+        "set_code": null,
+        "released_at": "2025-05-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634510/one-piece-card-game-a-fist-of-divine-speed-release-event-cards-camie",
+        "market_price": "8.66",
+        "low_price": "8.00",
+        "mid_price": "9.49",
+        "high_price": "19.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If my opponent activates \"OP01-026 Gum-Gum Fire- Fist Pistol Red Hawk\" and K.O.'s this Character during my turn, can I still activate this Character's effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "If I deal 1 damage to my opponent when they have 2 Life cards and my opponent activates a [Trigger] effect, can I still activate this [Your Turn] effect?",
+      "answer": "Yes, you can. However, as the card that activated the [Trigger] effect will be removed from your opponent's Life cards, the number of your opponent's Life cards will become 1, so nothing will happen.",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "I dealt damage to my opponent when they had 2 Life cards, and my opponent activated the [Trigger] effect of \"OP05-115 Two-Hundred Million Volts Amaru\", adding 1 card from the top of their deck to the top of their Life cards. In this case, can I use this [Your Turn] effect to trash 1 card from the top of each of my and my opponent's Life cards?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-05-23"
+    },
+    {
+      "question": "My opponent's Leader is \"OP05-098 Enel.\" If I deal damage to my opponent when they have 1 Life card and my opponent activates the [Trigger] effect of \"OP06-115 You're the One Who Should Disappear,\" in what order do this [Your Turn] effect and my opponent's Enel's effect resolve?",
+      "answer": "As the turn player's effects take priority, this card's effect will activate first, followed by Enel's effect. When this effect is activated, nothing will happen because your opponent's only Life card is the one added by the [Trigger] effect of \"You're the One Who Should Disappear.\". Then, your opponent will add 1 card from the top of their deck to the top of their Life cards and trash 1 card from their hand due to Enel's effect.",
+      "updated_on": "2025-05-23"
+    }
+  ]
+}

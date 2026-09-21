@@ -1,0 +1,259 @@
+{
+  "card_number": "OP05-073",
+  "name": "Miss Doublefinger(Zala)",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Purple"
+  ],
+  "cost": 4,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Baroque Works"
+  ],
+  "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and rest it.",
+  "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-073/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-073/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528633/one-piece-card-game-awakening-of-the-new-era-miss-doublefingerzala",
+        "market_price": "0.16",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-073/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-073/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/594340/one-piece-card-game-premium-booster-the-best-miss-doublefingerzala-reprint",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.18",
+        "high_price": "3.20"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-073/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-073/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593464/one-piece-card-game-premium-booster-the-best-miss-doublefingerzala-jolly-roger-foil",
+        "market_price": "0.36",
+        "low_price": "0.15",
+        "mid_price": "0.37",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-073/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-073/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593465/one-piece-card-game-premium-booster-the-best-miss-doublefingerzala-full-art",
+        "market_price": "13.13",
+        "low_price": "10.64",
+        "mid_price": "13.14",
+        "high_price": "31.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cbdbf387-ebf5-4514-b1eb-6e2010f6e263",
+        "slug": "op05-release-event",
+        "name": "OP05 Release Event",
+        "set_code": null,
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/530934/one-piece-card-game-awakening-of-the-new-era-1st-anniversary-tournament-cards-miss-doublefingerzala",
+        "market_price": "20.74",
+        "low_price": "17.49",
+        "mid_price": "21.86",
+        "high_price": "39.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "7e43a29e-ced1-460b-92c5-1ba0daa8cf28",
+        "slug": "judge-pack-vol-3",
+        "name": "Judge Pack Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544623/one-piece-card-game-one-piece-promotion-cards-miss-doublefingerzala-judge-pack-vol-3",
+        "market_price": "3.32",
+        "low_price": "1.99",
+        "mid_price": "4.99",
+        "high_price": "20.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

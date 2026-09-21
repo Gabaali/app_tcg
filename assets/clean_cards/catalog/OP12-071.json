@@ -1,0 +1,223 @@
+{
+  "card_number": "OP12-071",
+  "name": "Charlotte Pudding",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Purple"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "BISAI",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-071/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-071/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-071/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-071/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-071/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643811/one-piece-card-game-legacy-of-the-master-charlotte-pudding",
+        "market_price": "1.04",
+        "low_price": "0.80",
+        "mid_price": "1.47",
+        "high_price": "9.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "2e1c6000-7038-4c26-8922-54dff1cf1406",
+        "slug": "regionals-finalist-card-set-26-27",
+        "name": "Regionals Finalist Card Set 26-27",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-071/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-071/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/683984/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-regionals-finalist-card-set-26-27",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f1166a7b-8fdd-4378-8a90-de837a56c24e",
+        "slug": "regional-participation-pack-2026-vol-1",
+        "name": "Regional Participation Pack 2026 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686283/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-regional-participation-pack-2026-vol1",
+        "market_price": "25.93",
+        "low_price": "22.90",
+        "mid_price": "31.95",
+        "high_price": "145.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ebc80f85-e99f-4221-86f6-f574b6e5d476",
+        "slug": "regionals-champion-card-set-26-27",
+        "name": "Regionals Champion Card Set 26-27",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686287/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-regionals-champion-card-set-26-27",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "2e1c6000-7038-4c26-8922-54dff1cf1406",
+        "slug": "regionals-finalist-card-set-26-27",
+        "name": "Regionals Finalist Card Set 26-27",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/683984/one-piece-card-game-one-piece-promotion-cards-charlotte-pudding-regionals-finalist-card-set-26-27",
+        "market_price": "118.32",
+        "low_price": "112.39",
+        "mid_price": "119.85",
+        "high_price": "399.97"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,229 @@
+{
+  "card_number": "ST01-005",
+  "name": "Jinbe",
+  "language": "en",
+  "set": "ST01",
+  "set_name": "Starter Deck - Straw Hat Crew",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Fish-Man",
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "620ac1c8-baac-4c2f-8672-0951e048fa15",
+        "slug": "starter-deck-straw-hat-crew",
+        "name": "Starter Deck - Straw Hat Crew",
+        "set_code": "ST01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288234/one-piece-card-game-starter-deck-1-straw-hat-crew-jinbe",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "1.58"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a0f9a57e-c9a0-40b9-9e00-6136a62ffef8",
+        "slug": "25th-edition",
+        "name": "25th Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-005/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-005/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485270/one-piece-card-game-one-piece-promotion-cards-jinbe-st01-005-alternate-art",
+        "market_price": "10.33",
+        "low_price": "8.69",
+        "mid_price": "11.94",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a0f9a57e-c9a0-40b9-9e00-6136a62ffef8",
+        "slug": "25th-edition",
+        "name": "25th Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-005/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-005/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "952ee7cb-037b-4511-b7a3-b9ee0012fd5e",
+        "slug": "gift-collection-2023",
+        "name": "Gift Collection 2023",
+        "set_code": "GC01",
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-005/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-005/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/523792/one-piece-card-game-one-piece-promotion-cards-jinbe-gift-collection-2023",
+        "market_price": "11.53",
+        "low_price": "5.61",
+        "mid_price": "11.53",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6768382f-a265-4e78-8152-83cacb6180e4",
+        "slug": "st01-release-event",
+        "name": "ST01 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/416474/one-piece-card-game-super-pre-release-starter-deck-1-straw-hat-crew-jinbe",
+        "market_price": "8.45",
+        "low_price": "4.43",
+        "mid_price": "7.50",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have 2 of these cards on my field, can I use 1 Jinbe's [When Attacking] effect on the other Jinbe?",
+      "answer": "Yes, you can. \"Other than this card\" refers to the Character itself, not the card name.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

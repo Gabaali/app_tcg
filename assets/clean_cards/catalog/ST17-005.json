@@ -1,0 +1,224 @@
+{
+  "card_number": "ST17-005",
+  "name": "Marshall.D.Teach",
+  "language": "en",
+  "set": "ST17",
+  "set_name": "Starter Deck - Blue Donquixote Doflamingo",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 2,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Blackbeard Pirates"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] You may place 1 card from your hand at the top of your deck: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80cce277-2d8e-44a2-afe3-d1991034140c",
+        "slug": "starter-deck-blue-donquixote-doflamingo",
+        "name": "Starter Deck - Blue Donquixote Doflamingo",
+        "set_code": "ST17",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST17-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581020/one-piece-card-game-starter-deck-17-blue-donquixote-doflamingo-marshalldteach",
+        "market_price": "0.29",
+        "low_price": "0.15",
+        "mid_price": "0.30",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST17-005/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-005/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656039/one-piece-card-game-premium-booster-the-best-vol-2-marshalldteach-st17-005",
+        "market_price": "0.11",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST17-005/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-005/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656040/one-piece-card-game-premium-booster-the-best-vol-2-marshalldteach-st17-005-pirate-foil",
+        "market_price": "0.19",
+        "low_price": "0.04",
+        "mid_price": "0.25",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d4f6ef69-d6d1-47df-9210-a4997f12ac98",
+        "slug": "seven-warlords-of-the-sea-binder-set",
+        "name": "Seven Warlords of the Sea Binder Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST17-005/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-005/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/648107/one-piece-card-game-one-piece-promotion-cards-marshalldteach-seven-warlords-of-the-sea-binder-set",
+        "market_price": "13.51",
+        "low_price": "11.90",
+        "mid_price": "14.19",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": "Hayaken-sarena",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "751b9e7d-4ddb-4beb-b30a-acbe44cdbfa8",
+        "slug": "judge-pack-vol-7",
+        "name": "Judge Pack Vol. 7",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST17-005/en/scans/4/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST17-005/en/scans/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-005/en/scans/4/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668204/one-piece-card-game-one-piece-promotion-cards-marshalldteach-judge-pack-vol-7",
+        "market_price": "3.29",
+        "low_price": "2.49",
+        "mid_price": "3.45",
+        "high_price": "49.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

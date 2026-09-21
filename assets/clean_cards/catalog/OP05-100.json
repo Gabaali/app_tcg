@@ -1,0 +1,166 @@
+{
+  "card_number": "OP05-100",
+  "name": "Enel",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 7,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Sky Island"
+  ],
+  "effect": "[Rush]\n[Once Per Turn] If this Character would leave the field, you may trash 1 card from the top of your Life cards instead. If there is a [Monkey.D.Luffy] Character, this effect is negated.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-100/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-100/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527022/one-piece-card-game-awakening-of-the-new-era-enel-100",
+        "market_price": "0.55",
+        "low_price": "0.30",
+        "mid_price": "0.97",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-100/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-100/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527661/one-piece-card-game-awakening-of-the-new-era-enel-100-alternate-art",
+        "market_price": "5.86",
+        "low_price": "4.51",
+        "mid_price": "7.00",
+        "high_price": "78.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-100/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-100/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527043/one-piece-card-game-awakening-of-the-new-era-enel-100-sp",
+        "market_price": "161.06",
+        "low_price": "110.00",
+        "mid_price": "166.47",
+        "high_price": "450.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this Character would leave my field due to one of my effects, can I use this [Once Per Turn] effect to trash 1 Life card instead?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If I choose this Character with the \"You may return 1 Character to your hand:\" effect of \"OP01-047 Trafalgar Law\" and trash 1 of my Life cards instead, can I still use the effect of \"OP01-047 Trafalgar Law\" to play a Character with a cost of 3 or less from my hand?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Is this Character's [Rush] also negated if there is a [Monkey D.Luffy] Character present?",
+      "answer": "No, it is not.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

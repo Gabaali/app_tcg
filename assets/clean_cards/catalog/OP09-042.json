@@ -1,0 +1,188 @@
+{
+  "card_number": "OP09-042",
+  "name": "Buggy",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Cross Guild"
+  ],
+  "effect": "[Activate: Main] You may rest 5 of your DON!! cards and trash 1 card from your hand: Play up to 1 {Cross Guild} type Character card from your hand.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": "tv animation ONE PIECE Animation Director:  Kazuya Hisada",
+      "crop_focus": {
+        "x": 0.623704,
+        "y": 0.321627
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-042/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-042/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP09-042/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP09-042/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-042/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596970/one-piece-card-game-emperors-in-the-new-world-buggy-042",
+        "market_price": "0.20",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.692691,
+        "y": 0.225
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-042/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-042/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596971/one-piece-card-game-emperors-in-the-new-world-buggy-042-parallel",
+        "market_price": "28.19",
+        "low_price": "25.00",
+        "mid_price": "30.00",
+        "high_price": "300.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.328904,
+        "y": 0.24881
+      },
+      "product": {
+        "id": "111d0c2f-f109-47f6-8ca7-d514b94944d4",
+        "slug": "starter-deck-blue-buggy",
+        "name": "Starter Deck - Blue Buggy",
+        "set_code": "ST25",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-042/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-042/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/633944/one-piece-card-game-starter-deck-25-blue-buggy-buggy-op09-042",
+        "market_price": "1.40",
+        "low_price": "1.00",
+        "mid_price": "1.65",
+        "high_price": "31.08"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-042/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-042/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635470/one-piece-card-game-one-piece-promotion-cards-buggy-english-version-2nd-anniversary-set",
+        "market_price": "74.41",
+        "low_price": "69.69",
+        "mid_price": "86.14",
+        "high_price": "399.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

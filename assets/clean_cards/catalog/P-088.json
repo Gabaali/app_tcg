@@ -1,0 +1,188 @@
+{
+  "card_number": "P-088",
+  "name": "Trafalgar Law",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Heart Pirates"
+  ],
+  "effect": null,
+  "trigger": "[Trigger] If your Leader has the {Supernovas} type and you and your opponent have a total of 5 or less Life cards, play this card.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-088/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-088/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656220/one-piece-card-game-premium-booster-the-best-vol-2-trafalgar-law-p-088-reprint",
+        "market_price": "5.39",
+        "low_price": "2.00",
+        "mid_price": "6.99",
+        "high_price": "30.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-088/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-088/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656226/one-piece-card-game-premium-booster-the-best-vol-2-trafalgar-law-p-088-pirate-foil",
+        "market_price": "5.43",
+        "low_price": "4.00",
+        "mid_price": "6.37",
+        "high_price": "44.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5a3cb14b-0258-4535-9bb3-48cbfa3112c9",
+        "slug": "starter-deck-yellow-eustass-captain-kid",
+        "name": "Starter Deck - Yellow Eustass\"captain\"kid",
+        "set_code": "ST36",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-088/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-088/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706361/one-piece-card-game-starter-deck-36-yellow-eustass”captain”kid-trafalgar-law",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f5edfde5-7055-4346-bb7d-0a8627a006b7",
+        "slug": "event-pack-vol-7",
+        "name": "Event Pack Vol.7",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-088/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-088/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646737/one-piece-card-game-one-piece-promotion-cards-trafalgar-law-event-pack-vol-7",
+        "market_price": "27.26",
+        "low_price": "14.00",
+        "mid_price": "28.15",
+        "high_price": "60.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

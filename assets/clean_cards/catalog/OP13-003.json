@@ -1,0 +1,159 @@
+{
+  "card_number": "OP13-003",
+  "name": "Gol.D.Roger",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 7000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "King of the Pirates",
+    "Roger Pirates"
+  ],
+  "effect": "If you have any DON!! cards on your field, 1 DON!! card placed during your DON!! Phase is given to your Leader.\nIf you have 9 or less DON!! cards on your field, give this Leader −2000 power.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Keisuke Mori",
+      "crop_focus": {
+        "x": 0.517422,
+        "y": 0.255498
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP13-003/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP13-003/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-003/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657254/one-piece-card-game-carrying-on-his-will-goldroger-003",
+        "market_price": "0.15",
+        "low_price": "0.03",
+        "mid_price": "0.18",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.48505,
+        "y": 0.263095
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657255/one-piece-card-game-carrying-on-his-will-goldroger-003-alternate-art",
+        "market_price": "25.20",
+        "low_price": "21.51",
+        "mid_price": "29.99",
+        "high_price": "420.69"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "036b1e8b-1bdc-46aa-8573-17d5d8d180aa",
+        "slug": "jumbo",
+        "name": "Jumbo",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668436/one-piece-card-game-one-piece-promotion-cards-goldroger-jumbo",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have this card as my Leader, will 1 DON!! card placed during my first turn be given to my Leader?",
+      "answer": "No, it will not. If you have no DON!! cards on your field at the start of a turn, as would be the case in your first turn, the DON!! cards placed in the DON!! Phase are placed in your cost area as normal, and are not given to your Leader.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

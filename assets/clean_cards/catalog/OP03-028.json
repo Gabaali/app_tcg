@@ -1,0 +1,90 @@
+{
+  "card_number": "OP03-028",
+  "name": "Jango",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "East Blue",
+    "Black Cat Pirates"
+  ],
+  "effect": "[On Play] Choose one:\n• Set up to 1 of your {East Blue} type Leader or Character cards with a cost of 6 or less as active.\n• Rest this Character and up to 1 of your opponent's Characters.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-028/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-028/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/499900/one-piece-card-game-pillars-of-strength-jango",
+        "market_price": "0.16",
+        "low_price": "0.10",
+        "mid_price": "0.25",
+        "high_price": "40.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to set as active 1 of my Characters with a cost of 6 or less that does not have the {East Blue} type?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If I activate this [On Play] effect and choose \"• Rest this Character and up to 1 of your opponent's Characters.\", can I decide not to rest this Character?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

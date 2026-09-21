@@ -1,0 +1,269 @@
+{
+  "card_number": "OP06-038",
+  "name": "The Billion-fold World Trichiliocosm",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Dressrosa",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 8 or more rested cards, that card gains an additional +2000 power during this battle.",
+  "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-038/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-038/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541606/one-piece-card-game-wings-of-the-captain-the-billion-fold-world-trichiliocosm",
+        "market_price": "0.21",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-038/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-038/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593491/one-piece-card-game-premium-booster-the-best-the-billion-fold-world-trichiliocosm-jolly-roger-foil",
+        "market_price": "0.35",
+        "low_price": "0.09",
+        "mid_price": "0.37",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Textured Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-038/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-038/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593898/one-piece-card-game-premium-booster-the-best-the-billion-fold-world-trichiliocosm-textured-foil",
+        "market_price": "4.73",
+        "low_price": "3.25",
+        "mid_price": "4.84",
+        "high_price": "10.62"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-038/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-038/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656650/one-piece-card-game-learn-together-deck-set-the-billion-fold-world-trichiliocosm-zoro-deck",
+        "market_price": "0.18",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "1.63"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a2fe4ce8-0907-441d-a9c1-457574254e8e",
+        "slug": "premium-card-collection-best-selection-vol-2",
+        "name": "Premium Card Collection -Best Selection Vol. 2-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-038/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-038/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/587228/one-piece-card-game-one-piece-promotion-cards-the-billion-fold-world-trichiliocosm-premium-card-collection-best-selection-vol-2",
+        "market_price": "13.54",
+        "low_price": "6.60",
+        "mid_price": "14.85",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c669e8ee-e7a0-4236-a004-685661b9aaa0",
+        "slug": "op06-release-event",
+        "name": "OP06 Release Event",
+        "set_code": null,
+        "released_at": "2024-03-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541731/one-piece-card-game-wings-of-the-captain-pre-release-cards-the-billion-fold-world-trichiliocosm",
+        "market_price": "4.78",
+        "low_price": "3.99",
+        "mid_price": "7.49",
+        "high_price": "13.76"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I had 7 rested cards on my field when I rested 1 DON!! card and activated this card's [Counter] effect. Can I give my Leader or a Character card a total +4000 power?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-19"
+    },
+    {
+      "question": "I activated this Event when I had 3 rested DON!! cards on my field, 1 rested Leader, and 1 rested Character, and my Leader had 3 DON!! cards given to it. Can I give my Leader or a Character card a total +4000 power?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

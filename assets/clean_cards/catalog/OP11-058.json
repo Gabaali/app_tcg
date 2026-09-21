@@ -1,0 +1,157 @@
+{
+  "card_number": "OP11-058",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP11",
+  "set_name": "A Fist of Divine Speed",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "TR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "If you have 5 or more cards in your hand, this Character cannot attack.\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a642472b-3d14-48bf-aa80-b252037be615",
+        "slug": "a-fist-of-divine-speed",
+        "name": "A Fist of Divine Speed",
+        "set_code": "OP11",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-058/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-058/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632426/one-piece-card-game-a-fist-of-divine-speed-monkeydluffy-058",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "23.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "TR",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP11-058/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP11-058/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/659982/one-piece-card-game-carrying-on-his-will-monkeydluffy-op11-058-tr",
+        "market_price": "60.55",
+        "low_price": "33.00",
+        "mid_price": "67.99",
+        "high_price": "300.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4847d8f8-456c-4b25-bdd9-efc8e1e80812",
+        "slug": "op11-release-event",
+        "name": "OP11 Release Event",
+        "set_code": null,
+        "released_at": "2025-05-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634482/one-piece-card-game-a-fist-of-divine-speed-release-event-cards-monkeydluffy-058",
+        "market_price": "14.77",
+        "low_price": "39.99",
+        "mid_price": "45.00",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If my opponent activated the [On Play] effect of \"OP08-043 Edward.Newgate\" during their previous turn, and I have 6 cards in my hand during my turn, can I attack with this Character by trashing 2 cards from my hand?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-05-23"
+    }
+  ]
+}

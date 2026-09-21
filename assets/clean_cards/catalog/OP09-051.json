@@ -1,0 +1,332 @@
+{
+  "card_number": "OP09-051",
+  "name": "Buggy",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Cross Guild"
+  ],
+  "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-051/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-051/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596983/one-piece-card-game-emperors-in-the-new-world-buggy-051",
+        "market_price": "0.24",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-051/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-051/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596985/one-piece-card-game-emperors-in-the-new-world-buggy-051-alternate-art",
+        "market_price": "15.21",
+        "low_price": "13.00",
+        "mid_price": "16.86",
+        "high_price": "30.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-051/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-051/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596986/one-piece-card-game-emperors-in-the-new-world-buggy-051-wanted-poster",
+        "market_price": "173.61",
+        "low_price": "168.98",
+        "mid_price": "186.75",
+        "high_price": "400.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-051/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-051/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596984/one-piece-card-game-emperors-in-the-new-world-buggy-051-manga",
+        "market_price": "1650.00",
+        "low_price": "1585.92",
+        "mid_price": "1587.17",
+        "high_price": "1732.50"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "111d0c2f-f109-47f6-8ca7-d514b94944d4",
+        "slug": "starter-deck-blue-buggy",
+        "name": "Starter Deck - Blue Buggy",
+        "set_code": "ST25",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-051/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-051/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634296/one-piece-card-game-starter-deck-25-blue-buggy-buggy-reprint",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-051/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-051/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671454/one-piece-card-game-the-azure-seas-seven-buggy-op09-051-sp",
+        "market_price": "853.19",
+        "low_price": "845.00",
+        "mid_price": "962.75",
+        "high_price": "1400.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Gold SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-051/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-051/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671453/one-piece-card-game-the-azure-seas-seven-buggy-op09-051-sp-gold",
+        "market_price": "1638.69",
+        "low_price": "1499.99",
+        "mid_price": "1649.97",
+        "high_price": "5000.00"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-051/ja/stock/7/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-051/ja/stock/7/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635476/one-piece-card-game-one-piece-promotion-cards-buggy-051-english-version-2nd-anniversary-set",
+        "market_price": "47.81",
+        "low_price": "47.00",
+        "mid_price": "50.22",
+        "high_price": "250.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,153 @@
+{
+  "card_number": "OP12-032",
+  "name": "Nekomamushi",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Minks",
+    "Land of Wano",
+    "The Akazaya Nine"
+  ],
+  "effect": null,
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "UGUME",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-032/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-032/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-032/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-032/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-032/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643762/one-piece-card-game-legacy-of-the-master-nekomamushi",
+        "market_price": "0.04",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "8.04"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d65c9dd8-7de7-4eaa-8705-9b8e8ee16798",
+        "slug": "op12-release-event",
+        "name": "OP12 Release Event",
+        "set_code": null,
+        "released_at": "2025-08-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649306/one-piece-card-game-legacy-of-the-master-release-event-cards-nekomamushi",
+        "market_price": "0.45",
+        "low_price": "0.40",
+        "mid_price": "0.53",
+        "high_price": "1.89"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656649/one-piece-card-game-learn-together-deck-set-nekomamushi-zoro-deck",
+        "market_price": "0.04",
+        "low_price": "0.01",
+        "mid_price": "0.10",
+        "high_price": "2.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

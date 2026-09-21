@@ -1,0 +1,230 @@
+{
+  "card_number": "PRB02-006",
+  "name": "Roronoa Zoro",
+  "language": "en",
+  "set": "PRB02",
+  "set_name": "One Piece Card the Best Vol.2",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Opponent's Turn] If this Character would be rested by your opponent's Character's effect, you may rest 1 of your other Characters instead.\n[Blocker]",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-006/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-006/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653430/one-piece-card-game-premium-booster-the-best-vol-2-roronoa-zoro-prb02-006",
+        "market_price": "8.40",
+        "low_price": "7.40",
+        "mid_price": "10.76",
+        "high_price": "29.97"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-006/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-006/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653431/one-piece-card-game-premium-booster-the-best-vol-2-roronoa-zoro-prb02-006-alternate-art",
+        "market_price": "39.01",
+        "low_price": "31.01",
+        "mid_price": "40.90",
+        "high_price": "91.98"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB02-006/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB02-006/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/670642/one-piece-card-game-the-azure-seas-seven-roronoa-zoro-prb02-006-sp",
+        "market_price": "884.29",
+        "low_price": "755.00",
+        "mid_price": "1000.00",
+        "high_price": "29999.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f9b714d7-04fa-4489-972d-9974596db7aa",
+        "slug": "welcome-pack-2026-vol-1",
+        "name": "Welcome Pack 2026 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/693119/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-welcome-pack-2026-vol1",
+        "market_price": "10.38",
+        "low_price": "8.00",
+        "mid_price": "12.99",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ee0cceb2-3d03-4701-8644-632f7498c7c8",
+        "slug": "round-1-promo",
+        "name": "Round 1 Promo",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/707252/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-round-1-promo",
+        "market_price": "97.11",
+        "low_price": "91.98",
+        "mid_price": "141.39",
+        "high_price": "600.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When I use this [Opponent's Turn] effect, can I select a Character that cannot be rested due to an effect as the target of \"you may rest 1 of your other Characters instead\"?",
+      "answer": "No, you cannot. If you have no other Characters that can be rested, you will be unable to activate this [Opponent's Turn] effect.",
+      "updated_on": "2025-09-19"
+    }
+  ]
+}

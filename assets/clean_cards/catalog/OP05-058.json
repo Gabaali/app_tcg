@@ -1,0 +1,123 @@
+{
+  "card_number": "OP05-058",
+  "name": "It's a Waste of Human Life!!",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 8,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Navy"
+  ],
+  "effect": "[Main] Place all Characters with a cost of 3 or less at the bottom of the owner's deck. Then, you and your opponent trash cards from your hands until you each have 5 cards in your hands.",
+  "trigger": "[Trigger] Place all Characters with a cost of 2 or less at the bottom of the owner's deck.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-058/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-058/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528614/one-piece-card-game-awakening-of-the-new-era-its-a-waste-of-human-life",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cbdbf387-ebf5-4514-b1eb-6e2010f6e263",
+        "slug": "op05-release-event",
+        "name": "OP05 Release Event",
+        "set_code": null,
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/530924/one-piece-card-game-awakening-of-the-new-era-1st-anniversary-tournament-cards-its-a-waste-of-human-life",
+        "market_price": "4.58",
+        "low_price": "4.81",
+        "mid_price": "13.89",
+        "high_price": "29.93"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "In what order should players trash cards from their hands?",
+      "answer": "First, the player whose turn it is and who activated this [Main] effect chooses cards in their own hand and trashes them. Then, their opponent chooses cards in their own hand and trashes them.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Which player decides the order in which Characters are placed at the bottom of their deck?",
+      "answer": "First, the player whose turn it is puts their Characters with a cost of 3 or less at the bottom of their deck in any order they choose. Then, their opponent puts their Characters with a cost of 3 or less at the bottom of their deck in any order they choose.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

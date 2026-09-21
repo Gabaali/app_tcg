@@ -1,0 +1,84 @@
+{
+  "card_number": "ST08-001",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST08",
+  "set_name": "Starter Deck - Monkey D. Luffy",
+  "released_at": "2023-08-11T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.531561,
+        "y": 0.185714
+      },
+      "product": {
+        "id": "f55fbe14-bcff-4017-b87f-0fbcdfba672b",
+        "slug": "starter-deck-monkey-d-luffy",
+        "name": "Starter Deck - Monkey D. Luffy",
+        "set_code": "ST08",
+        "released_at": "2023-08-11T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST08-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST08-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/503233/one-piece-card-game-starter-deck-8-monkeydluffy-monkeydluffy-001",
+        "market_price": "5.64",
+        "low_price": "5.00",
+        "mid_price": "6.29",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When 2 Characters are K.O.'d at the same time during my turn, can I use this [Your Turn] effect to give 2 DON!! cards?",
+      "answer": "Yes, you can. You can give DON!! cards up to the number of Characters K.O.'d.",
+      "updated_on": "2023-07-28"
+    }
+  ]
+}

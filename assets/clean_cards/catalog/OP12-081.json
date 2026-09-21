@@ -1,0 +1,133 @@
+{
+  "card_number": "OP12-081",
+  "name": "Koala",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Dressrosa",
+    "Revolutionary Army"
+  ],
+  "effect": "When this Leader attacks your opponent's Leader, if you have 2 or more Characters with a cost of 8 or more, draw 1 card.\n[Once Per Turn] This effect can be activated when your opponent plays a Character with a base cost of 8 or more, or when your opponent plays a Character using a Character's effect. Your opponent adds 1 card from the top of their Life cards to their hand.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Akiko Sugizono",
+      "crop_focus": {
+        "x": 0.37618,
+        "y": 0.279545
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-081/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-081/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-081/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-081/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-081/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643822/one-piece-card-game-legacy-of-the-master-koala-081",
+        "market_price": "0.15",
+        "low_price": "0.01",
+        "mid_price": "0.16",
+        "high_price": "8.15"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.596346,
+        "y": 0.247619
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-081/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-081/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643823/one-piece-card-game-legacy-of-the-master-koala-081-alternate-art",
+        "market_price": "24.62",
+        "low_price": "22.22",
+        "mid_price": "28.47",
+        "high_price": "49.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I activate this [Once Per Turn] effect when my opponent plays a Character using a Character card's [Trigger] effect?",
+      "answer": "No, you cannot. Playing a Character using a [Trigger] effect is not considered playing it using a Character effect.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "If my opponent plays a Character card with a base cost of 8 or more using a Character's effect, can I use this [Once Per Turn] effect to make them add 2 cards from the top of their Life cards to their hand?",
+      "answer": "No. Your opponent will only add 1 card from their Life cards to their hand.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "My opponent played \"OP06-119 Sanji\" when they had 0 Life cards, and used its [On Play] effect to play \"OP08-069 Charlotte Linlin\". Then, after the effect of [Charlotte Linlin] added 1 card from their deck to their Life cards, can I activate this Leader's [Once Per Turn] effect to make them add 1 card from their Life cards to their hand?",
+      "answer": "Yes, you can. You can choose not to activate the [Once Per Turn] effect of [Koala] when Sanji is played, and then choose to activate it in response to [Charlotte Linlin] being played after your opponent has activated and resolved the [On Play] effect of [Charlotte Linlin].",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

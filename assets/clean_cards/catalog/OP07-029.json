@@ -1,0 +1,163 @@
+{
+  "card_number": "OP07-029",
+  "name": "Basil Hawkins",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Hawkins Pirates"
+  ],
+  "effect": "If your Leader has the {Supernovas} type, this Character gains [Blocker].\n(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-029/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-029/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545812/one-piece-card-game-500-years-in-the-future-basil-hawkins",
+        "market_price": "0.24",
+        "low_price": "0.05",
+        "mid_price": "0.44",
+        "high_price": "99.90"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-029/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-029/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545813/one-piece-card-game-500-years-in-the-future-basil-hawkins-parallel",
+        "market_price": "2.87",
+        "low_price": "2.40",
+        "mid_price": "3.99",
+        "high_price": "45.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-029/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-029/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656187/one-piece-card-game-premium-booster-the-best-vol-2-basil-hawkins-op07-029-reprint",
+        "market_price": "0.26",
+        "low_price": "0.01",
+        "mid_price": "0.30",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If there are no active Characters on my opponent's field, can I still use this [Once Per Turn] effect to prevent this Character from being removed from the field?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "If this Character is removed from the field by my opponent's effect, can I use this [Once Per Turn] effect to rest my opponent's Character even if it cannot be rested?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

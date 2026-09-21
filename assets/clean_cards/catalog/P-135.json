@@ -1,0 +1,115 @@
+{
+  "card_number": "P-135",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Play] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "761d7444-260d-4b48-ae8a-836bdacd7092",
+        "slug": "op-16-release-event",
+        "name": "OP-16 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-135/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-135/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/697483/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-op16-release-event",
+        "market_price": "3.37",
+        "low_price": "2.95",
+        "mid_price": "3.99",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "761d7444-260d-4b48-ae8a-836bdacd7092",
+        "slug": "op-16-release-event",
+        "name": "OP-16 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-135/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-135/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

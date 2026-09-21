@@ -1,0 +1,222 @@
+{
+  "card_number": "ST01-009",
+  "name": "Nefeltari Vivi",
+  "language": "en",
+  "set": "ST01",
+  "set_name": "Starter Deck - Straw Hat Crew",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 2,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Alabasta"
+  ],
+  "effect": null,
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "620ac1c8-baac-4c2f-8672-0951e048fa15",
+        "slug": "starter-deck-straw-hat-crew",
+        "name": "Starter Deck - Straw Hat Crew",
+        "set_code": "ST01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-009/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-009/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288238/one-piece-card-game-starter-deck-1-straw-hat-crew-nefeltari-vivi",
+        "market_price": "0.16",
+        "low_price": "0.01",
+        "mid_price": "0.22",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "85e12ea6-018d-43de-95db-aa85d098a28a",
+        "slug": "pre-release-op03",
+        "name": "Pre-release OP03",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-009/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-009/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6768382f-a265-4e78-8152-83cacb6180e4",
+        "slug": "st01-release-event",
+        "name": "ST01 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-009/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-009/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/497408/one-piece-card-game-one-piece-promotion-cards-nefeltari-vivi-op-03-pre-release-tournament-winner",
+        "market_price": "306.78",
+        "low_price": "319.12",
+        "mid_price": "371.24",
+        "high_price": "999.95"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6768382f-a265-4e78-8152-83cacb6180e4",
+        "slug": "st01-release-event",
+        "name": "ST01 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/497407/one-piece-card-game-one-piece-promotion-cards-nefeltari-vivi-op-03-pre-release-tournament-participant",
+        "market_price": "14.91",
+        "low_price": "6.57",
+        "mid_price": "15.01",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6768382f-a265-4e78-8152-83cacb6180e4",
+        "slug": "st01-release-event",
+        "name": "ST01 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/418080/one-piece-card-game-super-pre-release-starter-deck-1-straw-hat-crew-nefeltari-vivi",
+        "market_price": "12.30",
+        "low_price": "9.50",
+        "mid_price": "12.00",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

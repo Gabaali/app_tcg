@@ -1,0 +1,89 @@
+{
+  "card_number": "ST14-001",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST14",
+  "set_name": "Starter Deck - 3D2Y",
+  "released_at": "2024-08-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] All of your Characters gain +1 cost. If you have a Character with a cost of 8 or more, this Leader gains +1000 power.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.388704,
+        "y": 0.314286
+      },
+      "product": {
+        "id": "63172b8d-24b4-4026-89b6-18132bc108c0",
+        "slug": "starter-deck-3d2y",
+        "name": "Starter Deck - 3D2Y",
+        "set_code": "ST14",
+        "released_at": "2024-08-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/548412/one-piece-card-game-starter-deck-14-3d2y-monkeydluffy-001",
+        "market_price": "7.68",
+        "low_price": "6.91",
+        "mid_price": "8.49",
+        "high_price": "99.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does this [DON!! x1] effect give +1 cost to Character cards in my hand or trash?",
+      "answer": "No, it does not. This effect only gives +1 cost to Characters on your field.",
+      "updated_on": "2024-08-02"
+    },
+    {
+      "question": "My Leader is \"ST14-001 Monkey.D.Luffy\" and has a DON!! card given to it, so during my opponent's turn, because I have 1 Character with a cost of 8 on the field, my Leader has +6000 power according to this [DON!! x1] effect. During this same turn, if I no longer have a Character with a cost of 8 or more on the field, does my Leader's power become 5000?",
+      "answer": "Yes, it becomes 5000.",
+      "updated_on": "2024-08-02"
+    }
+  ]
+}

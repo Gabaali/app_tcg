@@ -1,0 +1,80 @@
+{
+  "card_number": "ST27-003",
+  "name": "Kuzan",
+  "language": "en",
+  "set": "ST27",
+  "set_name": "Starter Deck - Black Marshall.d.teach",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 6,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Blackbeard Pirates",
+    "Former Navy"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On K.O.] Play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less from your trash rested.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "b05d19ca-6976-4e52-8bbb-589e77db9b75",
+        "slug": "starter-deck-black-marshall-d-teach",
+        "name": "Starter Deck - Black Marshall.d.teach",
+        "set_code": "ST27",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST27-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST27-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/633092/one-piece-card-game-starter-deck-27-black-marshalldteach-kuzan",
+        "market_price": "0.95",
+        "low_price": "0.73",
+        "mid_price": "1.99",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,115 @@
+{
+  "card_number": "P-096",
+  "name": "Girl",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Blue"
+  ],
+  "cost": 2,
+  "power": null,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Sabaody Archipelago"
+  ],
+  "effect": "[On Play] Draw 1 card and trash 1 card from your hand.\n[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Nami] cards.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6e7cee81-8a12-4f1c-8255-752ed43e950a",
+        "slug": "op14-eb04-release-event",
+        "name": "OP14-EB04 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-096/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-096/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/P-096/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/P-096/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-096/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671883/one-piece-card-game-one-piece-promotion-cards-girl-op14-release-event",
+        "market_price": "5.91",
+        "low_price": "4.37",
+        "mid_price": "10.00",
+        "high_price": "52.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6e7cee81-8a12-4f1c-8255-752ed43e950a",
+        "slug": "op14-eb04-release-event",
+        "name": "OP14-EB04 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-096/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-096/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671884/one-piece-card-game-one-piece-promotion-cards-girl-op14-release-event-winner",
+        "market_price": "78.63",
+        "low_price": "54.95",
+        "mid_price": "83.21",
+        "high_price": "200.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

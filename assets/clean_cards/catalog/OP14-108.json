@@ -1,0 +1,223 @@
+{
+  "card_number": "OP14-108",
+  "name": "Silvers Rayleigh",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 6,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Former Roger Pirates"
+  ],
+  "effect": "[On Play] If your Leader is multicolored and your opponent has 3 or less Life cards, K.O. up to 1 of your opponent's Characters with 7000 base power or less.",
+  "trigger": "[Trigger] Activate this card's [On Play] effect.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Dash Pack",
+      "artist": "eiji kaneda",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1fca1189-ffbd-43ad-a84d-b2e5ea496188",
+        "slug": "dash-pack",
+        "name": "Dash Pack",
+        "set_code": null,
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-108/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-108/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP14-108/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP14-108/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-108/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672378/one-piece-card-game-the-azure-seas-seven-silvers-rayleigh-dash-pack",
+        "market_price": "3.78",
+        "low_price": "2.97",
+        "mid_price": "4.36",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-108/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-108/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671438/one-piece-card-game-the-azure-seas-seven-silvers-rayleigh",
+        "market_price": "0.32",
+        "low_price": "0.03",
+        "mid_price": "0.32",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb8900c0-284d-4dd6-b4dc-2b5e1891469b",
+        "slug": "the-world-s-strongest-warriors",
+        "name": "The World’s Strongest Warriors",
+        "set_code": "OP17",
+        "released_at": "2026-08-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-108/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-108/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "239d02c1-1da7-4ab9-a07a-8e6be1dcc687",
+        "slug": "op14-eb04-dash-pack-campaign",
+        "name": "OP14-EB04 Dash Pack Campaign",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-108/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-108/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c885c039-32be-42db-8a35-fad8dd323f53",
+        "slug": "illustration-box-vol-7",
+        "name": "Illustration Box Vol.7",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-108/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-108/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/709094/one-piece-card-game-one-piece-promotion-cards-silvers-rayleigh-one-piece-card-game-illustration-box-vol-7",
+        "market_price": "2.38",
+        "low_price": "1.79",
+        "mid_price": "3.25",
+        "high_price": "22.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,141 @@
+{
+  "card_number": "OP02-025",
+  "name": "Kin'emon",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Land of Wano",
+    "The Akazaya Nine"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] If you have 1 or less Characters, the next time you play a {Land of Wano} type Character card with a cost of 3 or more from your hand during this turn, the cost will be reduced by 1.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.505072,
+        "y": 0.204399
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-025/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-025/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486345/one-piece-card-game-paramount-war-kinemon",
+        "market_price": "0.23",
+        "low_price": "0.09",
+        "mid_price": "0.25",
+        "high_price": "29.75"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.44314,
+        "y": 0.273533
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-025/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-025/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483629/one-piece-card-game-paramount-war-kinemon-alternate-art",
+        "market_price": "34.34",
+        "low_price": "33.00",
+        "mid_price": "39.69",
+        "high_price": "150.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I activated this [Activate: Main] when I had 0 Character cards. I then played a Character that does not have the {Land of Wano} type from my hand. Will the next {Land of Wano} type Character with a cost of 3 that I play from my hand have its cost reduced by 1?",
+      "answer": "Yes, it will.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I activated this [Activate: Main] when I had 0 Character cards. I then played a {Land of Wano} type Character with a cost of 1 from my hand. Will the next {Land of Wano} type Character with a cost of 3 that I play from my hand have its cost reduced by 1?",
+      "answer": "Yes, it will.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I activated this [Activate: Main] when I had 1 Character card. Can I then use the [On Play] effect of [OP01-047 Trafalgar Law] to play a {Land of Wano} type Character with a cost of 4 from my hand?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I activated this [Activate: Main] when I had 1 Character card. I then used the effect of [OP01-047 Trafalgar Law] to play a {Land of Wano} type Character with a cost of 3 from my hand without paying its cost. Will the next {Land of Wano} type Character that I play from my hand have its cost reduced by 1?",
+      "answer": "Yes, it will.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I activated this [Activate: Main] effect when I had 1 Character and then played a Character that is not a \"{Land of Wano} type Character card with a cost of 3 or more\" from my hand, so I now have 2 Characters on my field. If I then play a {Land of Wano} type Character card with a cost of 3 from my hand, will its cost be reduced by 1?",
+      "answer": "Yes, it will.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

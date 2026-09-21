@@ -1,0 +1,149 @@
+{
+  "card_number": "ST14-016",
+  "name": "I Have My Crew!!",
+  "language": "en",
+  "set": "ST14",
+  "set_name": "Starter Deck - 3D2Y",
+  "released_at": "2024-08-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Main] Draw 1 card. Then, up to 1 of your Characters gains +3 cost until the end of your opponent's next turn.",
+  "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "63172b8d-24b4-4026-89b6-18132bc108c0",
+        "slug": "starter-deck-3d2y",
+        "name": "Starter Deck - 3D2Y",
+        "set_code": "ST14",
+        "released_at": "2024-08-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-016/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-016/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/548427/one-piece-card-game-starter-deck-14-3d2y-i-have-my-crew",
+        "market_price": "0.21",
+        "low_price": "0.03",
+        "mid_price": "0.25",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-016/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-016/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656095/one-piece-card-game-premium-booster-the-best-vol-2-i-have-my-crew-reprint",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST14-016/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST14-016/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656096/one-piece-card-game-premium-booster-the-best-vol-2-i-have-my-crew-pirate-foil",
+        "market_price": "0.37",
+        "low_price": "0.08",
+        "mid_price": "0.32",
+        "high_price": "4.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

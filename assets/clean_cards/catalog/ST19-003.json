@@ -1,0 +1,90 @@
+{
+  "card_number": "ST19-003",
+  "name": "Tashigi",
+  "language": "en",
+  "set": "ST19",
+  "set_name": "Starter Deck - Black Smoker",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[On Play] If your Leader is [Smoker], give up to 1 of your opponent's Characters −4 cost during this turn.\n[Activate: Main] [Once Per Turn] If this Character was played on this turn, trash up to 1 of your opponent's Characters with a cost of 0.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61bf68cc-4ee6-49a8-af89-2ff70b2b20a0",
+        "slug": "starter-deck-black-smoker",
+        "name": "Starter Deck - Black Smoker",
+        "set_code": "ST19",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST19-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST19-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581048/one-piece-card-game-starter-deck-19-black-smoker-tashigi",
+        "market_price": "0.89",
+        "low_price": "0.50",
+        "mid_price": "1.00",
+        "high_price": "12.50"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can a Character's [On K.O.] effect be activated when it is trashed by this [Activate: Main] effect?",
+      "answer": "No, it cannot.",
+      "updated_on": "2024-10-11"
+    },
+    {
+      "question": "If my Leader is not [Smoker], can I still use this [Activate: Main] effect to trash up to 1 of my opponent's Characters with a cost of 0?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-10-11"
+    }
+  ]
+}

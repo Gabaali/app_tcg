@@ -1,0 +1,86 @@
+{
+  "card_number": "ST12-001",
+  "name": "Roronoa Zoro & Sanji",
+  "language": "en",
+  "set": "ST12",
+  "set_name": "Starter Deck - Zoro and Sanji",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green",
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Slash",
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [When Attacking] [Once Per Turn] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Set up to 1 of your Characters with 7000 power or less as active.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "S-KINOKO",
+      "crop_focus": {
+        "x": 0.436313,
+        "y": 0.257502
+      },
+      "product": {
+        "id": "97da0843-729f-40ce-9c5f-077c8176a3d2",
+        "slug": "starter-deck-zoro-and-sanji",
+        "name": "Starter Deck - Zoro and Sanji",
+        "set_code": "ST12",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST12-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST12-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST12-001/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST12-001/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST12-001/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539151/one-piece-card-game-starter-deck-12-zoro-and-sanji-roronoa-zoro-and-sanji",
+        "market_price": "15.72",
+        "low_price": "13.00",
+        "mid_price": "17.72",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this Leader's [When Attacking] effect to set as active a Character with a base power of 7000 that has had its power increased to 8000 by a DON!! card given to it?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-03-01"
+    }
+  ]
+}

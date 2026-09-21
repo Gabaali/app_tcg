@@ -1,0 +1,10 @@
+.streamlit/secrets.toml
+.env
+onepiece_tcg.sqlite
+app_local.sqlite
+__pycache__/
+*.pyc
+trivia_cache/
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm

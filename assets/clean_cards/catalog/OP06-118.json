@@ -1,0 +1,265 @@
+{
+  "card_number": "OP06-118",
+  "name": "Roronoa Zoro",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Green"
+  ],
+  "cost": 9,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[When Attacking] [Once Per Turn] You may rest 1 of your DON!! cards: Set this Character as active.\n[Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: Set this Character as active.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-118/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-118/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541661/one-piece-card-game-wings-of-the-captain-roronoa-zoro",
+        "market_price": "8.87",
+        "low_price": "8.00",
+        "mid_price": "10.99",
+        "high_price": "60.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-118/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-118/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541659/one-piece-card-game-wings-of-the-captain-roronoa-zoro-alternate-art",
+        "market_price": "132.28",
+        "low_price": "115.00",
+        "mid_price": "149.99",
+        "high_price": "250.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-118/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-118/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541660/one-piece-card-game-wings-of-the-captain-roronoa-zoro-alternate-art-manga",
+        "market_price": "2490.00",
+        "low_price": "3200.00",
+        "mid_price": "9999.99",
+        "high_price": "100000.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-118/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-118/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/587964/one-piece-card-game-premium-booster-the-best-roronoa-zoro-manga",
+        "market_price": "1983.33",
+        "low_price": "2455.97",
+        "mid_price": "2727.99",
+        "high_price": "3000.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-118/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-118/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656164/one-piece-card-game-premium-booster-the-best-vol-2-roronoa-zoro-op06-118-reprint",
+        "market_price": "4.29",
+        "low_price": "3.26",
+        "mid_price": "5.00",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0ed66d0c-291a-4352-af68-798167eadbb8",
+        "slug": "japanese-2nd-anniversary-set",
+        "name": "Japanese 2nd Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-118/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-118/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617591/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-one-piece-japanese-version-2nd-anniversary-set",
+        "market_price": "192.97",
+        "low_price": "180.00",
+        "mid_price": "229.99",
+        "high_price": "600.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I attacked with this Character and did not activate its [When Attacking] effect. If I then use its [Activate: Main] effect to set it as active and attack again, can I activate this [When Attacking] effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

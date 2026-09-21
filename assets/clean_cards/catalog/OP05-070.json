@@ -1,0 +1,223 @@
+{
+  "card_number": "OP05-070",
+  "name": "Fra-Nosuke",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Purple"
+  ],
+  "cost": 5,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush].\n(This card can attack on the turn in which it is played.)",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 2,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-070/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-070/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528628/one-piece-card-game-awakening-of-the-new-era-fra-nosuke",
+        "market_price": "0.12",
+        "low_price": "0.03",
+        "mid_price": "0.19",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0b33b9ad-6e03-4c30-808a-e685259f5326",
+        "slug": "starter-deck-purple-monkey-d-luffy",
+        "name": "Starter Deck - Purple Monkey.d.luffy",
+        "set_code": "ST18",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-070/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-070/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581027/one-piece-card-game-starter-deck-18-purple-monkeydluffy-fra-nosuke",
+        "market_price": "0.14",
+        "low_price": "0.02",
+        "mid_price": "0.17",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "536639d6-0285-4e29-aae1-7e7a80fa9b86",
+        "slug": "starter-deck-purple-black-monkey-d-luffy",
+        "name": "Starter Deck - Purple/black Monkey.d.luffy",
+        "set_code": "ST26",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-070/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-070/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634312/one-piece-card-game-starter-deck-26-purple-black-monkeydluffy-fra-nosuke-reprint",
+        "market_price": "0.07",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cbdbf387-ebf5-4514-b1eb-6e2010f6e263",
+        "slug": "op05-release-event",
+        "name": "OP05 Release Event",
+        "set_code": null,
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/530932/one-piece-card-game-awakening-of-the-new-era-1st-anniversary-tournament-cards-fra-nosuke",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fc83165a-d3e6-48bb-87d9-c7168e3f732c",
+        "slug": "welcome-pack-vol-1",
+        "name": "Welcome Pack Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/599739/one-piece-card-game-one-piece-promotion-cards-fra-nosuke-welcome-pack-vol-1",
+        "market_price": "0.54",
+        "low_price": "0.49",
+        "mid_price": "0.95",
+        "high_price": "7.91"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

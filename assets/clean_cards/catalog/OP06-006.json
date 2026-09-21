@@ -1,0 +1,121 @@
+{
+  "card_number": "OP06-006",
+  "name": "Saga",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Red"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "FILM",
+    "Asuka Island"
+  ],
+  "effect": "[DON!! x1] [When Attacking] This Character gains +1000 power until the start of your next turn. Then, trash 1 of your {FILM} type Characters at the end of this turn.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-006/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-006/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541571/one-piece-card-game-wings-of-the-captain-saga",
+        "market_price": "0.08",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c669e8ee-e7a0-4236-a004-685661b9aaa0",
+        "slug": "op06-release-event",
+        "name": "OP06 Release Event",
+        "set_code": null,
+        "released_at": "2024-03-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541723/one-piece-card-game-wings-of-the-captain-pre-release-cards-saga",
+        "market_price": "0.97",
+        "low_price": "0.97",
+        "mid_price": "2.46",
+        "high_price": "3.94"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If, after activating this [When Attacking] effect, this Character leaves the field during that turn, do I still trash 1 of my {FILM} type Characters at the end of that turn?",
+      "answer": "Yes. If you have other {FILM} type Characters on your field, you must trash 1 of them.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

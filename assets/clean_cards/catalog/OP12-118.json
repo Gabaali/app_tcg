@@ -1,0 +1,158 @@
+{
+  "card_number": "OP12-118",
+  "name": "Jewelry Bonney",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Bonney Pirates"
+  ],
+  "effect": "[Blocker]\n[On Play] If you have 8 or more rested cards, draw 2 cards and trash 1 card from your hand. Then, set up to 1 of your DON!! cards as active.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-118/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-118/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643865/one-piece-card-game-legacy-of-the-master-jewelry-bonney-118",
+        "market_price": "17.44",
+        "low_price": "14.99",
+        "mid_price": "21.81",
+        "high_price": "60.55"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Hashimoto Q",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-118/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-118/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-118/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-118/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-118/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643866/one-piece-card-game-legacy-of-the-master-jewelry-bonney-118-alternate-art",
+        "market_price": "37.13",
+        "low_price": "27.50",
+        "mid_price": "40.10",
+        "high_price": "99.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-118/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-118/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643867/one-piece-card-game-legacy-of-the-master-jewelry-bonney-118-manga",
+        "market_price": "818.93",
+        "low_price": "699.99",
+        "mid_price": "868.00",
+        "high_price": "3500.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have 7 or less rested cards on my field, what happens to the effect \"set up to 1 of your DON!! cards as active\"?",
+      "answer": "In this case, you cannot set any of your DON!! cards as active.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

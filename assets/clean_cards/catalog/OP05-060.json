@@ -1,0 +1,295 @@
+{
+  "card_number": "OP05-060",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.460133,
+        "y": 0.396429
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-060/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-060/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528616/one-piece-card-game-awakening-of-the-new-era-monkeydluffy-060",
+        "market_price": "0.69",
+        "low_price": "0.05",
+        "mid_price": "0.72",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.486711,
+        "y": 0.37619
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-060/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-060/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527014/one-piece-card-game-awakening-of-the-new-era-monkeydluffy-060-alternate-art",
+        "market_price": "128.16",
+        "low_price": "101.02",
+        "mid_price": "133.69",
+        "high_price": "299.99"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.521595,
+        "y": 0.2
+      },
+      "product": {
+        "id": "0b33b9ad-6e03-4c30-808a-e685259f5326",
+        "slug": "starter-deck-purple-monkey-d-luffy",
+        "name": "Starter Deck - Purple Monkey.d.luffy",
+        "set_code": "ST18",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-060/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-060/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581021/one-piece-card-game-starter-deck-18-purple-monkeydluffy-monkeydluffy-op05-060",
+        "market_price": "3.17",
+        "low_price": "2.79",
+        "mid_price": "4.69",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.468439,
+        "y": 0.386905
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-060/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-060/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629171/one-piece-card-game-extra-booster-anime-25th-collection-monkeydluffy-sp",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.546512,
+        "y": 0.132143
+      },
+      "product": {
+        "id": "81df7d15-e5da-417a-8968-dd3b5fb5c295",
+        "slug": "one-piece-card-game-x-psa-exclusive-promo-card",
+        "name": "One Piece Card Game X Psa Exclusive Promo Card",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-060/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-060/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "86e0ca45-a76c-4ea5-b41f-12673f974f0d",
+        "slug": "sound-loader-vol-1",
+        "name": "Sound Loader Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/594591/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-sound-loader-vol-1",
+        "market_price": "24.57",
+        "low_price": "17.54",
+        "mid_price": "31.00",
+        "high_price": "115.00"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a93fa335-e696-4b83-8070-973c64002b86",
+        "slug": "psa-magazine",
+        "name": "PSA Magazine",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/557296/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-psa-magazine",
+        "market_price": "381.07",
+        "low_price": "400.00",
+        "mid_price": "484.99",
+        "high_price": "4200.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,84 @@
+{
+  "card_number": "OP08-060",
+  "name": "King",
+  "language": "en",
+  "set": "OP08",
+  "set_name": "Two Legends",
+  "released_at": "2024-09-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Purple"
+  ],
+  "cost": 7,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 5 or more DON!! cards on their field, this Character gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "eiji kaneda",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-060/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-060/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP08-060/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP08-060/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-060/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558091/one-piece-card-game-two-legends-king-060",
+        "market_price": "0.14",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "14.88"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this Character gains [Rush] from this [On Play] effect due to my opponent having 5 or more DON!! cards on their field, and the number of DON!! cards on my opponent's field subsequently drops to 4 or less, will this Character still be able to attack on that turn?",
+      "answer": "Yes, it will.",
+      "updated_on": "2024-08-30"
+    }
+  ]
+}

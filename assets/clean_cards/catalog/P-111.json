@@ -1,0 +1,115 @@
+{
+  "card_number": "P-111",
+  "name": "Nico Robin",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Once Per Turn] If your {Straw Hat Crew} type Character would be removed from the field by your opponent's effect, you may rest 1 of your DON!! cards instead.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "b5515a7e-eef8-4071-812f-bc5f5bda3627",
+        "slug": "heroines-battle-pack",
+        "name": "Heroines Battle Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-111/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-111/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681612/one-piece-card-game-one-piece-promotion-cards-nico-robin-heroines-battle-winner-pack",
+        "market_price": "319.11",
+        "low_price": "294.94",
+        "mid_price": "310.97",
+        "high_price": "800.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "b5515a7e-eef8-4071-812f-bc5f5bda3627",
+        "slug": "heroines-battle-pack",
+        "name": "Heroines Battle Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-111/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-111/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/676843/one-piece-card-game-one-piece-promotion-cards-nico-robin-heroines-battle-pack",
+        "market_price": "11.00",
+        "low_price": "9.50",
+        "mid_price": "15.92",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,121 @@
+{
+  "card_number": "ST11-001",
+  "name": "Uta",
+  "language": "en",
+  "set": "ST11",
+  "set_name": "Starter Deck - Uta",
+  "released_at": "2024-02-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "FILM"
+  ],
+  "effect": "[DON!! x1] [When Attacking] [Once Per Turn] Reveal 1 card from the top of your deck and add up to 1 {FILM} type card to your hand. Then, place the rest at the bottom of your deck.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.533223,
+        "y": 0.328571
+      },
+      "product": {
+        "id": "f11f18f0-7b8a-4b88-b3b1-bee7a4c61704",
+        "slug": "starter-deck-uta",
+        "name": "Starter Deck - Uta",
+        "set_code": "ST11",
+        "released_at": "2024-02-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST11-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST11-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/533879/one-piece-card-game-starter-deck-11-uta-uta-001",
+        "market_price": "4.08",
+        "low_price": "1.85",
+        "mid_price": "4.44",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.671096,
+        "y": 0.240476
+      },
+      "product": {
+        "id": "601db5a3-a20e-487b-9047-d02abfe0dc89",
+        "slug": "starter-deck-green-uta",
+        "name": "Starter Deck - Green Uta",
+        "set_code": "ST16",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST11-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST11-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/580997/one-piece-card-game-starter-deck-16-green-uta-uta-st11-001",
+        "market_price": "2.21",
+        "low_price": "1.78",
+        "mid_price": "2.99",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "What happens regarding the \"place the rest at the bottom of your deck\" effect if I use this [When Attacking] effect to add 1 {FILM} type card to my hand?",
+      "answer": "In this case, nothing will happen after you add the 1 {FILM} type card to your hand.",
+      "updated_on": "2024-01-19"
+    }
+  ]
+}

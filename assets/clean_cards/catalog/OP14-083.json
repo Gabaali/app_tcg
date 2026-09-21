@@ -1,0 +1,115 @@
+{
+  "card_number": "OP14-083",
+  "name": "Ms. Wednesday",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": 1000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Baroque Works"
+  ],
+  "effect": "[Activate: Main] You may trash this Character: Give up to 1 of your opponent's 0 cost Characters −3000 power during this turn.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": "kicori",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ce25b280-f59a-476e-af73-c3609ea30d09",
+        "slug": "op14-release-event",
+        "name": "OP14 Release Event",
+        "set_code": null,
+        "released_at": "2026-01-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-083/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-083/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP14-083/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP14-083/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-083/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671872/one-piece-card-game-the-azure-seas-seven-release-event-cards-ms-wednesday",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "kicori",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-083/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-083/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP14-083/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP14-083/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-083/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671416/one-piece-card-game-the-azure-seas-seven-ms-wednesday",
+        "market_price": "0.17",
+        "low_price": "0.03",
+        "mid_price": "0.19",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,373 @@
+{
+  "card_number": "ST03-005",
+  "name": "Dracule Mihawk",
+  "language": "en",
+  "set": "ST03",
+  "set_name": "Starter Deck - The Seven Warlords of the Sea",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea"
+  ],
+  "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8d69dec3-3bfc-43c1-b05e-fd3090ee1c79",
+        "slug": "starter-deck-the-seven-warlords-of-the-sea",
+        "name": "Starter Deck - The Seven Warlords of the Sea",
+        "set_code": "ST03",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288272/one-piece-card-game-starter-deck-3-the-seven-warlords-of-the-sea-dracule-mihawk",
+        "market_price": "0.12",
+        "low_price": "0.03",
+        "mid_price": "0.19",
+        "high_price": "14.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80cce277-2d8e-44a2-afe3-d1991034140c",
+        "slug": "starter-deck-blue-donquixote-doflamingo",
+        "name": "Starter Deck - Blue Donquixote Doflamingo",
+        "set_code": "ST17",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-005/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-005/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-005/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-005/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-005/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-005/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593580/one-piece-card-game-premium-booster-the-best-dracule-mihawk-st03-005-jolly-roger-foil",
+        "market_price": "0.32",
+        "low_price": "0.05",
+        "mid_price": "0.33",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-005/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-005/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593581/one-piece-card-game-premium-booster-the-best-dracule-mihawk-st03-005-full-art",
+        "market_price": "11.38",
+        "low_price": "9.99",
+        "mid_price": "11.16",
+        "high_price": "31.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "df04cfdc-ea7a-4417-9144-6bff09acb15c",
+        "slug": "tournament-pack-vol-4",
+        "name": "Tournament Pack Vol.4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-005/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-005/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/503245/one-piece-card-game-one-piece-promotion-cards-dracule-mihawk-tournament-pack-vol-4",
+        "market_price": "0.71",
+        "low_price": "0.40",
+        "mid_price": "0.96",
+        "high_price": "5.99"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cb421112-71b5-4abd-8c36-0f1e4fd2ff35",
+        "slug": "cs-2023-celebration-pack",
+        "name": "CS 2023 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-005/ja/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-005/ja/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525327/one-piece-card-game-one-piece-promotion-cards-dracule-mihawk-cs-2023-celebration-pack",
+        "market_price": "48.09",
+        "low_price": "114.99",
+        "mid_price": "126.98",
+        "high_price": "126.99"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a6006723-dc3d-48d8-9847-196e6983c2b3",
+        "slug": "winner-pack-vol-4",
+        "name": "Winner Pack Vol. 4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/503249/one-piece-card-game-one-piece-promotion-cards-dracule-mihawk-winner-pack-vol-4",
+        "market_price": "33.94",
+        "low_price": "26.98",
+        "mid_price": "33.94",
+        "high_price": "199.99"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "540bde0c-8c19-421b-bb1b-78c729c45bd7",
+        "slug": "st03-release-event",
+        "name": "ST03 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/422377/one-piece-card-game-super-pre-release-starter-deck-3-the-seven-warlords-of-the-sea-dracule-mihawk",
+        "market_price": "6.94",
+        "low_price": "6.93",
+        "mid_price": "89.00",
+        "high_price": "177.49"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have 1 or less cards in my deck, can I use this Character to attack if it has a DON!! card given to it?",
+      "answer": "Yes, you can. However, since the [When Attacking] effect is always activated and requires a player to draw 2 cards whenever possible, if the deck is reduced to 0 cards as a result, the player with 0 cards in their deck will lose the game.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

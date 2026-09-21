@@ -1,0 +1,117 @@
+{
+  "card_number": "ST29-012",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST29",
+  "set_name": "Starter Deck - Egghead",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": 0,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Egghead",
+    "The Four Emperors",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards.",
+  "trigger": "[Trigger] Play this card.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Misa Matoki",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1987d5d-c1e6-42c6-b1a0-be406a2f282e",
+        "slug": "starter-deck-egghead",
+        "name": "Starter Deck - Egghead",
+        "set_code": "ST29",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST29-012/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-012/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST29-012/en/scans/0/full.png",
+          "full": "https://cdn.poneglyph.one/images/ST29-012/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-012/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671605/one-piece-card-game-starter-deck-29-egghead-monkeydluffy-012",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1987d5d-c1e6-42c6-b1a0-be406a2f282e",
+        "slug": "starter-deck-egghead",
+        "name": "Starter Deck - Egghead",
+        "set_code": "ST29",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST29-012/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-012/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671606/one-piece-card-game-starter-deck-29-egghead-monkeydluffy-012-full-art",
+        "market_price": "5.61",
+        "low_price": "2.70",
+        "mid_price": "7.36",
+        "high_price": "22.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

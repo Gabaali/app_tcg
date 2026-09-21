@@ -1,0 +1,295 @@
+{
+  "card_number": "P-089",
+  "name": "Tony Tony.Chopper",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 5,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal",
+    "Straw Hat Crew"
+  ],
+  "effect": null,
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "49e43d4d-08c9-4e17-814d-70ac58183fb3",
+        "slug": "offline-regional-participation-pack-2025-vol-2",
+        "name": "Offline Regional Participation Pack 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-089/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-089/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646734/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-offline-regional-participation-pack-2025-vol2",
+        "market_price": "41.03",
+        "low_price": "29.98",
+        "mid_price": "39.05",
+        "high_price": "300.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "49e43d4d-08c9-4e17-814d-70ac58183fb3",
+        "slug": "offline-regional-participation-pack-2025-vol-2",
+        "name": "Offline Regional Participation Pack 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-089/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-089/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649742/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-online-regional-champion-card-set-2025-vol2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "49e43d4d-08c9-4e17-814d-70ac58183fb3",
+        "slug": "offline-regional-participation-pack-2025-vol-2",
+        "name": "Offline Regional Participation Pack 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-089/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-089/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649738/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-online-regional-finalist-card-set-2025-vol2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9b22a565-f517-4fcb-8c74-7579455ef3e7",
+        "slug": "online-regional-participation-pack-2025-vol-2",
+        "name": "Online Regional Participation Pack 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649732/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-online-regional-participation-pack-2025-vol2",
+        "market_price": "51.59",
+        "low_price": "95.00",
+        "mid_price": "145.96",
+        "high_price": "299.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "baf44730-5c02-4a46-9608-d1d8f3528f37",
+        "slug": "cs-25-26-regionals-textured-chase-promo",
+        "name": "CS 25-26 Regionals Textured Chase Promo",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/658340/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-cs-25-26-regionals-textured-chase-promo",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ef639d46-896e-4200-aca6-52b2f84aed7d",
+        "slug": "offline-regional-finalist-card-set-2025-vol-2",
+        "name": "Offline Regional Finalist Card Set 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646733/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-offline-regional-finalist-card-set-2025-vol2",
+        "market_price": "147.80",
+        "low_price": "299.88",
+        "mid_price": "307.62",
+        "high_price": "345.00"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f9966762-4b8d-43f7-9888-010504a8121f",
+        "slug": "offline-regional-champion-card-set-2025-vol-2",
+        "name": "Offline Regional Champion Card Set 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646731/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-offline-regional-champion-card-set-2025-vol2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

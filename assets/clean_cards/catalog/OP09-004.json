@@ -1,0 +1,368 @@
+{
+  "card_number": "OP09-004",
+  "name": "Shanks",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 10,
+  "power": 12000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Red-Haired Pirates"
+  ],
+  "effect": "Give all of your opponent's Characters −1000 power.\n[Rush] (This card can attack on the turn in which it is played.)",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596924/one-piece-card-game-emperors-in-the-new-world-shanks-004",
+        "market_price": "1.15",
+        "low_price": "0.75",
+        "mid_price": "1.75",
+        "high_price": "85.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596926/one-piece-card-game-emperors-in-the-new-world-shanks-004-alternate-art",
+        "market_price": "23.87",
+        "low_price": "21.28",
+        "mid_price": "25.39",
+        "high_price": "80.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596927/one-piece-card-game-emperors-in-the-new-world-shanks-004-wanted-poster",
+        "market_price": "260.05",
+        "low_price": "223.00",
+        "mid_price": "260.05",
+        "high_price": "1000.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596925/one-piece-card-game-emperors-in-the-new-world-shanks-004-manga",
+        "market_price": "1795.00",
+        "low_price": "2300.00",
+        "mid_price": "2499.99",
+        "high_price": "100000.00"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656025/one-piece-card-game-premium-booster-the-best-vol-2-shanks-op09-004-reprint",
+        "market_price": "0.78",
+        "low_price": "0.25",
+        "mid_price": "1.00",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Gold SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657442/one-piece-card-game-carrying-on-his-will-shanks-op09-004-sp-gold",
+        "market_price": "1559.56",
+        "low_price": "1699.99",
+        "mid_price": "1999.99",
+        "high_price": "2989.97"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Silver SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657443/one-piece-card-game-carrying-on-his-will-shanks-op09-004-sp-silver",
+        "market_price": "931.31",
+        "low_price": "949.99",
+        "mid_price": "1162.95",
+        "high_price": "1389.72"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "b8049f84-0127-40a5-b236-2e6d112fc5a4",
+        "slug": "championship-25-26-offline-regionals-season-2",
+        "name": "Championship 25-26 Offline Regionals Season 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/en/stock/7/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/en/stock/7/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646743/one-piece-card-game-one-piece-promotion-cards-shanks-championship-25-26-offline-regionals-season-2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-004/ja/stock/8/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-004/ja/stock/8/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635477/one-piece-card-game-one-piece-promotion-cards-shanks-004-english-version-2nd-anniversary-set",
+        "market_price": "61.43",
+        "low_price": "49.00",
+        "mid_price": "65.00",
+        "high_price": "180.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

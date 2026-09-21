@@ -1,0 +1,223 @@
+{
+  "card_number": "OP04-092",
+  "name": "Rebecca",
+  "language": "en",
+  "set": "OP04",
+  "set_name": "Kingdoms of Intrigue",
+  "released_at": "2023-09-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Dressrosa"
+  ],
+  "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-092/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-092/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516803/one-piece-card-game-kingdoms-of-intrigue-rebecca-092",
+        "market_price": "0.32",
+        "low_price": "0.20",
+        "mid_price": "0.42",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "otton",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-092/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-092/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP04-092/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP04-092/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-092/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/622591/one-piece-card-game-one-piece-promotion-cards-rebecca-tournament-pack-2025-vol-2",
+        "market_price": "0.24",
+        "low_price": "0.15",
+        "mid_price": "0.31",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Lalla Lon Tee",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-092/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-092/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP04-092/en/scans/2/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP04-092/en/scans/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-092/en/scans/2/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/622598/one-piece-card-game-one-piece-promotion-cards-rebecca-winner-pack-2025-vol-2",
+        "market_price": "12.90",
+        "low_price": "10.99",
+        "mid_price": "14.00",
+        "high_price": "49.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-092/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-092/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649637/one-piece-card-game-one-piece-promotion-cards-rebecca-cs-25-26-celebration-pack",
+        "market_price": "88.57",
+        "low_price": "179.99",
+        "mid_price": "212.00",
+        "high_price": "232.49"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1b83b84a-d9bf-448b-ba32-2cbc261feddd",
+        "slug": "judge-pack-vol-6",
+        "name": "Judge Pack Vol. 6",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/641220/one-piece-card-game-one-piece-promotion-cards-rebecca-judge-pack-vol-6",
+        "market_price": "6.60",
+        "low_price": "5.00",
+        "mid_price": "7.76",
+        "high_price": "26.20"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

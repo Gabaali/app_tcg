@@ -1,0 +1,409 @@
+{
+  "card_number": "ST03-014",
+  "name": "Marshall.D.Teach",
+  "language": "en",
+  "set": "ST03",
+  "set_name": "Starter Deck - The Seven Warlords of the Sea",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Blackbeard Pirates"
+  ],
+  "effect": "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8d69dec3-3bfc-43c1-b05e-fd3090ee1c79",
+        "slug": "starter-deck-the-seven-warlords-of-the-sea",
+        "name": "Starter Deck - The Seven Warlords of the Sea",
+        "set_code": "ST03",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-014/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-014/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288288/one-piece-card-game-starter-deck-3-the-seven-warlords-of-the-sea-marshalldteach",
+        "market_price": "0.23",
+        "low_price": "0.09",
+        "mid_price": "0.25",
+        "high_price": "4.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fcdd3767-afd9-473a-9da5-8dc5ff66c4ca",
+        "slug": "included-in-online-regional-participation-pack-vol-1",
+        "name": "Included in Online Regional Participation Pack Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-014/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-014/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "843f4f82-d2ab-4b1b-adc0-3c8abfeb5eba",
+        "slug": "online-regional-2023",
+        "name": "Online Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/482227/one-piece-card-game-one-piece-promotion-cards-marshalldteach-online-regional-2023-participant",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "14cc9770-487f-491d-9a18-c5c23ad4ebb7",
+        "slug": "offline-regional-2023",
+        "name": "Offline Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483186/one-piece-card-game-one-piece-promotion-cards-marshalldteach-offline-regional-2023-finalist",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "14cc9770-487f-491d-9a18-c5c23ad4ebb7",
+        "slug": "offline-regional-2023",
+        "name": "Offline Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483187/one-piece-card-game-one-piece-promotion-cards-marshalldteach-offline-regional-2023-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "843f4f82-d2ab-4b1b-adc0-3c8abfeb5eba",
+        "slug": "online-regional-2023",
+        "name": "Online Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/482228/one-piece-card-game-one-piece-promotion-cards-marshalldteach-online-regional-2023-finalist",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a5440eb5-3581-429d-8c06-43f157a1f50e",
+        "slug": "judge-pack-vol-4",
+        "name": "Judge Pack Vol. 4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/583754/one-piece-card-game-one-piece-promotion-cards-marshalldteach-judge-pack-vol-4",
+        "market_price": "7.82",
+        "low_price": "4.00",
+        "mid_price": "7.88",
+        "high_price": "40.00"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "843f4f82-d2ab-4b1b-adc0-3c8abfeb5eba",
+        "slug": "online-regional-2023",
+        "name": "Online Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/482229/one-piece-card-game-one-piece-promotion-cards-marshalldteach-online-regional-2023-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "14cc9770-487f-491d-9a18-c5c23ad4ebb7",
+        "slug": "offline-regional-2023",
+        "name": "Offline Regional 2023",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/483185/one-piece-card-game-one-piece-promotion-cards-marshalldteach-offline-regional-2023-participant",
+        "market_price": "14.59",
+        "low_price": "34.98",
+        "mid_price": "38.63",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "540bde0c-8c19-421b-bb1b-78c729c45bd7",
+        "slug": "st03-release-event",
+        "name": "ST03 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/421466/one-piece-card-game-super-pre-release-starter-deck-3-the-seven-warlords-of-the-sea-marshalldteach",
+        "market_price": "4.30",
+        "low_price": "8.50",
+        "mid_price": "10.88",
+        "high_price": "65.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to return this Character or one of my other Characters to my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

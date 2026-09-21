@@ -1,0 +1,121 @@
+{
+  "card_number": "OP13-023",
+  "name": "Uta",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "FILM"
+  ],
+  "effect": "[On Play] Set up to 2 of your DON!! cards as active. Then, you cannot play Character cards with a base cost of 5 or more during this turn.\n[On K.O.] Play up to 1 Character card with a cost of 5 or less from your hand rested.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "BISAI",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-023/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-023/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP13-023/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP13-023/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-023/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657278/one-piece-card-game-carrying-on-his-will-uta",
+        "market_price": "0.49",
+        "low_price": "0.03",
+        "mid_price": "0.50",
+        "high_price": "99.90"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Hokuyuu",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-023/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-023/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP13-023/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP13-023/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-023/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657279/one-piece-card-game-carrying-on-his-will-uta-alternate-art",
+        "market_price": "6.35",
+        "low_price": "5.69",
+        "mid_price": "7.26",
+        "high_price": "30.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this Character is K.O.'d during the same turn I used its [On Play] effect, can I then use its [On K.O.] effect to play a Character with a cost of 5 from my hand?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

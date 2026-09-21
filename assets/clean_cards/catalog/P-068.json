@@ -1,0 +1,152 @@
+{
+  "card_number": "P-068",
+  "name": "Sanji",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Blue"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Kingdom of GERMA",
+    "The Vinsmoke Family"
+  ],
+  "effect": "[Activate: Main] You may trash this Character: Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-068/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-068/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656188/one-piece-card-game-premium-booster-the-best-vol-2-sanji-p-068-reprint",
+        "market_price": "0.21",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "4.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-068/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-068/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656181/one-piece-card-game-premium-booster-the-best-vol-2-sanji-p-068-pirate-foil",
+        "market_price": "0.28",
+        "low_price": "0.05",
+        "mid_price": "0.29",
+        "high_price": "5.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "7cb20866-20c8-44d2-ba1c-1e39eaa164b3",
+        "slug": "pirates-party-vol-7",
+        "name": "Pirates Party Vol.7",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-068/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-068/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/548442/one-piece-card-game-one-piece-promotion-cards-sanji-pirates-party-vol-7",
+        "market_price": "0.60",
+        "low_price": "0.25",
+        "mid_price": "0.99",
+        "high_price": "26.70"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

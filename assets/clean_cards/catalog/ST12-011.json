@@ -1,0 +1,89 @@
+{
+  "card_number": "ST12-011",
+  "name": "Sanji",
+  "language": "en",
+  "set": "ST12",
+  "set_name": "Starter Deck - Zoro and Sanji",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 2,
+  "power": 3000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [When Attacking] If you have 5 or less cards in your hand, this Character gains +2000 power until the start of your next turn.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Ryuda",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "97da0843-729f-40ce-9c5f-077c8176a3d2",
+        "slug": "starter-deck-zoro-and-sanji",
+        "name": "Starter Deck - Zoro and Sanji",
+        "set_code": "ST12",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST12-011/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST12-011/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST12-011/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST12-011/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST12-011/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539153/one-piece-card-game-starter-deck-12-zoro-and-sanji-sanji",
+        "market_price": "0.30",
+        "low_price": "0.20",
+        "mid_price": "0.30",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I activate this [When Attacking] effect when I have 5 cards in my hand, and then the number of cards in my hand becomes 6 or more before the start of my next turn, will this Character still have +2000 power?",
+      "answer": "Yes, this Character will still have +2000 power.",
+      "updated_on": "2024-03-01"
+    },
+    {
+      "question": "If I activate this [When Attacking] effect twice during one turn, can this Character gain a total of +4000 power?",
+      "answer": "Yes, it can.",
+      "updated_on": "2024-03-01"
+    }
+  ]
+}

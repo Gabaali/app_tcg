@@ -1,0 +1,260 @@
+{
+  "card_number": "OP04-010",
+  "name": "Tony Tony.Chopper",
+  "language": "en",
+  "set": "OP04",
+  "set_name": "Kingdoms of Intrigue",
+  "released_at": "2023-09-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal",
+    "Alabasta",
+    "Straw Hat Crew"
+  ],
+  "effect": "[On Play] Play up to 1 {Animal} type Character card with 3000 power or less from your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-010/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-010/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516737/one-piece-card-game-kingdoms-of-intrigue-tony-tonychopper",
+        "market_price": "0.17",
+        "low_price": "0.03",
+        "mid_price": "0.22",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dec7a1ad-c806-4adb-b4b3-81ab529e42c3",
+        "slug": "tournament-pack-2024-oct-dec",
+        "name": "Tournament Pack 2024 Oct.-dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-010/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-010/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/583738/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-tournament-pack-2024-oct-dec",
+        "market_price": "0.56",
+        "low_price": "0.25",
+        "mid_price": "0.57",
+        "high_price": "3.16"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dec7a1ad-c806-4adb-b4b3-81ab529e42c3",
+        "slug": "tournament-pack-2024-oct-dec",
+        "name": "Tournament Pack 2024 Oct.-dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-010/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-010/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "7d487e6d-4ddd-438d-a2c0-fb06f6f16a51",
+        "slug": "op04-release-event",
+        "name": "OP04 Release Event",
+        "set_code": null,
+        "released_at": "2023-09-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516840/one-piece-card-game-kingdoms-of-intrigue-pre-release-cards-tony-tonychopper",
+        "market_price": "18.65",
+        "low_price": "16.99",
+        "mid_price": "24.99",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c3c341f6-dde8-4e93-ac99-75069e562034",
+        "slug": "cs-25-26-celebration-pack-2",
+        "name": "CS 25-26 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649635/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-cs-25-26-celebration-pack",
+        "market_price": "100.05",
+        "low_price": "237.65",
+        "mid_price": "245.97",
+        "high_price": "245.98"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a08bada6-e981-469d-8fa8-171a3c479d49",
+        "slug": "winner-pack-2024-oct-dec",
+        "name": "Winner Pack 2024 Oct.-Dec.",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/583737/one-piece-card-game-one-piece-promotion-cards-tony-tonychopper-winner-pack-2024-oct-dec",
+        "market_price": "39.28",
+        "low_price": "29.98",
+        "mid_price": "40.00",
+        "high_price": "1000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

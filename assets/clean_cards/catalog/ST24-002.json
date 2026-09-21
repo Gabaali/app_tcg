@@ -1,0 +1,92 @@
+{
+  "card_number": "ST24-002",
+  "name": "Kid & Killer",
+  "language": "en",
+  "set": "ST24",
+  "set_name": "Starter Deck - Green Jewelry Bonney",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 2,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash",
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Kid Pirates"
+  ],
+  "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.\n[On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8860a806-61e2-494b-ade8-547d21ab6f45",
+        "slug": "starter-deck-green-jewelry-bonney",
+        "name": "Starter Deck - Green Jewelry Bonney",
+        "set_code": "ST24",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST24-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST24-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634617/one-piece-card-game-starter-deck-24-green-jewelry-bonney-kid-and-killer",
+        "market_price": "1.72",
+        "low_price": "1.25",
+        "mid_price": "1.98",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I was attacked by my opponent's Character while I had no active DON!! cards, and used this Character's [On Your Opponent's Attack] effect to set 1 of my DON!! cards as active. Can I then rest that DON!! card to use the [On Your Opponent's Attack] effect of \"OP07-019 Jewelry Bonney\" during the same attack?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-05-30"
+    },
+    {
+      "question": "If my opponent's Character attacks and uses its [When Attacking] effect to K.O. this Character, can I still activate this Character's [On Your Opponent's Attack] effect?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-05-30"
+    }
+  ]
+}

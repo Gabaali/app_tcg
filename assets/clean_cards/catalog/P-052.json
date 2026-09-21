@@ -1,0 +1,114 @@
+{
+  "card_number": "P-052",
+  "name": "Dracule Mihawk",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Blue"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea"
+  ],
+  "effect": "[DON!! x1] This Character cannot be K.O.'d in battle by  attribute cards.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "12c8b9ed-2b6b-453e-8acc-34f9334a8730",
+        "slug": "sealed-battle-kit-vol-1",
+        "name": "Sealed Battle Kit Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-052/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-052/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/518699/one-piece-card-game-one-piece-promotion-cards-dracule-mihawk-sealed-battle-kit-vol-1",
+        "market_price": "2.66",
+        "low_price": "2.50",
+        "mid_price": "2.99",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "63fb0391-fc0e-4b2f-a702-0e0ecf6326eb",
+        "slug": "live-action-edition",
+        "name": "Live Action Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-052/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-052/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/546713/one-piece-card-game-one-piece-promotion-cards-dracule-mihawk-premium-card-collection-live-action-edition",
+        "market_price": "4.89",
+        "low_price": "4.20",
+        "mid_price": "5.00",
+        "high_price": "499.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,126 @@
+{
+  "card_number": "OP06-024",
+  "name": "Ikaros Much",
+  "language": "en",
+  "set": "OP06",
+  "set_name": "Wings of the Captain",
+  "released_at": "2024-03-15T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Fish-Man",
+    "New Fish-Man Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {New Fish-Man Pirates} type, play up to 1 {Fish-Man} type Character card with a cost of 4 or less from your hand. Then, add 1 card from the top of your Life cards to your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8366beec-0797-459c-85ef-2a954bb9bcc4",
+        "slug": "wings-of-the-captain",
+        "name": "Wings of the Captain",
+        "set_code": "OP06",
+        "released_at": "2024-03-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP06-024/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP06-024/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541595/one-piece-card-game-wings-of-the-captain-ikaros-much",
+        "market_price": "0.08",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c669e8ee-e7a0-4236-a004-685661b9aaa0",
+        "slug": "op06-release-event",
+        "name": "OP06 Release Event",
+        "set_code": null,
+        "released_at": "2024-03-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/541727/one-piece-card-game-wings-of-the-captain-pre-release-cards-ikaros-much",
+        "market_price": "1.09",
+        "low_price": "1.09",
+        "mid_price": "1.49",
+        "high_price": "4.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to play \"OP06-034 Hyouzou\" from my hand?",
+      "answer": "No, you cannot. (Please see the official website for the updated text of \"OP06-034 Hyouzou\".)",
+      "updated_on": "2024-04-19"
+    },
+    {
+      "question": "If I play this Character when my Leader has the {New Fish-Man Pirates} type, do I still need to add 1 of my Life cards to my hand if I don't play a Character from my hand according to this [On Play] effect?",
+      "answer": "Yes, you still need to add 1 Life card to your hand.",
+      "updated_on": "2024-04-19"
+    }
+  ]
+}

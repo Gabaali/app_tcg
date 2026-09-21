@@ -1,0 +1,194 @@
+{
+  "card_number": "EB02-019",
+  "name": "Roronoa Zoro",
+  "language": "en",
+  "set": "EB02",
+  "set_name": "Anime 25th Collection",
+  "released_at": "2025-05-09T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "East Blue",
+    "Straw Hat Crew"
+  ],
+  "effect": "If your opponent has 2 or more Characters, this Character can attack Characters on the turn in which it is played.\n[On Play] If your Leader has the {Straw Hat Crew} type, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-019/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-019/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629113/one-piece-card-game-extra-booster-anime-25th-collection-roronoa-zoro",
+        "market_price": "0.40",
+        "low_price": "0.20",
+        "mid_price": "0.50",
+        "high_price": "20.34"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9d72642b-73a7-490e-9b06-53126657d8c0",
+        "slug": "tournament-pack-2025-vol-3",
+        "name": "Tournament Pack 2025 Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-019/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-019/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/641202/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-tournament-pack-2025-vol-3",
+        "market_price": "0.46",
+        "low_price": "0.23",
+        "mid_price": "0.50",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9d72642b-73a7-490e-9b06-53126657d8c0",
+        "slug": "tournament-pack-2025-vol-3",
+        "name": "Tournament Pack 2025 Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-019/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-019/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/641203/one-piece-card-game-one-piece-promotion-cards-roronoa-zoro-winner-pack-2025-vol-3",
+        "market_price": "39.24",
+        "low_price": "29.75",
+        "mid_price": "46.94",
+        "high_price": "149.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "90fc7f9f-bc9b-4969-85ea-2ffb2e6a9e74",
+        "slug": "learn-together-deck-set",
+        "name": "Learn Together Deck Set",
+        "set_code": null,
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656641/one-piece-card-game-learn-together-deck-set-roronoa-zoro-eb02-019-zoro-deck",
+        "market_price": "0.11",
+        "low_price": "0.05",
+        "mid_price": "0.19",
+        "high_price": "4.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I played this Character during my turn when my opponent had 2 Characters, but then another effect reduced the number of my opponent's Characters to 1. Can I still use this Character to attack my opponent's Character?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-04-25"
+    }
+  ]
+}

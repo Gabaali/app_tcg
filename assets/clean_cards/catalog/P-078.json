@@ -1,0 +1,331 @@
+{
+  "card_number": "P-078",
+  "name": "Adio",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "ODYSSEY"
+  ],
+  "effect": "If you have 2 or more rested {ODYSSEY} type Characters, this Character gains +1000 power.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-078/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-078/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656223/one-piece-card-game-premium-booster-the-best-vol-2-adio",
+        "market_price": "0.51",
+        "low_price": "0.12",
+        "mid_price": "0.66",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-078/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-078/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656222/one-piece-card-game-premium-booster-the-best-vol-2-adio-pirate-foil",
+        "market_price": "0.37",
+        "low_price": "0.10",
+        "mid_price": "0.45",
+        "high_price": "5.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-078/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-078/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/619198/one-piece-card-game-one-piece-promotion-cards-adio-offline-regional-participation-pack-2025-vol1",
+        "market_price": "3.17",
+        "low_price": "2.97",
+        "mid_price": "6.50",
+        "high_price": "69.98"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-078/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-078/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/623620/one-piece-card-game-one-piece-promotion-cards-adio-offline-regional-finalist-card-set-2025-vol1",
+        "market_price": "31.71",
+        "low_price": "30.00",
+        "mid_price": "38.34",
+        "high_price": "130.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-078/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-078/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666571/one-piece-card-game-one-piece-promotion-cards-adio-online-regional-participation-pack-2025-vol1",
+        "market_price": "10.44",
+        "low_price": "7.50",
+        "mid_price": "10.74",
+        "high_price": "19.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-078/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-078/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681243/one-piece-card-game-one-piece-promotion-cards-adio-online-regional-finalist-card-set-2025-vol1",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-078/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-078/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/681242/one-piece-card-game-one-piece-promotion-cards-adio-offline-regional-champion-card-set-2025-vol1",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61293abf-8bc9-48da-bae0-5cd09394e104",
+        "slug": "offline-regional-participation-pack-2025-vol-1",
+        "name": "Offline Regional Participation Pack 2025 Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-078/en/stock/7/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-078/en/stock/7/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/623632/one-piece-card-game-one-piece-promotion-cards-adio-online-regional-champion-card-set-2025-vol1",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

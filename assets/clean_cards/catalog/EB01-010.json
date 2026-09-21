@@ -1,0 +1,77 @@
+{
+  "card_number": "EB01-010",
+  "name": "There's No Way You Could Defeat Me!!",
+  "language": "en",
+  "set": "EB01",
+  "set_name": "Memorial Collection",
+  "released_at": "2024-05-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Red"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Water Seven",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Counter] K.O. up to 1 of your opponent's Characters with 6000 base power or less.",
+  "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.593023,
+        "y": 0.461905
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-010/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-010/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544536/one-piece-card-game-extra-booster-memorial-collection-theres-no-way-you-could-defeat-me",
+        "market_price": "0.25",
+        "low_price": "0.10",
+        "mid_price": "0.31",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

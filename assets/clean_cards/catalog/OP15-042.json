@@ -1,0 +1,115 @@
+{
+  "card_number": "OP15-042",
+  "name": "Kyros",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 3,
+  "power": 5000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Dressrosa"
+  ],
+  "effect": "[On Play] You may trash 1 card from your hand: If your Leader is [Rebecca], this Character gains [Rush] during this turn.\n[On K.O.] Add this Character card from your trash to your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": "Nekobayashi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-042/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-042/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-042/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-042/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-042/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685386/one-piece-card-game-adventure-on-kamis-island-kyros",
+        "market_price": "0.07",
+        "low_price": "0.01",
+        "mid_price": "0.18",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": "Nekobayashi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1fca1189-ffbd-43ad-a84d-b2e5ea496188",
+        "slug": "dash-pack",
+        "name": "Dash Pack",
+        "set_code": null,
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-042/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-042/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-042/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686293/one-piece-card-game-adventure-on-kamis-island-kyros-dash-pack",
+        "market_price": "0.31",
+        "low_price": "0.10",
+        "mid_price": "0.51",
+        "high_price": "6.69"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

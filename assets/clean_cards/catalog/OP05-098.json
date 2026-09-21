@@ -1,0 +1,244 @@
+{
+  "card_number": "OP05-098",
+  "name": "Enel",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Sky Island"
+  ],
+  "effect": "[Opponent's Turn] [Once Per Turn] When your number of Life cards becomes 0, add 1 card from the top of your deck to the top of your Life cards. Then, trash 1 card from your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.340532,
+        "y": 0.142857
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-098/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-098/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528660/one-piece-card-game-awakening-of-the-new-era-enel-098",
+        "market_price": "0.20",
+        "low_price": "0.10",
+        "mid_price": "0.25",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.536545,
+        "y": 0.344048
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-098/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-098/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527021/one-piece-card-game-awakening-of-the-new-era-enel-098-alternate-art",
+        "market_price": "41.23",
+        "low_price": "31.90",
+        "mid_price": "42.33",
+        "high_price": "149.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-098/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-098/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.347176,
+        "y": 0.144048
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-098/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-098/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629172/one-piece-card-game-extra-booster-anime-25th-collection-enel-sp",
+        "market_price": "717.74",
+        "low_price": "1600.00",
+        "mid_price": "1600.00",
+        "high_price": "1600.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c5869554-7bb8-445f-b305-afe4fdf1b785",
+        "slug": "sound-loader-vol-2",
+        "name": "Sound Loader Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-098/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-098/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/594592/one-piece-card-game-one-piece-promotion-cards-enel-sound-loader-vol-2",
+        "market_price": "9.57",
+        "low_price": "9.00",
+        "mid_price": "10.44",
+        "high_price": "35.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I take damage when I have 1 Life card remaining and that Life card has a Trigger, which will activate first: this [Opponent's Turn] effect or the [Trigger]?",
+      "answer": "You will choose whether to activate the [Trigger] effect. If you choose to activate it, this [Opponent's Turn] effect will activate after that effect has been processed.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I took damage when I had 1 Life card remaining. That Life card was \"OP03-118 Ikoku Sovereignty\", so I activated the [Trigger] effect and my number of Life cards went from 0 to 1. In this case, can I still activate this [Opponent's Turn] effect?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I took damage when I had 1 Life card remaining. That Life card was \"OP05-106 Shura\", so I activated the [Trigger] effect. What will activate first, this Leader's [Opponent's Turn] effect or the [On Play] effect of \"OP05-106 Shura\"?",
+      "answer": "The player who activated this Leader's [Opponent's Turn] effect and the [On Play] effect of \"OP05-106 Shura\" can activate the effects in the order they wish.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I took 2 damage from my opponent's card with [Double Attack] when I had 1 Life card remaining. In this case, do I take the second damage after I have taken the first damage and activated this [Opponent's Turn] effect?",
+      "answer": "No. After you have taken 2 damage and the Damage Step has ended, you can then use this [Opponent's Turn] effect to add 1 card from the top of your deck to the top of your Life cards.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

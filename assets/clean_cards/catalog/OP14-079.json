@@ -1,0 +1,127 @@
+{
+  "card_number": "OP14-079",
+  "name": "Crocodile",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Baroque Works"
+  ],
+  "effect": "All of your opponent's Characters cannot be removed from the field by your effects.\n[Activate: Main] [Once Per Turn] You may K.O. 1 of your Characters with a type including \"Baroque Works\": Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.371985,
+        "y": 0.203397
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-079/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-079/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP14-079/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP14-079/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-079/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666761/one-piece-card-game-the-azure-seas-seven-crocodile-op14-079",
+        "market_price": "0.13",
+        "low_price": "0.02",
+        "mid_price": "0.20",
+        "high_price": "12.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.700997,
+        "y": 0.183333
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-079/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-079/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666762/one-piece-card-game-the-azure-seas-seven-crocodile-op14-079-alternate-art",
+        "market_price": "27.59",
+        "low_price": "24.96",
+        "mid_price": "31.38",
+        "high_price": "80.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Which player's effects is the \"your effects\" in \"All of your opponent's Characters cannot be removed from the field by your effects.\" referring to?",
+      "answer": "This refers to the effects of whichever player is using this Crocodile card as their Leader. For example, if this card is your Leader and you activate \"EB01-051 Finger Gun\", you may use the \"trash 2 cards from the top of your deck\" effect, but even if you select \"1 of your opponent's Characters with a cost of 5 or less\", that Character belonging to your opponent will not be K.O.'d.",
+      "updated_on": "2026-06-26"
+    },
+    {
+      "question": "If I use this [Activate: Main] effect to K.O. one of my Characters, can I activate that Character's [On K.O.] effect if it has one?",
+      "answer": "Yes, you can. In this case, the \"Give up to 1 of your opponent's Characters −10 cost during this turn. Then, you may trash 2 cards from the top of your deck.\" effect would activate first, and then that Character's [On K.O.] effect would activate.",
+      "updated_on": "2026-06-26"
+    }
+  ]
+}

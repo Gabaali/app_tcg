@@ -1,0 +1,249 @@
+{
+  "card_number": "ST02-010",
+  "name": "Basil Hawkins",
+  "language": "en",
+  "set": "ST02",
+  "set_name": "Starter Deck - Worst Generation",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Supernovas",
+    "Hawkins Pirates"
+  ],
+  "effect": "[DON!! x1] [Once Per Turn] [Your Turn] If this Character battles your opponent's Character, set this card as active.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d2b915f6-feb6-4b22-97fb-cb6a554615f6",
+        "slug": "starter-deck-worst-generation",
+        "name": "Starter Deck - Worst Generation",
+        "set_code": "ST02",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST02-010/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST02-010/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288258/one-piece-card-game-starter-deck-2-worst-generation-basil-hawkins",
+        "market_price": "0.26",
+        "low_price": "0.16",
+        "mid_price": "0.30",
+        "high_price": "7.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89339301-8d55-4d5f-8450-302a39e50cec",
+        "slug": "cs-2023-top-players-pack",
+        "name": "CS 2023 Top Players Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST02-010/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST02-010/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525684/one-piece-card-game-one-piece-promotion-cards-basil-hawkins-cs-2023-top-players-pack-finalist",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89339301-8d55-4d5f-8450-302a39e50cec",
+        "slug": "cs-2023-top-players-pack",
+        "name": "CS 2023 Top Players Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525685/one-piece-card-game-one-piece-promotion-cards-basil-hawkins-cs-2023-top-players-pack-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89339301-8d55-4d5f-8450-302a39e50cec",
+        "slug": "cs-2023-top-players-pack",
+        "name": "CS 2023 Top Players Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525683/one-piece-card-game-one-piece-promotion-cards-basil-hawkins-cs-2023-top-players-pack",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "30f31f24-25b4-4bf1-9ff7-593e9c322300",
+        "slug": "st02-release-event",
+        "name": "ST02 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/419415/one-piece-card-game-super-pre-release-starter-deck-2-worst-generation-basil-hawkins",
+        "market_price": "0.92",
+        "low_price": "0.67",
+        "mid_price": "1.25",
+        "high_price": "10.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can the Character attack again if this effect sets it as active?",
+      "answer": "Yes, the Character can attack again.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If this Character battles my opponent's Character, at what point during the Battle Phase does this Character become active?",
+      "answer": "This Character becomes active at the end of the battle if the target of the attack was a Character.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Does this Character become active if it attacks my opponent's Leader and my opponent activates [Blocker]?",
+      "answer": "Yes, it does.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I declared my attack while my opponent had 5 Characters on their field, and my opponent activated the [Blocker] of \"OP01-014 Jinbe\". At this time, my opponent chose to play a red Character with a cost of 2 or less from their hand according to the [On Block] effect of \"OP01-014 Jinbe\", and trashed the Jinbe whose [Blocker] they had activated according to the rules. In this case, will my Character become active?",
+      "answer": "No, your Character will not become active. Since the target for the attack no longer exists, the Counter Step and Damage Step will be skipped, and the battle will end. In this case, the requirement that \"this Character battles your opponent's Character\" is not resolved, so your Character cannot be set to active.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "My opponent's Character battling this Character left the field during the Attack Step, Block Step, or Counter Step due to an effect. In this case, will this Character's effect activate?",
+      "answer": "No, it will not. This effect is activated at the end of the battle upon resolving the power comparison in the Damage Step. If the Character being battled with leaves the field in the middle of the battle (i.e., during the Attack Step, Block Step, or Counter Step), the battle is suspended at that point. In such a case, this Character's effect will not be activated because the Damage Step has not been resolved.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

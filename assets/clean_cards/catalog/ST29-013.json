@@ -1,0 +1,122 @@
+{
+  "card_number": "ST29-013",
+  "name": "Rob Lucci",
+  "language": "en",
+  "set": "ST29",
+  "set_name": "Starter Deck - Egghead",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Egghead",
+    "CP0"
+  ],
+  "effect": null,
+  "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Morechand",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1987d5d-c1e6-42c6-b1a0-be406a2f282e",
+        "slug": "starter-deck-egghead",
+        "name": "Starter Deck - Egghead",
+        "set_code": "ST29",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST29-013/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-013/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST29-013/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST29-013/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-013/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671607/one-piece-card-game-starter-deck-29-egghead-rob-lucci",
+        "market_price": "0.10",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1987d5d-c1e6-42c6-b1a0-be406a2f282e",
+        "slug": "starter-deck-egghead",
+        "name": "Starter Deck - Egghead",
+        "set_code": "ST29",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST29-013/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-013/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671608/one-piece-card-game-starter-deck-29-egghead-rob-lucci-full-art",
+        "market_price": "0.98",
+        "low_price": "0.74",
+        "mid_price": "1.18",
+        "high_price": "20.87"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Does the \"total of your and your opponent's Life cards\" mentioned in this [Trigger] also count the card that triggered the effect?",
+      "answer": "No, you exclude that card from the Life cards being counted.",
+      "updated_on": "2026-01-09"
+    }
+  ]
+}

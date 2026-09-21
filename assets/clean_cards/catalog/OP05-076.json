@@ -1,0 +1,257 @@
+{
+  "card_number": "OP05-076",
+  "name": "When You're at Sea You Fight against Pirates!!",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Purple"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Land of Wano"
+  ],
+  "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": "[Trigger] Activate this card's [Main] effect.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-076/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-076/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528636/one-piece-card-game-awakening-of-the-new-era-when-youre-at-sea-you-fight-against-pirates",
+        "market_price": "0.40",
+        "low_price": "0.04",
+        "mid_price": "0.39",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0b33b9ad-6e03-4c30-808a-e685259f5326",
+        "slug": "starter-deck-purple-monkey-d-luffy",
+        "name": "Starter Deck - Purple Monkey.d.luffy",
+        "set_code": "ST18",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-076/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-076/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581029/one-piece-card-game-starter-deck-18-purple-monkeydluffy-when-youre-at-sea-you-fight-against-pirates",
+        "market_price": "0.31",
+        "low_price": "0.22",
+        "mid_price": "0.35",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e5280ed9-38dc-4ee8-be9a-d5499248bcaa",
+        "slug": "pirates-league-store-qualifier",
+        "name": "Pirates League Store Qualifier",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-076/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-076/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/641244/one-piece-card-game-one-piece-promotion-cards-when-youre-at-sea-you-fight-against-pirates-2025-pirates-league-store-qualifier-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e5280ed9-38dc-4ee8-be9a-d5499248bcaa",
+        "slug": "pirates-league-store-qualifier",
+        "name": "Pirates League Store Qualifier",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-076/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-076/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/641243/one-piece-card-game-one-piece-promotion-cards-when-youre-at-sea-you-fight-against-pirates-2025-pirates-league-store-qualifier",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e5280ed9-38dc-4ee8-be9a-d5499248bcaa",
+        "slug": "pirates-league-store-qualifier",
+        "name": "Pirates League Store Qualifier",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-076/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-076/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "3628d773-6fcf-4c5a-855e-81d644aa1a69",
+        "slug": "2025-pirates-league-finals-textured-foil",
+        "name": "2025 Pirates League Finals Textured Foil",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668672/one-piece-card-game-one-piece-promotion-cards-when-youre-at-sea-you-fight-against-pirates-2025-pirates-league-finals-textured-foil",
+        "market_price": null,
+        "low_price": "2999.99",
+        "mid_price": "3075.00",
+        "high_price": "3150.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

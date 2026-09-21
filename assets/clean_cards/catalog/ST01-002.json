@@ -1,0 +1,192 @@
+{
+  "card_number": "ST01-002",
+  "name": "Usopp",
+  "language": "en",
+  "set": "ST01",
+  "set_name": "Starter Deck - Straw Hat Crew",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Red"
+  ],
+  "cost": 2,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle.",
+  "trigger": "[Trigger] Play this card.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "620ac1c8-baac-4c2f-8672-0951e048fa15",
+        "slug": "starter-deck-straw-hat-crew",
+        "name": "Starter Deck - Straw Hat Crew",
+        "set_code": "ST01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288229/one-piece-card-game-starter-deck-1-straw-hat-crew-usopp",
+        "market_price": "0.18",
+        "low_price": "0.02",
+        "mid_price": "0.20",
+        "high_price": "3.50"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61f18e11-a46d-49dc-afb4-f0a1fb1e1a96",
+        "slug": "film-red-edition",
+        "name": "Film Red Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-002/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-002/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/485264/one-piece-card-game-one-piece-promotion-cards-usopp-st01-002-alternate-art",
+        "market_price": "18.93",
+        "low_price": "14.10",
+        "mid_price": "18.90",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61f18e11-a46d-49dc-afb4-f0a1fb1e1a96",
+        "slug": "film-red-edition",
+        "name": "Film Red Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-002/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-002/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6768382f-a265-4e78-8152-83cacb6180e4",
+        "slug": "st01-release-event",
+        "name": "ST01 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-002/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-002/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/412744/one-piece-card-game-super-pre-release-starter-deck-1-straw-hat-crew-usopp",
+        "market_price": "10.75",
+        "low_price": "3.76",
+        "mid_price": "10.45",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If the power of a Character blocking this Character becomes 6000 or more due to a Counter, does the target of the attack revert back to the original target?",
+      "answer": "No. Since the [Blocker] has already been activated, the target of the attack will remain the Character that activated the [Blocker].",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

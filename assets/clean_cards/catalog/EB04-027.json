@@ -1,0 +1,80 @@
+{
+  "card_number": "EB04-027",
+  "name": "Boa Hancock",
+  "language": "en",
+  "set": "EB04",
+  "set_name": "Extra Booster 4",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Kuja Pirates"
+  ],
+  "effect": "[On Play] Draw 2 cards and trash 1 card from your hand.",
+  "trigger": "[Trigger] Play up to 1 Character card with 5000 power or less and a [Trigger] from your hand.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB04-027/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-027/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB04-027/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB04-027/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB04-027/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/668528/one-piece-card-game-the-azure-seas-seven-boa-hancock-eb04-027",
+        "market_price": "0.30",
+        "low_price": "0.02",
+        "mid_price": "0.30",
+        "high_price": "20.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

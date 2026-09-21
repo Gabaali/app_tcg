@@ -1,0 +1,404 @@
+{
+  "card_number": "EB01-015",
+  "name": "Scratchmen Apoo",
+  "language": "en",
+  "set": "EB01",
+  "set_name": "Memorial Collection",
+  "released_at": "2024-05-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 1,
+  "power": 1000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "On-Air Pirates"
+  ],
+  "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.481728,
+        "y": 0.238095
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544543/one-piece-card-game-extra-booster-memorial-collection-scratchmen-apoo",
+        "market_price": "0.79",
+        "low_price": "0.60",
+        "mid_price": "1.20",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": "UGUME",
+      "crop_focus": {
+        "x": 0.517422,
+        "y": 0.243475
+      },
+      "product": {
+        "id": "8860a806-61e2-494b-ade8-547d21ab6f45",
+        "slug": "starter-deck-green-jewelry-bonney",
+        "name": "Starter Deck - Green Jewelry Bonney",
+        "set_code": "ST24",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB01-015/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634598/one-piece-card-game-starter-deck-24-green-jewelry-bonney-scratchmen-apoo-reprint",
+        "market_price": "0.16",
+        "low_price": "0.09",
+        "mid_price": "0.25",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.486884,
+        "y": 0.246481
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/655982/one-piece-card-game-premium-booster-the-best-vol-2-scratchmen-apoo-eb01-015-reprint",
+        "market_price": "0.35",
+        "low_price": "0.08",
+        "mid_price": "0.35",
+        "high_price": "20.29"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.52326,
+        "y": 0.247483
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653917/one-piece-card-game-premium-booster-the-best-vol-2-scratchmen-apoo-eb01-015-alternate-art",
+        "market_price": "6.90",
+        "low_price": "4.50",
+        "mid_price": "7.55",
+        "high_price": "28.48"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Bashikou",
+      "crop_focus": {
+        "x": 0.623704,
+        "y": 0.294574
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB01-015/en/scans/4/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/scans/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/scans/4/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.486711,
+        "y": 0.47619
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.634551,
+        "y": 0.265476
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-015/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-015/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8c4d3bb5-102a-4f8f-be24-628a373984f5",
+        "slug": "winner-pack-2025-vol-2",
+        "name": "Winner Pack 2025 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/622597/one-piece-card-game-one-piece-promotion-cards-scratchmen-apoo-winner-pack-2025-vol-2",
+        "market_price": "5.25",
+        "low_price": "4.00",
+        "mid_price": "5.89",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "258ada45-7714-41b2-ba9c-3d0889491677",
+        "slug": "tournament-pack-2025-vol-2",
+        "name": "Tournament Pack 2025 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/622592/one-piece-card-game-one-piece-promotion-cards-scratchmen-apoo-tournament-pack-2025-vol-2",
+        "market_price": "0.27",
+        "low_price": "0.10",
+        "mid_price": "0.32",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c3c341f6-dde8-4e93-ac99-75069e562034",
+        "slug": "cs-25-26-celebration-pack-2",
+        "name": "CS 25-26 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649633/one-piece-card-game-one-piece-promotion-cards-scratchmen-apoo-cs-25-26-celebration-pack",
+        "market_price": "47.23",
+        "low_price": "36.71",
+        "mid_price": "48.50",
+        "high_price": "100.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

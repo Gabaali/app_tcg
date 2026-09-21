@@ -1,0 +1,85 @@
+{
+  "card_number": "ST16-002",
+  "name": "Gordon",
+  "language": "en",
+  "set": "ST16",
+  "set_name": "Starter Deck - Green Uta",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Green"
+  ],
+  "cost": 2,
+  "power": 0,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "FILM"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[On Your Opponent's Attack] You may trash any number of {Music} type cards from your hand. Your Leader or 1 of your Characters gains +1000 power during this battle for every card trashed.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "601db5a3-a20e-487b-9047-d02abfe0dc89",
+        "slug": "starter-deck-green-uta",
+        "name": "Starter Deck - Green Uta",
+        "set_code": "ST16",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST16-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581002/one-piece-card-game-starter-deck-16-green-uta-gordon",
+        "market_price": "0.08",
+        "low_price": "0.02",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Your Opponent's Attack] effect to trash 2 {Music} type cards from my hand to give 2 of my Characters +1000 power each?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-10-11"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "card_number": "OP01-060",
+  "name": "Donquixote Doflamingo",
+  "language": "en",
+  "set": "OP01",
+  "set_name": "Romance Dawn",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Donquixote Pirates"
+  ],
+  "effect": "[DON!! x2] [When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Reveal 1 card from the top of your deck. If that card is a {The Seven Warlords of the Sea} type Character card with a cost of 4 or less, you may play that card rested.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.509953,
+        "y": 0.138922
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-060/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-060/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454585/one-piece-card-game-romance-dawn-donquixote-doflamingo-060",
+        "market_price": "0.35",
+        "low_price": "0.10",
+        "mid_price": "0.50",
+        "high_price": "20.46"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.660492,
+        "y": 0.476112
+      },
+      "product": {
+        "id": "9c438d47-c70f-48aa-91c5-c40efa7ca4e0",
+        "slug": "romance-dawn",
+        "name": "Romance Dawn",
+        "set_code": "OP01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-060/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-060/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/454586/one-piece-card-game-romance-dawn-donquixote-doflamingo-060-parallel",
+        "market_price": "258.96",
+        "low_price": "307.68",
+        "mid_price": "400.00",
+        "high_price": "3000.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.302961,
+        "y": 0.214453
+      },
+      "product": {
+        "id": "80cce277-2d8e-44a2-afe3-d1991034140c",
+        "slug": "starter-deck-blue-donquixote-doflamingo",
+        "name": "Starter Deck - Blue Donquixote Doflamingo",
+        "set_code": "ST17",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP01-060/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP01-060/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581006/one-piece-card-game-starter-deck-17-blue-donquixote-doflamingo-donquixote-doflamingo-op01-060",
+        "market_price": "1.77",
+        "low_price": "1.00",
+        "mid_price": "2.00",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I reveal a card according to this [When Attacking] effect and then do not play it, should that card remain face-up?",
+      "answer": "No. Return it to the top of your deck face-down.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

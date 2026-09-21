@@ -1,0 +1,158 @@
+{
+  "card_number": "OP12-034",
+  "name": "Perona",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 1,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Muggy Kingdom",
+    "Thriller Bark Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the  attribute, look at 5 cards from the top of your deck; reveal up to 1 <Slash> attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Nakamaru",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-034/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-034/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-034/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-034/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-034/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643764/one-piece-card-game-legacy-of-the-master-perona",
+        "market_price": "17.49",
+        "low_price": "15.24",
+        "mid_price": "18.75",
+        "high_price": "80.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-034/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-034/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643765/one-piece-card-game-legacy-of-the-master-perona-alternate-art",
+        "market_price": "72.35",
+        "low_price": "60.00",
+        "mid_price": "87.23",
+        "high_price": "99.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "267b7190-f9ac-4b75-b21d-da5051afa5ad",
+        "slug": "japanese-3rd-anniversary-set",
+        "name": "Japanese 3rd Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-034/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-034/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/680491/one-piece-card-game-one-piece-promotion-cards-perona-japanese-version-3rd-anniversary-set",
+        "market_price": "177.71",
+        "low_price": "259.99",
+        "mid_price": "279.97",
+        "high_price": "450.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to add a non- green <Slash> attribute card to my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

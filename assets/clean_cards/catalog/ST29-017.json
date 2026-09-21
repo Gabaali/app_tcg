@@ -1,0 +1,78 @@
+{
+  "card_number": "ST29-017",
+  "name": "Iai Death Lion Song",
+  "language": "en",
+  "set": "ST29",
+  "set_name": "Starter Deck - Egghead",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Egghead",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+  "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1987d5d-c1e6-42c6-b1a0-be406a2f282e",
+        "slug": "starter-deck-egghead",
+        "name": "Starter Deck - Egghead",
+        "set_code": "ST29",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST29-017/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-017/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST29-017/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST29-017/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-017/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671614/one-piece-card-game-starter-deck-29-egghead-iai-death-lion-song",
+        "market_price": "0.14",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "1.79"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,163 @@
+{
+  "card_number": "OP04-119",
+  "name": "Donquixote Rosinante",
+  "language": "en",
+  "set": "OP04",
+  "set_name": "Kingdoms of Intrigue",
+  "released_at": "2023-09-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Green"
+  ],
+  "cost": 8,
+  "power": 8000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy",
+    "Donquixote Pirates"
+  ],
+  "effect": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects.\n[On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-119/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-119/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/515594/one-piece-card-game-kingdoms-of-intrigue-donquixote-rosinante",
+        "market_price": "2.20",
+        "low_price": "1.95",
+        "mid_price": "3.44",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-119/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-119/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/515848/one-piece-card-game-kingdoms-of-intrigue-donquixote-rosinante-alternate-art",
+        "market_price": "10.41",
+        "low_price": "7.99",
+        "mid_price": "12.00",
+        "high_price": "120.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-119/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-119/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596912/one-piece-card-game-emperors-in-the-new-world-donquixote-rosinante-sp",
+        "market_price": "161.99",
+        "low_price": "150.00",
+        "mid_price": "170.09",
+        "high_price": "400.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "What is \"base cost\"?",
+      "answer": "The cost value written on the card.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "When this rested Character and my active Characters with a base cost of 5 would be K.O.'d be a single effect at the same time during my opponent's turn, does this [Opponent's Turn] effect still prevent my active Characters with a base cost of 5 from being K.O.'d?",
+      "answer": "Yes, it does. Your \"OP04-119 Donquixote Rosinante\" will be K.O.'d, but your active Characters with a base cost of 5 will not be K.O.'d.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

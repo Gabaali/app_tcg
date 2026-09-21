@@ -1,0 +1,79 @@
+{
+  "card_number": "ST28-005",
+  "name": "Yamato",
+  "language": "en",
+  "set": "ST28",
+  "set_name": "Starter Deck - Green/yellow Yamato",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": 0,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Land of Wano"
+  ],
+  "effect": "[DON!! x2] [Your Turn] This Character gains +3000 power.\n[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "PENEKOR",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5fc4a779-1784-40a0-b76c-5a763b0d62cc",
+        "slug": "starter-deck-green-yellow-yamato",
+        "name": "Starter Deck - Green/yellow Yamato",
+        "set_code": "ST28",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST28-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST28-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST28-005/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST28-005/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST28-005/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635316/one-piece-card-game-starter-deck-28-green-yellow-yamato-yamato",
+        "market_price": "1.12",
+        "low_price": "0.10",
+        "mid_price": "1.32",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

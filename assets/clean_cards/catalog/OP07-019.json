@@ -1,0 +1,235 @@
+{
+  "card_number": "OP07-019",
+  "name": "Jewelry Bonney",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Green"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Bonney Pirates"
+  ],
+  "effect": "[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Rest up to 1 of your opponent's Leader or Character cards.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.313953,
+        "y": 0.214286
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-019/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-019/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545799/one-piece-card-game-500-years-in-the-future-jewelry-bonney-019",
+        "market_price": "0.19",
+        "low_price": "0.04",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.702658,
+        "y": 0.239286
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-019/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-019/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545800/one-piece-card-game-500-years-in-the-future-jewelry-bonney-019-parallel",
+        "market_price": "44.28",
+        "low_price": "39.96",
+        "mid_price": "50.00",
+        "high_price": "149.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-019/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-019/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.322259,
+        "y": 0.210714
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-019/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-019/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629180/one-piece-card-game-extra-booster-anime-25th-collection-jewelry-bonney-sp",
+        "market_price": null,
+        "low_price": "1500.00",
+        "mid_price": "1553.25",
+        "high_price": "1606.50"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.543189,
+        "y": 0.161905
+      },
+      "product": {
+        "id": "8860a806-61e2-494b-ade8-547d21ab6f45",
+        "slug": "starter-deck-green-jewelry-bonney",
+        "name": "Starter Deck - Green Jewelry Bonney",
+        "set_code": "ST24",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-019/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-019/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634599/one-piece-card-game-starter-deck-24-green-jewelry-bonney-jewelry-bonney-op07-019",
+        "market_price": "1.19",
+        "low_price": "0.25",
+        "mid_price": "1.43",
+        "high_price": "10.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "During my opponent's turn, can I choose not to use this [On Your Opponent's Attack] effect the first time my opponent attacks, and then use this [On Your Opponent's Attack] effect the second time my opponent attacks?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "My opponent attacked with \"OP01-060 Donquixote Doflamingo\", then used its [When Attacking] effect to play \"OP07-045 Jinbe\". If my opponent then plays a Character using Jinbe's [On Play] effect, can I use this [On Your Opponent's Attack] effect to rest that Character?",
+      "answer": "No, you cannot. First, Jinbe is played with Donquixote Doflamingo's \"When Attacking\" effect, followed by the activation of this card's \"On Your Opponent's Attack\" effect. Then, Jinbe's \"On Play\" effect activates, allowing your opponent to play a Character from their hand.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

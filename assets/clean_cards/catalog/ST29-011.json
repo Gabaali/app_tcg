@@ -1,0 +1,116 @@
+{
+  "card_number": "ST29-011",
+  "name": "Brook",
+  "language": "en",
+  "set": "ST29",
+  "set_name": "Starter Deck - Egghead",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 2,
+  "power": 2000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Egghead",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "HISASHI HUJIWARA",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1987d5d-c1e6-42c6-b1a0-be406a2f282e",
+        "slug": "starter-deck-egghead",
+        "name": "Starter Deck - Egghead",
+        "set_code": "ST29",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST29-011/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-011/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST29-011/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST29-011/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-011/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671603/one-piece-card-game-starter-deck-29-egghead-brook",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.17",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e1987d5d-c1e6-42c6-b1a0-be406a2f282e",
+        "slug": "starter-deck-egghead",
+        "name": "Starter Deck - Egghead",
+        "set_code": "ST29",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST29-011/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST29-011/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671604/one-piece-card-game-starter-deck-29-egghead-brook-full-art",
+        "market_price": "4.31",
+        "low_price": "2.03",
+        "mid_price": "4.99",
+        "high_price": "15.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

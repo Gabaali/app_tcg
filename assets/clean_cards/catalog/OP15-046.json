@@ -1,0 +1,127 @@
+{
+  "card_number": "OP15-046",
+  "name": "Sabo",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 7,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Dressrosa",
+    "Revolutionary Army"
+  ],
+  "effect": "[Blocker]\n[On Play] If your Leader has the {Dressrosa} type, activate up to 1 {Dressrosa} type Event from your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Nijihayashi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-046/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-046/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-046/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-046/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-046/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685390/one-piece-card-game-adventure-on-kamis-island-sabo",
+        "market_price": "0.57",
+        "low_price": "0.23",
+        "mid_price": "0.99",
+        "high_price": "11.49"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Morechand",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-046/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-046/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-046/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-046/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-046/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685391/one-piece-card-game-adventure-on-kamis-island-sabo-alternate-art",
+        "market_price": "7.83",
+        "low_price": "6.75",
+        "mid_price": "9.29",
+        "high_price": "215.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "What happens to the Event activated by this card's [On Play] effect after its effect has resolved?",
+      "answer": "Unless the Event card specifies otherwise, it will be placed in Trash.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "Can I activate an Event's [Counter] effect in response to this card's [On Play] effect?",
+      "answer": "No, you cannot. *Confirm whether the wording to account for the opponent's Counter Step on their turn is necessary.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

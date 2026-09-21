@@ -1,0 +1,79 @@
+{
+  "card_number": "P-117",
+  "name": "Nami",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Leader",
+  "rarity": "P",
+  "color": [
+    "Blue"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "East Blue"
+  ],
+  "effect": "Under the rules of this game, you can only include {East Blue} type cards in your deck and when your deck is reduced to 0, you win the game instead of losing.\n[DON!! x1] When this Leader's attack deals damage to your opponent's Life, you may trash 1 card from the top of your deck.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": "Koush Rokushiro",
+      "crop_focus": {
+        "x": 0.42093,
+        "y": 0.187365
+      },
+      "product": {
+        "id": "f6ef95a2-acd2-4add-aff2-1d0bbae91c6d",
+        "slug": "store-tournament-2025-vol-4",
+        "name": "Store Tournament 2025 Vol. 4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-117/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-117/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/P-117/en/scans/0/full.png",
+          "full": "https://cdn.poneglyph.one/images/P-117/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-117/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656569/one-piece-card-game-one-piece-promotion-cards-nami-p-117",
+        "market_price": "2.88",
+        "low_price": "2.00",
+        "mid_price": "3.50",
+        "high_price": "22.07"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

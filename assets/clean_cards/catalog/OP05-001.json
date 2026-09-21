@@ -1,0 +1,168 @@
+{
+  "card_number": "OP05-001",
+  "name": "Sabo",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Revolutionary Army"
+  ],
+  "effect": "[DON!! x1] [Opponent's Turn] [Once Per Turn] If your Character with 5000 power or more would be K.O.'d, you may give that Character −1000 power during this turn instead of that Character being K.O.'d.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.436877,
+        "y": 0.252381
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528529/one-piece-card-game-awakening-of-the-new-era-sabo-001",
+        "market_price": "0.17",
+        "low_price": "0.05",
+        "mid_price": "0.23",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.496678,
+        "y": 0.488095
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527007/one-piece-card-game-awakening-of-the-new-era-sabo-001-alternate-art",
+        "market_price": "14.61",
+        "low_price": "12.50",
+        "mid_price": "20.21",
+        "high_price": "149.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.418605,
+        "y": 0.24881
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-001/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-001/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629168/one-piece-card-game-extra-booster-anime-25th-collection-sabo-sp",
+        "market_price": "1125.00",
+        "low_price": "1749.68",
+        "mid_price": "1749.84",
+        "high_price": "1750.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If a Character with a base power of 4000 or less is attacked and its power becomes 5000 or more in the Counter Step when it would be K.O.'d, can I use this [Opponent's Turn] effect to give the Character −1000 power instead of it being K.O.'d?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "When my Character with 5000 power or more would have been K.O.'d on my opponent's turn, I decided not to use this [Opponent's Turn] effect to give this Character −1000 power instead. Then, during that turn, if another one of my Characters with 5000 power or more would be K.O.'d, can I use this [Opponent's Turn] effect to give it −1000 power instead?",
+      "answer": "Yes, you can. Because “you may give that Character −1000 power during this turn instead” has not been resolved, the [Once Per Turn] restriction does not apply.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If the [On Play] effect of my opponent's \"OP01-094 Kaido\" would K.O. 2 of my Characters with 5000 power or more, can I use this [Opponent's Turn] effect of my Leader with 1 DON!! card given to it to prevent those 2 Characters from being K.O.'d?",
+      "answer": "Yes, you can. In this case, you can choose whether both of your 2 Characters with 5000 power or more will be K.O.'d, or neither will be K.O.'d but be given −1000 power.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

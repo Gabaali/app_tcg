@@ -1,0 +1,482 @@
+{
+  "card_number": "ST01-012",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST01",
+  "set_name": "Starter Deck - Straw Hat Crew",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Rush] (This card can attack on the turn in which it is played.)\n[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "620ac1c8-baac-4c2f-8672-0951e048fa15",
+        "slug": "starter-deck-straw-hat-crew",
+        "name": "Starter Deck - Straw Hat Crew",
+        "set_code": "ST01",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-012/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-012/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288241/one-piece-card-game-starter-deck-1-straw-hat-crew-monkeydluffy-012",
+        "market_price": "12.85",
+        "low_price": "4.49",
+        "mid_price": "18.28",
+        "high_price": "87.48"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-012/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-012/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/501678/one-piece-card-game-pillars-of-strength-monkeydluffy-wanted-poster",
+        "market_price": "354.20",
+        "low_price": "389.99",
+        "mid_price": "513.49",
+        "high_price": "1000.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-012/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-012/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/529850/one-piece-card-game-awakening-of-the-new-era-monkeydluffy-012-alternate-art-gold-stamped-signature",
+        "market_price": "4999.99",
+        "low_price": "7500.00",
+        "mid_price": "11399.99",
+        "high_price": "67676.67"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-012/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-012/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/527027/one-piece-card-game-awakening-of-the-new-era-monkeydluffy-012-alternate-art",
+        "market_price": "78.30",
+        "low_price": "62.98",
+        "mid_price": "83.24",
+        "high_price": "499.95"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6005012b-5043-45a8-a4c3-9e4ceaa8c523",
+        "slug": "tournament-pack-vol-5",
+        "name": "Tournament Pack Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-012/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-012/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/519814/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-tournament-pack-vol-5",
+        "market_price": "3.63",
+        "low_price": "1.19",
+        "mid_price": "5.00",
+        "high_price": "19.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6005012b-5043-45a8-a4c3-9e4ceaa8c523",
+        "slug": "tournament-pack-vol-5",
+        "name": "Tournament Pack Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-012/en/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-012/en/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6005012b-5043-45a8-a4c3-9e4ceaa8c523",
+        "slug": "tournament-pack-vol-5",
+        "name": "Tournament Pack Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-012/en/stock/6/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-012/en/stock/6/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "901abace-a432-4bdf-a30a-142123da096b",
+        "slug": "cs-2024-celebration-pack",
+        "name": "CS 2024 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST01-012/ja/stock/7/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST01-012/ja/stock/7/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/580050/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-cs-2024-celebration-pack",
+        "market_price": "149.46",
+        "low_price": "242.99",
+        "mid_price": "275.00",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 10,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a4bb54aa-070d-4500-8ea1-924ecbd9360d",
+        "slug": "3rd-anniversary-tournament-3-brothers-pack",
+        "name": "3rd Anniversary Tournament 3 Brothers Pack",
+        "set_code": null,
+        "released_at": "2025-10-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/661882/one-piece-card-game-carrying-on-his-will-3rd-anniversary-tournament-cards-monkeydluffy-st01-012-3rd-anniversary-tournament-3-brothers-pack",
+        "market_price": "30.71",
+        "low_price": "21.99",
+        "mid_price": "30.89",
+        "high_price": "250.00"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0b6352ac-87a0-434a-860e-aa1e39f81527",
+        "slug": "3rd-anniversary-winner",
+        "name": "3rd Anniversary Winner",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657798/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-st01-012-3rd-anniversary-winner",
+        "market_price": "413.26",
+        "low_price": "360.71",
+        "mid_price": "499.99",
+        "high_price": "2499.99"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "2cb4f6fc-3624-41b7-81d7-75bbba483388",
+        "slug": "winner-pack-vol-5",
+        "name": "Winner Pack Vol. 5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/519815/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-winner-pack-vol-5",
+        "market_price": "98.46",
+        "low_price": "74.00",
+        "mid_price": "106.50",
+        "high_price": "499.99"
+      }
+    },
+    {
+      "index": 11,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6768382f-a265-4e78-8152-83cacb6180e4",
+        "slug": "st01-release-event",
+        "name": "ST01 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/418873/one-piece-card-game-super-pre-release-starter-deck-1-straw-hat-crew-monkeydluffy-012",
+        "market_price": "214.02",
+        "low_price": "124.99",
+        "mid_price": "213.97",
+        "high_price": "499.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can my opponent activate [Blocker] if another Character attacks after this Character has attacked?",
+      "answer": "Yes, your opponent can activate [Blocker] because it is not during the battle in which this Character's [When Attacking] effect was activated.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

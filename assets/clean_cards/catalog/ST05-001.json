@@ -1,0 +1,86 @@
+{
+  "card_number": "ST05-001",
+  "name": "Shanks",
+  "language": "en",
+  "set": "ST05",
+  "set_name": "Starter Deck - One Piece Film Edition",
+  "released_at": "2023-02-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "FILM",
+    "The Four Emperors",
+    "Red-Haired Pirates"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): All of your {FILM} type Characters gain +2000 power during this turn.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.521595,
+        "y": 0.12619
+      },
+      "product": {
+        "id": "4794458e-0d8a-435d-931b-86fab87b94b4",
+        "slug": "starter-deck-one-piece-film-edition",
+        "name": "Starter Deck - One Piece Film Edition",
+        "set_code": "ST05",
+        "released_at": "2023-02-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST05-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST05-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/477316/one-piece-card-game-starter-deck-5-film-edition-shanks",
+        "market_price": "5.62",
+        "low_price": "2.38",
+        "mid_price": "6.05",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can this [Activate: Main] effect give this Leader +2000 power?",
+      "answer": "No, it cannot.",
+      "updated_on": "2023-01-27"
+    }
+  ]
+}

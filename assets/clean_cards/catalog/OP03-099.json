@@ -1,0 +1,162 @@
+{
+  "card_number": "OP03-099",
+  "name": "Charlotte Katakuri",
+  "language": "en",
+  "set": "OP03",
+  "set_name": "Pillars of Strength",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[DON!! x1] [When Attacking] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, this Leader gains +1000 power during this battle.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.677741,
+        "y": 0.189286
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-099/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-099/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/498483/one-piece-card-game-pillars-of-strength-charlotte-katakuri-099",
+        "market_price": "0.23",
+        "low_price": "0.15",
+        "mid_price": "0.25",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.707641,
+        "y": 0.282143
+      },
+      "product": {
+        "id": "6fa1f044-63f4-46a2-9a47-42048b7788b6",
+        "slug": "pillars-of-strength",
+        "name": "Pillars of Strength",
+        "set_code": "OP03",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-099/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-099/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/498484/one-piece-card-game-pillars-of-strength-charlotte-katakuri-099-alternate-art",
+        "market_price": "84.89",
+        "low_price": "81.99",
+        "mid_price": "96.30",
+        "high_price": "299.99"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.579734,
+        "y": 0.22381
+      },
+      "product": {
+        "id": "a2526a93-4cba-45d0-820a-428bacbd275c",
+        "slug": "starter-deck-yellow-charlotte-katakuri",
+        "name": "Starter Deck - Yellow Charlotte Katakuri",
+        "set_code": "ST20",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP03-099/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP03-099/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581051/one-piece-card-game-starter-deck-20-yellow-charlotte-katakuri-charlotte-katakuri-op03-099",
+        "market_price": "1.50",
+        "low_price": "0.80",
+        "mid_price": "1.63",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can this [When Attacking] effect give this Leader +1000 power even if there are no Life cards to look at?",
+      "answer": "Yes, it can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can this [When Attacking] effect give this Leader +1000 power even if I look at a Life card that is placed face-up?",
+      "answer": "Yes, it can. In this case, after looking at the face-up card, you can place it face-up at the top or bottom of the Life cards.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

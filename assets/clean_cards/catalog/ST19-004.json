@@ -1,0 +1,85 @@
+{
+  "card_number": "ST19-004",
+  "name": "Hina",
+  "language": "en",
+  "set": "ST19",
+  "set_name": "Starter Deck - Black Smoker",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 4,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[DON!! x1] [Opponent's Turn] This Character gains +4 cost.\n[Activate: Main] [Once Per Turn] You may place 1 card from your trash at the bottom of your deck: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61bf68cc-4ee6-49a8-af89-2ff70b2b20a0",
+        "slug": "starter-deck-black-smoker",
+        "name": "Starter Deck - Black Smoker",
+        "set_code": "ST19",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST19-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST19-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581049/one-piece-card-game-starter-deck-19-black-smoker-hina",
+        "market_price": "0.88",
+        "low_price": "0.55",
+        "mid_price": "1.07",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have no cards in my trash, can I still use this [Activate: Main] effect to give up to 1 rested DON!! card to my Leader or 1 of my Characters?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-10-11"
+    }
+  ]
+}

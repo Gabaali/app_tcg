@@ -1,0 +1,91 @@
+{
+  "card_number": "ST17-001",
+  "name": "Crocodile",
+  "language": "en",
+  "set": "ST17",
+  "set_name": "Starter Deck - Blue Donquixote Doflamingo",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Baroque Works"
+  ],
+  "effect": "[On Play] Reveal 1 card from the top of your deck. If that card is a {The Seven Warlords of the Sea} type card, draw 2 cards and place 1 card from your hand at the top of your deck.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80cce277-2d8e-44a2-afe3-d1991034140c",
+        "slug": "starter-deck-blue-donquixote-doflamingo",
+        "name": "Starter Deck - Blue Donquixote Doflamingo",
+        "set_code": "ST17",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST17-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581016/one-piece-card-game-starter-deck-17-blue-donquixote-doflamingo-crocodile",
+        "market_price": "0.16",
+        "low_price": "0.03",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I use this [On Play] effect to reveal 1 card from the top of my deck, and that card is a {The Seven Warlords of the Sea} type card, what happens to the revealed card?",
+      "answer": "In this case, the revealed card will count as one of the 2 cards you draw from your deck, and then you will place 1 card from your hand at the top of your deck.",
+      "updated_on": "2024-10-11"
+    },
+    {
+      "question": "If I use this [On Play] effect to reveal 1 card from the top of my deck, and that card is not a {The Seven Warlords of the Sea} type card, what happens?",
+      "answer": "In this case, the revealed card is returned face-down to the top of your deck.",
+      "updated_on": "2024-10-11"
+    }
+  ]
+}

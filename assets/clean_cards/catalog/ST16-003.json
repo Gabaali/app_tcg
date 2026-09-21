@@ -1,0 +1,158 @@
+{
+  "card_number": "ST16-003",
+  "name": "Charlotte Katakuri",
+  "language": "en",
+  "set": "ST16",
+  "set_name": "Starter Deck - Green Uta",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "FILM",
+    "Big Mom Pirates"
+  ],
+  "effect": "If your Leader has the {FILM} type and you have 6 or more rested cards, this Character gains +2000 power.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "601db5a3-a20e-487b-9047-d02abfe0dc89",
+        "slug": "starter-deck-green-uta",
+        "name": "Starter Deck - Green Uta",
+        "set_code": "ST16",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST16-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581003/one-piece-card-game-starter-deck-16-green-uta-charlotte-katakuri",
+        "market_price": "0.12",
+        "low_price": "0.02",
+        "mid_price": "0.20",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST16-003/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-003/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656066/one-piece-card-game-premium-booster-the-best-vol-2-charlotte-katakuri-reprint",
+        "market_price": "0.04",
+        "low_price": "0.01",
+        "mid_price": "0.11",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST16-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST16-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656068/one-piece-card-game-premium-booster-the-best-vol-2-charlotte-katakuri-pirate-foil",
+        "market_price": "0.15",
+        "low_price": "0.02",
+        "mid_price": "0.24",
+        "high_price": "4.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have 6 rested cards, and those rested cards include this Character, does this Character gain +2000 power?",
+      "answer": "Yes, it will gain +2000 power.",
+      "updated_on": "2024-10-11"
+    }
+  ]
+}

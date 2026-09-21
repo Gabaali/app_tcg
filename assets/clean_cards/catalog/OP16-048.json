@@ -1,0 +1,132 @@
+{
+  "card_number": "OP16-048",
+  "name": "Buggy",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Impel Down",
+    "Buggy Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {Impel Down} type, draw 1 card and play up to 1 [Prisoner of Impel Down] card from your hand.\n[Once Per Turn] This effect can be activated when your opponent attacks. Up to 1 of your [Prisoner of Impel Down] cards gains [Blocker] during this turn.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-048/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-048/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/694644/one-piece-card-game-the-time-of-battle-buggy-048",
+        "market_price": "0.51",
+        "low_price": "0.09",
+        "mid_price": "0.90",
+        "high_price": "7.50"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-048/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-048/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/694645/one-piece-card-game-the-time-of-battle-buggy-048-alternate-art",
+        "market_price": "6.06",
+        "low_price": "4.50",
+        "mid_price": "8.00",
+        "high_price": "69.75"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I activate this [Once Per Turn] effect when my opponent attacks one of my [Prisoner of Impel Down] Characters and I give the attacked card [Blocker], can that [Prisoner of Impel Down] Character use [Blocker] against that attack?",
+      "answer": "Yes, it can.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "If my Leader has the effect “This Leader is treated as a card with all card names, types, and attributes.”, can my Leader gain [Blocker] with this [Once Per Turn] effect?",
+      "answer": "Yes, it can.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "If my Leader has the effect “This Leader is treated as a card with all card names, types, and attributes.”, can my Leader gain [Blocker] with this [Once Per Turn] effect?",
+      "answer": "Yes, it can.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

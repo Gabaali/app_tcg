@@ -1,0 +1,115 @@
+{
+  "card_number": "ST22-008",
+  "name": "Decalvan Brothers",
+  "language": "en",
+  "set": "ST22",
+  "set_name": "Starter Deck - Ace & Newgate",
+  "released_at": "2025-09-05T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 2,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Whitebeard Pirates Allies"
+  ],
+  "effect": null,
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ae94ca61-7839-4c89-832d-3cfdc8f74839",
+        "slug": "starter-deck-ace-newgate",
+        "name": "Starter Deck - Ace & Newgate",
+        "set_code": "ST22",
+        "released_at": "2025-09-05T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST22-008/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST22-008/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/647697/one-piece-card-game-starter-deck-22-ace-and-newgate-decalvan-brothers",
+        "market_price": "0.06",
+        "low_price": "0.01",
+        "mid_price": "0.10",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ae94ca61-7839-4c89-832d-3cfdc8f74839",
+        "slug": "starter-deck-ace-newgate",
+        "name": "Starter Deck - Ace & Newgate",
+        "set_code": "ST22",
+        "released_at": "2025-09-05T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST22-008/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST22-008/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/647698/one-piece-card-game-starter-deck-22-ace-and-newgate-decalvan-brothers-parallel",
+        "market_price": "0.42",
+        "low_price": "0.20",
+        "mid_price": "0.50",
+        "high_price": "5.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

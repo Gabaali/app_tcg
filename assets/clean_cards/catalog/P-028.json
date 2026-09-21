@@ -1,0 +1,115 @@
+{
+  "card_number": "P-028",
+  "name": "Portgas.D.Ace",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Red"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "[Double Attack] (This card deals 2 damage.)",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "952ee7cb-037b-4511-b7a3-b9ee0012fd5e",
+        "slug": "gift-collection-2023",
+        "name": "Gift Collection 2023",
+        "set_code": "GC01",
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-028/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-028/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/523782/one-piece-card-game-one-piece-promotion-cards-portgasdace-gift-collection-2023",
+        "market_price": "29.55",
+        "low_price": "17.90",
+        "mid_price": "33.05",
+        "high_price": "500.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1eb71860-51a2-4b75-a089-832ddd7350b4",
+        "slug": "included-in-event-pack-vol-1",
+        "name": "Included in Event Pack Vol.1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-028/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-028/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/539553/one-piece-card-game-one-piece-promotion-cards-portgasdace-cs-2023-event-pack-finalist-ver",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

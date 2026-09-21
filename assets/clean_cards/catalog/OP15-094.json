@@ -1,0 +1,157 @@
+{
+  "card_number": "OP15-094",
+  "name": "Roronoa Zoro",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Black"
+  ],
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "If your {Straw Hat Crew} type Character other than this Character would be removed from the field by your opponent's effect, you may trash this Character instead.\n[Blocker]",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Studio Vigor Co.,Ltd",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-094/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-094/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-094/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-094/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-094/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686295/one-piece-card-game-adventure-on-kamis-island-roronoa-zoro-op15-094-dash-pack",
+        "market_price": "4.04",
+        "low_price": "3.42",
+        "mid_price": "6.00",
+        "high_price": "21.95"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1f050e2b-4dcc-40c8-90f7-f82799d8c4c7",
+        "slug": "op15-release-event",
+        "name": "OP15 Release Event",
+        "set_code": null,
+        "released_at": "2026-03-27T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686449/one-piece-card-game-adventure-on-kamis-island-release-event-cards-roronoa-zoro-op15-094",
+        "market_price": "12.60",
+        "low_price": "18.00",
+        "mid_price": "26.57",
+        "high_price": "40.39"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685448/one-piece-card-game-adventure-on-kamis-island-roronoa-zoro-op15-094",
+        "market_price": "0.15",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "10.04"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If two of my {Straw Hat Crew} type Characters other than this Character would be simultaneously removed from the field by my opponent's effect, can I still choose to trash this Character instead?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

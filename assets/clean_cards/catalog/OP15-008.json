@@ -1,0 +1,127 @@
+{
+  "card_number": "OP15-008",
+  "name": "Krieg",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 8,
+  "power": 9000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "East Blue",
+    "Krieg Pirates"
+  ],
+  "effect": "[On Play] Give up to 3 of your opponent's rested DON!! cards to 1 of your opponent's Characters. Then, this Character gains [Rush] during this turn.\n[Activate: Main] [Once Per Turn] If this Character was played on this turn, give all of your opponent's Characters −1000 power during this turn for every DON!! card given to that Character.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-008/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-008/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685347/one-piece-card-game-adventure-on-kamis-island-krieg-op15-008",
+        "market_price": "0.76",
+        "low_price": "0.13",
+        "mid_price": "0.99",
+        "high_price": "5.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-008/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-008/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685348/one-piece-card-game-adventure-on-kamis-island-krieg-op15-008-alternate-art",
+        "market_price": "5.21",
+        "low_price": "2.23",
+        "mid_price": "6.45",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I did not choose to give any of my opponent's rested DON!! cards to one of their characters using this [On Play] effect, can this Character still gain [Rush] during this turn?",
+      "answer": "Yes, it can.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "When using this card's [On Play] effect to give one of my opponent's rested DON!! cards to one of their Characters, which player decides which DON!! card is given?",
+      "answer": "The player who activated the effect chooses a rested DON!! card from their opponent's cost area.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

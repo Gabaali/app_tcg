@@ -1,0 +1,119 @@
+{
+  "card_number": "OP04-093",
+  "name": "Gum-Gum King Kong Gun",
+  "language": "en",
+  "set": "OP04",
+  "set_name": "Kingdoms of Intrigue",
+  "released_at": "2023-09-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "UC",
+  "color": [
+    "Black"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Dressrosa",
+    "Straw Hat Crew"
+  ],
+  "effect": "[Main] Up to 1 of your {Dressrosa} type Characters gains +6000 power during this turn. Then, if you have 15 or more cards in your trash, that card gains [Double Attack] during this turn.\n(This card deals 2 damage.)",
+  "trigger": "[Trigger] Draw 3 cards and trash 2 cards from your hand.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba423e59-2155-4632-b1a4-b00a1b319692",
+        "slug": "kingdoms-of-intrigue",
+        "name": "Kingdoms of Intrigue",
+        "set_code": "OP04",
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP04-093/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP04-093/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516804/one-piece-card-game-kingdoms-of-intrigue-gum-gum-king-kong-gun",
+        "market_price": "0.11",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "7d487e6d-4ddd-438d-a2c0-fb06f6f16a51",
+        "slug": "op04-release-event",
+        "name": "OP04 Release Event",
+        "set_code": null,
+        "released_at": "2023-09-15T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/516892/one-piece-card-game-kingdoms-of-intrigue-pre-release-cards-gum-gum-king-kong-gun",
+        "market_price": "7.90",
+        "low_price": "5.00",
+        "mid_price": "8.51",
+        "high_price": "30.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I activated this [Main] effect when I had 14 cards in my trash. At this time, will my chosen Character gain [Double Attack]?",
+      "answer": "In this case, you will have 15 cards in your trash including this card, so the Character will gain [Double Attack].",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "card_number": "ST17-002",
+  "name": "Trafalgar Law",
+  "language": "en",
+  "set": "ST17",
+  "set_name": "Starter Deck - Blue Donquixote Doflamingo",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Heart Pirates"
+  ],
+  "effect": "[On Play] You may return 1 of your Characters to the owner's hand: If your Leader has the {The Seven Warlords of the Sea} type, return up to 1 Character with a cost of 4 or less to the owner's hand.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "80cce277-2d8e-44a2-afe3-d1991034140c",
+        "slug": "starter-deck-blue-donquixote-doflamingo",
+        "name": "Starter Deck - Blue Donquixote Doflamingo",
+        "set_code": "ST17",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST17-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581017/one-piece-card-game-starter-deck-17-blue-donquixote-doflamingo-trafalgar-law-st17-002",
+        "market_price": "0.55",
+        "low_price": "0.40",
+        "mid_price": "1.00",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST17-002/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-002/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656045/one-piece-card-game-premium-booster-the-best-vol-2-trafalgar-law-st17-002-reprint",
+        "market_price": "0.33",
+        "low_price": "0.10",
+        "mid_price": "0.48",
+        "high_price": "30.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST17-002/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST17-002/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/653914/one-piece-card-game-premium-booster-the-best-vol-2-trafalgar-law-st17-002-alternate-art",
+        "market_price": "21.79",
+        "low_price": "18.99",
+        "mid_price": "24.15",
+        "high_price": "80.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to return 1 of my Characters to my hand even if my Leader does not have the {The Seven Warlords of the Sea} type?",
+      "answer": "Yes, you can. In this case, you cannot return 1 of your opponent's Characters with a cost of 4 or less to their hand.",
+      "updated_on": "2024-10-11"
+    }
+  ]
+}

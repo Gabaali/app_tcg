@@ -1,0 +1,264 @@
+{
+  "card_number": "ST04-016",
+  "name": "Blast Breath",
+  "language": "en",
+  "set": "ST04",
+  "set_name": "Starter Deck - Animal Kingdom Pirates",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Purple"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "The Four Emperors",
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "eb0fcdb8-75ed-4243-bd1c-7fb61c8c0ca3",
+        "slug": "starter-deck-animal-kingdom-pirates",
+        "name": "Starter Deck - Animal Kingdom Pirates",
+        "set_code": "ST04",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-016/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-016/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288298/one-piece-card-game-starter-deck-4-animal-kingdom-pirates-blast-breath",
+        "market_price": "0.09",
+        "low_price": "0.04",
+        "mid_price": "0.20",
+        "high_price": "8.40"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-016/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-016/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-016/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-016/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593589/one-piece-card-game-premium-booster-the-best-blast-breath-jolly-roger-foil",
+        "market_price": "0.29",
+        "low_price": "0.10",
+        "mid_price": "0.33",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Textured Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-016/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-016/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593902/one-piece-card-game-premium-booster-the-best-blast-breath-textured-foil",
+        "market_price": "1.94",
+        "low_price": "1.49",
+        "mid_price": "1.97",
+        "high_price": "9.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "980370e8-c297-42ee-96f2-39278b53fd79",
+        "slug": "best-selection",
+        "name": "Best Selection",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST04-016/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST04-016/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/546671/one-piece-card-game-one-piece-promotion-cards-blast-breath-premium-card-collection-best-selection-vol-1",
+        "market_price": "4.00",
+        "low_price": "3.46",
+        "mid_price": "5.00",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a4942c8c-73d3-44b2-9695-fd43f621ff2d",
+        "slug": "st04-release-event",
+        "name": "ST04 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/426897/one-piece-card-game-super-pre-release-starter-deck-4-animal-kingdom-pirates-blast-breath",
+        "market_price": "0.81",
+        "low_price": "0.50",
+        "mid_price": "1.89",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I activate this card without paying the DON!! −1?",
+      "answer": "Yes. You can activate the card, but nothing will happen.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

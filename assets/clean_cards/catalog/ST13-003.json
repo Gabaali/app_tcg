@@ -1,0 +1,282 @@
+{
+  "card_number": "ST13-003",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "ST13",
+  "set_name": "Starter Deck - The Three Brothers",
+  "released_at": "2024-04-19T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black",
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Supernovas",
+    "Straw Hat Crew"
+  ],
+  "effect": "Your face-up Life cards are placed at the bottom of your deck instead of being added to your hand, according to the rules.\n[DON!! x2] [Activate: Main] [Once Per Turn] You may trash 1 card from your hand: If you have 0 Life cards, add up to 2 Character cards with a cost of 5 from your hand or trash to the top of your Life cards face-up.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.556478,
+        "y": 0.258333
+      },
+      "product": {
+        "id": "74857e5a-8364-405e-9869-6b1ed0314f12",
+        "slug": "starter-deck-the-three-brothers",
+        "name": "Starter Deck - The Three Brothers",
+        "set_code": "ST13",
+        "released_at": "2024-04-19T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST13-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST13-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/543605/one-piece-card-game-ultra-deck-the-three-brothers-monkeydluffy-003",
+        "market_price": "6.56",
+        "low_price": "5.46",
+        "mid_price": "8.31",
+        "high_price": "69.34"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.528239,
+        "y": 0.25
+      },
+      "product": {
+        "id": "74857e5a-8364-405e-9869-6b1ed0314f12",
+        "slug": "starter-deck-the-three-brothers",
+        "name": "Starter Deck - The Three Brothers",
+        "set_code": "ST13",
+        "released_at": "2024-04-19T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST13-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST13-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/543624/one-piece-card-game-ultra-deck-the-three-brothers-monkeydluffy-003-parallel",
+        "market_price": "72.87",
+        "low_price": "46.25",
+        "mid_price": "79.78",
+        "high_price": "450.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.509967,
+        "y": 0.204762
+      },
+      "product": {
+        "id": "38d0b4fc-1812-4ee6-8e24-a14ec79a8704",
+        "slug": "one-piece-card-game-and-football-team-dortmund-collaboration-event",
+        "name": "One Piece Card Game and Football Team Dortmund Collaboration Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST13-003/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST13-003/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "97324edd-07d5-4893-b8fa-6dad496fd2e6",
+        "slug": "bvb-x-one-piece-campaign",
+        "name": "BVB x One Piece Campaign",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/624989/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-bvb-x-one-piece-campaign",
+        "market_price": "731.25",
+        "low_price": "826.46",
+        "mid_price": "1200.61",
+        "high_price": "1950.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "81f0d3d7-50dc-4f5c-87a2-4a67e5f78c55",
+        "slug": "2nd-anniversary-tournament",
+        "name": "2nd Anniversary Tournament",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/600711/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-2nd-anniversary-tournament",
+        "market_price": "151.21",
+        "low_price": "104.94",
+        "mid_price": "135.00",
+        "high_price": "549.95"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ad2ebe10-0806-434b-aa32-fa46611960c4",
+        "slug": "premium-card-collection-leader-collection",
+        "name": "Premium Card Collection -Leader Collection-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/566952/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-premium-card-collection-leader-collection",
+        "market_price": "186.67",
+        "low_price": "150.00",
+        "mid_price": "178.15",
+        "high_price": "500.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this card is my Leader, can I activate the [Trigger] effects of my face-up Life cards?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If this card is my Leader, can I activate and resolve the effect of \"ST13-012 Makino\" (\"[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Look at all of your Life cards and place them back in your Life area in any order.\") by placing 1 of my face-up Life cards at the bottom of my deck instead of adding it to my hand?",
+      "answer": "You can use this [On Play] effect to place 1 face-up Life card at the bottom of your deck instead of adding it to your hand, but because you have not paid the cost \"You may add 1 card from the top or bottom of your Life cards to your hand:\", nothing will happen.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If this card is my Leader, and I have 1 face-up Life card, and my opponent has 1 Life card, can I activate the \"• If your opponent has 1 Life card, deal 1 damage to your opponent. Then, add 1 card from the top of your Life cards to your hand.\" effect of \"OP06-116 Reject\"?",
+      "answer": "You will deal 1 damage to your opponent and then put your 1 Life card at the bottom of your deck.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I use this [Activate: Main] effect to add 1 card from my hand and 1 card from my trash (a total of 2 cards) to the top of my Life cards face-up?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

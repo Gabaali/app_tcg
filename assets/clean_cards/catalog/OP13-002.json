@@ -1,0 +1,127 @@
+{
+  "card_number": "OP13-002",
+  "name": "Portgas.D.Ace",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Blue"
+  ],
+  "cost": null,
+  "power": 6000,
+  "counter": null,
+  "life": 3,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Whitebeard Pirates"
+  ],
+  "effect": "[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 of your opponent's Leader or Character cards −2000 power during this battle.\n[DON!! x1] [Once Per Turn] When you take damage or your Character with 6000 base power or more is K.O.'d, draw 1 card.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Bahi JD",
+      "crop_focus": {
+        "x": 0.623704,
+        "y": 0.178348
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP13-002/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP13-002/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-002/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657252/one-piece-card-game-carrying-on-his-will-portgasdace-002",
+        "market_price": "0.13",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "12.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.353821,
+        "y": 0.463095
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-002/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-002/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657253/one-piece-card-game-carrying-on-his-will-portgasdace-002-alternate-art",
+        "market_price": "26.26",
+        "low_price": "21.32",
+        "mid_price": "31.82",
+        "high_price": "240.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I activate a [Trigger] when taking damage, can I choose the order in which this Leader's effect and [Trigger] activates?",
+      "answer": "No, the [Trigger] effect will always be processed first. Upon taking damage, you'll first reveal your Life card and decide whether or not to activate the [Trigger]. This Leader's \"when taking damage\" effect activates after the [Trigger] effect is resolved.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "If I activate a [Trigger] when taking damage, can I choose the order in which this Leader's effect and that [Trigger] effect activate?",
+      "answer": "No, you cannot. In this case, the [Trigger] would activate first.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

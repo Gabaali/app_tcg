@@ -1,0 +1,96 @@
+{
+  "card_number": "ST20-005",
+  "name": "Charlotte Linlin",
+  "language": "en",
+  "set": "ST20",
+  "set_name": "Starter Deck - Yellow Charlotte Katakuri",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Big Mom Pirates"
+  ],
+  "effect": "[On Play] You may trash 1 card from your hand: Your opponent chooses one:\n• Your opponent trashes 2 cards from their hand.\n• Trash 1 card from the top of your opponent's Life cards.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a2526a93-4cba-45d0-820a-428bacbd275c",
+        "slug": "starter-deck-yellow-charlotte-katakuri",
+        "name": "Starter Deck - Yellow Charlotte Katakuri",
+        "set_code": "ST20",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST20-005/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST20-005/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581065/one-piece-card-game-starter-deck-20-yellow-charlotte-katakuri-charlotte-linlin",
+        "market_price": "2.97",
+        "low_price": "1.02",
+        "mid_price": "3.53",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I activate this [On Play] effect and my opponent chooses \"Your opponent trashes 2 cards from their hand\", which player trashes 2 cards from their hand?",
+      "answer": "The player who did not activate this [On Play] effect will choose 2 cards from their hand and place them in their trash.",
+      "updated_on": "2024-10-11"
+    },
+    {
+      "question": "If I activate this [On Play] effect and my opponent chooses \"Trash 1 card from the top of your opponent's Life cards\", which player trashes 1 card from their Life cards?",
+      "answer": "The player who did not activate this [On Play] effect will trash 1 card from the top of their Life cards.",
+      "updated_on": "2024-10-11"
+    },
+    {
+      "question": "I activated this [On Play] effect when my opponent had no Life cards, and trashed 1 card from my hand. Can my opponent still choose \"Trash 1 card from the top of your opponent's Life cards\"?",
+      "answer": "Yes, they can. In this case, nothing will happen as they have no Life cards to trash.",
+      "updated_on": "2024-10-11"
+    }
+  ]
+}

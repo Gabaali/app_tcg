@@ -1,0 +1,158 @@
+{
+  "card_number": "OP14-033",
+  "name": "Perona",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Muggy Kingdom",
+    "Thriller Bark Pirates"
+  ],
+  "effect": "[On Play] Up to 2 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next End Phase.\n[On K.O.] You may rest 1 of your cards: Play up to 1 green Character card with a cost of 5 or less from your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-033/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-033/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666526/one-piece-card-game-the-azure-seas-seven-perona-op14-033",
+        "market_price": "11.65",
+        "low_price": "10.00",
+        "mid_price": "12.57",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-033/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-033/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/666527/one-piece-card-game-the-azure-seas-seven-perona-op14-033-alternate-art",
+        "market_price": "45.64",
+        "low_price": "41.00",
+        "mid_price": "47.40",
+        "high_price": "150.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e567c7ac-f774-4458-8d2d-dedc3c178317",
+        "slug": "extra-grand-battle-for-stores-2026-may",
+        "name": "Extra Grand Battle for Stores 2026 May",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-033/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-033/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/692136/one-piece-card-game-one-piece-promotion-cards-perona-extra-grand-battle-for-stores-2026",
+        "market_price": "358.62",
+        "low_price": "352.75",
+        "mid_price": "398.34",
+        "high_price": "999.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "When this active Character is K.O.'d, can I rest this Character to activate this [On K.O.] effect?",
+      "answer": "No, you cannot. This [On K.O.] effect can only be activated by resting any other card on your field.",
+      "updated_on": "2026-06-26"
+    }
+  ]
+}

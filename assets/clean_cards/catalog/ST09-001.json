@@ -1,0 +1,84 @@
+{
+  "card_number": "ST09-001",
+  "name": "Yamato",
+  "language": "en",
+  "set": "ST09",
+  "set_name": "Starter Deck - Yamato",
+  "released_at": "2023-08-11T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Yellow"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Land of Wano"
+  ],
+  "effect": "[DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.501661,
+        "y": 0.217857
+      },
+      "product": {
+        "id": "66b34943-e12d-4253-ad69-0e99a5dc63c0",
+        "slug": "starter-deck-yamato",
+        "name": "Starter Deck - Yamato",
+        "set_code": "ST09",
+        "released_at": "2023-08-11T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST09-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST09-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/503523/one-piece-card-game-starter-deck-9-yamato-yamato-001",
+        "market_price": "4.91",
+        "low_price": "4.00",
+        "mid_price": "5.94",
+        "high_price": "15.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I have 3 Life cards when this Leader with a DON!! card given to it is attacked by a Character with 5000 power and [Double Attack]. At this time, if I have 2 Life cards after I take the first damage, what happens when I take the next damage?",
+      "answer": "After the first damage reduces your Life cards to 2, this Leader's power will become 6000 according to this [Opponent's Turn] effect. However, the second damage will still be processed.",
+      "updated_on": "2023-07-28"
+    }
+  ]
+}

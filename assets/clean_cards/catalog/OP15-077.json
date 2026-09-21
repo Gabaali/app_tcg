@@ -1,0 +1,119 @@
+{
+  "card_number": "OP15-077",
+  "name": "Lightning Dragon",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Purple"
+  ],
+  "cost": 0,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Sky Island"
+  ],
+  "effect": "[Main] DON!! −1: Draw 1 card. Then, up to 1 of your opponent's rested Characters with 6000 power or less will not become active in your opponent's next Refresh Phase.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-077/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-077/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-077/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-077/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-077/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685427/one-piece-card-game-adventure-on-kamis-island-lightning-dragon",
+        "market_price": "0.27",
+        "low_price": "0.14",
+        "mid_price": "0.31",
+        "high_price": "6.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-077/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-077/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685428/one-piece-card-game-adventure-on-kamis-island-lightning-dragon-alternate-art",
+        "market_price": "75.53",
+        "low_price": "74.10",
+        "mid_price": "83.41",
+        "high_price": "140.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If my Leader is [Enel] but my opponent has 0 rested Characters with 6000 power or less, can I still pay the DON!! −1 cost of this [Main] effect and draw 1 card?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

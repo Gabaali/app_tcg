@@ -1,0 +1,159 @@
+{
+  "card_number": "OP15-099",
+  "name": "Urouge",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Sky Island",
+    "Supernovas",
+    "Fallen Monk Pirates"
+  ],
+  "effect": "[On Play] You may trash 1 {Supernovas} type card from your hand: This Character gains [Rush] during this turn.\n[Activate: Main] You may turn 1 card from the top of your Life cards face-down: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "kankurou",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-099/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-099/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-099/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-099/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-099/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685454/one-piece-card-game-adventure-on-kamis-island-urouge",
+        "market_price": "0.05",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1f050e2b-4dcc-40c8-90f7-f82799d8c4c7",
+        "slug": "op15-release-event",
+        "name": "OP15 Release Event",
+        "set_code": null,
+        "released_at": "2026-03-27T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686451/one-piece-card-game-adventure-on-kamis-island-release-event-cards-urouge",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1f050e2b-4dcc-40c8-90f7-f82799d8c4c7",
+        "slug": "op15-release-event",
+        "name": "OP15 Release Event",
+        "set_code": null,
+        "released_at": "2026-03-27T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686451/one-piece-card-game-adventure-on-kamis-island-release-event-cards-urouge",
+        "market_price": "2.29",
+        "low_price": "2.00",
+        "mid_price": "3.36",
+        "high_price": "10.35"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If the top of my Life cards is face-down, or if I have 0 Life cards, can I still use this [Activate: Main] effect to give up to 1 rested DON!! card to my Leader or 1 of my Characters?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

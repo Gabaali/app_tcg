@@ -1,0 +1,162 @@
+{
+  "card_number": "OP02-113",
+  "name": "Helmeppo",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Black"
+  ],
+  "cost": 3,
+  "power": 3000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[When Attacking] Give up to 1 of your opponent's Characters −2 cost during this turn. Then, if there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+  "trigger": "[Trigger] Play this card.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-113/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-113/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486491/one-piece-card-game-paramount-war-helmeppo",
+        "market_price": "0.08",
+        "low_price": "0.02",
+        "mid_price": "0.18",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "61bf68cc-4ee6-49a8-af89-2ff70b2b20a0",
+        "slug": "starter-deck-black-smoker",
+        "name": "Starter Deck - Black Smoker",
+        "set_code": "ST19",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-113/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-113/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581041/one-piece-card-game-starter-deck-19-black-smoker-helmeppo",
+        "market_price": "0.09",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e954b056-d7e6-4d3c-88b3-fd51abbe1a91",
+        "slug": "op02-release-event",
+        "name": "OP02 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486727/one-piece-card-game-paramount-war-pre-release-cards-helmeppo",
+        "market_price": "0.99",
+        "low_price": "0.60",
+        "mid_price": "2.62",
+        "high_price": "15.95"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Will this Character gain +2000 power if there is a Character with a cost of 0 that is not the Character given −2 cost by this [When Attacking] effect?",
+      "answer": "Yes, it will.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If there are 2 Characters with a cost of 0, will this Character gain +4000 power?",
+      "answer": "No, it will not.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "card_number": "OP05-030",
+  "name": "Donquixote Rosinante",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 2,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy",
+    "Donquixote Pirates"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[Opponent's Turn] If your rested Character would be K.O.'d, you may trash this Character instead.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Nijihayashi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-030/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-030/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP05-030/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP05-030/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-030/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528574/one-piece-card-game-awakening-of-the-new-era-donquixote-rosinante-030",
+        "market_price": "0.30",
+        "low_price": "0.10",
+        "mid_price": "0.42",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-030/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-030/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656061/one-piece-card-game-premium-booster-the-best-vol-2-donquixote-rosinante-reprint",
+        "market_price": "0.26",
+        "low_price": "0.10",
+        "mid_price": "0.29",
+        "high_price": "6.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-030/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-030/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/654096/one-piece-card-game-premium-booster-the-best-vol-2-donquixote-rosinante-alternate-art",
+        "market_price": "4.22",
+        "low_price": "3.01",
+        "mid_price": "5.05",
+        "high_price": "26.26"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0ed66d0c-291a-4352-af68-798167eadbb8",
+        "slug": "japanese-2nd-anniversary-set",
+        "name": "Japanese 2nd Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-030/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-030/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617590/one-piece-card-game-one-piece-promotion-cards-donquixote-rosinante-one-piece-japanese-version-2nd-anniversary-set",
+        "market_price": "34.13",
+        "low_price": "34.51",
+        "mid_price": "39.32",
+        "high_price": "200.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fc83165a-d3e6-48bb-87d9-c7168e3f732c",
+        "slug": "welcome-pack-vol-1",
+        "name": "Welcome Pack Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/599735/one-piece-card-game-one-piece-promotion-cards-donquixote-rosinante-welcome-pack-vol-1",
+        "market_price": "1.03",
+        "low_price": "0.90",
+        "mid_price": "1.10",
+        "high_price": "8.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this Character and my opponent's \"ST02-010 Basil Hawkins\" battle and I use this [Opponent's Turn] effect to trash this card instead, can my opponent activate the [Your Turn] effect of \"ST02-010 Basil Hawkins\"?",
+      "answer": "Yes, they can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If this Character and 2 of my rested Characters would be K.O.'d by the [On Play] effect of \"OP01-094 Kaido\", can I use this Character's [Opponent's Turn] effect to prevent both of my 2 rested Characters from being K.O.'d?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "I used this [Opponent's Turn] effect to trash this rested Character when it would have been K.O.'d. Can I activate the \"When your opponent's Character is K.O.'d, set this Leader as active.\" effect of \"OP03-076 Rob Lucci\"?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "card_number": "OP10-003",
+  "name": "Sugar",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Donquixote Pirates"
+  ],
+  "effect": "[End of Your Turn] If you have a {Donquixote Pirates} type Character with 6000 power or more, set up to 1 of your DON!! cards as active.\n[Opponent's Turn] [Once Per Turn] When you activate an Event, add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.528239,
+        "y": 0.228571
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617034/one-piece-card-game-royal-blood-sugar-003",
+        "market_price": "0.12",
+        "low_price": "0.01",
+        "mid_price": "0.16",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.355482,
+        "y": 0.371429
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617035/one-piece-card-game-royal-blood-sugar-003-parallel",
+        "market_price": "14.04",
+        "low_price": "11.72",
+        "mid_price": "15.43",
+        "high_price": "63.75"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-003/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-003/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "During my opponent's turn, I activated the 0 cost [Counter] effect of \"OP04-016 Bad Manners Kick Course\", but chose not to trash 1 card from my hand in response to \"you may trash 1 card from your hand\". Can I still use this Leader's [Opponent's Turn] effect to add 1 DON!! card from my DON!! deck?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "If I activate an Event's [Trigger] effect during my opponent's turn, can I use this Leader's [Opponent's Turn] effect to add 1 DON!! card from my DON!! deck?",
+      "answer": "No, you cannot.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "Does the [End of Your Turn] effect, \"if you have a {Donquixote Pirates} type Character with 6000 power or more\" activate before effects that increase power, such as \"gains +2000 power during this turn\", return to normal?",
+      "answer": "Yes. In this case, the effect activates before the power returns to normal.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

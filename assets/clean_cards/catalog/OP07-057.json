@@ -1,0 +1,113 @@
+{
+  "card_number": "OP07-057",
+  "name": "Perfume Femur",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Blue"
+  ],
+  "cost": 2,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Kuja Pirates"
+  ],
+  "effect": "[Main] Select up to 1 of your {The Seven Warlords of the Sea} type Leader or Character cards and that card gains +2000 power during this turn. Then, if the selected card attacks during this turn, your opponent cannot activate [Blocker].",
+  "trigger": "[Trigger] Draw 1 card.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-057/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-057/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545847/one-piece-card-game-500-years-in-the-future-perfume-femur",
+        "market_price": "1.08",
+        "low_price": "0.50",
+        "mid_price": "1.35",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "Minato Sashima",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c26a1b2b-7743-477b-9f00-2d47ff41db46",
+        "slug": "best-selection-vol-4",
+        "name": "Best Selection Vol.4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-057/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-057/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-057/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-057/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-057/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649684/one-piece-card-game-one-piece-promotion-cards-perfume-femur-premium-card-collection-best-selection-vol-4",
+        "market_price": "15.67",
+        "low_price": "15.36",
+        "mid_price": "17.99",
+        "high_price": "70.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

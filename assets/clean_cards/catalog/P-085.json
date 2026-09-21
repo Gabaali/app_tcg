@@ -1,0 +1,404 @@
+{
+  "card_number": "P-085",
+  "name": "Jewelry Bonney",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": "2025-10-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Supernovas",
+    "Bonney Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {Supernovas} type and the number of your Life cards is equal to or less than the number of your opponent's Life cards, add up to 1 of your opponent's Characters with a cost of 4 or less to the top or bottom of the owner's Life cards face-up.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-085/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-085/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656230/one-piece-card-game-premium-booster-the-best-vol-2-jewelry-bonney-p-085-reprint",
+        "market_price": "0.23",
+        "low_price": "0.15",
+        "mid_price": "0.26",
+        "high_price": "2.94"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-085/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-085/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656231/one-piece-card-game-premium-booster-the-best-vol-2-jewelry-bonney-p-085-pirate-foil",
+        "market_price": "0.39",
+        "low_price": "0.10",
+        "mid_price": "0.44",
+        "high_price": "6.99"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5a3cb14b-0258-4535-9bb3-48cbfa3112c9",
+        "slug": "starter-deck-yellow-eustass-captain-kid",
+        "name": "Starter Deck - Yellow Eustass\"captain\"kid",
+        "set_code": "ST36",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-085/en/stock/9/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-085/en/stock/9/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706360/one-piece-card-game-starter-deck-36-yellow-eustass”captain”kid-jewelry-bonney",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "49e43d4d-08c9-4e17-814d-70ac58183fb3",
+        "slug": "offline-regional-participation-pack-2025-vol-2",
+        "name": "Offline Regional Participation Pack 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-085/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-085/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646728/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-offline-regional-participation-pack-2025-vol2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "49e43d4d-08c9-4e17-814d-70ac58183fb3",
+        "slug": "offline-regional-participation-pack-2025-vol-2",
+        "name": "Offline Regional Participation Pack 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-085/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-085/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649736/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-online-regional-finalist-card-set-2025-vol2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "49e43d4d-08c9-4e17-814d-70ac58183fb3",
+        "slug": "offline-regional-participation-pack-2025-vol-2",
+        "name": "Offline Regional Participation Pack 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-085/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-085/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649740/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-online-regional-champion-card-set-2025-vol2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f9966762-4b8d-43f7-9888-010504a8121f",
+        "slug": "offline-regional-champion-card-set-2025-vol-2",
+        "name": "Offline Regional Champion Card Set 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646730/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-offline-regional-champion-card-set-2025-vol2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ef639d46-896e-4200-aca6-52b2f84aed7d",
+        "slug": "offline-regional-finalist-card-set-2025-vol-2",
+        "name": "Offline Regional Finalist Card Set 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/646729/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-offline-regional-finalist-card-set-2025-vol2",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "baf44730-5c02-4a46-9608-d1d8f3528f37",
+        "slug": "cs-25-26-regionals-textured-chase-promo",
+        "name": "CS 25-26 Regionals Textured Chase Promo",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/658338/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-cs-25-26-regionals-textured-chase-promo",
+        "market_price": "192.86",
+        "low_price": "194.98",
+        "mid_price": "197.93",
+        "high_price": "219.99"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9b22a565-f517-4fcb-8c74-7579455ef3e7",
+        "slug": "online-regional-participation-pack-2025-vol-2",
+        "name": "Online Regional Participation Pack 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649730/one-piece-card-game-one-piece-promotion-cards-jewelry-bonney-online-regional-participation-pack-2025-vol2",
+        "market_price": "33.12",
+        "low_price": "50.00",
+        "mid_price": "64.99",
+        "high_price": "114.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

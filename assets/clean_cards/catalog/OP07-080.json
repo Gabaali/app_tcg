@@ -1,0 +1,187 @@
+{
+  "card_number": "OP07-080",
+  "name": "Kaku",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "CP0"
+  ],
+  "effect": "[On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: Give up to 1 of your opponent's Characters −3 cost during this turn.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Kaito Shibano",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-080/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-080/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-080/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-080/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-080/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545875/one-piece-card-game-500-years-in-the-future-kaku",
+        "market_price": "0.14",
+        "low_price": "0.01",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e093e388-3618-4e26-9637-20f3864a1e1f",
+        "slug": "cs-25-26-celebration-pack",
+        "name": "Cs 25-26 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-080/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-080/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649643/one-piece-card-game-one-piece-promotion-cards-kaku-cs-25-26-celebration-pack",
+        "market_price": "14.66",
+        "low_price": "15.00",
+        "mid_price": "15.97",
+        "high_price": "21.95"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ddfbdb11-017e-4b1d-b4de-08c382543fce",
+        "slug": "tournament-pack-2025-vol-1",
+        "name": "Tournament Pack 2025 Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/607979/one-piece-card-game-one-piece-promotion-cards-kaku-tournament-pack-2025-vol-1",
+        "market_price": "0.27",
+        "low_price": "0.04",
+        "mid_price": "0.26",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "d77130fc-c526-4e4f-a3ea-47477286093d",
+        "slug": "winner-pack-2025-vol-1",
+        "name": "Winner Pack 2025 Vol. 1",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/607975/one-piece-card-game-one-piece-promotion-cards-kaku-winner-pack-2025-vol-1",
+        "market_price": "2.17",
+        "low_price": "1.59",
+        "mid_price": "3.98",
+        "high_price": "15.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

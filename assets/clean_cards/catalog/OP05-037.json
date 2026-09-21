@@ -1,0 +1,185 @@
+{
+  "card_number": "OP05-037",
+  "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
+  "language": "en",
+  "set": "OP05",
+  "set_name": "Awakening of the New Era",
+  "released_at": "2023-12-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": null,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Donquixote Pirates"
+  ],
+  "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+  "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "f7bab738-22de-47f4-9511-4311a150f0d7",
+        "slug": "awakening-of-the-new-era",
+        "name": "Awakening of the New Era",
+        "set_code": "OP05",
+        "released_at": "2023-12-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-037/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-037/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP05-037/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP05-037/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-037/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/528582/one-piece-card-game-awakening-of-the-new-era-because-the-side-of-justice-will-be-whichever-side-wins",
+        "market_price": "0.25",
+        "low_price": "0.13",
+        "mid_price": "0.35",
+        "high_price": "999.99"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-037/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-037/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656067/one-piece-card-game-premium-booster-the-best-vol-2-because-the-side-of-justice-will-be-whichever-side-wins-reprint",
+        "market_price": "0.21",
+        "low_price": "0.09",
+        "mid_price": "0.26",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "tatsuya",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8375d463-add0-4cbc-91bd-c77f4dabe192",
+        "slug": "tournament-pack-2025-vol-4",
+        "name": "Tournament Pack 2025 Vol. 4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-037/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-037/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP05-037/en/scans/2/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP05-037/en/scans/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-037/en/scans/2/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/655965/one-piece-card-game-one-piece-promotion-cards-because-the-side-of-justice-will-be-whichever-side-wins-tournament-pack-2025-vol-4",
+        "market_price": "0.20",
+        "low_price": "0.05",
+        "mid_price": "0.30",
+        "high_price": "6.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8375d463-add0-4cbc-91bd-c77f4dabe192",
+        "slug": "tournament-pack-2025-vol-4",
+        "name": "Tournament Pack 2025 Vol. 4",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP05-037/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP05-037/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/655971/one-piece-card-game-one-piece-promotion-cards-because-the-side-of-justice-will-be-whichever-side-wins-winner-pack-2025-vol-4",
+        "market_price": "9.95",
+        "low_price": "8.10",
+        "mid_price": "11.00",
+        "high_price": "75.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

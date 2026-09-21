@@ -1,0 +1,162 @@
+{
+  "card_number": "OP02-093",
+  "name": "Smoker",
+  "language": "en",
+  "set": "OP02",
+  "set_name": "Paramount War",
+  "released_at": "2023-03-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, if there is a Character with a cost of 0, this Leader gains +1000 power during this turn.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.699545,
+        "y": 0.356696
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-093/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-093/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/486462/one-piece-card-game-paramount-war-smoker-093",
+        "market_price": "0.34",
+        "low_price": "0.10",
+        "mid_price": "0.34",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.445936,
+        "y": 0.48194
+      },
+      "product": {
+        "id": "51a3f713-2b7b-45ad-8c36-c2b240eca661",
+        "slug": "paramount-war",
+        "name": "Paramount War",
+        "set_code": "OP02",
+        "released_at": "2023-03-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-093/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-093/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/484476/one-piece-card-game-paramount-war-smoker-093-alternate-art",
+        "market_price": "88.87",
+        "low_price": "65.00",
+        "mid_price": "91.12",
+        "high_price": "275.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.483389,
+        "y": 0.265476
+      },
+      "product": {
+        "id": "61bf68cc-4ee6-49a8-af89-2ff70b2b20a0",
+        "slug": "starter-deck-black-smoker",
+        "name": "Starter Deck - Black Smoker",
+        "set_code": "ST19",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP02-093/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP02-093/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581036/one-piece-card-game-starter-deck-19-black-smoker-smoker-op02-093",
+        "market_price": "1.66",
+        "low_price": "0.70",
+        "mid_price": "2.00",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Will this Leader gain +1000 power if there is a Character with a cost of 0 that is not the Character given −1 cost by this [Activate: Main] effect?",
+      "answer": "Yes, it will.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "If there are 2 Characters with a cost of 0, will this Leader gain +2000 power?",
+      "answer": "No, it will not.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

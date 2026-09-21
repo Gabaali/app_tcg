@@ -1,0 +1,131 @@
+{
+  "card_number": "OP15-058",
+  "name": "Enel",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Sky Island"
+  ],
+  "effect": "Under the rules of this game, your DON!! deck consists of 6 cards.\n[Activate: Main] [Once Per Turn] If it is your second turn or later, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 4 additional DON!! cards and rest them. Then, give up to 4 rested DON!! cards to 1 of your Characters.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Zhiguang Liu",
+      "crop_focus": {
+        "x": 0.541196,
+        "y": 0.170332
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-058/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-058/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-058/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-058/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-058/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685405/one-piece-card-game-adventure-on-kamis-island-enel-op15-058",
+        "market_price": "0.14",
+        "low_price": "0.05",
+        "mid_price": "0.20",
+        "high_price": "10.05"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.526578,
+        "y": 0.241667
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-058/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-058/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685406/one-piece-card-game-adventure-on-kamis-island-enel-op15-058-alternate-art",
+        "market_price": "29.36",
+        "low_price": "28.49",
+        "mid_price": "37.12",
+        "high_price": "112.32"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "After a match has started, if this Leader's effect is negated by another card, what happens to my DON!! deck?",
+      "answer": "In this case, the number of cards in your DON!! deck will not change, and you can continue to use a total of 6 DON!! cards between your field and DON!! deck.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "What happens if I use this [Activate: Main] effect on my first turn?",
+      "answer": "If used on the first turn, you will be unable to use this [Activate: Main] effect to add or give any DON!! cards. If used on the second turn or later, you will be able to \"add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 4 additional DON!! cards and rest them. Then, give up to 4 rested DON!! cards to 1 of your Characters.\" as described in the effect.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "When using this card as Leader, do I have to prepare 10 DON!! cards to play the game?",
+      "answer": "No, playing with just 6 DON!! cards will suffice.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

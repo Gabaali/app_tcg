@@ -1,0 +1,136 @@
+{
+  "card_number": "PRB01-001",
+  "name": "Sanji",
+  "language": "en",
+  "set": "PRB01",
+  "set_name": "One Piece Card the Best",
+  "released_at": "2024-11-08T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your Characters without an [On Play] effect and with a cost of 8 or less gains [Rush] during this turn.\n(This card can attack on the turn in which it is played.)",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.598007,
+        "y": 0.152381
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB01-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB01-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586607/one-piece-card-game-premium-booster-the-best-sanji-prb01-001",
+        "market_price": "0.58",
+        "low_price": "0.15",
+        "mid_price": "0.61",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.55814,
+        "y": 0.407143
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/PRB01-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/PRB01-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586608/one-piece-card-game-premium-booster-the-best-sanji-prb01-001-alternate-art",
+        "market_price": "107.94",
+        "low_price": "100.00",
+        "mid_price": "137.47",
+        "high_price": "499.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can a Character with a cost of 8 or less with an [On Play]/[When Attacking] effect gain [Rush] using this [Activate: Main] effect?",
+      "answer": "No, it cannot.",
+      "updated_on": "2024-10-25"
+    },
+    {
+      "question": "If I play a Character without an [On Play] effect and with a cost of 8 or less during my first turn and it gains [Rush] using this [Activate: Main] effect, can that Character attack?",
+      "answer": "No, it cannot.",
+      "updated_on": "2024-10-25"
+    },
+    {
+      "question": "Can I use this [Activate: Main] effect to give [Rush] to \"OP05- 005 Karasu\", which has the \"[On Play] If your Leader has the {Revolutionary Army} type, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn\" effect when using this Leader, which does not have the {Revolutionary Army} type?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-10-25"
+    },
+    {
+      "question": "Can a Character with a cost of 8 or less and an effect such as \"[On Play] You may trash 1 card from your hand:\" gain [Rush] using this Leader's [Activate: Main] effect in the event that the activation cost was not paid and its [On Play] effect did not trigger?",
+      "answer": "No, it cannot.",
+      "updated_on": "2024-10-25"
+    }
+  ]
+}

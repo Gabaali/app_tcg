@@ -1,0 +1,199 @@
+{
+  "card_number": "OP09-118",
+  "name": "Gol.D.Roger",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SEC",
+  "color": [
+    "Red"
+  ],
+  "cost": 10,
+  "power": 13000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "King of the Pirates",
+    "Roger Pirates"
+  ],
+  "effect": "[Rush] (This card can attack on the turn in which it is played.)\nWhen your opponent activates [Blocker], if either you or your opponent has 0 Life cards, you win the game.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-118/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-118/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597064/one-piece-card-game-emperors-in-the-new-world-goldroger",
+        "market_price": "29.20",
+        "low_price": "28.62",
+        "mid_price": "34.83",
+        "high_price": "70.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-118/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-118/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597066/one-piece-card-game-emperors-in-the-new-world-goldroger-alternate-art",
+        "market_price": "89.42",
+        "low_price": "82.20",
+        "mid_price": "92.26",
+        "high_price": "299.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Manga Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-118/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-118/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/597065/one-piece-card-game-emperors-in-the-new-world-goldroger-manga",
+        "market_price": null,
+        "low_price": "29994.99",
+        "mid_price": "29994.99",
+        "high_price": "29994.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "SP",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-118/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-118/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657446/one-piece-card-game-carrying-on-his-will-goldroger-op09-118-sp-wanted-poster",
+        "market_price": "192.94",
+        "low_price": "177.13",
+        "mid_price": "195.63",
+        "high_price": "400.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If my opponent activates a [Blocker] effect in response to an attack from a card other than this Character when this Character is on my field, and either me or my opponent has 0 Life cards, will I win the game?",
+      "answer": "Yes, you win the game.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "I attacked with this Character when both me and my opponent had 1 Life card left, and my opponent blocked my attack with \"ST09-007 Shinobu\". At this time, if my opponent activates the [On Block] effect of \"ST09-007 Shinobu\" and their Life cards are reduced to 0, will I win the game based on this Character's effect?",
+      "answer": "No, you will not win the game.",
+      "updated_on": "2024-11-29"
+    }
+  ]
+}

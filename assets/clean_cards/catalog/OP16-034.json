@@ -1,0 +1,173 @@
+{
+  "card_number": "OP16-034",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP16",
+  "set_name": "The Time of Battle",
+  "released_at": "2026-06-12T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 1,
+  "power": 0,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Impel Down",
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] [Your Turn] This Character gains +1000 power for each of your Characters with a different card name.\n[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-034/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-034/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696019/one-piece-card-game-the-time-of-battle-monkeydluffy-034",
+        "market_price": "0.15",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "10.01"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-034/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-034/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/696020/one-piece-card-game-the-time-of-battle-monkeydluffy-034-alternate-art",
+        "market_price": "6.52",
+        "low_price": "6.00",
+        "mid_price": "9.99",
+        "high_price": "56.30"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e7e897b7-4649-4c70-942e-357169a57c26",
+        "slug": "the-time-of-battle",
+        "name": "The Time of Battle",
+        "set_code": "OP16",
+        "released_at": "2026-06-12T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP16-034/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP16-034/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If this is my only Character, and it also has 1 DON!! given to it, will this [Your Turn] effect still give it +1000 power?",
+      "answer": "Yes, this [Your Turn] effect would give it +1000 power.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "If I have 1 of this Character on my field as well as 1 \"EB04-038 Rosinante & Law\", which has the effect \"under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante]\", does that mean that since my Characters have a total of 4 different card names, this Character gains +4000 power from this card's [Your Turn] effect?",
+      "answer": "No, it does not. As there are two cards in play with different card names, it will gain +2000 power.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "If I have 1 of this Character on my field as well as 2 \"EB04-038 Rosinante & Law\", which have the effect \"under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante]\", for a total of 3 Characters, does that mean that this Character gains +3000 power from this [Your Turn] effect?",
+      "answer": "No, it does not. As there are 2 cards in play with different card names, it will gain +2000 power. Even if you have 2 \"EB04-038 Rosinante & Law\", they are not considered to have different card names.",
+      "updated_on": "2026-08-21"
+    },
+    {
+      "question": "If I have 1 of this Character on my field as well as 1 \"OP13-031 Trafalgar Law] and 1 \"EB04-038 Rosinante & Law\", the latter of which has the effect \"under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante]\", for a total of 3 Characters, does that mean that this Character gains +3000 power from this [Your Turn] effect?",
+      "answer": "Yes, it does. In this case, since there are 3 cards in play with different card names, it will gain +3000 power.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

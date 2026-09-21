@@ -1,0 +1,136 @@
+{
+  "card_number": "OP13-079",
+  "name": "Imu",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "?"
+  ],
+  "types": [
+    "?"
+  ],
+  "effect": "Under the rules of this game, you cannot include Events with a cost of 2 or more in your deck and at the start of the game, play up to 1 {Mary Geoise} type Stage card from your deck.\n[Activate: Main] [Once Per Turn] You may trash 1 of your {Celestial Dragons} type Characters or 1 card from your hand: Draw 1 card.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "TV animation ONE PIECE Takashi Kojima",
+      "crop_focus": {
+        "x": 0.571961,
+        "y": 0.358699
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-079/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-079/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP13-079/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP13-079/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-079/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657344/one-piece-card-game-carrying-on-his-will-imu",
+        "market_price": "0.16",
+        "low_price": "0.05",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.619601,
+        "y": 0.319048
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-079/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-079/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657345/one-piece-card-game-carrying-on-his-will-imu-alternate-art",
+        "market_price": "20.38",
+        "low_price": "18.35",
+        "mid_price": "26.04",
+        "high_price": "145.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "At what point at the start of the game do you resolve the effect \"at the start of the game, play up to 1 {Mary Geoise} type Stage card from your deck\"?",
+      "answer": "Effects reading \"At the start of the game\" are resolved after shuffling your deck and revealing your Leader card, after determining who goes first, but before drawing your opening hand. In this Leader's case, after deciding who goes first, the player using this Leader decides whether or not to search their deck and play up to 1 {Mary Geoise} type Stage card. If they do, they search their deck for the card, play it, and then shuffle their deck again.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "If both my opponent and I are using this Leader, which player resolves the effect, \"at the start of the game, play up to 1 {Mary Geoise} type Stage card from your deck\" first?",
+      "answer": "If both players need to resolve this \"at the start of the game\" effect, the player going first plays their Stage card first, followed by the player going second.",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "What is meant by this Leader's attribute being \"?\".",
+      "answer": "It means that this Leader's attribute is not any of \"Slash\", \"Strike\", \"Ranged\", \"Special\", or \"Wisdom\".",
+      "updated_on": "2026-02-06"
+    },
+    {
+      "question": "Can I use this [Activate: Main] effect to trash a card that does not have the {Celestial Dragons} type from my hand?",
+      "answer": "Yes, you can.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

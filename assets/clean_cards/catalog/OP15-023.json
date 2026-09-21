@@ -1,0 +1,143 @@
+{
+  "card_number": "OP15-023",
+  "name": "Arlong",
+  "language": "en",
+  "set": "OP15",
+  "set_name": "Adventure on Kami’s Island",
+  "released_at": "2026-04-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Green"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Fish-Man",
+    "East Blue",
+    "Arlong Pirates"
+  ],
+  "effect": "[On K.O.] Up to 2 of your opponent's rested cards will not become active in your opponent's next Refresh Phase.\n[Activate: Main] [Once Per Turn] You may give 1 of your opponent's rested DON!! cards to 1 of your opponent's Characters: Give up to 1 DON!! card from its owner's cost area to its owner's Leader or 1 of their Characters.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": "Tadaichi Nakama",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "05a4c8d4-f5e2-4af7-a3b9-3c58903dfa29",
+        "slug": "adventure-on-kami-s-island",
+        "name": "Adventure on Kami’s Island",
+        "set_code": "OP15",
+        "released_at": "2026-04-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP15-023/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-023/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-023/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-023/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-023/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/685364/one-piece-card-game-adventure-on-kamis-island-arlong",
+        "market_price": "0.25",
+        "low_price": "0.01",
+        "mid_price": "0.26",
+        "high_price": "19.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1fca1189-ffbd-43ad-a84d-b2e5ea496188",
+        "slug": "dash-pack",
+        "name": "Dash Pack",
+        "set_code": null,
+        "released_at": "2023-09-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP15-023/en/scans/1/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP15-023/en/scans/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP15-023/en/scans/1/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/686291/one-piece-card-game-adventure-on-kamis-island-arlong-dash-pack",
+        "market_price": "1.53",
+        "low_price": "1.00",
+        "mid_price": "2.24",
+        "high_price": "10.60"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this \"Give up to 1 rested DON!! card from its owner's cost area to its owner's Leader or 1 of their Characters.\" effect to either give one of my DON!! cards to my own Leader or Character, or to give one of my opponent's DON!! cards to their Leader or Character?",
+      "answer": "Yes, either one is possible.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "Can I use this \"Give up to 1 DON!! card from its owner's cost area to its owner's Leader or 1 of their Characters.\" effect to give an active DON!! card?",
+      "answer": "Yes, you can. You can give up to 1 DON!! card from its owner's cost area regardless of whether it is active or rested.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "When using this card's [Activate: Main] effect to give one of my opponent's DON!! cards to their Leader or one of their Characters, which player decides which DON!! card is given?",
+      "answer": "The player who activated the effect chooses a DON!! card from their opponent's cost area.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "Can I use this \"Give up to 1 DON!! card from its owner's cost area to its owner's Leader or 1 of their Characters.\" effect to give my opponent's DON!! cards to my Leader or Characters, or give my DON!! cards to my opponent's Leader or Characters?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-03-13"
+    },
+    {
+      "question": "Can I still use this [Activate: Main] effect to give one of my own DON!! cards to my Leader or Characters when my opponent has 0 Characters, or when there are no rested DON!! cards in my opponent's cost area?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-03-13"
+    }
+  ]
+}

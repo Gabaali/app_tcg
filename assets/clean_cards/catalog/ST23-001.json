@@ -1,0 +1,126 @@
+{
+  "card_number": "ST23-001",
+  "name": "Uta",
+  "language": "en",
+  "set": "ST23",
+  "set_name": "Starter Deck - Red Shanks",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Red"
+  ],
+  "cost": 6,
+  "power": 4000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "FILM"
+  ],
+  "effect": "If you have a Character with 10000 power or more, give this card in your hand −4 cost.\n[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0e44f7b2-0bd8-43af-95be-c190607bbec2",
+        "slug": "starter-deck-red-shanks",
+        "name": "Starter Deck - Red Shanks",
+        "set_code": "ST23",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST23-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST23-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/633761/one-piece-card-game-starter-deck-23-red-shanks-uta",
+        "market_price": "9.07",
+        "low_price": "8.42",
+        "mid_price": "12.00",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0e44f7b2-0bd8-43af-95be-c190607bbec2",
+        "slug": "starter-deck-red-shanks",
+        "name": "Starter Deck - Red Shanks",
+        "set_code": "ST23",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST23-001/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST23-001/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If a Character has a base power of 9000 or less, but its power has been raised to 10000 or more by a DON!! card or other effect, can I still use this card's effect to give it −4 cost?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-05-30"
+    },
+    {
+      "question": "If I have a Character with 10000 power or more, can I treat this Character as having a cost of 2 and use the effect of \"OP01-047 Trafalgar Law\" to play it?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-05-30"
+    }
+  ]
+}

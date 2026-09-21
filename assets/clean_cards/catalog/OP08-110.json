@@ -1,0 +1,224 @@
+{
+  "card_number": "OP08-110",
+  "name": "Wyper",
+  "language": "en",
+  "set": "OP08",
+  "set_name": "Two Legends",
+  "released_at": "2024-09-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "Sky Island",
+    "Shandian Warrior"
+  ],
+  "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Upper Yard] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Upper Yard] from your hand.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-110/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-110/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558150/one-piece-card-game-two-legends-wyper",
+        "market_price": "0.22",
+        "low_price": "0.01",
+        "mid_price": "0.25",
+        "high_price": "7.49"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-110/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-110/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558151/one-piece-card-game-two-legends-wyper-parallel",
+        "market_price": "1.53",
+        "low_price": "1.00",
+        "mid_price": "2.90",
+        "high_price": "50.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": "ASAKI KURODA",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-110/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-110/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP08-110/en/scans/2/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP08-110/en/scans/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-110/en/scans/2/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/622593/one-piece-card-game-one-piece-promotion-cards-wyper-tournament-pack-2025-vol-2",
+        "market_price": "0.21",
+        "low_price": "0.03",
+        "mid_price": "0.25",
+        "high_price": "3.72"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-110/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-110/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/622596/one-piece-card-game-one-piece-promotion-cards-wyper-winner-pack-2025-vol-2",
+        "market_price": "2.47",
+        "low_price": "1.46",
+        "mid_price": "3.11",
+        "high_price": "15.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e24ed9ca-9fbb-450d-a366-677de0ab2322",
+        "slug": "tournament-kit-2025-vol-2",
+        "name": "Tournament Kit 2025 Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-110/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-110/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649645/one-piece-card-game-one-piece-promotion-cards-wyper-cs-25-26-celebration-pack",
+        "market_price": "18.72",
+        "low_price": "16.99",
+        "mid_price": "18.64",
+        "high_price": "28.98"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,121 @@
+{
+  "card_number": "OP13-106",
+  "name": "Conney",
+  "language": "en",
+  "set": "OP13",
+  "set_name": "Carrying on His Will",
+  "released_at": "2025-11-07T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Bonney Pirates"
+  ],
+  "effect": "[Opponent's Turn] When a [Trigger] activates, this Character gains [Blocker] during this turn.",
+  "trigger": "[Trigger] Play this card.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a1b89330-2649-4ab0-a123-bda851a70215",
+        "slug": "carrying-on-his-will",
+        "name": "Carrying on His Will",
+        "set_code": "OP13",
+        "released_at": "2025-11-07T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP13-106/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP13-106/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/657384/one-piece-card-game-carrying-on-his-will-conney",
+        "market_price": "0.04",
+        "low_price": "0.01",
+        "mid_price": "0.13",
+        "high_price": "8.04"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "922d2baa-04f8-4395-88de-00af294dd8a8",
+        "slug": "op13-release-event",
+        "name": "OP13 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/661413/one-piece-card-game-carrying-on-his-will-3rd-anniversary-tournament-cards-conney",
+        "market_price": "0.32",
+        "low_price": "0.24",
+        "mid_price": "0.49",
+        "high_price": "1.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I play this Character using its [Trigger] effect, can I then activate its [Opponent's Turn] effect to give it [Blocker]?",
+      "answer": "No, you cannot. This [Opponent's Turn] effect can only be activated when a [Trigger] effect is activated while this Character is on the field.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

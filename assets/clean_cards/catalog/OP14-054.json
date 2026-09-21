@@ -1,0 +1,122 @@
+{
+  "card_number": "OP14-054",
+  "name": "Fisher Tiger",
+  "language": "en",
+  "set": "OP14",
+  "set_name": "The Azure Sea’s Seven",
+  "released_at": "2026-01-16T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "UC",
+  "color": [
+    "Blue"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Fish-Man",
+    "The Sun Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {Fish-Man} type, draw 3 cards.\n[End of Your Turn] Trash cards from your hand until you have 5 cards in your hand.",
+  "trigger": null,
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Aidle Co., Ltd.",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0c90e082-3d2b-4e94-8029-026e5e7dd2b0",
+        "slug": "the-azure-sea-s-seven",
+        "name": "The Azure Sea’s Seven",
+        "set_code": "OP14",
+        "released_at": "2026-01-16T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP14-054/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-054/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP14-054/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP14-054/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP14-054/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671392/one-piece-card-game-the-azure-seas-seven-fisher-tiger",
+        "market_price": "0.07",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ce25b280-f59a-476e-af73-c3609ea30d09",
+        "slug": "op14-release-event",
+        "name": "OP14 Release Event",
+        "set_code": null,
+        "released_at": "2026-01-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/671865/one-piece-card-game-the-azure-seas-seven-release-event-cards-fisher-tiger",
+        "market_price": "3.17",
+        "low_price": "2.85",
+        "mid_price": "3.17",
+        "high_price": "10.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Do I still have to trash cards from my hand with this [End of Your Turn] effect when I have 5 or less cards in my hand?",
+      "answer": "No, you do not. You must trash cards until you have 5 cards in your hand only if you have 6 or more cards in your hand.",
+      "updated_on": "2026-06-26"
+    }
+  ]
+}

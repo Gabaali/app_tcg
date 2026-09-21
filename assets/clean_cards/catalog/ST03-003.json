@@ -1,0 +1,234 @@
+{
+  "card_number": "ST03-003",
+  "name": "Crocodile",
+  "language": "en",
+  "set": "ST03",
+  "set_name": "Starter Deck - The Seven Warlords of the Sea",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Blue"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Baroque Works"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)\n[DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8d69dec3-3bfc-43c1-b05e-fd3090ee1c79",
+        "slug": "starter-deck-the-seven-warlords-of-the-sea",
+        "name": "Starter Deck - The Seven Warlords of the Sea",
+        "set_code": "ST03",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288268/one-piece-card-game-starter-deck-3-the-seven-warlords-of-the-sea-crocodile-003",
+        "market_price": "0.55",
+        "low_price": "0.24",
+        "mid_price": "0.53",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "6005012b-5043-45a8-a4c3-9e4ceaa8c523",
+        "slug": "tournament-pack-vol-5",
+        "name": "Tournament Pack Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/519821/one-piece-card-game-one-piece-promotion-cards-crocodile-tournament-pack-vol-5",
+        "market_price": "0.33",
+        "low_price": "0.01",
+        "mid_price": "0.49",
+        "high_price": "3.13"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "901abace-a432-4bdf-a30a-142123da096b",
+        "slug": "cs-2024-celebration-pack",
+        "name": "CS 2024 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/580052/one-piece-card-game-one-piece-promotion-cards-crocodile-cs-2024-celebration-pack",
+        "market_price": "17.10",
+        "low_price": "24.99",
+        "mid_price": "28.45",
+        "high_price": "29.94"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "2cb4f6fc-3624-41b7-81d7-75bbba483388",
+        "slug": "winner-pack-vol-5",
+        "name": "Winner Pack Vol. 5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/519822/one-piece-card-game-one-piece-promotion-cards-crocodile-winner-pack-vol-5",
+        "market_price": "8.70",
+        "low_price": "8.00",
+        "mid_price": "10.41",
+        "high_price": "59.99"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "540bde0c-8c19-421b-bb1b-78c729c45bd7",
+        "slug": "st03-release-event",
+        "name": "ST03 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/420103/one-piece-card-game-super-pre-release-starter-deck-3-the-seven-warlords-of-the-sea-crocodile-003",
+        "market_price": "10.22",
+        "low_price": "10.21",
+        "mid_price": "17.92",
+        "high_price": "139.99"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "What happens to a battle if this [On Block] effect is used to place the attacking Character at the bottom of the owner's deck?",
+      "answer": "If the attacking Character is not on the field, the battle ends without anything happening.",
+      "updated_on": "2024-04-05"
+    },
+    {
+      "question": "Can I use this [On Block] effect to place my own Character at the bottom of my deck?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

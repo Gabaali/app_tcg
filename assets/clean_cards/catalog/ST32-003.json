@@ -1,0 +1,122 @@
+{
+  "card_number": "ST32-003",
+  "name": "Dracule Mihawk",
+  "language": "en",
+  "set": "ST32",
+  "set_name": "Starter Deck - Green Roronoa Zoro",
+  "released_at": "2026-07-31T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 6,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Muggy Kingdom",
+    "The Seven Warlords of the Sea"
+  ],
+  "effect": "[Your Turn] When this Character becomes rested, draw 1 card and trash 1 card from your hand.\n[On Play] If your Leader has the  attribute, play up to 1 Character card with a cost of 5 or less that is either [Perona] or has the  attribute from your hand.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5be11361-a9ae-49a2-bde8-004d41f6acc2",
+        "slug": "starter-deck-green-roronoa-zoro",
+        "name": "Starter Deck - Green Roronoa Zoro",
+        "set_code": "ST32",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST32-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST32-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706325/one-piece-card-game-starter-deck-32-green-roronoa-zoro-dracule-mihawk",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5be11361-a9ae-49a2-bde8-004d41f6acc2",
+        "slug": "starter-deck-green-roronoa-zoro",
+        "name": "Starter Deck - Green Roronoa Zoro",
+        "set_code": "ST32",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST32-003/ja/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST32-003/ja/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I use this [On Play] effect to play a Character card with a cost of 6 or more?",
+      "answer": "No, you cannot. This effect allows you to either play up to 1 [Perona] with a cost of 5 or less from your hand, or up to 1 Character card with a cost of 5 or less and the <Slash> attribute from your hand.",
+      "updated_on": "2026-07-17"
+    }
+  ]
+}

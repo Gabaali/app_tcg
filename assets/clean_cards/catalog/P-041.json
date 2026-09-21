@@ -1,0 +1,368 @@
+{
+  "card_number": "P-041",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "P",
+  "color": [
+    "Purple"
+  ],
+  "cost": 10,
+  "power": 12000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Straw Hat Crew"
+  ],
+  "effect": null,
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0b33b9ad-6e03-4c30-808a-e685259f5326",
+        "slug": "starter-deck-purple-monkey-d-luffy",
+        "name": "Starter Deck - Purple Monkey.d.luffy",
+        "set_code": "ST18",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-041/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-041/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581030/one-piece-card-game-starter-deck-18-purple-monkeydluffy-monkeydluffy-p-041",
+        "market_price": "3.80",
+        "low_price": "2.64",
+        "mid_price": "5.63",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0ca781a7-26a2-42db-b9de-22ca035cd025",
+        "slug": "pirates-party-vol-5",
+        "name": "Pirates Party Vol.5",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-041/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-041/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544787/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-041-online-regional-2024-vol-2-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "65a51813-444d-42da-a39c-9cc68c7754ea",
+        "slug": "bandai-card-games-fest-23-24-world-tour",
+        "name": "BANDAI CARD GAMES Fest 23-24 World Tour",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-041/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-041/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/532752/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-041-bandai-card-games-fest-23-24-world-tour",
+        "market_price": "227.18",
+        "low_price": "149.99",
+        "mid_price": "224.99",
+        "high_price": "1000.00"
+      }
+    },
+    {
+      "index": 8,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8fcbb066-1cb0-49b5-9a6d-9645e098a033",
+        "slug": "english-version-1st-anniversary-set",
+        "name": "English Version 1st Anniversary Set",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/531486/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-041",
+        "market_price": "11.18",
+        "low_price": "6.99",
+        "mid_price": "12.99",
+        "high_price": "37.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "9de85022-051e-41ed-8631-88d7054e6ef4",
+        "slug": "1st-anniversary-tournament",
+        "name": "1st Anniversary Tournament",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/520773/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-041-1st-anniversary-tournament",
+        "market_price": "523.60",
+        "low_price": "1444.88",
+        "mid_price": "1725.00",
+        "high_price": "10000.00"
+      }
+    },
+    {
+      "index": 7,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "54903e86-ec87-4550-8421-614e2337f80a",
+        "slug": "online-regional-2024-vol-2",
+        "name": "Online Regional 2024 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544783/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-041-online-regional-2024-vol-2-participant",
+        "market_price": "159.60",
+        "low_price": "149.98",
+        "mid_price": "163.49",
+        "high_price": "169.99"
+      }
+    },
+    {
+      "index": 9,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "54903e86-ec87-4550-8421-614e2337f80a",
+        "slug": "online-regional-2024-vol-2",
+        "name": "Online Regional 2024 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544785/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-041-online-regional-2024-vol-2-finalist",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 10,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "52e3d857-0830-4cdd-bfe8-fb5558e83c67",
+        "slug": "offline-regional-2024-vol-2",
+        "name": "Offline Regional 2024 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544786/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-041-offline-regional-2024-vol-2-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 11,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "52e3d857-0830-4cdd-bfe8-fb5558e83c67",
+        "slug": "offline-regional-2024-vol-2",
+        "name": "Offline Regional 2024 Vol. 2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544784/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-041-offline-regional-2024-vol-2-finalist",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

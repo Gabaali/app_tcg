@@ -1,0 +1,234 @@
+{
+  "card_number": "OP08-074",
+  "name": "Black Maria",
+  "language": "en",
+  "set": "OP08",
+  "set_name": "Two Legends",
+  "released_at": "2024-09-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Purple"
+  ],
+  "cost": 3,
+  "power": 2000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Animal Kingdom Pirates"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] If you have no other [Black Maria] Characters, add up to 5 DON!! cards from your DON!! deck and rest them. Then, at the end of this turn, return DON!! cards from your field to your DON!! deck until you have the same number of DON!! cards on your field as your opponent.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-074/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-074/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558107/one-piece-card-game-two-legends-black-maria",
+        "market_price": "1.08",
+        "low_price": "0.40",
+        "mid_price": "1.14",
+        "high_price": "25.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-074/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-074/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/558108/one-piece-card-game-two-legends-black-maria-parallel",
+        "market_price": "11.18",
+        "low_price": "9.26",
+        "mid_price": "15.59",
+        "high_price": "45.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "89a1aaf6-9d90-4095-9ec0-6e6df7e46adc",
+        "slug": "two-legends",
+        "name": "Two Legends",
+        "set_code": "OP08",
+        "released_at": "2024-09-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-074/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-074/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-074/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-074/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/656239/one-piece-card-game-premium-booster-the-best-vol-2-black-maria-reprint",
+        "market_price": "0.74",
+        "low_price": "0.19",
+        "mid_price": "0.70",
+        "high_price": "20.38"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": "Peach Momoko",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "7a1cb42d-21f2-4377-9922-4b4455c816b7",
+        "slug": "illustration-box-vol-2",
+        "name": "Illustration Box Vol.2",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP08-074/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-074/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP08-074/en/scans/3/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP08-074/en/scans/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP08-074/en/scans/3/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/623068/one-piece-card-game-one-piece-promotion-cards-black-maria-illustration-box-vol2",
+        "market_price": "13.63",
+        "low_price": "10.41",
+        "mid_price": "16.17",
+        "high_price": "60.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I return DON!! cards from my field to my DON!! deck at the end of my turn based on this [Activate: Main] effect, can I use the \"When a DON!! card on your field is returned to your DON!! deck,\" effect of another of my cards?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-08-30"
+    },
+    {
+      "question": "On the same turn I activated this [Activate: Main] effect, this Character was removed from my field. Do I still return DON!! cards from my field to my DON!! deck until I have the same number of DON!! cards on my field as my opponent at the end of this turn?",
+      "answer": "Yes, you do.",
+      "updated_on": "2024-08-30"
+    }
+  ]
+}

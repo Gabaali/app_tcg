@@ -1,0 +1,143 @@
+{
+  "card_number": "EB02-011",
+  "name": "Arlong",
+  "language": "en",
+  "set": "EB02",
+  "set_name": "Anime 25th Collection",
+  "released_at": "2025-05-09T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Fish-Man",
+    "East Blue",
+    "Arlong Pirates"
+  ],
+  "effect": "[On Play] If your Leader has the {Fish-Man} or {East Blue} type, give up to 1 rested DON!! card to 1 of your Leader. Then, up to 1 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-011/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-011/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629102/one-piece-card-game-extra-booster-anime-25th-collection-arlong",
+        "market_price": "1.37",
+        "low_price": "0.96",
+        "mid_price": "2.11",
+        "high_price": "20.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "dfcc3d6f-31c6-494f-b7b5-c6d78a5187e3",
+        "slug": "anime-25th-collection",
+        "name": "Anime 25th Collection",
+        "set_code": "EB02",
+        "released_at": "2025-05-09T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB02-011/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB02-011/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629103/one-piece-card-game-extra-booster-anime-25th-collection-arlong-alternate-art",
+        "market_price": "5.24",
+        "low_price": "3.51",
+        "mid_price": "6.99",
+        "high_price": "80.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Do effects that read \"cannot be rested\" mean that the affected Characters cannot attack?",
+      "answer": "Yes, affected Characters cannot attack. These effects make the affected Characters unable to perform any actions that require them to be rested, such as attacking or activating [Blocker].",
+      "updated_on": "2025-04-25"
+    },
+    {
+      "question": "Do effects that read \"cannot be rested\" mean that the affected Characters cannot activate effects such as \"[Activate: Main] You may rest this Character:\" and other similar effects?",
+      "answer": "Yes, the affected Characters cannot activate those effects. These effects make the affected Characters unable to perform any actions that require them to be rested, such as attacking or activating [Blocker].",
+      "updated_on": "2025-04-25"
+    },
+    {
+      "question": "Do effects that read \"cannot be rested\" mean that the affected Characters cannot activate [Blocker]?",
+      "answer": "Yes, the affected Characters cannot activate [Blocker]. These effects make the affected Characters unable to perform any actions that require them to be rested, such as attacking or activating [Blocker].",
+      "updated_on": "2025-04-25"
+    },
+    {
+      "question": "Do effects that read \"cannot be rested\" mean that the affected Characters cannot become rested by the effects of your or your opponent's other cards?",
+      "answer": "Yes, the affected Characters cannot be rested by the effects of other cards. These effects make the affected Characters unable to perform any actions that require them to be rested, such as attacking or activating [Blocker].",
+      "updated_on": "2025-04-25"
+    },
+    {
+      "question": "If my Leader has neither the {Fish-Man} nor the {East Blue} type, what happens with the effect \"up to 1 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next turn.\"?",
+      "answer": "In this case, you will be unable to use the effect \"up to 1 of your opponent's Characters with a cost of 5 or less cannot be rested until the end of your opponent's next turn.\" to prevent your opponent's Characters from being rested.",
+      "updated_on": "2025-04-25"
+    }
+  ]
+}

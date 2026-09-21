@@ -1,0 +1,236 @@
+{
+  "card_number": "OP09-061",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP09",
+  "set_name": "Emperors in the New World",
+  "released_at": "2024-12-13T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Purple",
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Straw Hat Crew"
+  ],
+  "effect": "[DON!! x1] All of your Characters gain +1 cost.\n[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 1,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.536545,
+        "y": 0.180952
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-061/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-061/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596996/one-piece-card-game-emperors-in-the-new-world-monkeydluffy-061",
+        "market_price": "0.23",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.476744,
+        "y": 0.238095
+      },
+      "product": {
+        "id": "139291d2-4db5-4967-a697-962e1cfb4ba1",
+        "slug": "emperors-in-the-new-world",
+        "name": "Emperors in the New World",
+        "set_code": "OP09",
+        "released_at": "2024-12-13T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-061/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-061/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/596997/one-piece-card-game-emperors-in-the-new-world-monkeydluffy-061-parallel",
+        "market_price": "133.71",
+        "low_price": "90.62",
+        "mid_price": "145.00",
+        "high_price": "550.00"
+      }
+    },
+    {
+      "index": 0,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.727575,
+        "y": 0.280952
+      },
+      "product": {
+        "id": "536639d6-0285-4e29-aae1-7e7a80fa9b86",
+        "slug": "starter-deck-purple-black-monkey-d-luffy",
+        "name": "Starter Deck - Purple/black Monkey.d.luffy",
+        "set_code": "ST26",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-061/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-061/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/632776/one-piece-card-game-starter-deck-26-purple-black-monkeydluffy-monkeydluffy-op09-061",
+        "market_price": "9.09",
+        "low_price": "7.50",
+        "mid_price": "10.81",
+        "high_price": "49.99"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "036b1e8b-1bdc-46aa-8573-17d5d8d180aa",
+        "slug": "jumbo",
+        "name": "Jumbo",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP09-061/ja/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP09-061/ja/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649678/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-op09-061-jumbo",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "55c1f48c-423c-4394-b3e9-ea35bfad8639",
+        "slug": "op09-release-event",
+        "name": "OP09 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635473/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-english-version-2nd-anniversary-set",
+        "market_price": "531.00",
+        "low_price": "500.00",
+        "mid_price": "519.55",
+        "high_price": "1500.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I activate a [DON!! −1] effect twice during my turn, can I still activate this [Your Turn] effect?",
+      "answer": "No, you cannot. This effect only activates when 2 or more DON!! cards are returned to your DON!! deck at the same time.",
+      "updated_on": "2024-11-29"
+    },
+    {
+      "question": "I activated the [Activate: Main] effect of \"OP08-074 Black Maria\" and returned 2 or more DON!! cards to my deck at the end of a turn in which I had not yet activated this [Your Turn] effect. Can I still activate this [Your Turn] effect at this time?",
+      "answer": "Yes, you can.",
+      "updated_on": "2024-11-29"
+    }
+  ]
+}

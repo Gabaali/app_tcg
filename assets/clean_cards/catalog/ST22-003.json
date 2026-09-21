@@ -1,0 +1,163 @@
+{
+  "card_number": "ST22-003",
+  "name": "Edward.Newgate",
+  "language": "en",
+  "set": "ST22",
+  "set_name": "Starter Deck - Ace & Newgate",
+  "released_at": "2025-09-05T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 9,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Four Emperors",
+    "Whitebeard Pirates"
+  ],
+  "effect": "[Double Attack] (This card deals 2 damage.)\n[On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ae94ca61-7839-4c89-832d-3cfdc8f74839",
+        "slug": "starter-deck-ace-newgate",
+        "name": "Starter Deck - Ace & Newgate",
+        "set_code": "ST22",
+        "released_at": "2025-09-05T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST22-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST22-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/647687/one-piece-card-game-starter-deck-22-ace-and-newgate-edwardnewgate",
+        "market_price": "0.11",
+        "low_price": "0.01",
+        "mid_price": "0.15",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ae94ca61-7839-4c89-832d-3cfdc8f74839",
+        "slug": "starter-deck-ace-newgate",
+        "name": "Starter Deck - Ace & Newgate",
+        "set_code": "ST22",
+        "released_at": "2025-09-05T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST22-003/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST22-003/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/647688/one-piece-card-game-starter-deck-22-ace-and-newgate-edwardnewgate-parallel",
+        "market_price": "3.01",
+        "low_price": "2.72",
+        "mid_price": "3.49",
+        "high_price": "35.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "332daaf4-acd9-4d02-b359-d2a3e03c5319",
+        "slug": "premium-card-collection-6-assort-vol-1",
+        "name": "Premium Card Collection -6 assort vol.1-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/649709/one-piece-card-game-one-piece-promotion-cards-edwardnewgate-premium-card-collection-6-assort-vol1",
+        "market_price": "7.33",
+        "low_price": "4.93",
+        "mid_price": "7.97",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I use this [On Play] effect to reveal 1 card from the top of my deck and that card's type includes \"Whitebeard Pirates\", what do I do with that card?",
+      "answer": "In this case, you draw 2 cards from the top of your deck, including the revealed card.",
+      "updated_on": "2025-08-22"
+    },
+    {
+      "question": "If I use this [On Play] effect to reveal 1 card from the top of my deck and that card's type does not include \"Whitebeard Pirates\", what do I do with that card?",
+      "answer": "In this case, you will return the revealed card to the top of your deck face-down.",
+      "updated_on": "2025-08-22"
+    }
+  ]
+}

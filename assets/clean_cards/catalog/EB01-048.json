@@ -1,0 +1,187 @@
+{
+  "card_number": "EB01-048",
+  "name": "Laboon",
+  "language": "en",
+  "set": "EB01",
+  "set_name": "Memorial Collection",
+  "released_at": "2024-05-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Black"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Animal"
+  ],
+  "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "S-KINOKO",
+      "crop_focus": {
+        "x": 0.507633,
+        "y": 0.403787
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-048/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-048/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB01-048/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB01-048/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-048/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544583/one-piece-card-game-extra-booster-memorial-collection-laboon-048",
+        "market_price": "1.43",
+        "low_price": "0.54",
+        "mid_price": "1.96",
+        "high_price": "36.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.539867,
+        "y": 0.496429
+      },
+      "product": {
+        "id": "d0846e92-2ded-43b7-b4fb-fd050765d2b3",
+        "slug": "memorial-collection",
+        "name": "Memorial Collection",
+        "set_code": "EB01",
+        "released_at": "2024-05-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-048/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-048/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/544584/one-piece-card-game-extra-booster-memorial-collection-laboon-048-alternate-art",
+        "market_price": "87.45",
+        "low_price": "66.65",
+        "mid_price": "82.73",
+        "high_price": "149.88"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.544246,
+        "y": 0.381744
+      },
+      "product": {
+        "id": "4d262c70-3787-4fec-8516-438619cb09fa",
+        "slug": "one-piece-card-the-best-vol-2",
+        "name": "One Piece Card the Best Vol.2",
+        "set_code": "PRB02",
+        "released_at": "2025-10-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-048/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-048/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/655990/one-piece-card-game-premium-booster-the-best-vol-2-laboon-reprint",
+        "market_price": "1.04",
+        "low_price": "0.40",
+        "mid_price": "1.04",
+        "high_price": "10.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.435216,
+        "y": 0.505952
+      },
+      "product": {
+        "id": "1a359020-5aef-4860-8cca-ba0382a5a02e",
+        "slug": "treasure-cup-may-2025",
+        "name": "Treasure Cup May 2025~",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB01-048/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB01-048/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/629758/one-piece-card-game-one-piece-promotion-cards-laboon-treasure-cup-2025",
+        "market_price": "1300.00",
+        "low_price": "1400.00",
+        "mid_price": "3249.50",
+        "high_price": "7795.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,300 @@
+{
+  "card_number": "OP07-091",
+  "name": "Monkey.D.Luffy",
+  "language": "en",
+  "set": "OP07",
+  "set_name": "500 Years in the Future",
+  "released_at": "2024-06-28T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Black"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Straw Hat Crew"
+  ],
+  "effect": "[When Attacking] Trash up to 1 of your opponent's Characters with a cost of 2 or less. Then, place any number of Character cards with a cost of 4 or more from your trash at the bottom of your deck in any order. This Character gains +1000 power during this turn for every 3 cards placed at the bottom of your deck.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Nijihayashi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "48d048e6-c2c6-4f03-aa7d-8ce44ec72fc5",
+        "slug": "500-years-in-the-future",
+        "name": "500 Years in the Future",
+        "set_code": "OP07",
+        "released_at": "2024-06-28T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-091/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-091/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP07-091/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP07-091/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-091/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/545887/one-piece-card-game-500-years-in-the-future-monkeydluffy-091",
+        "market_price": "0.28",
+        "low_price": "0.05",
+        "mid_price": "0.31",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5118a8fc-2bc8-49f4-8389-736a822bb655",
+        "slug": "offline-regional-finalist-card-set-2024-vol-3",
+        "name": "Offline Regional Finalist Card Set 2024 Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP07-091/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP07-091/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586023/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-091-offline-regional-2024-vol-3-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba386dcd-7eb4-4fad-b8e5-c1911f2d984f",
+        "slug": "online-regional-2024-vol-3",
+        "name": "Online Regional 2024 Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/585986/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-091-online-regional-2024-vol-3",
+        "market_price": "172.42",
+        "low_price": "169.99",
+        "mid_price": "239.98",
+        "high_price": "600.00"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba386dcd-7eb4-4fad-b8e5-c1911f2d984f",
+        "slug": "online-regional-2024-vol-3",
+        "name": "Online Regional 2024 Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586022/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-091-online-regional-2024-vol-3-winner",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fe40f265-1bf1-4e7e-87dd-8da0ecf82918",
+        "slug": "offline-regional-2024-vol-3",
+        "name": "Offline Regional 2024 Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/583762/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-091-offline-regional-2024-vol-3-finalist",
+        "market_price": "961.59",
+        "low_price": "1999.97",
+        "mid_price": "2000.00",
+        "high_price": "2000.00"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "fe40f265-1bf1-4e7e-87dd-8da0ecf82918",
+        "slug": "offline-regional-2024-vol-3",
+        "name": "Offline Regional 2024 Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586024/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-091-offline-regional-2024-vol-3",
+        "market_price": "163.18",
+        "low_price": "119.94",
+        "mid_price": "129.94",
+        "high_price": "199.98"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "ba386dcd-7eb4-4fad-b8e5-c1911f2d984f",
+        "slug": "online-regional-2024-vol-3",
+        "name": "Online Regional 2024 Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586014/one-piece-card-game-one-piece-promotion-cards-monkeydluffy-091-online-regional-2024-vol-3-finalist",
+        "market_price": null,
+        "low_price": "2000.00",
+        "mid_price": "2000.00",
+        "high_price": "2000.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I put 5 Character cards with a cost of 4 or more from my trash at the bottom of my deck according to this [When Attacking] effect, what happens to this Character's power?",
+      "answer": "In this case, this Character's power becomes +1000 according to this [When Attacking] effect.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

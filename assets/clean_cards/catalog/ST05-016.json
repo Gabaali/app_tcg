@@ -1,0 +1,77 @@
+{
+  "card_number": "ST05-016",
+  "name": "Lion's Threat Imperial Earth Bind",
+  "language": "en",
+  "set": "ST05",
+  "set_name": "Starter Deck - One Piece Film Edition",
+  "released_at": "2023-02-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Purple"
+  ],
+  "cost": 3,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "FILM",
+    "Golden Lion Pirates"
+  ],
+  "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+  "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4794458e-0d8a-435d-931b-86fab87b94b4",
+        "slug": "starter-deck-one-piece-film-edition",
+        "name": "Starter Deck - One Piece Film Edition",
+        "set_code": "ST05",
+        "released_at": "2023-02-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST05-016/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST05-016/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/479851/one-piece-card-game-starter-deck-5-film-edition-lions-threat-imperial-earth-bind",
+        "market_price": "0.31",
+        "low_price": "0.12",
+        "mid_price": "0.39",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

@@ -1,0 +1,485 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+<style>
+:root {
+  color-scheme: dark;
+  --card-w: 168px;
+}
+* { box-sizing: border-box; }
+html, body { margin:0; width:100%; height:100%; overflow:hidden; background:#000; }
+body {
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color:#fff;
+  user-select:none;
+}
+button { font:inherit; }
+#game {
+  position:fixed;
+  inset:0;
+  overflow:hidden;
+  background:
+    radial-gradient(circle at 50% 42%, rgba(38,52,63,.30) 0%, rgba(13,17,20,.16) 34%, rgba(0,0,0,0) 68%),
+    #000;
+}
+#game::before {
+  content:"";
+  position:absolute;
+  inset:0;
+  pointer-events:none;
+  background:
+    linear-gradient(180deg, rgba(255,255,255,.018), transparent 14%, transparent 82%, rgba(255,255,255,.018)),
+    radial-gradient(ellipse at center, transparent 40%, rgba(0,0,0,.62) 100%);
+}
+.topbar {
+  position:absolute;
+  right:28px;
+  bottom:28px;
+  z-index:60000;
+  display:flex;
+  align-items:center;
+  justify-content:flex-end;
+  pointer-events:none;
+}
+.draw-button {
+  pointer-events:auto;
+  min-width:150px;
+  height:50px;
+  padding:0 24px;
+  border-radius:999px;
+  border:1px solid rgba(255,255,255,.22);
+  color:#fff;
+  background:rgba(18,20,24,.82);
+  box-shadow:0 12px 38px rgba(0,0,0,.46), inset 0 1px 0 rgba(255,255,255,.06);
+  cursor:pointer;
+  transition:transform .15s ease, border-color .15s ease, background .15s ease;
+  backdrop-filter:blur(12px);
+  -webkit-backdrop-filter:blur(12px);
+}
+.draw-button:hover:not(:disabled) {
+  transform:translateY(-2px) scale(1.025);
+  border-color:rgba(255,255,255,.48);
+  background:rgba(31,34,40,.92);
+}
+.draw-button:active:not(:disabled) { transform:scale(.985); }
+.draw-button:disabled { opacity:.35; cursor:default; }
+.draw-count {
+  display:block;
+  margin-top:2px;
+  font-size:11px;
+  color:rgba(255,255,255,.55);
+}
+.exit-button {
+  position:absolute;
+  left:20px;
+  top:20px;
+  z-index:10001;
+  width:42px;
+  height:42px;
+  border-radius:50%;
+  border:1px solid rgba(255,255,255,.16);
+  background:rgba(10,10,12,.62);
+  color:rgba(255,255,255,.8);
+  cursor:pointer;
+  font-size:21px;
+  backdrop-filter:blur(10px);
+}
+.exit-button:hover { background:rgba(255,255,255,.10); color:#fff; }
+.discard-indicator {
+  position:absolute;
+  right:22px;
+  top:22px;
+  z-index:10001;
+  font-size:12px;
+  color:rgba(255,255,255,.50);
+  letter-spacing:.04em;
+}
+#board {
+  position:absolute;
+  left:0;
+  right:0;
+  top:76px;
+  bottom:245px;
+  overflow:visible;
+}
+.board-card {
+  position:absolute;
+  width:136px;
+  aspect-ratio:5/7;
+  border-radius:10px;
+  overflow:visible;
+  cursor:grab;
+  touch-action:none;
+  transform:translateZ(0);
+  filter:drop-shadow(0 12px 18px rgba(0,0,0,.58));
+}
+.board-card:hover {
+  z-index:15000 !important;
+}
+.board-card.dragging { cursor:grabbing; }
+.board-card .card-shell {
+  width:100%; height:100%; border-radius:10px; overflow:hidden;
+  transform-origin:50% 50%;
+  box-shadow:0 0 0 1px rgba(255,255,255,.12);
+  transition:transform .18s cubic-bezier(.2,.8,.2,1), box-shadow .18s ease, filter .18s ease;
+}
+.board-card:hover .card-shell {
+  transform:scale(1.70);
+  box-shadow:0 0 0 1px rgba(255,255,255,.42), 0 24px 48px rgba(0,0,0,.70);
+  filter:drop-shadow(0 8px 14px rgba(0,0,0,.35));
+}
+.board-card img, .hand-card img {
+  width:100%; height:100%; display:block; object-fit:contain; pointer-events:none;
+}
+.missing {
+  width:100%; height:100%; display:flex; align-items:center; justify-content:center;
+  padding:10px; text-align:center; background:#222; color:#aaa; border-radius:10px;
+}
+.board-actions {
+  position:absolute;
+  left:50%;
+  top:50%;
+  transform:translate(-50%,-50%);
+  display:none;
+  gap:7px;
+  z-index:20;
+}
+.board-card.selected .board-actions { display:flex; }
+.board-action {
+  border:1px solid rgba(255,255,255,.24);
+  background:rgba(0,0,0,.82);
+  color:white;
+  border-radius:999px;
+  min-width:42px;
+  height:36px;
+  padding:0 11px;
+  cursor:pointer;
+  box-shadow:0 5px 18px rgba(0,0,0,.45);
+}
+#hand-zone {
+  position:absolute;
+  left:50%;
+  bottom:36px;
+  width:min(1240px, calc(100vw - 260px));
+  height:320px;
+  transform:translateX(-50%);
+  z-index:20000;
+  pointer-events:none;
+  overflow:visible;
+}
+.hand-card {
+  --x:0px;
+  --y:0px;
+  --r:0deg;
+  position:absolute;
+  left:50%;
+  bottom:0;
+  width:var(--card-w);
+  aspect-ratio:5/7;
+  border-radius:11px;
+  transform-origin:50% 100%;
+  transform:translateX(calc(-50% + var(--x))) translateY(var(--y)) rotate(var(--r)) translateZ(0);
+  transition:transform .18s cubic-bezier(.2,.8,.2,1), filter .18s ease;
+  filter:drop-shadow(0 10px 18px rgba(0,0,0,.72));
+  pointer-events:auto;
+  cursor:pointer;
+}
+.hand-card .card-shell {
+  position:absolute; inset:0; border-radius:11px; overflow:hidden;
+  box-shadow:0 0 0 1px rgba(255,255,255,.12);
+  background:#17191d;
+}
+.hand-card:hover {
+  transform:translateX(calc(-50% + var(--x))) translateY(-82px) rotate(0deg) scale(1.43) translateZ(0);
+  z-index:50000 !important;
+  filter:drop-shadow(0 24px 36px rgba(0,0,0,.82));
+}
+.hand-card.selected {
+  transform:translateX(calc(-50% + var(--x))) translateY(-112px) rotate(0deg) scale(1.22) translateZ(0);
+  z-index:49000 !important;
+  filter:drop-shadow(0 24px 40px rgba(0,0,0,.86));
+}
+.hand-card.selected:hover {
+  transform:translateX(calc(-50% + var(--x))) translateY(-124px) rotate(0deg) scale(1.34) translateZ(0);
+}
+.hand-actions {
+  position:absolute;
+  left:50%;
+  bottom:calc(100% + 12px);
+  transform:translateX(-50%);
+  display:none;
+  align-items:center;
+  gap:8px;
+  white-space:nowrap;
+  z-index:60000;
+}
+.hand-card.selected .hand-actions { display:flex; }
+.hand-action {
+  min-width:88px;
+  height:39px;
+  padding:0 16px;
+  border-radius:999px;
+  border:1px solid rgba(255,255,255,.26);
+  background:rgba(12,13,16,.92);
+  color:#fff;
+  font-weight:700;
+  cursor:pointer;
+  box-shadow:0 8px 28px rgba(0,0,0,.60);
+  backdrop-filter:blur(10px);
+}
+.hand-action.primary {
+  background:#fff;
+  color:#050505;
+  border-color:#fff;
+}
+.hand-action:hover { transform:translateY(-1px); }
+.empty-hand {
+  position:absolute;
+  left:50%;
+  bottom:44px;
+  transform:translateX(-50%);
+  color:rgba(255,255,255,.26);
+  font-size:13px;
+  pointer-events:none;
+}
+@media (max-width:900px) {
+  :root { --card-w:138px; }
+  .topbar { right:16px; bottom:18px; }
+  .draw-button { min-width:126px; height:46px; padding:0 17px; }
+  #board { bottom:220px; }
+  #hand-zone { bottom:28px; width:calc(100vw - 170px); height:270px; }
+  .hand-card:hover { transform:translateX(calc(-50% + var(--x))) translateY(-64px) rotate(0deg) scale(1.34); }
+  .board-card:hover .card-shell { transform:scale(1.48); }
+}
+</style>
+</head>
+<body>
+<div id="game">
+  <button id="exit" class="exit-button" title="Quitter la table">×</button>
+  <div class="topbar">
+    <button id="draw" class="draw-button">Piocher<span id="drawCount" class="draw-count"></span></button>
+  </div>
+  <div id="discardIndicator" class="discard-indicator"></div>
+  <div id="board"></div>
+  <div id="hand-zone"></div>
+</div>
+<script>
+(() => {
+  let cfg = null;
+  let selectedHand = null;
+  let selectedBoard = null;
+  let zCounter = 100;
+
+  function send(type, data={}) {
+    window.parent.postMessage({isStreamlitMessage:true, type, ...data}, "*");
+  }
+  function ready() {
+    send("streamlit:componentReady", {apiVersion:1});
+    send("streamlit:setFrameHeight", {height: Math.max(720, window.innerHeight)});
+  }
+  function setValue(value) {
+    send("streamlit:setComponentValue", {value});
+  }
+  function action(name, instanceId=null) {
+    setValue({
+      event_id: Date.now().toString(36) + Math.random().toString(36).slice(2),
+      action: name,
+      instance_id: instanceId,
+      session_id: cfg ? cfg.session_id : null,
+    });
+  }
+  function esc(v) {
+    return String(v ?? "").replace(/[&<>"']/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[ch]));
+  }
+  function art(card) {
+    if (card.image) return `<img draggable="false" src="${esc(card.image)}" alt="${esc(card.name || 'Carte')}">`;
+    return `<div class="missing">${esc(card.name || 'Carte')}</div>`;
+  }
+  function boardStorageKey() {
+    return `tcg-board-v2:${cfg.session_id}`;
+  }
+  function loadPositions() {
+    try { return JSON.parse(localStorage.getItem(boardStorageKey()) || '{}'); }
+    catch (_) { return {}; }
+  }
+  function savePositions(positions) {
+    try { localStorage.setItem(boardStorageKey(), JSON.stringify(positions)); } catch (_) {}
+  }
+  function clamp(v,a,b) { return Math.max(a, Math.min(b,v)); }
+
+  function renderBoard() {
+    const board = document.getElementById('board');
+    board.innerHTML = '';
+    const positions = loadPositions();
+    const cards = cfg.board || [];
+
+    cards.forEach((item, index) => {
+      const el = document.createElement('div');
+      el.className = 'board-card';
+      el.dataset.id = item.instance_id;
+      const old = positions[item.instance_id];
+      const fallbackX = 60 + (index % 7) * 112;
+      const fallbackY = 40 + Math.floor(index / 7) * 130;
+      el.style.left = `${old?.x ?? fallbackX}px`;
+      el.style.top = `${old?.y ?? fallbackY}px`;
+      el.style.zIndex = old?.z ?? (index + 1);
+      zCounter = Math.max(zCounter, Number(old?.z || index + 1));
+      el.innerHTML = `
+        <div class="card-shell">${art(item)}</div>
+        <div class="board-actions">
+          <button class="board-action" data-act="hand" title="Reprendre en main">↩</button>
+          <button class="board-action" data-act="discard" title="Défausser">🗑</button>
+        </div>`;
+      if (selectedBoard === item.instance_id) el.classList.add('selected');
+      board.appendChild(el);
+
+      let drag = null;
+      let moved = false;
+      el.addEventListener('pointerdown', ev => {
+        if (ev.target.closest('button')) return;
+        ev.preventDefault();
+        const r = el.getBoundingClientRect();
+        const br = board.getBoundingClientRect();
+        drag = {dx: ev.clientX-r.left, dy: ev.clientY-r.top, br, sx:ev.clientX, sy:ev.clientY};
+        moved = false;
+        zCounter += 1;
+        el.style.zIndex = zCounter;
+        el.classList.add('dragging');
+        el.setPointerCapture(ev.pointerId);
+      });
+      el.addEventListener('pointermove', ev => {
+        if (!drag) return;
+        if (Math.abs(ev.clientX-drag.sx) + Math.abs(ev.clientY-drag.sy) > 5) moved = true;
+        const x = clamp(ev.clientX-drag.br.left-drag.dx, 0, board.clientWidth-el.offsetWidth);
+        const y = clamp(ev.clientY-drag.br.top-drag.dy, 0, board.clientHeight-el.offsetHeight);
+        el.style.left = `${x}px`;
+        el.style.top = `${y}px`;
+      });
+      function finish() {
+        if (!drag) return;
+        const wasMoved = moved;
+        drag = null;
+        el.classList.remove('dragging');
+        positions[item.instance_id] = {
+          x: parseFloat(el.style.left)||0,
+          y: parseFloat(el.style.top)||0,
+          z: parseInt(el.style.zIndex||'1',10),
+        };
+        savePositions(positions);
+        if (!wasMoved) {
+          selectedBoard = selectedBoard === item.instance_id ? null : item.instance_id;
+          selectedHand = null;
+          renderBoard();
+          renderHand();
+        }
+      }
+      el.addEventListener('pointerup', finish);
+      el.addEventListener('pointercancel', finish);
+
+      el.querySelector('[data-act="hand"]').addEventListener('click', ev => {
+        ev.stopPropagation(); action('board_to_hand', item.instance_id);
+      });
+      el.querySelector('[data-act="discard"]').addEventListener('click', ev => {
+        ev.stopPropagation(); action('board_to_discard', item.instance_id);
+      });
+    });
+  }
+
+  function layoutHand() {
+    const cards = [...document.querySelectorAll('.hand-card')];
+    const n = cards.length;
+    if (!n) return;
+    const center = (n - 1) / 2;
+    const available = Math.min(window.innerWidth * .70, 1060);
+    const step = n > 1 ? Math.min(112, available / Math.max(1, n - 1)) : 0;
+    const maxAngle = Math.min(17, 3.2 * center);
+    cards.forEach((el, i) => {
+      const rel = i - center;
+      const x = rel * step;
+      const normalized = center ? rel / center : 0;
+      const rot = normalized * maxAngle;
+      const y = Math.abs(normalized) * 18;
+      el.style.setProperty('--x', `${x}px`);
+      el.style.setProperty('--y', `${y}px`);
+      el.style.setProperty('--r', `${rot}deg`);
+      el.style.zIndex = 1000 + i;
+    });
+  }
+
+  function renderHand() {
+    const hand = document.getElementById('hand-zone');
+    hand.innerHTML = '';
+    const cards = cfg.hand || [];
+    if (!cards.length) {
+      hand.innerHTML = '<div class="empty-hand">Main vide</div>';
+      return;
+    }
+    cards.forEach((item, index) => {
+      const el = document.createElement('div');
+      el.className = 'hand-card';
+      el.dataset.id = item.instance_id;
+      if (selectedHand === item.instance_id) el.classList.add('selected');
+      el.innerHTML = `
+        <div class="card-shell">${art(item)}</div>
+        <div class="hand-actions">
+          <button class="hand-action primary" data-act="board">Poser</button>
+          <button class="hand-action" data-act="discard">Défausser</button>
+        </div>`;
+      hand.appendChild(el);
+      el.addEventListener('click', ev => {
+        if (ev.target.closest('button')) return;
+        selectedHand = selectedHand === item.instance_id ? null : item.instance_id;
+        selectedBoard = null;
+        renderHand();
+        renderBoard();
+      });
+      el.querySelector('[data-act="board"]').addEventListener('click', ev => {
+        ev.stopPropagation(); action('hand_to_board', item.instance_id);
+      });
+      el.querySelector('[data-act="discard"]').addEventListener('click', ev => {
+        ev.stopPropagation(); action('hand_to_discard', item.instance_id);
+      });
+    });
+    requestAnimationFrame(layoutHand);
+  }
+
+  function render(nextCfg) {
+    cfg = nextCfg || {};
+    selectedHand = null;
+    selectedBoard = null;
+    const draw = document.getElementById('draw');
+    draw.disabled = !cfg.can_draw;
+    document.getElementById('drawCount').textContent = `${cfg.draw_count || 0} carte(s) dans la pioche`;
+    document.getElementById('discardIndicator').textContent = `Défausse ${cfg.discard_count || 0}`;
+    renderBoard();
+    renderHand();
+    send("streamlit:setFrameHeight", {height: Math.max(720, window.innerHeight)});
+  }
+
+  document.getElementById('draw').addEventListener('click', () => action('draw'));
+  document.getElementById('exit').addEventListener('click', () => action('exit'));
+  document.getElementById('game').addEventListener('click', ev => {
+    if (ev.target.id !== 'game' && ev.target.id !== 'board') return;
+    if (selectedHand || selectedBoard) {
+      selectedHand = null;
+      selectedBoard = null;
+      renderHand();
+      renderBoard();
+    }
+  });
+  window.addEventListener('resize', () => {
+    layoutHand();
+    send("streamlit:setFrameHeight", {height: Math.max(720, window.innerHeight)});
+  }, {passive:true});
+  window.addEventListener('message', ev => {
+    if (ev.data && ev.data.type === 'streamlit:render') {
+      render(ev.data.args?.payload || {});
+    }
+  });
+  ready();
+})();
+</script>
+</body>
+</html>

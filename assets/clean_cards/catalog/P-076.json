@@ -1,0 +1,79 @@
+{
+  "card_number": "P-076",
+  "name": "Sakazuki",
+  "language": "en",
+  "set": "P",
+  "set_name": "Promo",
+  "released_at": null,
+  "released": false,
+  "card_type": "Leader",
+  "rarity": "P",
+  "color": [
+    "Blue",
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] You may trash 1 {Navy} type card from your hand: Give up to 1 of your opponent's Characters －1 cost during this turn.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.297342,
+        "y": 0.197619
+      },
+      "product": {
+        "id": "7cb20866-20c8-44d2-ba1c-1e39eaa164b3",
+        "slug": "pirates-party-vol-7",
+        "name": "Pirates Party Vol.7",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/P-076/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/P-076/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/548444/one-piece-card-game-one-piece-promotion-cards-sakazuki-pirates-party-vol-7",
+        "market_price": "0.77",
+        "low_price": "0.25",
+        "mid_price": "1.00",
+        "high_price": "15.50"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

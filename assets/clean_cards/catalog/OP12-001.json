@@ -1,0 +1,121 @@
+{
+  "card_number": "OP12-001",
+  "name": "Silvers Rayleigh",
+  "language": "en",
+  "set": "OP12",
+  "set_name": "Legacy of the Master",
+  "released_at": "2025-08-22T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Former Roger Pirates"
+  ],
+  "effect": "Under the rules of this game, you cannot include cards with a cost of 5 or more in your deck.\n[Activate: Main] [Once Per Turn] You may reveal 2 Events from your hand: Up to 1 of your Characters with 4000 base power or less gains +2000 power during this turn.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Midori Matsuda",
+      "crop_focus": {
+        "x": 0.476868,
+        "y": 0.212414
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/OP12-001/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/OP12-001/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-001/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643723/one-piece-card-game-legacy-of-the-master-silvers-rayleigh",
+        "market_price": "0.15",
+        "low_price": "0.01",
+        "mid_price": "0.18",
+        "high_price": "8.15"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.699336,
+        "y": 0.189286
+      },
+      "product": {
+        "id": "51d8d211-3270-417c-a7c7-fba073e783d2",
+        "slug": "legacy-of-the-master",
+        "name": "Legacy of the Master",
+        "set_code": "OP12",
+        "released_at": "2025-08-22T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP12-001/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP12-001/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/643724/one-piece-card-game-legacy-of-the-master-silvers-rayleigh-alternate-art",
+        "market_price": "19.59",
+        "low_price": "17.75",
+        "mid_price": "21.98",
+        "high_price": "70.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I include cards such as \"ST23-001 Uta\", which have a base cost of 5 or more but can have their cost reduced to 4 or less by an effect, in my deck?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-02-06"
+    }
+  ]
+}

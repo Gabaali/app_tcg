@@ -1,0 +1,79 @@
+{
+  "card_number": "ST10-003",
+  "name": "Eustass\"Captain\"Kid",
+  "language": "en",
+  "set": "ST10",
+  "set_name": "Starter Deck - The Three Captains",
+  "released_at": "2023-11-10T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Red",
+    "Purple"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 5,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "Kid Pirates"
+  ],
+  "effect": "[Your Turn] If you have 4 or more Life cards, give this Leader −1000 power.\n[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Leader gains +2000 power during this turn.",
+  "trigger": null,
+  "block": "2",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.488372,
+        "y": 0.141667
+      },
+      "product": {
+        "id": "1d1cc7a7-d6df-43c5-98c5-f9c62a31a971",
+        "slug": "starter-deck-the-three-captains",
+        "name": "Starter Deck - The Three Captains",
+        "set_code": "ST10",
+        "released_at": "2023-11-10T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST10-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST10-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525046/one-piece-card-game-ultra-deck-the-three-captains-eustasscaptainkid-003",
+        "market_price": "2.16",
+        "low_price": "1.78",
+        "mid_price": "2.50",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}

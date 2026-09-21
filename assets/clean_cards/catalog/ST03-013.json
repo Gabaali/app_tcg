@@ -1,0 +1,296 @@
+{
+  "card_number": "ST03-013",
+  "name": "Boa Hancock",
+  "language": "en",
+  "set": "ST03",
+  "set_name": "Starter Deck - The Seven Warlords of the Sea",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 3,
+  "power": 1000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "The Seven Warlords of the Sea",
+    "Kuja Pirates"
+  ],
+  "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+  "trigger": "[Trigger] Play this card.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8d69dec3-3bfc-43c1-b05e-fd3090ee1c79",
+        "slug": "starter-deck-the-seven-warlords-of-the-sea",
+        "name": "Starter Deck - The Seven Warlords of the Sea",
+        "set_code": "ST03",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-013/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-013/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288286/one-piece-card-game-starter-deck-3-the-seven-warlords-of-the-sea-boa-hancock",
+        "market_price": "0.24",
+        "low_price": "0.10",
+        "mid_price": "0.25",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Reprint",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-013/en/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-013/en/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Jolly Roger Foil",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-013/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-013/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/586896/one-piece-card-game-premium-booster-the-best-boa-hancock-st03-013-jolly-roger-foil",
+        "market_price": "2.57",
+        "low_price": "1.50",
+        "mid_price": "3.25",
+        "high_price": "100.00"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Full Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-013/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-013/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593585/one-piece-card-game-premium-booster-the-best-boa-hancock-st03-013-full-art",
+        "market_price": "57.15",
+        "low_price": "57.15",
+        "mid_price": "89.99",
+        "high_price": "153.98"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "c02d3350-49f9-4968-a30a-436b02b140a2",
+        "slug": "one-piece-card-the-best",
+        "name": "One Piece Card the Best",
+        "set_code": "PRB01",
+        "released_at": "2024-11-08T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-013/en/stock/3/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-013/en/stock/3/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/593586/one-piece-card-game-premium-booster-the-best-boa-hancock-st03-013-alternate-art",
+        "market_price": "125.05",
+        "low_price": "120.00",
+        "mid_price": "150.00",
+        "high_price": "526.56"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a2fe4ce8-0907-441d-a9c1-457574254e8e",
+        "slug": "premium-card-collection-best-selection-vol-2",
+        "name": "Premium Card Collection -Best Selection Vol. 2-",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-013/ja/stock/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-013/ja/stock/5/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/587224/one-piece-card-game-one-piece-promotion-cards-boa-hancock-premium-card-collection-best-selection-vol-2",
+        "market_price": "32.76",
+        "low_price": "28.28",
+        "mid_price": "38.97",
+        "high_price": "149.99"
+      }
+    },
+    {
+      "index": 6,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "540bde0c-8c19-421b-bb1b-78c729c45bd7",
+        "slug": "st03-release-event",
+        "name": "ST03 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/422741/one-piece-card-game-super-pre-release-starter-deck-3-the-seven-warlords-of-the-sea-boa-hancock",
+        "market_price": "50.30",
+        "low_price": "34.91",
+        "mid_price": "45.24",
+        "high_price": "300.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

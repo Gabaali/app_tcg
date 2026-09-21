@@ -1,0 +1,80 @@
+{
+  "card_number": "EB03-058",
+  "name": "Lilith",
+  "language": "en",
+  "set": "EB03",
+  "set_name": "One Piece Heroines Edition",
+  "released_at": "2026-02-20T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "R",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 5,
+  "power": 6000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Wisdom"
+  ],
+  "types": [
+    "Egghead",
+    "Scientist"
+  ],
+  "effect": "[Your Turn] [On Play] If you have 2 or less Life cards, draw 1 card.",
+  "trigger": "[Trigger] If your Leader is [Vegapunk], play this card.",
+  "block": "4",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "Hagane Tsurugi",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8eb0b2be-9cfb-416b-b615-4fb49342a8b5",
+        "slug": "one-piece-heroines-edition",
+        "name": "One Piece Heroines Edition",
+        "set_code": "EB03",
+        "released_at": "2026-02-20T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/EB03-058/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-058/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/EB03-058/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/EB03-058/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/EB03-058/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/672812/one-piece-card-game-extra-booster-one-piece-heroines-edition-lilith",
+        "market_price": "0.22",
+        "low_price": "0.02",
+        "mid_price": "0.25",
+        "high_price": "5.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

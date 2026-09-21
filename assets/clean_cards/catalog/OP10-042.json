@@ -1,0 +1,256 @@
+{
+  "card_number": "OP10-042",
+  "name": "Usopp",
+  "language": "en",
+  "set": "OP10",
+  "set_name": "Royal Blood",
+  "released_at": "2025-03-21T00:00:00.000Z",
+  "released": true,
+  "card_type": "Leader",
+  "rarity": "L",
+  "color": [
+    "Blue",
+    "Black"
+  ],
+  "cost": null,
+  "power": 5000,
+  "counter": null,
+  "life": 4,
+  "attribute": [
+    "Ranged"
+  ],
+  "types": [
+    "Dressrosa",
+    "Straw Hat Crew"
+  ],
+  "effect": "All of your {Dressrosa} type Characters with a cost of 2 or more gain +1 cost.\n[Opponent's Turn] [Once Per Turn] This effect can be activated when your {Dressrosa} type Character is removed from the field by your opponent's effect or K.O.'d. If you have 5 or less cards in your hand, draw 1 card.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.481728,
+        "y": 0.230952
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-042/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-042/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617081/one-piece-card-game-royal-blood-usopp-042",
+        "market_price": "0.18",
+        "low_price": "0.04",
+        "mid_price": "0.20",
+        "high_price": "5.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": 0.531561,
+        "y": 0.294048
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-042/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-042/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/617082/one-piece-card-game-royal-blood-usopp-042-parallel",
+        "market_price": "29.38",
+        "low_price": "20.00",
+        "mid_price": "30.69",
+        "high_price": "99.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-042/ja/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-042/ja/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "953d1419-04bb-45fc-bd01-8a04c9665c15",
+        "slug": "royal-blood",
+        "name": "Royal Blood",
+        "set_code": "OP10",
+        "released_at": "2025-03-21T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-042/ja/stock/4/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-042/ja/stock/4/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": null,
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "1c3a5a38-cceb-4198-8fdf-dfe69b2ee6fd",
+        "slug": "official-playmat-limited-edition-vol-3",
+        "name": "Official Playmat Limited Edition Vol.3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/OP10-042/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/OP10-042/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/647759/one-piece-card-game-one-piece-promotion-cards-usopp-official-playmat-limited-edition-vol-3",
+        "market_price": "168.28",
+        "low_price": "259.97",
+        "mid_price": "324.98",
+        "high_price": "349.99"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If one of my {Dressrosa} type Characters has an [On K.O.] effect and is K.O.'d during my opponent's turn, does this card's [Opponent's Turn] effect activate first, or does that Character's [On K.O.] effect activate first?",
+      "answer": "In this case, you can activate the card's [On K.O.] effect and this Leader's [Opponent's Turn] effect in any order you choose.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "If one of my {Dressrosa} type Characters is K.O.'d by my opponent's attack, can I use this [Opponent's Turn] effect to draw 1 card?",
+      "answer": "Yes, you can.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "During my opponent's turn, my \"OP10-090 Franky\" was K.O.'d, and I activated its [On K.O.] effect to play \"OP04-092 Rebecca\" before the activation of this Leader's [Opponent's Turn] effect. In this case, which effect activates first: this Leader's [Opponent's Turn] effect or the [On Play] effect of \"OP04-092 Rebecca\"?",
+      "answer": "In this case, this Leader's [Opponent's Turn] effect will always activate before the [On Play] effect of a Character played using the [On K.O.] effect of \"OP10-090 Franky\".",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "I have \"OP04-089 Bartolomeo\", a card with a base cost of 3, on my field, which currently has a cost of 4 due to this Leader's effect. During my opponent's turn, my opponent uses the [On Play] effect of \"OP02-106 Tsuru\" to give Bartolomeo −2 cost. What would Bartolomeo's cost become in this case?",
+      "answer": "In this case, Bartolomeo's cost would become 2. Usopp's effect is a permanent effect, meaning it is processed first: this raises Bartolomeo's cost from 3 to 4. Tsuru's [On Play] effect, which is an auto effect, is processed after that, dropping Bartolomeo's cost from 4 to 2.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "I have \"OP04-089 Bartolomeo\", a card with a base cost of 3, on my field, which currently has a cost of 4 due to this Leader's effect. During my opponent's turn, my opponent uses the [On Play] effect of \"OP07-080 Kaku\" to give Bartolomeo −3 cost. What would Bartolomeo's cost become in this case?",
+      "answer": "In this case, Bartolomeo's cost would become 0. Usopp's effect is a permanent effect, meaning it is processed first: this raises Bartolomeo's cost from 3 to 4. Kaku's [On Play] effect, which is an auto effect, is processed after that, dropping Bartolomeo's cost from 4 to 1. As this means that Bartolomeo's cost is now 1 or less, Usopp's effect would no longer apply to it; it would lose the +1 cost from Usopp's effect, so its cost would become 0.",
+      "updated_on": "2025-02-28"
+    },
+    {
+      "question": "I have \"OP04-089 Bartolomeo\", a card with a base cost of 3, on my field, and it currently has a cost of 4 due to this Leader's effect. During my opponent's turn, my opponent gives a DON!! card to \"OP03-078 Issho\", then uses Issho's [Your Turn] effect to give Bartolomeo −3 cost. What would Bartolomeo's cost become in this case?",
+      "answer": "In this case, Bartolomeo's cost would become 0. As the effects of the turn player's cards' take priority, Issho's permanent effect will be processed first, dropping Bartolomeo's cost from 3 to 0. The effects of the non-turn player's cards will then be processed, but Usopp's permanent effect will not be applied to give Bartolomeo +1 cost, meaning that its cost will remain 0.",
+      "updated_on": "2025-02-28"
+    }
+  ]
+}

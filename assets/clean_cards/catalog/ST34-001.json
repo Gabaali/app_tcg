@@ -1,0 +1,85 @@
+{
+  "card_number": "ST34-001",
+  "name": "Charlotte Katakuri",
+  "language": "en",
+  "set": "ST34",
+  "set_name": "Starter Deck - Purple Charlotte Katakuri",
+  "released_at": "2026-07-31T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Purple"
+  ],
+  "cost": 5,
+  "power": 7000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Strike"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Big Mom Pirates} type, add up to 2 DON!! cards from your DON!! deck and rest them.\n[On K.O.] Play up to 1 Character card with 8000 power or less from your hand.",
+  "trigger": null,
+  "block": "5",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "0ef923c0-fa9c-447b-b50d-2473f1693666",
+        "slug": "starter-deck-purple-charlotte-katakuri",
+        "name": "Starter Deck - Purple Charlotte Katakuri",
+        "set_code": "ST34",
+        "released_at": "2026-07-31T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST34-001/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST34-001/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/706342/one-piece-card-game-starter-deck-34-purple-charlotte-katakuri-charlotte-katakuri-st34-001",
+        "market_price": null,
+        "low_price": null,
+        "mid_price": null,
+        "high_price": null
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Imagine that I have two \"ST34-001 Charlotte Katakuri\" and 10 DON!! cards on my field during my turn. I return 1 DON!! card to my DON!! deck, and activate the effect of one of my \"ST34-001 Charlotte Katakuri\" to add 1 DON!! card from my DON!! deck and rest it. Can I then use another card's effect to return 1 of the DON!! cards on my field to my DON!! deck, activate the effect of the other \"ST34-001 Charlotte Katakuri\", and add 1 more DON!! card from my DON!! deck and rest it?",
+      "answer": "No, you cannot.",
+      "updated_on": "2026-08-21"
+    }
+  ]
+}

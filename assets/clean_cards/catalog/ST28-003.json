@@ -1,0 +1,80 @@
+{
+  "card_number": "ST28-003",
+  "name": "Kin'emon",
+  "language": "en",
+  "set": "ST28",
+  "set_name": "Starter Deck - Green/yellow Yamato",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 2000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Land of Wano",
+    "The Akazaya Nine"
+  ],
+  "effect": null,
+  "trigger": "[Trigger] If your Leader has the {Land of Wano} type and your opponent has 3 or less Life cards, play this card.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": "kankurou",
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "5fc4a779-1784-40a0-b76c-5a763b0d62cc",
+        "slug": "starter-deck-green-yellow-yamato",
+        "name": "Starter Deck - Green/yellow Yamato",
+        "set_code": "ST28",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST28-003/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST28-003/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST28-003/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST28-003/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST28-003/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/635314/one-piece-card-game-starter-deck-28-green-yellow-yamato-kinemon",
+        "market_price": "0.36",
+        "low_price": "0.23",
+        "mid_price": "0.60",
+        "high_price": "10.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": []
+}

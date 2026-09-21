@@ -1,0 +1,88 @@
+{
+  "card_number": "ST24-004",
+  "name": "Law & Bepo",
+  "language": "en",
+  "set": "ST24",
+  "set_name": "Starter Deck - Green Jewelry Bonney",
+  "released_at": "2025-06-06T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Green"
+  ],
+  "cost": 10,
+  "power": 11000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Slash",
+    "Strike"
+  ],
+  "types": [
+    "Minks",
+    "Supernovas",
+    "Heart Pirates"
+  ],
+  "effect": "[On Play] Rest up to 1 of your opponent's Characters and that Character will not become active in your opponent's next Refresh Phase. Then, if your opponent has 2 or more rested Characters, your Leader gains +2000 power until the end of your opponent's next End Phase.",
+  "trigger": null,
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8860a806-61e2-494b-ade8-547d21ab6f45",
+        "slug": "starter-deck-green-jewelry-bonney",
+        "name": "Starter Deck - Green Jewelry Bonney",
+        "set_code": "ST24",
+        "released_at": "2025-06-06T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST24-004/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST24-004/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/634621/one-piece-card-game-starter-deck-24-green-jewelry-bonney-law-and-bepo",
+        "market_price": "9.79",
+        "low_price": "8.78",
+        "mid_price": "10.97",
+        "high_price": "25.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "I played this Character when my opponent had 2 rested Characters and no active Characters. In this case, can my Leader gain +2000 power with this [On Play] effect?",
+      "answer": "Yes, it can. In this case, up to 1 of your opponent's Characters will not become active in your opponent's next Refresh Phase, and your Leader gains +2000 power until the end of your opponent's next End Phase.",
+      "updated_on": "2025-05-30"
+    }
+  ]
+}

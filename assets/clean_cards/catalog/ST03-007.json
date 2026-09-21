@@ -1,0 +1,264 @@
+{
+  "card_number": "ST03-007",
+  "name": "Sentomaru",
+  "language": "en",
+  "set": "ST03",
+  "set_name": "Starter Deck - The Seven Warlords of the Sea",
+  "released_at": "2022-12-02T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Blue"
+  ],
+  "cost": 3,
+  "power": 4000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Navy"
+  ],
+  "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck.",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "8d69dec3-3bfc-43c1-b05e-fd3090ee1c79",
+        "slug": "starter-deck-the-seven-warlords-of-the-sea",
+        "name": "Starter Deck - The Seven Warlords of the Sea",
+        "set_code": "ST03",
+        "released_at": "2022-12-02T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-007/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-007/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/288275/one-piece-card-game-starter-deck-3-the-seven-warlords-of-the-sea-sentomaru",
+        "market_price": "0.21",
+        "low_price": "0.05",
+        "mid_price": "0.25",
+        "high_price": "3.00"
+      }
+    },
+    {
+      "index": 1,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "2e1565ca-bc2d-496f-9351-f8564733b018",
+        "slug": "tournament-pack-vol-3",
+        "name": "Tournament Pack Vol.3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-007/en/stock/1/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-007/en/stock/1/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/497004/one-piece-card-game-one-piece-promotion-cards-sentomaru-tournament-pack-vol-3-winner",
+        "market_price": "4.89",
+        "low_price": "4.00",
+        "mid_price": "5.30",
+        "high_price": "49.99"
+      }
+    },
+    {
+      "index": 2,
+      "name": null,
+      "label": "Alternate Art",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "511c8dcb-c637-4f2e-8437-d37702b676b3",
+        "slug": "bandai-card-games-fest-23-24-edition",
+        "name": "Bandai Card Games Fest. 23-24 Edition",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST03-007/en/stock/2/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-007/en/stock/2/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/564254/one-piece-card-game-one-piece-promotion-cards-sentomaru-premium-card-collection-bandai-card-games-fest-23-24-edition",
+        "market_price": "2.75",
+        "low_price": "2.38",
+        "mid_price": "3.49",
+        "high_price": "53.60"
+      }
+    },
+    {
+      "index": 3,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e2a8af36-1a43-4584-a91f-83186efbc86d",
+        "slug": "tournament-pack-vol-3-2",
+        "name": "Tournament Pack Vol. 3",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/497003/one-piece-card-game-one-piece-promotion-cards-sentomaru-tournament-pack-vol-3-participant",
+        "market_price": "0.22",
+        "low_price": "0.10",
+        "mid_price": "0.29",
+        "high_price": "1.59"
+      }
+    },
+    {
+      "index": 4,
+      "name": null,
+      "label": "Promo",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "cb421112-71b5-4abd-8c36-0f1e4fd2ff35",
+        "slug": "cs-2023-celebration-pack",
+        "name": "CS 2023 Celebration Pack",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/525328/one-piece-card-game-one-piece-promotion-cards-sentomaru-cs-2023-celebration-pack",
+        "market_price": "10.88",
+        "low_price": "18.99",
+        "mid_price": "22.97",
+        "high_price": "99.99"
+      }
+    },
+    {
+      "index": 5,
+      "name": null,
+      "label": "Release Event",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "540bde0c-8c19-421b-bb1b-78c729c45bd7",
+        "slug": "st03-release-event",
+        "name": "ST03 Release Event",
+        "set_code": null,
+        "released_at": null
+      },
+      "images": {
+        "stock": {
+          "full": null,
+          "thumb": null
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST03-007/en/scans/5/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST03-007/en/scans/5/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST03-007/en/scans/5/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/420908/one-piece-card-game-super-pre-release-starter-deck-3-the-seven-warlords-of-the-sea-sentomaru",
+        "market_price": "0.65",
+        "low_price": "0.30",
+        "mid_price": "1.00",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "Can I activate this effect even if I have no [Pacifista] cards in my deck?",
+      "answer": "Yes, you can. After looking at your deck, proceed to shuffling your deck without playing any cards.",
+      "updated_on": "2024-04-05"
+    }
+  ]
+}

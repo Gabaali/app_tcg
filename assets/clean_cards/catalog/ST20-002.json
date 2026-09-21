@@ -1,0 +1,85 @@
+{
+  "card_number": "ST20-002",
+  "name": "Charlotte Cracker",
+  "language": "en",
+  "set": "ST20",
+  "set_name": "Starter Deck - Yellow Charlotte Katakuri",
+  "released_at": "2024-10-25T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 4,
+  "power": 5000,
+  "counter": 1000,
+  "life": null,
+  "attribute": [
+    "Slash"
+  ],
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[Once Per Turn] If this Character would be K.O.'d by an effect, you may trash 1 card from the top of your Life cards instead.",
+  "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+  "block": "3",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "a2526a93-4cba-45d0-820a-428bacbd275c",
+        "slug": "starter-deck-yellow-charlotte-katakuri",
+        "name": "Starter Deck - Yellow Charlotte Katakuri",
+        "set_code": "ST20",
+        "released_at": "2024-10-25T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST20-002/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST20-002/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/581062/one-piece-card-game-starter-deck-20-yellow-charlotte-katakuri-charlotte-cracker",
+        "market_price": "0.14",
+        "low_price": "0.03",
+        "mid_price": "0.22",
+        "high_price": "3.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "fr",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If I have no Life cards when this Character would be K.O.'d by an effect, can I still prevent this Character from being K.O.'d instead?",
+      "answer": "No, you cannot.",
+      "updated_on": "2024-10-11"
+    }
+  ]
+}

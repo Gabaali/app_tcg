@@ -1,0 +1,85 @@
+{
+  "card_number": "ST05-011",
+  "name": "Douglas Bullet",
+  "language": "en",
+  "set": "ST05",
+  "set_name": "Starter Deck - One Piece Film Edition",
+  "released_at": "2023-02-03T00:00:00.000Z",
+  "released": true,
+  "card_type": "Character",
+  "rarity": "SR",
+  "color": [
+    "Purple"
+  ],
+  "cost": 8,
+  "power": 10000,
+  "counter": null,
+  "life": null,
+  "attribute": [
+    "Special"
+  ],
+  "types": [
+    "FILM",
+    "The Pirates Fest"
+  ],
+  "effect": "[Activate: Main] [Once Per Turn] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 2 of your opponent's Characters with a cost of 6 or less. Then, this Character gains [Double Attack] during this turn.\n(This card deals 2 damage.)",
+  "trigger": null,
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "4794458e-0d8a-435d-931b-86fab87b94b4",
+        "slug": "starter-deck-one-piece-film-edition",
+        "name": "Starter Deck - One Piece Film Edition",
+        "set_code": "ST05",
+        "released_at": "2023-02-03T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST05-011/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST05-011/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": null,
+          "full": null,
+          "thumb": null
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/477324/one-piece-card-game-starter-deck-5-film-edition-douglas-bullet",
+        "market_price": "0.74",
+        "low_price": "0.50",
+        "mid_price": "1.00",
+        "high_price": "50.00"
+      }
+    }
+  ],
+  "legality": {
+    "Extra Regulation": {
+      "status": "legal"
+    },
+    "Standard": {
+      "status": "not_legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": [
+    {
+      "question": "If my opponent has no Characters on their field, can this Character gain [Double Attack] according to this [Activate: Main] effect?",
+      "answer": "Yes, it can.",
+      "updated_on": "2023-01-27"
+    }
+  ]
+}

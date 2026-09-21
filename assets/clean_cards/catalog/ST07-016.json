@@ -1,0 +1,76 @@
+{
+  "card_number": "ST07-016",
+  "name": "Power Mochi",
+  "language": "en",
+  "set": "ST07",
+  "set_name": "Starter Deck - Big Mom Pirates",
+  "released_at": "2023-06-30T00:00:00.000Z",
+  "released": true,
+  "card_type": "Event",
+  "rarity": "C",
+  "color": [
+    "Yellow"
+  ],
+  "cost": 1,
+  "power": null,
+  "counter": null,
+  "life": null,
+  "attribute": null,
+  "types": [
+    "Big Mom Pirates"
+  ],
+  "effect": "[Counter] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+  "trigger": "[Trigger] Draw 1 card, look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
+  "block": "1",
+  "variants": [
+    {
+      "index": 0,
+      "name": null,
+      "label": "Standard",
+      "artist": null,
+      "crop_focus": {
+        "x": null,
+        "y": null
+      },
+      "product": {
+        "id": "e0c4a683-ff73-473f-9889-f62f2eedf5d4",
+        "slug": "starter-deck-big-mom-pirates",
+        "name": "Starter Deck - Big Mom Pirates",
+        "set_code": "ST07",
+        "released_at": "2023-06-30T00:00:00.000Z"
+      },
+      "images": {
+        "stock": {
+          "full": "https://cdn.poneglyph.one/images/ST07-016/en/stock/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-016/en/stock/0/thumb.webp"
+        },
+        "scan": {
+          "display": "https://cdn.poneglyph.one/images/ST07-016/en/scans/0/display.webp",
+          "full": "https://cdn.poneglyph.one/images/ST07-016/en/scans/0/full.png",
+          "thumb": "https://cdn.poneglyph.one/images/ST07-016/en/scans/0/thumb.webp"
+        }
+      },
+      "errata": [],
+      "market": {
+        "tcgplayer_url": "https://www.tcgplayer.com/product/500153/one-piece-card-game-starter-deck-7-big-mom-pirates-power-mochi",
+        "market_price": "0.22",
+        "low_price": "0.10",
+        "mid_price": "0.25",
+        "high_price": "10.00"
+      }
+    }
+  ],
+  "legality": {
+    "Standard": {
+      "status": "not_legal"
+    },
+    "Extra Regulation": {
+      "status": "legal"
+    }
+  },
+  "available_languages": [
+    "en",
+    "ja"
+  ],
+  "official_faq": []
+}
